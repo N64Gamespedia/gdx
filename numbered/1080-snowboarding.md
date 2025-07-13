@@ -38,9 +38,9 @@ It was also available via the **Nintendo Gateway System**, a LodgeNet partnershi
 
 ---
 
-## ▶️ Video Playthrough
+## ▶️ Video Playthroughby by [N64 Archive](https://www.youtube.com/channel/UC1fUDTXUTKjpk_j7leAhAyw){:target="_blank" rel="noopener noreferrer"}*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8I57nWg9Wy8" title="1080° Snowboarding - N64 Archive" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-J_SvvN_Fpi2DVS" title="1080° Snowboarding - N64 Archive" frameborder="0" allowfullscreen></iframe>
 
-*Video by [N64 Archive](https://www.youtube.com/channel/UC1fUDTXUTKjpk_j7leAhAyw){:target="_blank" rel="noopener noreferrer"}*
+
 
