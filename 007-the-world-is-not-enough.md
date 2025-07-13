@@ -1,6 +1,7 @@
 ---
 title: "007: The World Is Not Enough"
-nav_order: 3
+nav_order: 1
+parent: "0–9 – Numbered title games"
 ---
 
 # 007: The World Is Not Enough

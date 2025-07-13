@@ -1,6 +1,7 @@
 ---
-title: "007: The World Is Not Enough (U) (Prototype – 2020 release)"
-nav_order: 4
+title: "007: The World Is Not Enough (Prototype 2020)"
+nav_order: 2
+parent: "0–9 – Numbered title games"
 ---
 
 # 007: The World Is Not Enough (U) (Prototype – 2020 release
