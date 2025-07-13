@@ -14,11 +14,11 @@ Explore all N64 titles starting with numbers, including 007: TWINE to 64 Trump C
 |---|---|
 | [007: The World Is Not Enough](007-the-world-is-not-enough) | [007: The World Is Not Enough (Prototype 2020)](007-twine-prototype-2020) |
 
-| <a href="1080-snowboarding"><img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/1080_Snowboarding_Coverart1.png" width="320" height="240" alt="1080 Snowboarding"/></a> | <a href="40-winks"><img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/40_Winks_Coverart1.png" width="320" height="240" alt="40 Winks"/></a> |
+| <a href="1080-snowboarding"><img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/1080_Snowboarding_Coverart1.png" width="320" height="240" alt="1080° Snowboarding"/></a> | <a href="40-winks"><img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/40_Winks_Coverart1.png" width="320" height="240" alt="40 Winks"/></a> |
 |---|---|
 | [1080° Snowboarding](1080-snowboarding) | [40 Winks](40-winks) |
 
-| <a href="64-de-hakken-tamagotchi"><img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/64_de_Hakken_Tamagotchi_Coverart1.png" width="320" height="240" alt="64 Tamagotchi"/></a> | <a href="64-hanafuda"><img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/64_Hanafuda_Coverart1.png" width="320" height="240" alt="64 Hanafuda"/></a> |
+| <a href="64-de-hakken-tamagotchi"><img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/64_de_Hakken_Tamagotchi_Coverart1.png" width="320" height="240" alt="64 de Hakken!! Tamagotchi"/></a> | <a href="64-hanafuda"><img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/64_Hanafuda_Coverart1.png" width="320" height="240" alt="64 Hanafuda"/></a> |
 |---|---|
 | [64 de Hakken!! Tamagotchi: Minna de Tamagotchi World](64-de-hakken-tamagotchi) | [64 Hanafuda: Tenshi no Yakusoku](64-hanafuda) |
 
