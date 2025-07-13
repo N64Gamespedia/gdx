@@ -4,11 +4,8 @@ nav_order: 1
 parent: "Numbered Title Games"
 ---
 
-![Cover Art](https://www.n64gamespedia.com/wp-content/uploads/2024/01/The_World_Is_Not_Enough_Coverart1.png)
-
-Explore this action-packed Bond adventure as you infiltrate secret bases and rescue hostages — shaken, not stirred.
-
 # 007: The World Is Not Enough
+
 <b>
 
 ![Cover Art](https://www.n64gamespedia.com/wp-content/uploads/2024/01/The_World_Is_Not_Enough_Coverart1.png)

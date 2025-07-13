@@ -4,10 +4,6 @@ nav_order: 2
 parent: "Numbered Title Games"
 ---
 
-![Cover Art](https://www.project64-legacy.com/data/uploads/RDX/TWINE_%28Prototype_2020_Release%29.png)
-
-Explore this action-packed Bond adventure as you infiltrate secret bases and rescue hostages — shaken, not stirred.
-
 # 007: The World Is Not Enough (U) (Prototype – 2020 release
 <b>
 
