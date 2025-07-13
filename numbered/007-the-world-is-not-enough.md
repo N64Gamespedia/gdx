@@ -7,7 +7,7 @@ toc: false
 ---
 
 # 007: The World Is Not Enough
-
+<b>
 <img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/The_World_Is_Not_Enough_Coverart1.png" alt="007: The World Is Not Enough Box Art" width="320" height="240" />
 
 **Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
@@ -21,7 +21,7 @@ toc: false
 ---
 
 ## 🕹️ Game Description
-
+<b>
 _**The World Is Not Enough**_ is a first-person shooter developed by [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"} and based on the 1999 James Bond film. Published by [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}, it debuted on the Nintendo 64 in October 2000.
 
 Players assume the role of MI6 agent James Bond on a mission to prevent a terrorist-triggered nuclear disaster in Istanbul. The game features a story-driven campaign and a split-screen multiplayer mode supporting up to four players in deathmatch and objective-based scenarios.
