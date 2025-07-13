@@ -2,5 +2,5 @@ remote_theme: just-the-docs/just-the-docs
 markdown: kramdown
 
 just_the_docs:
-  logo: "/assets/images/GP_Icon.png"
+  logo: "/assets/images/gp_icon.png"
   nav_enabled: true
