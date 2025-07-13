@@ -4,6 +4,7 @@ nav_order: 1
 ---
 
 # Welcome to N64Gamespedia Github Version
+
 <br>
 <br>
 
@@ -11,7 +12,7 @@ nav_order: 1
 
 Welcome to the  N64Gamespedia Github version of the Online GDX (Game Database eXtra).
 
-Use the navigation pane to derict you to your desired entry!
+Explore classic N64 titles using the sidebar. 🎮
 
 <br>
 
