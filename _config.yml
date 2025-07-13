@@ -3,5 +3,5 @@ has_toc: false
 markdown: kramdown
 
 just_the_docs:
-  logo: "/assets/images/gp_icon.png"
+  logo: "/assets/images/gp_icon.jpg"
   nav_enabled: true
