@@ -1,7 +1,7 @@
 ---
 title: "007: The World Is Not Enough"
 nav_order: 1
-parent: "Zero-Nine – Numbered title games"
+parent: "Numbered Title Games"
 ---
 
 # 007: The World Is Not Enough

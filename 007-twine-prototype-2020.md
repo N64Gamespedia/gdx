@@ -1,7 +1,7 @@
 ---
 title: "007: The World Is Not Enough (Prototype 2020)"
 nav_order: 2
-parent: "Zero-Nine – Numbered title games"
+parent: "Numbered Title Games"
 ---
 
 # 007: The World Is Not Enough (U) (Prototype – 2020 release
