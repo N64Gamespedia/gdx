@@ -9,10 +9,8 @@ nav_order: 4
 
 ![](https://www.project64-legacy.com/data/uploads/RDX/TWINE_%28Prototype_2020_Release%29.png)
 
-
-Developer:  [](https://en.wikipedia.org/wiki/Eurocom "Eurocom")  [Eurocom](https://en.wikipedia.org/wiki/Eurocom "Eurocom")
-
-Publisher:  [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts)
+**Developer:** <a href="https://en.wikipedia.org/wiki/Eurocom" target="_blank" rel="noopener">Eurocom</a>  
+**Publisher:** <a href="https://en.wikipedia.org/wiki/Electronic_Arts" target="_blank" rel="noopener">Electronic Arts</a>
 
 NTSC (USA) Scene Release Date:  September 22, 2020  (Prototype 2020 - Togemet2) 
 
