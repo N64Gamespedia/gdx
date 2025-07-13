@@ -10,7 +10,7 @@ has_toc: false
 
 Explore all N64 titles starting with numbers, including 007 TWINE to 64 Trump Collection: Alice no Waku Waku Trump World.
 
-| [![007: The World Is Not Enough](https://www.n64gamespedia.com/wp-content/uploads/2024/01/The_World_Is_Not_Enough_Coverart1.png)](007-the-world-is-not-enough) | [![007-twine-prototype-2020)](https://www.project64-legacy.com/data/uploads/RDX/TWINE_%28Prototype_2020_Release%29.png)](007-the-world-is-not-enough-prototype-2020) |
+| [![007: The World Is Not Enough](https://www.n64gamespedia.com/wp-content/uploads/2024/01/The_World_Is_Not_Enough_Coverart1.png)](007-the-world-is-not-enough) | [![007-twine-prototype-2020)](https://www.project64-legacy.com/data/uploads/RDX/TWINE_%28Prototype_2020_Release%29.png)](007-twine-prototype-2020) |
 |---|---|
 | [007: The World Is Not Enough](007-the-world-is-not-enough) | [007: The World Is Not Enough (Prototype 2020)](007-twine-prototype-2020) |
 
