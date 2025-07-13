@@ -58,35 +58,35 @@ Explore classic N64 titles using the sidebar. 🎮
 - [Body Harvest]()
 - [Bomberman 64]()
 - [Baku Bomberman]()
-- [Baku Bomberman 2
-- [Bakuretsu Muteki Bangai-O
-- [Bakusho Jinsei 64: Mezase! Resort-O
-- [Banjo-Kazooie / Banjo to Kazooie no Daiboken
-- [Banjo-Tooie / Banjo to Kazooie no Daiboken 2
-- [Bass Hunter 64 / In-Fisherman Bass Hunter 64
-- [Bass Masters 2000
-- [Bass Rush: ECOGEAR Powerworm Championship
-- [Batman Beyond / Batman of the Future: Return of the Joker
-- [BattleTanx
-- [BattleTanx: Global Assault
-- [Battlezone: Rise of the Black Dogs
-- [Beetle Adventure Racing
-- [Big Mountain 2000 / Snow Speeder
-- [Bio F.R.E.A.K.S.
-- [Bio Hazard 2
-- [Blast Corps / Blast Dozer
-- [Blues Brothers 2000
-- [Body Harvest
-- [Bokujō Monogatari 2
-- [Bomberman 64: Arcade Edition 2001
-- [Bomberman 64
-- [Bomberman 64: The Second Attack
-- [Bomberman Hero / Bomberman Hero – Mirian Oujo wo Sukue!
-- [Bottom of the 9th
-- [Brunswick Circuit Pro Bowling
-- [Buck Bumble
-- [Bust-A-Move ’99 / Bust-A-Move 3 DX / Puzzle Bobble 64
-- [Bust-A-Move 2 Arcade Edition
+- [Baku Bomberman 2]()
+- [Bakuretsu Muteki Bangai-O]()
+- [Bakusho Jinsei 64: Mezase! Resort-O]()
+- [Banjo-Kazooie / Banjo to Kazooie no Daiboken]()
+- [Banjo-Tooie / Banjo to Kazooie no Daiboken 2]()
+- [Bass Hunter 64 / In-Fisherman Bass Hunter 64]()
+- [Bass Masters 2000]()
+- [Bass Rush: ECOGEAR Powerworm Championship]()
+- [Batman Beyond / Batman of the Future: Return of the Joker]()
+- [BattleTanx]()
+- [BattleTanx: Global Assault]()
+- [Battlezone: Rise of the Black Dogs]()
+- [Beetle Adventure Racing]()
+- [Big Mountain 2000 / Snow Speeder]()
+- [Bio F.R.E.A.K.S.]()
+- [Bio Hazard 2]()
+- [Blast Corps / Blast Dozer]()
+- [Blues Brothers 2000]()
+- [Body Harvest]()
+- [Bokujō Monogatari 2]()
+- [Bomberman 64: Arcade Edition 2001]()
+- [Bomberman 64]()
+- [Bomberman 64: The Second Attack]()
+- [Bomberman Hero / Bomberman Hero – Mirian Oujo wo Sukue!]()
+- [Bottom of the 9th]()
+- [Brunswick Circuit Pro Bowling]()
+- [Buck Bumble]()
+- [Bust-A-Move ’99 / Bust-A-Move 3 DX / Puzzle Bobble 64]()
+- [Bust-A-Move 2 Arcade Edition]()
 
 ## C
 - [Castlevania]()
