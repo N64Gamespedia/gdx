@@ -44,7 +44,7 @@ Despite its rocky release history, *40 Winks* gained retro admiration as one of 
 
 ---
 
-## ▶️ Video Playthrough (35 Parts) by [Christian MJ](https://www.youtube.com/channel/UC3C1b82ZVFwfQ9QKYREZrmg){:target="_blank" rel="noopener noreferrer"}*
+## ▶️ Video Playthrough (35 Parts) by [Christian MJ](https://www.youtube.com/channel/UC3C1b82ZVFwfQ9QKYREZrmg){:target="_blank" rel="noopener noreferrer"}
 <b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GMH_skgb5aw?si=1VBxsCdJxw15OYFG" title="40 Winks Playthrough by Christian MJ" frameborder="0" allowfullscreen></iframe>
 
