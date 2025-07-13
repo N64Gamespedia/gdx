@@ -29,6 +29,8 @@ toc: false
   and released on October 17, 2000 for the Nintendo 64. The game features a single-player campaign in which players assume the role of MI6 agent James Bond as he fights to stop a terrorist from triggering a nuclear meltdown in the waters of Istanbul. It also includes a split-screen multiplayer mode where up to four players can compete in various deathmatch and objective-based games.
 </p>
 
+[**Game Guide / Walkthrough**](https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs/37816) 
+
 ### 🎮 Video Playthrough by <a href="https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ" target="_blank" rel="noreferrer noopener"><strong>LongplayArchive</strong>
 <b>
 
