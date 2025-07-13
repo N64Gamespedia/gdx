@@ -1,6 +1,0 @@
-remote_theme: just-the-docs/just-the-docs
-markdown: kramdown
-
-just_the_docs:
-  logo: "/assets/images/GP_Icon.png"
-  nav_enabled: true
