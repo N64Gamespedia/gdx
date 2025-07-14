@@ -1,4 +1,3 @@
-
 ---
 title: "A Bug's Life"
 nav_order: 1
