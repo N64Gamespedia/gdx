@@ -8,7 +8,8 @@ toc: false
 
 # A Bug's Life
 <b>
-<img src="https://vignette.wikia.nocookie.net/nintendo/images/3/3f/A_Bug's_Life_(NA).jpg/revision/latest/scale-to-width-down/310?cb=20090507014243&path-prefix=en" alt="A Bug's Life Box Art" width="320" height="224" />
+<div style="display: flex; justify-content: center; gap: 10px;">
+<img src="https://vignette.wikia.nocookie.net/nintendo/images/3/3f/A_Bug's_Life_(NA).jpg/revision/latest/scale-to-width-down/310?cb=20090507014243&path-prefix=en" alt="A Bug's Life Box Art" width="320" height="224" /></div>
 
 **Developer:** [Traveller's Tales](https://en.wikipedia.org/wiki/Traveller's_Tales){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Activision](https://en.wikipedia.org/wiki/Activision){:target="_blank" rel="noopener noreferrer"}
