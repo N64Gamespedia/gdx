@@ -1,5 +1,5 @@
 ---
-title: "A Titles"
+title: "A-Titles"
 nav_order: 4
 has_children: true
 layout: default
