@@ -9,8 +9,7 @@ toc: false
 # Aerogauge
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a1/AeroFightersAssaultCover.jpg" alt="Aerogauge NA Box Art" width="320" height="224" />
-  <img src="https://images.launchbox-app.com/2da58ddb-1b50-4121-a286-206b4349537d.png" alt="Aerogauge Alt Box Art" width="320" height="224" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/36/AeroGauge_Coverart.png" alt="Aerogauge NA Box Art" width="320" height="224" />
 </div>
 
 **Developer:** [Locomotive Co. Ltd.](https://en.wikipedia.org/wiki/AeroGauge){:target="_blank" rel="noopener noreferrer"}  
