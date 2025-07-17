@@ -14,7 +14,7 @@ Explore all N64 titles starting with the letter A, from *A Bug’s Life* to *Aut
 |---|---|
 | [A Bug’s Life](a/a-bugs-life) | [Aero Fighters Assault](a/aero-fighters-assault) |
 
-| <a href="a/aerogauge"><img src="https://upload.wikimedia.org/wikipedia/en/2/2f/Aerogauge_cover.jpg" width="320" height="240" alt="Aerogauge"/></a> | <a href="a/ai-shogi-3"><img src="https://images.launchbox-app.com/a9743204-e4b1-4c39-8a2b-24ae367c9a32.png" width="320" height="240" alt="AI Shogi 3"/></a> |
+| <a href="a/aerogauge"><img src="https://upload.wikimedia.org/wikipedia/en/3/36/AeroGauge_Coverart.png" width="320" height="240" alt="Aerogauge"/></a> | <a href="a/ai-shogi-3"><img src="https://images.launchbox-app.com/a9743204-e4b1-4c39-8a2b-24ae367c9a32.png" width="320" height="240" alt="AI Shogi 3"/></a> |
 |---|---|
 | [AeroGauge](a/aerogauge) | [AI Shogi 3](a/ai-shogi-3) |
 
