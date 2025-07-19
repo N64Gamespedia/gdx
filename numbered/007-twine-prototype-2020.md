@@ -6,41 +6,25 @@ layout: default
 toc: false
 ---
 
-# 007: The World Is Not Enough (Prototype 2020)
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-The-World-Is-Not-Enough-(Prototype-2020).png" alt="007: The World Is Not Enough (Prototype 2020) Box Art" width="320" height="240" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/world-is-not-enough-prototype2020.png" alt="007: The World Is Not Enough (Prototype 2020)" width="320" height="224" />
+</b>
 
 **Platform:** Nintendo 64  
-**Developer:** Eurocom  
-**Publisher:** Electronic Arts (Prototype Build)  
-
-**Prototype Build Version:** VER. 2.00  
-**Dump Release Date:** September 22, 2020  
-**Dumped by:** togemet2  
-**Released by:** Forest of Illusion  
-**Boot Passcode:** Left, Left, Right, Right, Left  
-**Genre:** First-Person Shooter / Debug Build  
-**Players:** 1  
+**Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
+**Publisher:** [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}  
+**Scene Release Date (NTSC-USA):** September 22, 2020 (Prototype – Togemet2)  
+**Genre:** Action / First-Person Shooter  
+**Players:** 1–4  
 **Force Feedback:** Yes
 
----
+## 🕹️ Game Description  
+<em><strong>The World Is Not Enough (U) (Prototype 2020)</strong></em> is a first-person shooter video game developed by [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"} for the Nintendo 64 and based on the 1999 *James Bond* film of the same name. It was published by [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"} and scene released on September 22, 2020 by Togemet2. This early development build is notably unfinished, with numerous bugs and differences from the final retail version. As showcased in the video below, it diverges significantly from the 2000 release of [007: The World Is Not Enough](https://www.project64.emulation64.com/index.php?id=007-the-world-is-not-enough){:target="_blank" rel="noopener noreferrer"}.
 
-## 🧪 Prototype Description
-<b>
-This unreleased build of _**007: The World Is Not Enough**_ was discovered on a development cartridge and released by Forest of Illusion. It features placeholder assets, invisible weapons, altered menus, and debug features not present in the retail version.
+**No Game Guide / Walkthrough**  
+**Video Playthrough by [Graslu00](https://www.youtube.com/channel/UCGInMxYIVrl23nLjDAIMknw){:target="_blank" rel="noopener noreferrer"}**
 
-The prototype offers insight into the development process, showcasing early mission layouts, incomplete textures, and experimental mechanics. It runs on a modified Quake II engine and includes a boot passcode to access the game.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKCLPw-OQJ0" title="007: The World Is Not Enough (U) (Prototype – 2020 release) - Graslu00" frameborder="0" allowfullscreen></iframe>
 
----
-
-## 🔗 External Provenance
-<b>
-- [Hidden Palace – Prototype Overview](https://hiddenpalace.org/007:_The_World_is_Not_Enough_%28Prototype%29_%282020_release%29){:target="_blank" rel="noopener noreferrer"}  
-- [Archive.org – Dev Cart Dump](https://archive.org/details/dev-twine.-7z){:target="_blank" rel="noopener noreferrer"}
-
----
-
-## ▶️ Video Sample (if available)
-<b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FpS3_D5adn0" title="007: The World Is Not Enough – Prototype Gameplay Sample" frameborder="0" allowfullscreen></iframe>
-</b>
+<!-- Vault Format: n64gamespedia-dev -->
+<!-- Protocol Source: _vault-specs/format-protocol.md -->

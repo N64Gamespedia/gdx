@@ -6,38 +6,30 @@ layout: default
 toc: false
 ---
 
-# 1080° Snowboarding
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/1080-Snowboarding-USA.png alt="1080° Snowboarding Box Art" width="320" height="240" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/1080-snowboarding.png" alt="1080° Snowboarding" width="320" height="224" />
+</b>
 
 **Platform:** Nintendo 64  
-**Developer:** Nintendo EAD  
-**Publisher:** Nintendo
-
-**JP Release Date:** February 22, 1998  
-**NA Release Date:** April 1, 1998  
-**PAL Release Date:** November 6, 1998  
-**Genre:** Snowboarding / Racing  
+**Developer:** [Nintendo EAD](https://en.wikipedia.org/wiki/Nintendo_Entertainment_Analysis_and_Development){:target="_blank" rel="noopener noreferrer"}  
+**Publisher:** [Nintendo](https://en.wikipedia.org/wiki/Nintendo){:target="_blank" rel="noopener noreferrer"}  
+**Release Date (NTSC-JP):** February 28, 1998  
+**Release Date (NTSC-USA):** April 1, 1998  
+**Release Date (PAL-EUR):** October 9, 1998  
+**Gateway Variant:** 1080 Snowboarding (LodgeNet) – 1-player only  
+**Genre:** Sports / Snowboarding  
 **Players:** 1–2  
-**Game Language:** English / Japanese  
 **Force Feedback:** Yes
 
----
+## 🕹️ Game Description  
+<em><strong>1080° Snowboarding</strong></em> is a snowboard racing game developed by [Nintendo EAD](https://en.wikipedia.org/wiki/Nintendo_Entertainment_Analysis_and_Development){:target="_blank" rel="noopener noreferrer"} and published by [Nintendo](https://en.wikipedia.org/wiki/Nintendo){:target="_blank" rel="noopener noreferrer"}. It was released on the Nintendo 64 in 1998. Players control one of five snowboarders from a third-person perspective, using a combination of buttons to jump and perform tricks over eight levels.
 
-## 🕹️ Game Description
-<b>
-_**1080° Snowboarding**_ is a high-speed snowboarding simulation developed by Nintendo EAD, praised for its realistic physics, responsive controls, and challenging trick system. Players choose from a roster of snowboarders and boards, each with unique stats, and race down six mountain courses while performing aerial stunts and navigating treacherous terrain.
+This game was also available through the **Nintendo Gateway System**, customized for airlines and hotel rooms via LodgeNet. The modified build streamed gameplay over phone lines through a LodgeNet controller connected to the hotel TV. Sessions were limited to 1-player and timed for hourly payment. This partnership brought Nintendo 64 gameplay to thousands of rooms across North America from the late 1990s through early 2000s.
 
-The game features multiple modes including Match Race, Time Attack, Trick Attack, Contest, and 2P VS. Its namesake trick — the 1080° spin — is notoriously difficult to land, requiring precise timing and input combinations. With dynamic weather effects, authentic sound design, and a steep learning curve, *1080° Snowboarding* remains one of the most technically impressive sports titles on the N64.
+**[Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196500-1080-teneighty-snowboarding/faqs/13645){:target="_blank" rel="noopener noreferrer"}**  
+**Video Playthrough by [N64 Archive](https://www.youtube.com/channel/UC1fUDTXUTKjpk_j7leAhAyw){:target="_blank" rel="noopener noreferrer"}**
 
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qdi0XKVOUlE" title="1080° Snowboarding – Gateway Edition - N64 Archive" frameborder="0" allowfullscreen></iframe>
 
-## 📚 Game Guide / Walkthrough
-<b>
-A comprehensive FAQ and trick guide is available on [GameFAQs](https://gamefaqs.gamespot.com/n64/196500-1080-teneighty-snowboarding/faqs/3131){:target="_blank" rel="noopener noreferrer}, detailing rider stats, board selection, course strategies, and how to master the elusive 1080° spin.
-
----
-
-## ▶️ Video Gameplay Sample by [NintendoComplete](https://www.youtube.com/@NintendoComplete){:target="_blank" rel="noopener noreferrer"}
-<b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1g2XvXkzZzI" title="1080° Snowboarding (N64) Longplay - NintendoComplete" frameborder="0" allowfullscreen></iframe>
+<!-- Vault Format: n64gamespedia-dev -->
+<!-- Protocol Source: _vault-specs/format-protocol.md -->
