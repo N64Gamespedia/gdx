@@ -8,7 +8,7 @@ toc: false
 
 # 007: The World Is Not Enough
 <b>
-<img src="https://images.launchbox-app.com/98ec9344-62c0-4a81-a073-0ec115a93dfd.jpg" alt="007: The World Is Not Enough Box Art" width="320" height="240" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-The-World-Is-Not-Enough-(USA).png" alt="007: The World Is Not Enough Box Art" width="320" height="240" />
 
 **Platform:** Nintendo 64  
 **Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
