@@ -6,36 +6,26 @@ layout: default
 toc: false
 ---
 
-# 64 Ōzumō (64大相撲)
+# 64 Ōzumō
 <b>
-<img src="https://images.launchbox-app.com/6270c5df-1462-4d8a-92bc-5967c2ec901c.png" alt="64 Ōzumō Cover Art" width="320" height="240" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/64-ozumo.png" alt="64 Ōzumō" width="320" height="224" />
+</b>
 
-**Developer:** [Bottom Up](https://en.wikipedia.org/w/index.php?title=Bottom_Up_(company)&action=edit&redlink=1){:target="_blank" rel="noopener noreferrer"}  
-**Publisher:** [Bottom Up](https://en.wikipedia.org/w/index.php?title=Bottom_Up_(company)&action=edit&redlink=1){:target="_blank" rel="noopener noreferrer"}
-
-**NTSC (JP) Release Date:** November 28th, 1997  
+**Platform:** Nintendo 64  
+**Developer:** [Bottom Up](https://en-academic.com/dic.nsf/enwiki/3227018){:target="_blank" rel="noopener noreferrer"}  
+**Publisher:** [Bottom Up](https://en-academic.com/dic.nsf/enwiki/3227018){:target="_blank" rel="noopener noreferrer"}  
+**Release Date (NTSC-JP):** November 28, 1997  
 **Genre:** Sports / Wrestling / Sumo  
 **Players:** 1–4  
 **Force Feedback:** Yes
 
----
+## 🕹️ Game Description  
+<em><strong>64 Ōzumō</strong></em> (64大相撲, <em>Rokujūyon Ōzumō</em>, lit. <em>64 Professional Sumo Wrestling</em>) is a sumo wrestling game for the Nintendo 64, released exclusively in Japan in 1997. The gameplay simulates various aspects of a sumo wrestler's life, including diet, training, and tournament progression. The game is entirely in Japanese.
 
-## 🕹️ Game Description
-<b>
-_**64 Ōzumō**_ (_64大相撲_, lit. “64 Professional Sumo Wrestling”) is a Japan-exclusive simulation of sumo wrestling released in 1997 for the Nintendo 64. Developed and published by Bottom Up, the game immerses players in the culture and sport of Japanese sumo through stylized visuals and rich simulation elements.
+**No Game Guide / Walkthrough Available**  
+**Video Gameplay Sample by [Game Archive – No Commentary Gameplay](https://www.youtube.com/channel/UCsqOoOg7VbHJmw8jQ75odkg){:target="_blank" rel="noopener noreferrer"}**
 
-Unlike arcade-style wrestling games, this one features in-depth mechanics like wrestler training, dietary routines, and career progression. With all in-game text in Japanese, it offers an authentic experience but poses a challenge to non-Japanese speakers. Despite its niche appeal, it remains a curious entry for collectors and fans of traditional sports sims.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LEY4HrslVas?start=7" title="64 Ōzumō – Gameplay Sample" frameborder="0" allowfullscreen></iframe>
 
----
-
-## 📚 No Game Guide / Walkthrough Available
-
-Documentation is limited — no official guide known at this time.
-
----
-
-## ▶️ Video Gameplay Sample by [Game Archive – No Commentary Gameplay](https://www.youtube.com/channel/UCsqOoOg7VbHJmw8jQ75odkg){:target="_blank" rel="noopener noreferrer"}
-<b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LEY4HrslVas?start=7" title="64 Ōzumō Gameplay Sample - Game Archive" frameborder="0" allowfullscreen></iframe>
-
-<b>
+<!-- Vault Format: n64gamespedia-dev -->
+<!-- Protocol Source: _vault-specs/format-protocol.md -->
