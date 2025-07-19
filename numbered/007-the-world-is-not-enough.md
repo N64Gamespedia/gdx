@@ -1,3 +1,5 @@
+<!-- Vault Format: n64gamespedia-dev -->
+<!-- Protocol Source: _vault-specs/format-protocol.md -->
 ---
 title: "007: The World Is Not Enough"
 nav_order: 1
