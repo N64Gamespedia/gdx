@@ -15,9 +15,6 @@ toc: false
 **Publisher:** [Bandai](https://en.wikipedia.org/wiki/Bandai){:target="_blank" rel="noopener noreferrer"}
 
 **NTSC (Japan) Scene Release Date:** December 19, 1997  
-**PAL Release Date:** N/A  
-**Aftermarket Release:** N/A
-
 **Genre:** Strategy / Board Game  
 **Players:** 1–4  
 **Game Language:** Japanese  
