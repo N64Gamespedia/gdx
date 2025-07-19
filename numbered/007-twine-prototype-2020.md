@@ -6,6 +6,7 @@ layout: default
 toc: false
 ---
 
+# 007: The World Is Not Enough (Prototype 2020)
 <b>
 <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-world-is-not-enough-prototype2020.png" alt="007: The World Is Not Enough (Prototype 2020)" width="320" height="224" />
 </b>

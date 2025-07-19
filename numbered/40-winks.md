@@ -6,6 +6,7 @@ layout: default
 toc: false
 ---
 
+# 40 Winks
 <b>
 <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/40-winks.jpg" alt="40 Winks" width="330" height="224" />
 </b>
