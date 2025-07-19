@@ -7,35 +7,49 @@ toc: false
 ---
 
 # 007: The World Is Not Enough
-<b>
-<img src="https://images.launchbox-app.com/007-world-is-not-enough-n64-box.jpg" alt="007: The World Is Not Enough Box Art" width="320" height="240" />
 
-**Platform:** Nintendo 64  
-**Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
-**Publisher:** [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}
+<!-- wp:image {"width":"320px","className":"aligncenter"} -->
+<figure class="wp-block-image is-resized aligncenter">
+  <img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/The_World_Is_Not_Enough_Coverart1.png" alt="The World Is Not Enough Box Art" style="width:320px"/>
+</figure>
+<!-- /wp:image -->
 
-**NTSC (USA) Release Date:** October 17, 2000  
-**PAL (Europe) Release Date:** December 8, 2000
+<!-- wp:table {"hasFixedLayout":false,"className":"aligncenter"} -->
+<figure class="wp-block-table aligncenter">
+  <table>
+    <tbody>
+      <tr><td class="has-text-align-center" data-align="center">Platform: Nintendo 64</td></tr>
+      <tr><td class="has-text-align-center" data-align="center">Developer: <a href="https://en.wikipedia.org/wiki/Eurocom" target="_blank">Eurocom</a></td></tr>
+      <tr><td class="has-text-align-center" data-align="center">Publisher: <a href="https://en.wikipedia.org/wiki/Electronic_Arts" target="_blank">Electronic Arts</a></td></tr>
+      <tr><td class="has-text-align-center" data-align="center">Release Date (NTSC-USA): October 17, 2000</td></tr>
+      <tr><td class="has-text-align-center" data-align="center">Release Date (PAL-EUR): December 8, 2000</td></tr>
+      <tr><td class="has-text-align-center" data-align="center">Prototype Scene Release Date: October 2, 2017 (Paulweeze71)</td></tr>
+      <tr><td class="has-text-align-center" data-align="center">Genre: Action / First-Person Shooter</td></tr>
+      <tr><td class="has-text-align-center" data-align="center">Players: 1–4</td></tr>
+      <tr><td class="has-text-align-center" data-align="center">Force Feedback: Yes</td></tr>
+    </tbody>
+  </table>
+</figure>
+<!-- /wp:table -->
 
-**Genre:** First-Person Shooter / Action  
-**Players:** 1–4  
-**Game Language:** English, French, German  
-**Force Feedback:** Yes
+<!-- wp:paragraph -->
+<p><strong>Game Description:</strong></p>
+<!-- /wp:paragraph -->
 
----
+<!-- wp:paragraph -->
+<p><em><strong>The World Is Not Enough</strong></em> is a first-person shooter video game developed by <a href="https://en.wikipedia.org/wiki/Eurocom" target="_blank">Eurocom</a> and based on the 1999 <em>James Bond</em> film of the same name. It was published by <a href="https://en.wikipedia.org/wiki/Electronic_Arts" target="_blank">Electronic Arts</a> and released on October 17, 2000 for the Nintendo 64. The game features a single-player campaign in which players assume the role of MI6 agent James Bond as he fights to stop a terrorist from triggering a nuclear meltdown in the waters of Istanbul. It includes a split-screen multiplayer mode where up to four players can compete in different types of deathmatch and objective-based games.</p>
+<!-- /wp:paragraph -->
 
-## 🕹️ Game Description
-<b>
-_**007: The World Is Not Enough**_ is a cinematic first-person shooter based on the 1999 James Bond film. Players assume the role of Agent 007 across 14 missions, featuring stealth, gadgets, and high-stakes combat. Developed by [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}, the game includes a split-screen multiplayer mode and supports the Expansion Pak for enhanced visuals. Missions range from hostage rescues to underwater sabotage, with gadgets like the Keypad Decrypter and wristwatch laser adding spy flair.
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong><a href="https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs/37816" target="_blank">Game Guide / Walkthrough</a></strong></p>
+<!-- /wp:paragraph -->
 
-Praised for its smooth frame rate and level design, the game was considered a worthy successor to *GoldenEye 007*, though its AI and pacing drew mixed reviews.
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Video Playthrough by <a href="https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ" target="_blank">LongplayArchive</a></strong></p>
+<!-- /wp:paragraph -->
 
----
-
-## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs){:target="_blank" rel="noopener noreferrer"}
-
----
-
-## ▶️ Video Playthrough by [N64 Archive](https://www.youtube.com/@N64Archive){:target="_blank" rel="noopener noreferrer"}
-<b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vMsq-NLm-_s" title="007: The World Is Not Enough Longplay by N64 Archive" frameborder="0" allowfullscreen></iframe>
+<!-- wp:html -->
+<div style="text-align:center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ca1C-hDxAQA?si=6t30Vg26Sn3dt9-t" title="The World Is Not Enough Gameplay" frameborder="0" allowfullscreen></iframe>
+</div>
+<!-- /wp:html -->
