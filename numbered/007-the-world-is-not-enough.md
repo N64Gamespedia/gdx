@@ -8,34 +8,36 @@ toc: false
 
 # 007: The World Is Not Enough
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-The-World-Is-Not-Enough-(USA).png" alt="007: The World Is Not Enough (JP) Box Art" width="320" height="240" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-The-World-Is-Not-Enough-(USA).png" alt="The World Is Not Enough Box Art" width="320" height="240" />
+</b>
 
 **Platform:** Nintendo 64  
 **Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
-**Publisher:** [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}
-
-**NTSC (Japan) Scene Release Date:** December 14, 2000  
-**Genre:** First-Person Shooter / Action  
-**Players:** 1  
+**Publisher:** [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}  
+**Release Date (NTSC-USA):** October 17, 2000  
+**Release Date (PAL-EUR):** December 8, 2000  
+**Prototype Scene Release Date:** October 2, 2017 (Paulweeze71)  
+**Genre:** Action / First-Person Shooter  
+**Players:** 1–4  
 **Force Feedback:** Yes
 
 ---
 
 ## 🕹️ Game Description
 <b>
-_**007: The World Is Not Enough**_ is a first-person shooter based on the 1999 James Bond film of the same name. Developed by Eurocom and published by Electronic Arts, the game puts players in the role of Agent 007 through story-driven missions filled with espionage, gadgets, and fast-paced combat.
-
-With multiple weapons, stealth segments, and cinematic set pieces, the game aims to capture the style of Bond while offering variety in gameplay. Unlike its PlayStation counterpart, the N64 version runs on a modified version of the Quake II engine, allowing for smoother graphics and multiplayer deathmatch options.
-
----
-
-## 📚 Game Guide / Manual Translation
-<b>
-An English-language manual is available through [GameFAQs](https://gamefaqs.gamespot.com/n64/258004-007-the-world-is-not-enough/faqs){:target="_blank" rel="noopener noreferrer"} including mission briefings, gadget descriptions, and enemy intel.
+<em><strong>The World Is Not Enough</strong></em> is a first-person shooter video game developed by <a href="https://en.wikipedia.org/wiki/Eurocom" target="_blank">Eurocom</a> and based on the 1999 <em>James Bond</em> film of the same name. It was published by <a href="https://en.wikipedia.org/wiki/Electronic_Arts" target="_blank">Electronic Arts</a> and released on October 17, 2000 for the Nintendo 64. The game features a single-player campaign in which players assume the role of MI6 agent James Bond as he fights to stop a terrorist from triggering a nuclear meltdown in the waters of Istanbul. It includes a split-screen multiplayer mode where up to four players can compete in different types of deathmatch and objective-based games.
+</b>
 
 ---
 
-## ▶️ Video Gameplay Sample by [N64th Street](https://www.youtube.com/channel/UCiNQhAHcX6KiD0OvJtJ3kRQ){:target="_blank" rel="noopener noreferrer"}
+## 📚 Game Guide / Walkthrough
 <b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FpS3_D5adn0" title="007: The World Is Not Enough – Gameplay Sample" frameborder="0" allowfullscreen></iframe>
+<a href="https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs/37816" target="_blank" rel="noopener noreferrer">Game Guide / Walkthrough</a>
+</b>
+
+---
+
+## ▶️ Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
+<b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ca1C-hDxAQA?si=6t30Vg26Sn3dt9-t" title="The World Is Not Enough Gameplay" frameborder="0" allowfullscreen></iframe>
 </b>
