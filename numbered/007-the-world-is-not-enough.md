@@ -30,10 +30,7 @@ toc: false
 
 ---
 
-## 📚 Game Guide / Walkthrough
-<b>
-<a href="https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs/37816" target="_blank" rel="noopener noreferrer">Game Guide / Walkthrough</a>
-</b>
+## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs/37816){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
