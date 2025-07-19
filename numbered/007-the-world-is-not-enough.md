@@ -1,6 +1,6 @@
 ---
 title: "007: The World Is Not Enough"
-nav_order: 007
+nav_order: 002
 parent: "Numbered Title Games"
 layout: default
 toc: false

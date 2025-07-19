@@ -1,6 +1,6 @@
 ---
 title: "007: The World Is Not Enough (Prototype 2020)"
-nav_order: 007.1
+nav_order: 003
 parent: "Numbered Title Games"
 layout: default
 toc: false

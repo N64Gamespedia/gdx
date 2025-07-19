@@ -1,6 +1,6 @@
 ---
 title: "40 Winks"
-nav_order: 1
+nav_order: 001
 parent: "Numbered Title Games"
 layout: default
 toc: false
