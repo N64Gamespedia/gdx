@@ -14,23 +14,17 @@ toc: false
 </figure>
 <!-- /wp:image -->
 
-<!-- wp:table {"hasFixedLayout":false,"className":"aligncenter"} -->
-<figure class="wp-block-table aligncenter">
-  <table>
-    <tbody>
-      <tr><td class="has-text-align-center" data-align="center">Platform: Nintendo 64</td></tr>
-      <tr><td class="has-text-align-center" data-align="center">Developer: <a href="https://en.wikipedia.org/wiki/Eurocom" target="_blank">Eurocom</a></td></tr>
-      <tr><td class="has-text-align-center" data-align="center">Publisher: <a href="https://en.wikipedia.org/wiki/Electronic_Arts" target="_blank">Electronic Arts</a></td></tr>
-      <tr><td class="has-text-align-center" data-align="center">Release Date (NTSC-USA): October 17, 2000</td></tr>
-      <tr><td class="has-text-align-center" data-align="center">Release Date (PAL-EUR): December 8, 2000</td></tr>
-      <tr><td class="has-text-align-center" data-align="center">Prototype Scene Release Date: October 2, 2017 (Paulweeze71)</td></tr>
-      <tr><td class="has-text-align-center" data-align="center">Genre: Action / First-Person Shooter</td></tr>
-      <tr><td class="has-text-align-center" data-align="center">Players: 1–4</td></tr>
-      <tr><td class="has-text-align-center" data-align="center">Force Feedback: Yes</td></tr>
-    </tbody>
-  </table>
-</figure>
-<!-- /wp:table -->
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Platform: Nintendo 64</p>
+<p class="has-text-align-center">Developer: <a href="https://en.wikipedia.org/wiki/Eurocom" target="_blank">Eurocom</a></p>
+<p class="has-text-align-center">Publisher: <a href="https://en.wikipedia.org/wiki/Electronic_Arts" target="_blank">Electronic Arts</a></p>
+<p class="has-text-align-center">Release Date (NTSC-USA): October 17, 2000</p>
+<p class="has-text-align-center">Release Date (PAL-EUR): December 8, 2000</p>
+<p class="has-text-align-center">Prototype Scene Release Date: October 2, 2017 (Paulweeze71)</p>
+<p class="has-text-align-center">Genre: Action / First-Person Shooter</p>
+<p class="has-text-align-center">Players: 1–4</p>
+<p class="has-text-align-center">Force Feedback: Yes</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><strong>Game Description:</strong></p>
