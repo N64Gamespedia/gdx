@@ -1,6 +1,6 @@
 ---
 title: "64 Hanafuda: Tenshi no Yakusoku"
-nav_order: 6
+nav_order: 4
 parent: "Numbered Title Games"
 layout: default
 toc: false
@@ -8,33 +8,27 @@ toc: false
 
 # 64 Hanafuda: Tenshi no Yakusoku
 <b>
-<img src="https://images.launchbox-app.com/4819cb50-7b28-4238-bc1c-17afe51b778a.png" alt="64 Hanafuda Cover Art" width="320" height="240" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/64-Hanafuda-Tenshi-no-Yakusoku.png" alt="64 Hanafuda: Tenshi no Yakusoku Box Art" width="320" height="240" />
 
-**Developer:** [Altron](https://gamicus.gamepedia.com/Altron){:target="_blank" rel="noopener noreferrer"}  
-**Publisher:** [Altron](https://gamicus.gamepedia.com/Altron){:target="_blank" rel="noopener noreferrer"}
-
-**NTSC (JP) Release Date:** November 5th, 1999  
-**Genre:** Card Game  
-**Players:** 1  
+**Platform:** Nintendo 64  
+**Developer:** Altron  
+**Publisher:** Altron  
+**Genre:** Card / Traditional Japanese  
+**Players:** 1–2  
+**Region:** Japan-exclusive  
 **Force Feedback:** No
 
 ---
 
-## 🕹️ Game Description
+## 🎴 Game Description
 <b>
-_**64 Hanafuda: Tenshi no Yakusoku**_ is a traditional Japanese card game simulation developed and published by [Altron](https://gamicus.gamepedia.com/Altron){:target="_blank" rel="noopener noreferrer"} exclusively for the Nintendo 64 in Japan. Released in late 1999, the title recreates the classic Hanafuda deck experience, focusing on solo play.
+_**64 Hanafuda: Tenshi no Yakusoku**_ is a serene and culturally rich card game based on the traditional Japanese game of Hanafuda. Released exclusively in Japan, it features beautifully illustrated cards, ambient music, and a story mode that blends folklore with gameplay.
 
-Hanafuda, which translates to “flower cards,” is used in various games like Koi-Koi and Hachi-Hachi, and has deep historical ties to Japanese gaming culture. While minimalist in presentation, *Tenshi no Yakusoku* serves as a niche gem for fans of strategic card play and traditional aesthetics on a modern console.
+Players engage in matches using seasonal card sets, unlocking characters and progressing through narrative arcs. The game offers both single-player and versus modes, making it a unique entry in the N64 library focused on traditional aesthetics and strategy.
 
 ---
 
-## 📚 No Game Guide / Walkthrough Available
+## 🔗 External Provenance
 <b>
-This title remains largely undocumented outside of Japanese sources.
-
----
-
-## ▶️ Video Gameplay Sample by [N64th Street](https://www.youtube.com/channel/UCiNQhAHcX6KiD0OvJtJ3kRQ){:target="_blank" rel="noopener noreferrer"}
-<b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FpS3_D5adn0" title="64 Hanafuda Gameplay Sample - N64th Street" frameborder="0" allowfullscreen></iframe>
-<b>
+- [MobyGames – Game Overview](https://www.mobygames.com/game/n64/64-hanafuda-tenshi-no-yakusoku){:target="_blank" rel="noopener noreferrer"}  
+- [Archive.org – ROM Dump](https://archive.org/details/64-hanafuda-n64){:target="_blank" rel="noopener noreferrer"}
