@@ -10,7 +10,7 @@ toc: false
 
 <!-- wp:image {"width":"320px","className":"aligncenter"} -->
 <figure class="wp-block-image is-resized aligncenter">
-  <img src="<img src="https://images.launchbox-app.com/98ec9344-62c0-4a81-a073-0ec115a93dfd.jpg" width="320" />" alt="The World Is Not Enough Box Art" style="width:320px"/>
+  <img src="https://images.launchbox-app.com/98ec9344-62c0-4a81-a073-0ec115a93dfd.jpg" width="320" />" alt="The World Is Not Enough Box Art" style="width:320px"/>
 </figure>
 <!-- /wp:image -->
 
