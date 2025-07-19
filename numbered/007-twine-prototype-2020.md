@@ -10,7 +10,7 @@ toc: false
 
 <!-- wp:image {"width":"320px","className":"aligncenter"} -->
 <figure class="wp-block-image is-resized aligncenter">
-  <img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/The_World_Is_Not_Enough_Prototype_Coverart1.png" alt="The World Is Not Enough Prototype Box Art" style="width:320px"/>
+  <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/007-the-world-is-not-enough-prototype-boxart.png" alt="The World Is Not Enough Prototype Box Art" style="width:320px"/>
 </figure>
 <!-- /wp:image -->
 
