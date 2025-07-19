@@ -8,7 +8,7 @@ toc: false
 
 # 007: The World Is Not Enough
 <b>
-<img src="https://images.launchbox-app.com/687x617/007-the-world-is-not-enough-box-front-north-america.png" alt="007: The World Is Not Enough Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/98ec9344-62c0-4a81-a073-0ec115a93dfd.jpg" alt="007: The World Is Not Enough Box Art" width="320" height="240" />
 
 **Platform:** Nintendo 64  
 **Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
@@ -40,4 +40,4 @@ A complete walkthrough and mission guide is available on [GameFAQs](https://game
 
 ## ▶️ Video Gameplay Sample by [NintendoComplete](https://www.youtube.com/@NintendoComplete){:target="_blank" rel="noopener noreferrer"}
 <b>
-<iframe width="560" height="315
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WsTThHECssk" title="007: The World Is Not Enough (N64) Longplay - NintendoComplete" frameborder="0" allowfullscreen></iframe>
