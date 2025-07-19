@@ -1,48 +1,43 @@
 ---
 title: "1080° Snowboarding"
-nav_order: 004
+nav_order: 3
 parent: "Numbered Title Games"
 layout: default
 toc: false
 ---
 
 # 1080° Snowboarding
+<b>
+<img src="https://images.launchbox-app.com/14532eca-f48f-4120-9461-db09643dd730.jpg" alt="1080° Snowboarding Box Art" width="320" height="240" />
 
-<!-- wp:image {"width":"320px","className":"aligncenter"} -->
-<figure class="wp-block-image is-resized aligncenter">
-  <img src="<img src="https://images.launchbox-app.com/14532eca-f48f-4120-9461-db09643dd730.jpg" width="320" />" alt="1080° Snowboarding Box Art" style="width:320px"/>
-</figure>
-<!-- /wp:image -->
+**Platform:** Nintendo 64  
+**Developer:** Nintendo EAD  
+**Publisher:** Nintendo
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Platform: Nintendo 64</p>
-<p class="has-text-align-center">Developer: <a href="https://en.wikipedia.org/wiki/Nintendo_EAD" target="_blank">Nintendo EAD</a></p>
-<p class="has-text-align-center">Publisher: <a href="https://en.wikipedia.org/wiki/Nintendo" target="_blank">Nintendo</a></p>
-<p class="has-text-align-center">Release Date (NTSC-USA): March 31, 1998</p>
-<p class="has-text-align-center">Release Date (PAL-EUR): November 6, 1998</p>
-<p class="has-text-align-center">Genre: Sports / Snowboarding</p>
-<p class="has-text-align-center">Players: 1–2</p>
-<p class="has-text-align-center">Force Feedback: Yes</p>
-<!-- /wp:paragraph -->
+**JP Release Date:** February 22, 1998  
+**NA Release Date:** April 1, 1998  
+**PAL Release Date:** November 6, 1998  
+**Genre:** Snowboarding / Racing  
+**Players:** 1–2  
+**Game Language:** English / Japanese  
+**Force Feedback:** Yes
 
-<!-- wp:paragraph -->
-<p><strong>Game Description:</strong></p>
-<!-- /wp:paragraph -->
+---
 
-<!-- wp:paragraph -->
-<p><em><strong>1080° Snowboarding</strong></em> is a high-speed snowboarding simulation developed by <a href="https://en.wikipedia.org/wiki/Nintendo_EAD" target="_blank">Nintendo EAD</a>. It features realistic physics, dynamic weather effects, and a variety of courses ranging from powdery slopes to icy halfpipes. Players can choose from multiple riders and boards, each with unique stats, and perform tricks like grabs, spins, and the iconic 1080° rotation. The game includes Match Race, Time Attack, Trick Attack, and Contest modes, offering both competitive and freestyle experiences.</p>
-<!-- /wp:paragraph -->
+## 🕹️ Game Description
+<b>
+_**1080° Snowboarding**_ is a high-speed snowboarding simulation developed by Nintendo EAD, praised for its realistic physics, responsive controls, and challenging trick system. Players choose from a roster of snowboarders and boards, each with unique stats, and race down six mountain courses while performing aerial stunts and navigating treacherous terrain.
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><strong><a href="https://gamefaqs.gamespot.com/n64/196500-1080-teneighty-snowboarding/faqs/3131" target="_blank">Game Guide / Walkthrough</a></strong></p>
-<!-- /wp:paragraph -->
+The game features multiple modes including Match Race, Time Attack, Trick Attack, Contest, and 2P VS. Its namesake trick — the 1080° spin — is notoriously difficult to land, requiring precise timing and input combinations. With dynamic weather effects, authentic sound design, and a steep learning curve, *1080° Snowboarding* remains one of the most technically impressive sports titles on the N64.
 
-<!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><strong>Video Playthrough by <a href="https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ" target="_blank">LongplayArchive</a></strong></p>
-<!-- /wp:paragraph -->
+---
 
-<!-- wp:html -->
-<div style="text-align:center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/1XxqkYwzYgU" title="1080° Snowboarding Gameplay" frameborder="0" allowfullscreen></iframe>
-</div>
-<!-- /wp:html -->
+## 📚 Game Guide / Walkthrough
+<b>
+A comprehensive FAQ and trick guide is available on [GameFAQs](https://gamefaqs.gamespot.com/n64/196500-1080-teneighty-snowboarding/faqs/3131){:target="_blank" rel="noopener noreferrer}, detailing rider stats, board selection, course strategies, and how to master the elusive 1080° spin.
+
+---
+
+## ▶️ Video Gameplay Sample by [NintendoComplete](https://www.youtube.com/@NintendoComplete){:target="_blank" rel="noopener noreferrer"}
+<b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1g2XvXkzZzI" title="1080° Snowboarding (N64) Longplay - NintendoComplete" frameborder="0" allowfullscreen></iframe>
