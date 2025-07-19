@@ -8,36 +8,34 @@ toc: false
 
 # 007: The World Is Not Enough
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-The-World-Is-Not-Enough-(USA).png" alt="007: The World Is Not Enough Box Art" width="320" height="240" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-The-World-Is-Not-Enough-(USA).png" alt="007: The World Is Not Enough (JP) Box Art" width="320" height="240" />
 
 **Platform:** Nintendo 64  
 **Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}
 
-**NTSC (North America) Scene Release Date:** November 1, 2000  
-**Genre:** First-Person Shooter  
-**Players:** 1–4  
-**Game Language:** English  
+**NTSC (Japan) Scene Release Date:** December 14, 2000  
+**Genre:** First-Person Shooter / Action  
+**Players:** 1  
 **Force Feedback:** Yes
 
 ---
 
 ## 🕹️ Game Description
 <b>
-_**007: The World Is Not Enough**_ is a first-person shooter based on the 1999 James Bond film of the same name. Developed by Eurocom and published by Electronic Arts, the Nintendo 64 version offers a unique experience distinct from its PlayStation counterpart, with exclusive missions and a custom game engine.
+_**007: The World Is Not Enough**_ is a first-person shooter based on the 1999 James Bond film of the same name. Developed by Eurocom and published by Electronic Arts, the game puts players in the role of Agent 007 through story-driven missions filled with espionage, gadgets, and fast-paced combat.
 
-Players assume the role of James Bond across 14 missions, each featuring stealth, combat, and gadget-based objectives. The game includes over 20 Q-Lab weapons and tools, such as the P2K pistol, infrared glasses, and the cell phone stunner. Multiplayer mode supports up to four players with customizable characters and arenas.
-
-Praised for its voice acting, cinematic presentation, and gadget variety, the N64 version remains a standout Bond title of its era.
+With multiple weapons, stealth segments, and cinematic set pieces, the game aims to capture the style of Bond while offering variety in gameplay. Unlike its PlayStation counterpart, the N64 version runs on a modified version of the Quake II engine, allowing for smoother graphics and multiplayer deathmatch options.
 
 ---
 
-## 📚 Game Guide / Walkthrough
+## 📚 Game Guide / Manual Translation
 <b>
-A complete walkthrough and mission guide is available on [GameFAQs](https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs){:target="_blank" rel="noopener noreferrer"} — including weapon breakdowns, objective tips, and multiplayer strategies.
+An English-language manual is available through [GameFAQs](https://gamefaqs.gamespot.com/n64/258004-007-the-world-is-not-enough/faqs){:target="_blank" rel="noopener noreferrer"} including mission briefings, gadget descriptions, and enemy intel.
 
 ---
 
-## ▶️ Video Gameplay Sample by [NintendoComplete](https://www.youtube.com/@NintendoComplete){:target="_blank" rel="noopener noreferrer"}
+## ▶️ Video Gameplay Sample by [N64th Street](https://www.youtube.com/channel/UCiNQhAHcX6KiD0OvJtJ3kRQ){:target="_blank" rel="noopener noreferrer"}
 <b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WsTThHECssk" title="007: The World Is Not Enough (N64) Longplay - NintendoComplete" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FpS3_D5adn0" title="007: The World Is Not Enough – Gameplay Sample" frameborder="0" allowfullscreen></iframe>
+</b>
