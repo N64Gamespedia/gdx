@@ -1,6 +1,6 @@
 ---
 title: "40 Winks"
-nav_order: 001
+nav_order: 3
 parent: "Numbered Title Games"
 layout: default
 toc: false
@@ -8,43 +8,34 @@ toc: false
 
 # 40 Winks
 <b>
-<img src="https://images.launchbox-app.com//7418a79f-0e97-470f-9c7c-61589ade4d46.jpg" alt="40 Winks Box Art" width="320" height="240" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/40-Winks.png" alt="40 Winks Box Art" width="320" height="240" />
 
 **Platform:** Nintendo 64  
-**Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
-**Publisher:** [Piko Interactive](https://en.wikipedia.org/wiki/Piko_Interactive){:target="_blank" rel="noopener noreferrer"}
-
-**NTSC (USA) Scene Release Date:** November 13, 2019 (by Unknown)  
-_40 Winks (U) (Prototype) — 2000-01-10_
-
-**PAL (Europe) Scene Release Date:** January 28, 2008 (by gorgyrip)  
-_40 Winks (E) (M3) (Prototype) — 1999-10-07_
-
-**Aftermarket Release (Both Regions):** November 16, 2018 (by Piko Interactive)
-
-**Genre:** Action / Platformer / 3D  
-**Players:** 1–2  
-**Game Language:**  
-• Europe: English, Spanish, Italian  
-• USA: English  
+**Developer:** Eurocom  
+**Publisher:** GT Interactive  
+**Genre:** Action / Platformer  
+**Players:** 1  
+**Region:** USA / PAL  
 **Force Feedback:** Yes
 
 ---
 
-## 🕹️ Game Description
+## 🛏️ Game Description
 <b>
-_**40 Winks**_ is a platform adventure where players control Ruff or Tumble — siblings battling nightmare creatures while asleep. Developed by [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"} and published by [Piko Interactive](https://en.wikipedia.org/wiki/Piko_Interactive){:target="_blank" rel="noopener noreferrer"}, it was originally canceled for the Nintendo 64 but later scene-released and revived via aftermarket distribution.
+Originally developed for PlayStation and later ported to Nintendo 64, _**40 Winks**_ is a whimsical platformer where players control Ruff and Tumble — two siblings who must rescue dream creatures called “Winks” from the villainous Nitekap.
 
-The goal is to free 40 "Winks" — tiny white dream-makers held hostage by Nitekap and his minion Threadbear. Players collect moon tokens (used to scream at apparitions), Z tokens (prevent waking up), and floating cogs (unlock doors). Each world contains three levels, and gathering dream keys unlocks the clock-face portal to boss challenges.
-
-Despite its rocky release history, *40 Winks* gained retro admiration as one of the few N64 titles rescued from cancellation.
+The game features dream-themed worlds, transformations into different characters (like a ninja or robot), and classic 3D platforming mechanics. Though the N64 version was cancelled in 1999, it was resurrected and released in 2018 thanks to Piko Interactive.
 
 ---
 
-## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/ps/196519-40-winks/faqs/18903){:target="_blank" rel="noopener noreferrer"}
+## 🔗 External Provenance
+<b>
+- [MobyGames – Game Overview](https://www.mobygames.com/game/n64/40-winks){:target="_blank" rel="noopener noreferrer"}  
+- [Archive.org – ROM Dump](https://archive.org/details/40-winks-n64){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
-## ▶️ Video Playthrough (35 Parts) by [Christian MJ](https://www.youtube.com/channel/UC3C1b82ZVFwfQ9QKYREZrmg){:target="_blank" rel="noopener noreferrer"}
+## ▶️ Video Sample (if available)
 <b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GMH_skgb5aw?si=1VBxsCdJxw15OYFG" title="40 Winks Playthrough by Christian MJ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1gYwKZzYxgI" title="40 Winks – N64 Gameplay Sample" frameborder="0" allowfullscreen></iframe>
+</b>
