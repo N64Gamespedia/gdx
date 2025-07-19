@@ -10,7 +10,7 @@ toc: false
 
 <!-- wp:image {"width":"320px","className":"aligncenter"} -->
 <figure class="wp-block-image is-resized aligncenter">
-  <img src="<img src="https://images.launchbox-app.com/96977e70-0f18-45d3-8298-8f42df3e4b8b.jpg" width="320" />" alt="1080° Snowboarding Box Art" style="width:320px"/>
+  <img src="<img src="https://images.launchbox-app.com/14532eca-f48f-4120-9461-db09643dd730.jpg" width="320" />" alt="1080° Snowboarding Box Art" style="width:320px"/>
 </figure>
 <!-- /wp:image -->
 

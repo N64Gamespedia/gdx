@@ -8,7 +8,7 @@ toc: false
 
 # 40 Winks
 <b>
-<img src="https://images.launchbox-app.com/96977e70-0f18-45d3-8298-8f42df3e4b8b.jpg" alt="40 Winks Box Art" width="320" height="240" />
+<img src="https://gamesdb.launchbox-app.com/games/details/19647-40-winks" alt="40 Winks Box Art" width="320" height="240" />
 
 **Platform:** Nintendo 64  
 **Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
