@@ -8,7 +8,7 @@ toc: false
 
 # 1080° Snowboarding
 <b>
-<img src="https://images.launchbox-app.com/14532eca-f48f-4120-9461-db09643dd730.jpg" alt="1080° Snowboarding Box Art" width="320" height="240" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/1080-Snowboarding-USA.png alt="1080° Snowboarding Box Art" width="320" height="240" />
 
 **Platform:** Nintendo 64  
 **Developer:** Nintendo EAD  
