@@ -1,42 +1,42 @@
 ---
 title: "007: The World Is Not Enough (Prototype 2020)"
-nav_order: 2
+nav_order: 007.1
 parent: "Numbered Title Games"
 layout: default
 toc: false
 ---
 
-# 007: The World Is Not Enough (U) — Prototype 2020 Release
+# 007: The World Is Not Enough (Prototype 2020)
 <b>
-<img src="https://www.project64-legacy.com/data/uploads/RDX/TWINE_%28Prototype_2020_Release%29.png" alt="007 TWINE Prototype 2020 Cover Art" width="320" height="240" />
+<img src="https://archive.org/download/dev-twine.-7z/007-prototype-boxart.jpg" alt="007 Prototype Box Art" width="320" height="240" />
 
+**Platform:** Nintendo 64  
 **Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}
 
-**Scene Release Date (USA):** September 22, 2020 — Released by Togemet2  
-**Genre:** Action / First-Person Shooter  
-**Players:** 1–4  
-**Force Feedback:** Yes
+**Prototype Dump Date:** September 22, 2020  
+**Build Date:** December 15, 1998  
+**ROM Title:** TWINE (DEV-TWINE.n64)
+
+**Genre:** First-Person Shooter / Debug Build  
+**Players:** 1  
+**Game Language:** English  
+**Force Feedback:** Partial / Unstable
 
 ---
 
 ## 🕹️ Prototype Description
 <b>
-_**The World Is Not Enough (U) — Prototype 2020**_ is an early development build of the Nintendo 64 first-person shooter based on the 1999 James Bond film. Developed by [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"} and published by [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}, this unfinished prototype was **scene released** on September 22, 2020.
+_**007: The World Is Not Enough (Prototype 2020)**_ is an early development build of the final game, showcasing incomplete assets, debug menus, and placeholder content. Discovered and released by preservationists via [Archive.org](https://archive.org/details/dev-twine.-7z){:target="_blank" rel="noopener noreferrer"}, this version includes 10 of the planned 14 missions, altered UI, and invisible weapons. A passcode screen appears on boot, bypassed via analog stick input: left, left, right, right, left.
 
-Compared to the final version from 2000, this build is significantly incomplete, buggy, and visually different — missing assets, broken functions, and altered gameplay. It's a fascinating behind-the-scenes look into late-stage N64 development.
-
-Explore the released retail build here: [007: The World Is Not Enough (Retail)](https://thegent.github.io/n64gamespedia/numbered/007-the-world-is-not-enough)
+The build offers insight into Eurocom’s development process, including unused levels, cutscenes, and early gadget behavior. It’s a rare glimpse into Bond’s unfinished missions.
 
 ---
 
-## 📚 Game Guide / Walkthrough
-<b>
-This early build doesn’t have a documented guide — it’s more of a development snapshot than a playable campaign.
+## 📚 No Official Guide Available
 
 ---
 
-## ▶️ Showcase Video by [Graslu00](https://www.youtube.com/channel/UCGInMxYIVrl23nLjDAIMknw){:target="_blank" rel="noopener noreferrer"}
+## ▶️ Prototype Showcase by [Mr. X Podcast](https://www.youtube.com/@MrXPodcast){:target="_blank" rel="noopener noreferrer"}
 <b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aKCLPw-OQJ0" title="007: TWINE - Prototype 2020 Showcase by Graslu00" frameborder="0" allowfullscreen></iframe>
-<b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xialEnKS6jg" title="007 Prototype Showcase by Mr. X Podcast" frameborder="0" allowfullscreen></iframe>
