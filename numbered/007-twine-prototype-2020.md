@@ -8,7 +8,7 @@ toc: false
 
 # 007: The World Is Not Enough (Prototype 2020)
 <b>
-<img src="/n64gamespedia/media/007-the-world-is-not-enough-prototype-boxart.png" alt="007 Prototype 2020 Box Art" width="320" height="240" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-the-world-is-not-enough-prototype-boxart.png" alt="007 Prototype 2020 Box Art" width="320" height="240" />
 
 **Platform:** Nintendo 64  
 **Developer:** Eurocom  
