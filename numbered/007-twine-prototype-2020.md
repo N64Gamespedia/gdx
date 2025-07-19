@@ -8,43 +8,39 @@ toc: false
 
 # 007: The World Is Not Enough (Prototype 2020)
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-the-world-is-not-enough-prototype-boxart.png" alt="007 Prototype 2020 Box Art" width="320" height="240" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-The-World-Is-Not-Enough-(Prototype-2020).png" alt="007: The World Is Not Enough (Prototype 2020) Box Art" width="320" height="240" />
 
 **Platform:** Nintendo 64  
 **Developer:** Eurocom  
-**Publisher:** Electronic Arts (Unreleased Build)
+**Publisher:** Electronic Arts (Prototype Build)  
 
-**Prototype Dump Release Date:** September 22, 2020  
-**Genre:** First-Person Shooter / Stealth  
+**Prototype Build Version:** VER. 2.00  
+**Dump Release Date:** September 22, 2020  
+**Dumped by:** togemet2  
+**Released by:** Forest of Illusion  
+**Boot Passcode:** Left, Left, Right, Right, Left  
+**Genre:** First-Person Shooter / Debug Build  
 **Players:** 1  
-**Game Language:** English  
 **Force Feedback:** Yes
 
 ---
 
-## 🕹️ Game Description
+## 🧪 Prototype Description
 <b>
-_**007: The World Is Not Enough (Prototype 2020)**_ is an unreleased development build of the Nintendo 64 Bond title, discovered on a dev cartridge and released by preservationists at [Hidden Palace](https://hiddenpalace.org/007:_The_World_is_Not_Enough_%28Prototype%29_%282020_release%29){:target="_blank" rel="noopener noreferrer"}.
+This unreleased build of _**007: The World Is Not Enough**_ was discovered on a development cartridge and released by Forest of Illusion. It features placeholder assets, invisible weapons, altered menus, and debug features not present in the retail version.
 
-This build, labeled **VER. 2.00**, features early assets, placeholder menus, and debug elements not present in the retail release. Upon boot, players are greeted with a passcode screen — bypassed by pressing **left, left, right, right, left** on the analog stick. The prototype includes modified textures, incomplete weapon models, and experimental level layouts. It’s believed to be a late-stage internal test version, possibly altered post-dump to ensure boot compatibility.
-
-While not intended for public release, this build offers a rare glimpse into Eurocom’s development process and the evolution of TWINE’s N64 engine.
+The prototype offers insight into the development process, showcasing early mission layouts, incomplete textures, and experimental mechanics. It runs on a modified Quake II engine and includes a boot passcode to access the game.
 
 ---
 
-## 📚 Preservation Notes
+## 🔗 External Provenance
 <b>
-- Dumped by: **togemet2**  
-- Released by: **Forest of Illusion**  
-- Origin: **N64 dev cart (NUS-16F32SB 128M+256K)**  
-- Build Name: **VER. 2.00**  
-- Requires passcode input to boot  
-- May contain modified code for stability
-
-Full documentation and ROM metadata available on [Hidden Palace](https://hiddenpalace.org/007:_The_World_is_Not_Enough_%28Prototype%29_%282020_release%29){:target="_blank" rel="noopener noreferrer"}.
+- [Hidden Palace – Prototype Overview](https://hiddenpalace.org/007:_The_World_is_Not_Enough_%28Prototype%29_%282020_release%29){:target="_blank" rel="noopener noreferrer"}  
+- [Archive.org – Dev Cart Dump](https://archive.org/details/dev-twine.-7z){:target="_blank" rel="noopener noreferrer"}
 
 ---
 
-## ▶️ Video Gameplay Sample by [Hard4Games](https://www.youtube.com/@Hard4Games){:target="_blank" rel="noopener noreferrer"}
+## ▶️ Video Sample (if available)
 <b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1gVvZzKXzZg" title="007 Prototype 2020 Gameplay - Hard4Games" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FpS3_D5adn0" title="007: The World Is Not Enough – Prototype Gameplay Sample" frameborder="0" allowfullscreen></iframe>
+</b>
