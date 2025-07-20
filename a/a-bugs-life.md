@@ -9,11 +9,12 @@ toc: false
 # A Bug's Life
 <b>
 <div style="display: flex; justify-content: center; gap: 10px;">
-<img src="https://vignette.wikia.nocookie.net/nintendo/images/3/3f/A_Bug's_Life_(NA).jpg/revision/latest/scale-to-width-down/310?cb=20090507014243&path-prefix=en" alt="A Bug's Life Box Art" width="320" height="224" /></div>
+<img src="https://raw.githubusercontent.com/n64vault/media/main/usa/abugslife.jpg" alt="A Bug's Life Box Art" width="320" height="224" /></div>
 
-**Developer:** [Traveller's Tales](https://en.wikipedia.org/wiki/Traveller's_Tales){:target="_blank" rel="noopener noreferrer"}  
-**Publisher:** [Activision](https://en.wikipedia.org/wiki/Activision){:target="_blank" rel="noopener noreferrer"}
+**Developer:** [Traveller's Tales](https://en.wikipedia.org/wiki/Traveller%27s_Tales){:target="_blank" rel="noopener noreferrer"}  
+**Publisher:** [Disney Interactive](https://en.wikipedia.org/wiki/Disney_Interactive){:target="_blank" rel="noopener noreferrer"} / [THQ](https://en.wikipedia.org/wiki/THQ){:target="_blank" rel="noopener noreferrer"}
 
+**Platform:** Nintendo 64  
 **NTSC (USA) Release Date:** April 30th, 1999  
 **PAL (Europe) Release Date:** January 1st, 1999  
 **Genre:** Adventure / 3D Platformer  
@@ -38,3 +39,5 @@ Gameplay includes transforming seeds into helpful plants, upgrading berries as w
 <b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D43ZI_2YSCk" title="A Bug's Life - Gaming Exhibit" frameborder="0" allowfullscreen></iframe>
 
+<!-- Vault Format: n64gamespedia-dev -->
+<!-- Protocol Source: _vault-specs/format-protocol.md -->
