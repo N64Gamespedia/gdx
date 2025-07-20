@@ -9,7 +9,7 @@ toc: false
 # Aero Fighters Assault
 <b>
 <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/AeroFighters-Assault-(USA).png" alt="Aero Fighters Assault Box Art" width="320" height="224" />
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/sonic-wings.png" alt="Sonic Wings Assault JP Box Art" width="320" height="222" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/sonic-wings.png" alt="Sonic Wings Assault JP Box Art" width="320" height="220" />
 </b>
 
 **Platform:** Nintendo 64  
