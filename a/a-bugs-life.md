@@ -9,7 +9,7 @@ toc: false
 # A Bug’s Life
 <b>
 <div style="display: flex; justify-content: center; gap: 10px;">
-<img src="https://raw.githubusercontent.com/n64vault/media/main/usa/a-bugs-life.jpg" alt="A Bug’s Life Box Art" width="320" height="224" /></div>
+<img src="https://raw.githubusercontent.com/n64vault/media/main/usa/Bug's-Life,-A-(USA).png" alt="A Bug’s Life Box Art" width="320" height="224" /></div>
 
 **Platform:** Nintendo 64  
 **Developer:** [Traveller's Tales](https://en.wikipedia.org/wiki/Traveller%27s_Tales){:target="_blank" rel="noopener noreferrer"}  
@@ -25,7 +25,7 @@ toc: false
 
 ## 🕹️ Game Description
 <b>
-_**A Bug's Life**_ is a platform game for the Nintendo 64 based on the Disney/Pixar film of the same name. It was released in Europe on January 1, 1999 and in North America on April 30, 1999. The player controls Flik, a small ant who must save his colony from a gang of enemy grasshoppers. The game features five distinct worlds, each with multiple levels, and includes mechanics such as collecting grain, upgrading berries, and growing plants to aid in traversal and combat.
+_**A Bug's Life**_ is a platform game for the Nintendo 64 based on the Disney/Pixar film of the same name. The player controls Flik, a clever ant who must save his colony from a gang of grasshoppers. Gameplay spans five worlds with multiple levels, featuring mechanics like grain collection, berry upgrades, and plant growth to aid traversal and combat.
 
 ---
 
