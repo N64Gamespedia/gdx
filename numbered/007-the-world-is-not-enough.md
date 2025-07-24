@@ -8,7 +8,7 @@ toc: false
 
 # 007: The World Is Not Enough
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-the-world-is-not-enough-(USA).png" alt="007: The World Is Not Enough" width="320" height="224" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-The-World-Is-Not-Enough-(USA).png" alt="007: The World Is Not Enough" width="320" height="224" />
 </b>
 
 **Platform:** Nintendo 64  
