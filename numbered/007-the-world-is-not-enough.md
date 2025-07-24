@@ -30,6 +30,7 @@ Players assume the role of MI6 agent James Bond in a single-player campaign to p
 
 ## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
 
+<br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ca1C-hDxAQA" title="007: The World Is Not Enough – Longplay Archive" frameborder="0" allowfullscreen></iframe>
 
