@@ -18,21 +18,14 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Piko Interactive](https://en.wikipedia.org/wiki/Piko_Interactive){:target="_blank" rel="noopener noreferrer"}  
-
-### 📦 Release Information
-
-- **Scene Release (NTSC-USA)**  
+**Scene Release (NTSC-USA)**  
   *November 13, 2019* — *Prototype dated 2000-01-10*
-
-- **Scene Release (PAL-EUR)**  
+**Scene Release (PAL-EUR)**  
   *January 28, 2008* — *Prototype dated 1999-10-07*
-
-- **Aftermarket Release (NTSC-USA)**  
+**Aftermarket Release (NTSC-USA)**  
   *November 16, 2018* — by [Piko Interactive](https://en.wikipedia.org/wiki/Piko_Interactive){:target="_blank" rel="noopener noreferrer"}
-
-- **Aftermarket Release (PAL-EUR)**  
+**Aftermarket Release (PAL-EUR)**  
   *November 16, 2018* — by [Piko Interactive](https://en.wikipedia.org/wiki/Piko_Interactive){:target="_blank" rel="noopener noreferrer"}
-
 **Genre:** Action / Platformer / 3D  
 **Players:** 1–2  
 **Force Feedback:** Yes  
