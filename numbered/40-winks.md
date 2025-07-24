@@ -1,7 +1,7 @@
 ---
 title: "40 Winks"
 nav_order: 4
-parent: "online-rdx"
+parent: "Numbered Title Games"
 layout: default
 toc: false
 ---
