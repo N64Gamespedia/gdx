@@ -9,35 +9,26 @@ toc: false
 # 40 Winks
 
 <b>
-  <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/40-winks.jpg
+  <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/40-winks.jpg"
        alt="40 Winks"
-       width="320"
+       width="330"
        height="224" />
 </b>
 
 **Platform:** Nintendo 64  
 **Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Piko Interactive](https://en.wikipedia.org/wiki/Piko_Interactive){:target="_blank" rel="noopener noreferrer"}  
-**Scene Release (NTSC-USA):** November 13, 2019
-(40 Winks (U) (Prototype) (2000-01-10)
-**Scene Release (PAL-EUR):**  January 28, 2008
-(40 Winks (E) (M3) (Prototype) (1999-10-07)
-**Aftermarket Release (NTSC-USA):** November 16, 2018
-(by [Piko Interactive)](https://en.wikipedia.org/wiki/Piko_Interactive){:target="_blank" rel="noopener noreferrer"}
-**Aftermarket Release (PAL-EUR):** November 16, 2018
-(by [Piko Interactive)](https://en.wikipedia.org/wiki/Piko_Interactive){:target="_blank" rel="noopener noreferrer"}
+**Scene Release (NTSC-USA):** November 13, 2019 (by Unknown)  
+40 Winks (U) (Prototype) (2000-01-10)  
+**Scene Release (PAL-EUR):** January 28, 2008 (by gorgyrip)  
+40 Winks (E) (M3) (Prototype) (1999-10-07)  
+**Aftermarket Release (NTSC-USA):** November 16, 2018  
+(by [Piko Interactive](https://en.wikipedia.org/wiki/Piko_Interactive){:target="_blank" rel="noopener noreferrer"})  
+**Aftermarket Release (PAL-EUR):** November 16, 2018  
+(by [Piko Interactive](https://en.wikipedia.org/wiki/Piko_Interactive){:target="_blank" rel="noopener noreferrer"})  
 **Genre:** Action / Platformer / 3D  
 **Players:** 1–2  
 **Force Feedback:** Yes  
-
-Scene Release (NTSC-USA): November 13, 2019 (by Unknown)
-(40 Winks (U) (Prototype) (2000-01-10)
-Scene Release (PAL-EUR): January 28, 2008 (by gorgyrip)
-(40 Winks (E) (M3) (Prototype) (1999-10-07)
-Aftermarket Release (NTSC-USA): November 16, 2018
-(by Piko Interactive)
-Aftermarket Release (PAL-EUR): November 16, 2018
-(by Piko Interactive)
 
 ## 🕹️ Game Description
 
