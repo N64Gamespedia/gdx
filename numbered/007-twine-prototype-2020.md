@@ -8,15 +8,13 @@ toc: false
 
 # 007: TWINE (Prototype – 2020 Release)
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-TWINE-(Prototype-2020)-(USA).png" alt="007: TWINE (Prototype – 2020)" width="320" height="224" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-world-is-not-enough-prototype2020.png" alt="007: TWINE (Prototype – 2020)" width="320" height="224" />
 </b>
 
 **Platform:** Nintendo 64  
 **Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}  
-**Scene Release Date (NTSC-USA):** September 22, 2020  
-**Release Type:** Unfinished Prototype Build  
-**Scene Dumper:** Togemet2  
+**Scene Release Date (NTSC-USA):** September 22, 2020 (Prototype 2020 - Togemet2)  
 **Genre:** Action / First-Person Shooter  
 **Players:** 1–4 (Split-screen Multiplayer)  
 **Force Feedback:** Yes  
