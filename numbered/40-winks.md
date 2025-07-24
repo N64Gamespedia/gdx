@@ -1,7 +1,7 @@
 ---
 title: "40 Winks"
 nav_order: 4
-parent: "Numbered Title Games"
+parent: "online-rdx"
 layout: default
 toc: false
 ---
@@ -9,7 +9,7 @@ toc: false
 # 40 Winks
 
 <b>
-  <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/40-winks.jpg"
+  <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/40-winks.jpg
        alt="40 Winks"
        width="320"
        height="224" />
