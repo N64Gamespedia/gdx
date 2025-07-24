@@ -1,31 +1,36 @@
 ---
-title: "007: The World Is Not Enough (Prototype 2020)"
+title: "007: TWINE (Prototype – 2020 Release)"
 nav_order: 2
 parent: "Numbered Title Games"
 layout: default
 toc: false
 ---
 
-# 007: The World Is Not Enough (Prototype 2020)
+# 007: TWINE (Prototype – 2020 Release)
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-world-is-not-enough-prototype2020.png" alt="007: The World Is Not Enough (Prototype 2020)" width="320" height="224" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-TWINE-(Prototype-2020)-(USA).png" alt="007: TWINE (Prototype – 2020)" width="320" height="224" />
 </b>
 
 **Platform:** Nintendo 64  
 **Developer:** [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}  
-**Scene Release Date (NTSC-USA):** September 22, 2020 (Prototype – Togemet2)  
+**Scene Release Date (NTSC-USA):** September 22, 2020  
+**Release Type:** Unfinished Prototype Build  
+**Scene Dumper:** Togemet2  
 **Genre:** Action / First-Person Shooter  
-**Players:** 1–4  
-**Force Feedback:** Yes
+**Players:** 1–4 (Split-screen Multiplayer)  
+**Force Feedback:** Yes  
 
 ## 🕹️ Game Description  
-<em><strong>The World Is Not Enough (U) (Prototype 2020)</strong></em> is a first-person shooter video game developed by [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"} for the Nintendo 64 and based on the 1999 *James Bond* film of the same name. It was published by [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"} and scene released on September 22, 2020 by Togemet2. This early development build is notably unfinished, with numerous bugs and differences from the final retail version. As showcased in the video below, it diverges significantly from the 2000 release of [007: The World Is Not Enough](https://www.project64.emulation64.com/index.php?id=007-the-world-is-not-enough){:target="_blank" rel="noopener noreferrer"}.
+<em><strong>The World Is Not Enough</strong></em> *(Prototype 2020)* is an early development build of the Nintendo 64 first-person shooter based on the 1999 <em>James Bond</em> film. This version, scene-released in 2020 by *Togemet2*, offers insight into Eurocom’s early design decisions before the final product hit retail shelves in 2000.
 
-**No Game Guide / Walkthrough**  
+The prototype includes unfinished visuals, placeholder assets, and notable deviations from the final release. Bugs, missing textures, and rough mechanics contribute to a fascinating behind-the-scenes experience for preservationists and retro fans.
+
 **Video Playthrough by [Graslu00](https://www.youtube.com/channel/UCGInMxYIVrl23nLjDAIMknw){:target="_blank" rel="noopener noreferrer"}**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aKCLPw-OQJ0" title="007: The World Is Not Enough (U) (Prototype – 2020 release) - Graslu00" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="007: TWINE (Prototype – 2020 Release) – Showcase by Graslu00" frameborder="0" allowfullscreen></iframe>
+
+🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
 
 <!-- Vault Format: n64gamespedia-dev -->
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
