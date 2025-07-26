@@ -1,8 +1,10 @@
-## title: "64 de Hakken!! Tamagotchi: Minna de Tamagotchi World"
+---
+title: "64 de Hakken!! Tamagotchi: Minna de Tamagotchi World"
 nav_order: 5
 parent: "Numbered Title Games"
 layout: default
 toc: false
+---
 
 # 64 de Hakken!! Tamagotchi: Minna de Tamagotchi World
 
@@ -30,7 +32,7 @@ No official game guide or walkthrough is available.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pp1vEghPmZI" title="64 de Hakken!! Tamagotchi Gameplay" frameborder="0" allowfullscreen></iframe>
 
-🕹️ Clause #5 filed by Gent & CP of n64gamespedia-dev 🕹️
+🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
 
 <!-- Vault Format: n64gamespedia-dev -->
 <!-- Protocol Source: CP WP Block or XML - Markdown Protocol Guide -->
