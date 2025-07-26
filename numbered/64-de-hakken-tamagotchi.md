@@ -1,14 +1,13 @@
----
-title: "64 de Hakken! Tamagotchi Minna de Tamagotchi World"
+## title: "64 de Hakken!! Tamagotchi: Minna de Tamagotchi World"
 nav_order: 5
 parent: "Numbered Title Games"
 layout: default
 toc: false
----
 
-# 64 de Hakken! Tamagotchi Minna de Tamagotchi World
+# 64 de Hakken!! Tamagotchi: Minna de Tamagotchi World
+
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/64-de-hakken.png" alt="64 de Hakken! Tamagotchi Minna de Tamagotchi World" width="320" height="224" />
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/64-de-hakken.png" alt="64 de Hakken!! Tamagotchi: Minna de Tamagotchi World" width="320" height="224" />
 </b>
 
 **Platform:** Nintendo 64  
@@ -19,13 +18,19 @@ toc: false
 **Players:** 1–4  
 **Force Feedback:** No
 
-## 🕹️ Game Description  
-<em><strong>64 de Hakken! Tamagotchi Minna de Tamagotchi World</strong></em> is a Nintendo 64 game released exclusively in Japan in 1997. It bears resemblance to the Mario Party series. The game plays out on a board where players care for their Tamagotchi characters at each turn and occasionally compete in minigames. The winning player’s Tamagotchi evolves into a special character only available in the game, with a total of 59 possible characters to unlock. It is considered a predecessor to <em>Tamagotchi: Party On!</em>.
+## 🕹️ Game Description
 
-**No Game Guide / Walkthrough Available**  
-**Video Gameplay Sample by [Vysethedetermined2](https://www.youtube.com/channel/UC27iiSqJk1HfPy1MruJfi9A){:target="_blank" rel="noopener noreferrer"}**
+*64 de Hakken!! Tamagotchi: Minna de Tamagotchi World* is a Nintendo 64 game released exclusively in Japan in 1997. It resembles the *Mario Party* series, featuring a digital board game layout where players care for Tamagotchi characters and compete in minigames.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pp1vEghPmZI" title="64 de Hakken! Tamagotchi Minna de Tamagotchi World – Gameplay Sample" frameborder="0" allowfullscreen></iframe>
+Players evolve their Tamagotchi through gameplay, aiming to unlock one of 59 possible character forms. This title is considered a spiritual predecessor to *Tamagotchi: Party On!*.
+
+No official game guide or walkthrough is available.
+
+## 🎥 Video Gameplay Sample by [Vysethedetermined2](https://www.youtube.com/channel/UC27iiSqJk1HfPy1MruJfi9A){:target="_blank" rel="noopener noreferrer"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pp1vEghPmZI" title="64 de Hakken!! Tamagotchi Gameplay" frameborder="0" allowfullscreen></iframe>
+
+🕹️ Clause #5 filed by Gent & CP of n64gamespedia-dev 🕹️
 
 <!-- Vault Format: n64gamespedia-dev -->
-<!-- Protocol Source: _vault-specs/format-protocol.md -->
+<!-- Protocol Source: CP WP Block or XML - Markdown Protocol Guide -->
