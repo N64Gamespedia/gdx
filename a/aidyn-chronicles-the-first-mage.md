@@ -39,6 +39,7 @@ Longplay of Aidyn Chronicles: The First Mage (2/3)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SeVy1qfWLFo" title="Aidyn Chronicles Longplay Part 3" frameborder="0" allowfullscreen></iframe>  
 Longplay of Aidyn Chronicles: The First Mage (3/3)
 
+<br />
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
 
 <!-- Vault Format: n64gamespedia-dev -->
