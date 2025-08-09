@@ -28,11 +28,11 @@ toc: false
 ## 🕹️ Game Description
 <em><strong>Aerogauge</strong></em> is a futuristic hovercraft racing game set in Asia during the year 2065. Players race high-speed Aeromachines across six tracks, four of which are available from the start. Additional tracks and vehicles are unlocked through Grand Prix and Time Attack modes. Vehicles can take damage, which affects performance and may lead to retirement unless repaired by flying through shield regeneration zones. Tracks feature vertical loops, upside-down segments, and obstacles that challenge reflexes and control. The game includes single-player and two-player modes, with a unique drift boost mechanic essential for victory.
 
-## 🌐 Translations Available {#translations-available}  
+## Translations Available {#translations-available}  
 **Language:** 🇧🇷 Portuguese  
 *AeroGauge* has been fan-translated into Portuguese by the [Dream64 team](https://www.romhacking.net/community/7291/){:target="_blank" rel="noopener noreferrer"}. The patch uses the `.xdelta` format and was released on 13 June 2024. It includes translated and accented text, updated textures, and splash art. Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/7330/){:target="_blank" rel="noopener noreferrer"}.
 
-## 🎨 Texture Packs Available  
+## Texture Packs Available  
 ### Jabo 1.7 Format {#jabo-17-format}  
 This converted release from DX DDS to PNG includes upscaling, detail tuning, and updated in-game text. Designed for use with the Jabo_Direct3D8 1.7.0.57-ver6 video plugin. Download at [Aerogauge Texture Pack by Gent – Compatible with Jabo 1.7](https://www.n64textures.com/downloads/jabo-texture-packs/#AEROGAUGE%20-%20Jabo%201.7%20Texture%20Pack%20(PNG)%20-%20v1.6%20-%20Gent){:target="_blank" rel="noopener noreferrer"}.
 
