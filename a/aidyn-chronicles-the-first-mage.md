@@ -20,11 +20,10 @@ toc: false
 **Players:** 1  
 **Force Feedback:** No
 
+## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196565-aidyn-chronicles-the-first-mage/faqs/11234){:target="_blank" rel="noopener noreferrer"}
+
 ## 🕹️ Game Description
 *Aidyn Chronicles: The First Mage* is a role-playing video game developed by Canadian studio [H2O Interactive](https://en.wikipedia.org/w/index.php?title=H2O_Interactive&action=edit&redlink=1){:target="_blank" rel="noopener noreferrer"} and published by [THQ](https://en.wikipedia.org/wiki/THQ){:target="_blank" rel="noopener noreferrer"} and released on the Nintendo 64 in March 14th, 2001. The story is built around the concept of a universe with two places: the spirit plane (the source of magic) and the mundane plane (where mortals live). Once a person discovers their magical true name, they are able to unite their spirit and mundane forms, thereby unlocking unlimited power.
-
-## 📚 Game Guide / Walkthrough  
-[GameFAQs Guide](https://gamefaqs.gamespot.com/n64/196565-aidyn-chronicles-the-first-mage/faqs/11234){:target="_blank" rel="noopener noreferrer"}
 
 ## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
 
