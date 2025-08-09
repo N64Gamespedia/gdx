@@ -23,12 +23,12 @@ toc: false
 **Players:** 1 – 4  
 **Force Feedback:** No
 
-## Game Description
+## 🕹️ Game Description
 *All Star Tennis '99* is a simulation tennis game released in 1999 for the Nintendo 64. It was developed by [Smart Dog](https://en.wikipedia.org/w/index.php?title=Smart_Dog&action=edit&redlink=1){:target="_blank" rel="noopener noreferrer"} and published by [Ubi Soft](https://en.wikipedia.org/wiki/Ubisoft){:target="_blank" rel="noopener noreferrer"}. The featured player on the US and European versions is Michael Chang despite the French version featuring the image of Yannick Noah who, has his name above the title as **Yannick Noah All Star Tennis '99.** Yet the French version is the exact same as the EUR, with the only difference being the label change and image of Yannick Noah release and nothing else, that's right, "No appearance from Noah".
 
-## No Game Guide / Walkthrough
+## 📚 No Game Guide / Walkthrough
 
-## Video Playthrough by [N64 Archive](https://www.youtube.com/@N64Archive){:target="_blank" rel="noopener noreferrer"}
+## 🎥 Video Playthrough by [N64 Archive](https://www.youtube.com/@N64Archive){:target="_blank" rel="noopener noreferrer"}
 
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UL9s49RSrdo?si=KERMNLvZHs8OC3WH" title="All Star Tennis '99 Playthrough" frameborder="0" allowfullscreen></iframe>

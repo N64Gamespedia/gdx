@@ -21,10 +21,10 @@ toc: false
 **Players:** 1–2  
 **Force Feedback:** Yes
 
-## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/574480-airboarder-64/faqs/40814){:target="_blank" rel="noopener noreferrer"}
-
 ## 🕹️ Game Description
 *Air Boarder 64* is a futuristic hoverboard racing game that was released on the Nintendo 64 in Japan on March 27th, 1998. It was then released in Europe in November 1998 and was planned to be released under the name *AirBoardin' USA* in North America by [ASCII Entertainment](https://en.wikipedia.org/wiki/ASCII_Entertainment){:target="_blank" rel="noopener noreferrer"}, but was cancelled.
+
+## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/574480-airboarder-64/faqs/40814){:target="_blank" rel="noopener noreferrer"}
 
 ## 🎥 Video Playthrough by [DasRidray](https://www.youtube.com/channel/UCXZzdHC-sQBb2D5bcWuab5A){:target="_blank" rel="noopener noreferrer"}
 

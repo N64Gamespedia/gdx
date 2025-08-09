@@ -27,9 +27,7 @@ toc: false
 **Players:** 1  
 **Force Feedback:** Yes
 
-## [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196883-castlevania-legacy-of-darkness/faqs/6666){:target="_blank" rel="noopener noreferrer"}
-
-## Game Description
+## 🕹️ Game Description
 *Castlevania: Legacy of Darkness* (*Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell* in Japan) is an action-adventure platforming video game developed and published by [Konami](https://en.wikipedia.org/wiki/Konami){:target="_blank" rel="noopener noreferrer"} for the Nintendo 64. Released in North America on November 30, 1999, it serves as both a prequel and expanded version of the original *Castlevania* N64 game. It includes a remake of the original with improved graphics, new villains, and alternate level designs.
 
 ## Texture Packs Available {#texture-packs-available}
@@ -37,7 +35,9 @@ toc: false
 ### GlideN64 (Rice Format) {#gliden64-rice-format}
 This GlideN64 Rice Format pack from [gitech](http://www.emutalk.net/members/63108-gitech){:target="_blank" rel="noopener noreferrer"} is 98.3% complete with over 2800 textures. It’s a must-have for anyone playing *Castlevania*. Available at [N64Textures.com](https://www.n64textures.com/downloads){:target="_blank" rel="noopener noreferrer"} under [Castlevania LOD (gitech)](https://www.n64textures.com/downloads/#Castlevania%20LOD%20(gitech)){:target="_blank" rel="noopener noreferrer"}.
 
-## Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
+## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196883-castlevania-legacy-of-darkness/faqs/6666){:target="_blank" rel="noopener noreferrer"}
+
+## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
 
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1YhQWiq_lA" title="Castlevania: Legacy of Darkness Playthrough" frameborder="0" allowfullscreen></iframe>

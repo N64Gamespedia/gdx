@@ -25,10 +25,10 @@ toc: false
 **Players:** 1  
 **Force Feedback:** Yes
 
-## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196882-castlevania/faqs/44590){:target="_blank" rel="noopener noreferrer"}
-
 ## 🕹️ Game Description
 *Akumajou Dracula Mokushiroku* is the Japanese release of the first 3D entry in the *Castlevania* series, developed by [Konami Computer Entertainment Kobe](https://en.wikipedia.org/wiki/Konami#Former_subsidiaries){:target="_blank" rel="noopener noreferrer"} for the Nintendo 64. Players choose between Carrie Fernandez or Reinhardt Schneider as they explore Dracula’s castle to prevent his resurrection. The game was later expanded and re-released as *Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell*.
+
+## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196882-castlevania/faqs/44590){:target="_blank" rel="noopener noreferrer"}
 
 ## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
 
