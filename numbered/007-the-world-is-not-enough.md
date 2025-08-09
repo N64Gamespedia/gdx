@@ -26,7 +26,7 @@ toc: false
 ## 🕹️ Game Description  
 <em><strong>The World Is Not Enough</strong></em> is a first-person shooter video game developed by [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}, based on the 1999 <em>James Bond</em> film of the same name. Published by [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}, the game was released in October 2000 for the Nintendo 64.
 
-Players assume the role of MI6 agent James Bond in a single-player campaign to prevent a nuclear meltdown in Istanbul. The game includes a multiplayer mode supporting up to four players in classic deathmatches and objective-based missions.
+The game features a single-player campaign in which players assume the role of MI6 agent James Bond as he fights to stop a terrorist from triggering a nuclear meltdown in the waters of Istanbul. It includes a split-screen multiplayer mode where up to four players can compete in different types of deathmatch and objective-based games.
 
 **[Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs/37816){:target="_blank" rel="noopener noreferrer"}**
 
