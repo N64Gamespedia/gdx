@@ -13,7 +13,7 @@ toc: false
 </b>
 
 **Platform:** Nintendo 64  
-**Developer:** [Smart Dog](https://en.wikipedia.org/w/index.php?title=Smart_Dog&action=edit&redlink=1){:target="_blank" rel="noopener noreferrer"} *(Redlink)*  
+**Developer:** [Smart Dog](https://en.wikipedia.org/w/index.php?title=Smart_Dog&action=edit&redlink=1){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Ubisoft](https://en.wikipedia.org/wiki/Ubisoft){:target="_blank" rel="noopener noreferrer"}  
 **Release Date (NTSC-USA):** August 31st, 1999  
 **Release Date (PAL-EUR):** June 25th, 1999  
@@ -24,9 +24,9 @@ toc: false
 **Force Feedback:** No
 
 ## Game Description
-*All Star Tennis '99* is a simulation tennis game released in 1999 for the Nintendo 64. Developed by *Smart Dog* and published by *Ubisoft*, the game features professional tennis player **Michael Chang** on the US and European covers. In France, the game was rebranded as **Yannick Noah All Star Tennis '99**, with Noah’s name above the title—but notably, he does **not** appear in the game.
+*All Star Tennis '99* is a simulation tennis game released in 1999 for the Nintendo 64. It was developed by [Smart Dog](https://en.wikipedia.org/w/index.php?title=Smart_Dog&action=edit&redlink=1){:target="_blank" rel="noopener noreferrer"} and published by [Ubi Soft](https://en.wikipedia.org/wiki/Ubisoft){:target="_blank" rel="noopener noreferrer"}. The featured player on the US and Europe & French versions are Michael Chang despite the French version featuring the player is Yannick Noah who, has his name above the title as **Yannick Noah All Star Tennis '99.** Yet the French version is the exact same as the EUR, with the only difference being the label change for the Yannick Noah release and nothing else, that's right, "No appearance from Noah".
 
-Despite the label change, the French version is identical to the European release in gameplay and content.
+## No Game Guide / Walkthrough
 
 ## Video Playthrough by [N64 Archive](https://www.youtube.com/@N64Archive){:target="_blank" rel="noopener noreferrer"}
 
