@@ -22,7 +22,7 @@ Explore all N64 titles starting with the letter A, from *A Bug’s Life* to *Aut
 |---|---|
 | [Aidyn Chronicles: The First Mage](a/aidyn-chronicles) | [Air Boarder 64](a/air-boarder-64) |
 
-| <a href="a/akumajou-dracula-mokushiroku"><img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Castlevania_N64_Cover.jpg" width="320" height="240" alt="Akumajou Dracula"/></a> | <a href="a/akumajou-dracula-gaiden"><img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Castlevania_Legacy_of_Darkness_Cover.jpg" width="320" height="240" alt="Akumajou Dracula Gaiden"/></a> |
+| <a href="a/akumajou-dracula-mokushiroku"><img src="https://images.launchbox-app.com/aa7a3f27-700d-412a-8db2-2f755cb91ef5.png" width="320" height="240" alt="Akumajou Dracula"/></a> | <a href="a/akumajou-dracula-gaiden"><img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Castlevania_Legacy_of_Darkness_Cover.jpg" width="320" height="240" alt="Akumajou Dracula Gaiden"/></a> |
 |---|---|
 | [Akumajou Dracula Mokushiroku](a/akumajou-dracula) | [Akumajou Dracula Mokushiroku Gaiden](a/akumajou-dracula-gaiden) |
 
