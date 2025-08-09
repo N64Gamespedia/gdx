@@ -19,8 +19,11 @@ toc: false
 **Genre:** Racing / Futuristic / Hovercraft  
 **Players:** 1–2  
 **Force Feedback:** No  
-**Language Patch Available:** 🇧🇷 [Portuguese](#translations-available)  
-**Texture Pack Available:** [Jabo 1.7 Format](#jabo-17-format), [GlideN64 Format](#gliden64-format)
+**Language Patch Available:**
+🇧🇷 [Portuguese](#translations-available)  
+**Texture Pack Available:**
+[Jabo 1.7 Format](#jabo-17-format)
+[GlideN64 Format](#gliden64-format)
 
 ## 🕹️ Game Description
 <em><strong>Aerogauge</strong></em> is a futuristic hovercraft racing game set in Asia during the year 2065. Players race high-speed Aeromachines across six tracks, four of which are available from the start. Additional tracks and vehicles are unlocked through Grand Prix and Time Attack modes. Vehicles can take damage, which affects performance and may lead to retirement unless repaired by flying through shield regeneration zones. Tracks feature vertical loops, upside-down segments, and obstacles that challenge reflexes and control. The game includes single-player and two-player modes, with a unique drift boost mechanic essential for victory.
