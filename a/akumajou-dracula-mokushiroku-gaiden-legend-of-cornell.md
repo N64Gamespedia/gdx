@@ -15,9 +15,9 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Konami Computer Entertainment Kobe](https://en.wikipedia.org/wiki/Konami#Former_subsidiaries){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Konami](https://en.wikipedia.org/wiki/Konami){:target="_blank" rel="noopener noreferrer"}  
-**Release Date (NTSC-USA):** November 30th, 1999 (*Castlevania: Legacy of Darkness*)  
-**Release Date (NTSC-JPN):** December 25th, 1999 (*Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell*)  
-**Release Date (PAL-EUR):** March 3rd, 2000 (*Castlevania: Legacy of Darkness*)  
+**Release Date (NTSC-USA):** November 30th, 1999 (*Castlevania: Legacy of Darkness*)    
+**Release Date (NTSC-JPN):** December 25th, 1999 (*Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell*)    
+**Release Date (PAL-EUR):** March 3rd, 2000 (*Castlevania: Legacy of Darkness*)    
 [**Texture Pack Available:**](#texture-packs-available)<br>  
 [GlideN64-Rice Format](#gliden64-rice-format)<br>  
 **Genre:** Adventure / 3D Platformer  
