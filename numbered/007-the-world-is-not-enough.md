@@ -33,10 +33,10 @@ The game features a single-player campaign in which players assume the role of M
 ## <a name="translations-available"></a>Translations Available
 
 ### <a name="portuguese-translation"></a>**Language:** 🇧🇷 Portuguese  
-*007: The World Is Not Enough (EUR)* has been fan-translated into Portuguese by **mikesuper666**. The patch uses the `.Xdelta` format and was released on **30 June 2022**. It hasn’t been 100% proofread and some of the fonts don’t support accents. Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/6595/){:target="_blank" rel="noopener noreferrer"}.
+*007: The World Is Not Enough (EUR)* has been fan-translated into Portuguese by [**mikesuper666**](https://www.romhacking.net/community/7551/){:target="_blank" rel="noopener noreferrer"}. The patch uses the `.Xdelta` format and was released on **30 June 2022**. It hasn’t been 100% proofread and some of the fonts don’t support accents. Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/6595/){:target="_blank" rel="noopener noreferrer"}.
 
 ### <a name="spanish-translation"></a>**Language:** 🇪🇸 Spanish  
-*007: The World Is Not Enough (EUR)* has been fan-translated into Spanish by **Traducciones del Tío Víctor**. The patch uses the `.Xdelta` format and was released on **6 January 2015**. Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/2302/){:target="_blank" rel="noopener noreferrer"}.
+*007: The World Is Not Enough (EUR)* has been fan-translated into Spanish by [**Traducciones del Tío Víctor**](https://www.romhacking.net/community/1617/){:target="_blank" rel="noopener noreferrer"}. The patch uses the `.Xdelta` format and was released on **6 January 2015**. Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/2302/){:target="_blank" rel="noopener noreferrer"}.
 
 ## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
 <br />
