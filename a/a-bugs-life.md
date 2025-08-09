@@ -22,9 +22,7 @@ toc: false
 ---
 
 ## 🕹️ Game Description
-<b>
 <em><strong>A Bug's Life</strong></em> is a platform game for the Nintendo 64 based on the Disney/Pixar film of the same name. It was released in Europe on January 1, 1999 and in North America on April 30, 1999. The player controls Flik, a small ant who must save his colony from a gang of enemy grasshoppers. The game features five distinct worlds, each with multiple levels, and includes mechanics such as collecting grain, upgrading berries, and growing plants to aid in traversal and combat.
-</b>
 
 ---
 
