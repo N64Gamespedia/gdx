@@ -17,14 +17,14 @@ toc: false
 **Genre:** Board Game / Strategy  
 **Players:** 1  
 **Force Feedback:** No  
-[**Language Patch Available:**](#translations-available)<br>🇺🇸 English
+[**Language Patch Available:**](#translations-available)<br>[🇺🇸 English](#language-english)
 
 ## 🕹️ Game Description
 *AI Shogi 3* is a Nintendo 64 video board game released exclusively in Japan on December 18th, 1998. It simulates the traditional Japanese game of Shogi, offering AI opponents and a clean interface for strategic play. No multiplayer or story mode is included.
 
 ## Translations Available {#translations-available}
 
-### Language: 🇺🇸 English {#language-english}
+### Language: [🇺🇸 English](#language-english) {#language-english}
 *AI Shogi 3* has been fan-translated into English by [GammaTrove](https://www.romhacking.net/community/8548/){:target="_blank" rel="noopener noreferrer"}.  
 The patch uses the `.xdelta` format and was released on 17 March 2024.  
 It is fully playable and localizes all menus and gameplay text.  
