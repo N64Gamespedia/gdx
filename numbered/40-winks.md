@@ -36,7 +36,7 @@ _**40 Winks**_ is a dream-fueled 3D platformer starring siblings **Ruff and Tumb
 
 The game blends light combat, puzzle solving, and collectible hunting. You’ll gather Z tokens (to stay asleep), moon tokens (to scream at enemies), dream keys (to unlock boss doors), and mechanical cogs (to open passages). Originally cancelled on N64, *40 Winks* was resurrected by Piko Interactive in 2018, complete with a 2-player co-op mode exclusive to the cartridge release.
 
-**[Game Guide / Walkthrough](https://gamefaqs.gamespot.com/ps/196519-40-winks/faqs/18903){:target="_blank" rel="noopener noreferrer"}**
+## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/ps/196519-40-winks/faqs/18903){:target="_blank" rel="noopener noreferrer"}
 
 ## 🎥 Video Playthrough by [Christian MJ](https://www.youtube.com/channel/UC3C1b82ZVFwfQ9QKYREZrmg){:target="_blank" rel="noopener noreferrer"}
 

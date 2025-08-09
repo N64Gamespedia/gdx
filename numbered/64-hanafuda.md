@@ -22,7 +22,8 @@ toc: false
 ## 🕹️ Game Description  
 <em><strong>64 Hanafuda: Tenshi no Yakusoku</strong></em> is a card game developed and published by [Altron](https://gamicus.gamepedia.com/Altron){:target="_blank" rel="noopener noreferrer"} for the Nintendo 64. It was released exclusively in Japan on November 5, 1999.
 
-**No Game Guide / Walkthrough Available**  
+## 📚 **No Game Guide / Walkthrough Available**  
+
 ## 🎥 Video Gameplay Sample by [N64th Street](https://www.youtube.com/channel/UCiNQhAHcX6KiD0OvJtJ3kRQ){:target="_blank" rel="noopener noreferrer"}
 
 <br />
