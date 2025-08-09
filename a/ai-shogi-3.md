@@ -8,33 +8,38 @@ toc: false
 
 # AI Shogi 3
 <b>
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://images.launchbox-app.com/a9743204-e4b1-4c39-8a2b-24ae367c9a32.png" alt="AI Shogi 3 Box Art" width="330" height="224" />
-</div>
+<img src="https://images.launchbox-app.com/a9743204-e4b1-4c39-8a2b-24ae367c9a32.png" alt="AI Shogi 3 Box Art" style="object-fit:cover;width:330px;height:224px"/>
+</b>
 
 **Developer:** I4  
-**Publisher:** I4
-
-**NTSC (JP) Release Date:** December 18th, 1998  
+**Publisher:** I4  
+**Release Date (NTSC-JPN):** December 18, 1998  
 **Genre:** Board Game / Strategy  
 **Players:** 1  
-**Force Feedback:** No
-
----
+**Force Feedback:** No  
+[**Language Patch Available:**](#translations-available)<br>🇺🇸 English
 
 ## 🕹️ Game Description
-<b>
-_**AI Shogi 3**_ is a traditional Japanese board game simulation released exclusively in Japan for the Nintendo 64. Developed and published by I4, it offers a minimalist digital version of Shogi — often referred to as Japanese chess.
+*AI Shogi 3* is a Nintendo 64 video board game released exclusively in Japan on December 18th, 1998. It simulates the traditional Japanese game of Shogi, offering AI opponents and a clean interface for strategic play. No multiplayer or story mode is included.
 
-The game includes basic features such as CPU vs. player matches, customizable backgrounds, and editable starting piece positions. A helpful addition is the ability to preview legal moves for each piece, making it slightly more accessible than earlier Shogi titles. While it lacks tutorials or flashy presentation, it remains a niche curiosity for fans of strategic board games.
+## Translations Available {#translations-available}
 
----
+### Language: 🇺🇸 English {#language-english}
+*AI Shogi 3* has been fan-translated into English by [GammaTrove](https://www.romhacking.net/community/8548/){:target="_blank" rel="noopener noreferrer"}.  
+The patch uses the `.xdelta` format and was released on 17 March 2024.  
+It is fully playable and localizes all menus and gameplay text.  
+Compatible with Project64 and Mupen64Plus.  
+ROM match: *AI Shougi 3 (Japan)* — No-Intro verified.  
+Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/7249/){:target="_blank" rel="noopener noreferrer"}.
 
-## 📚 No Game Guide / Walkthrough
+## 📚 Game Guide / Walkthrough
+**None available**
 
----
+## 🎥 Video Gameplay Sample by [N64 Previews](https://www.youtube.com/channel/UCBMuzqWDTcvPeEHaFYgfavQ){:target="_blank" rel="noopener noreferrer"}  
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FmodigwSlFU?start=7" title="AI Shogi 3 – Gameplay Sample by N64 Previews" frameborder="0" allowfullscreen></iframe>
 
-## ▶️ Video Gameplay Sample by [N64 Previews](https://www.youtube.com/channel/UCBMuzqWDTcvPeEHaFYgfavQ){:target="_blank" rel="noopener noreferrer"}
-<b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FmodigwSlFU?start=7" title="AI Shogi 3 - N64 Previews" frameborder="0" allowfullscreen></iframe>
-<b>
+🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
+
+<!-- Vault Format: n64gamespedia-dev -->
+<!-- Protocol Source: _vault-specs/format-protocol.md -->
