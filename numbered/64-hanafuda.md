@@ -29,5 +29,7 @@ toc: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FpS3_D5adn0" title="64 Hanafuda: Tenshi no Yakusoku – Gameplay Sample" frameborder="0" allowfullscreen></iframe>
 
+🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
+
 <!-- Vault Format: n64gamespedia-dev -->
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
