@@ -1,6 +1,6 @@
 ---
 title: "All Star Tennis '99"
-nav_order: 2
+nav_order: 9
 parent: "A-Titles"
 layout: default
 toc: false
