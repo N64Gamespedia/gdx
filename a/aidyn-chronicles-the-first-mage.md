@@ -27,17 +27,14 @@ toc: false
 
 ## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
 
-### Part 1 
 <br /> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6WTSByrtnH4" title="Aidyn Chronicles Longplay Part 1" frameborder="0" allowfullscreen></iframe>  
 Longplay of Aidyn Chronicles: The First Mage (1/3
 
-### Part 2  
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zKnkcck8hl8" title="Aidyn Chronicles Longplay Part 2" frameborder="0" allowfullscreen></iframe>  
 Longplay of Aidyn Chronicles: The First Mage (2/3)
 
-### Part 3 
 <br /> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SeVy1qfWLFo" title="Aidyn Chronicles Longplay Part 3" frameborder="0" allowfullscreen></iframe>  
 Longplay of Aidyn Chronicles: The First Mage (3/3)
