@@ -20,6 +20,7 @@ toc: false
 **Genre:** Action / First-Person Shooter  
 **Players:** 1–4  
 **Force Feedback:** Yes  
+[**Language Patch Available:**](#translations-available) [🇧🇷 Portuguese](#portuguese-translation) / [🇪🇸 Spanish](#spanish-translation)
 
 ## 🕹️ Game Description  
 <em><strong>The World Is Not Enough</strong></em> is a first-person shooter video game developed by [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}, based on the 1999 <em>James Bond</em> film of the same name. Published by [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}, the game was released in October 2000 for the Nintendo 64.
@@ -28,17 +29,17 @@ Players assume the role of MI6 agent James Bond in a single-player campaign to p
 
 **[Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs/37816){:target="_blank" rel="noopener noreferrer"}**
 
+## <a name="translations-available"></a>Translations Available
+
+### <a name="portuguese-translation"></a>**Language:** 🇧🇷 Portuguese  
+*007: The World Is Not Enough (EUR)* has been fan-translated into Portuguese by **mikesuper666**. The patch uses the `.Xdelta` format and was released on **30 June 2022**. It hasn’t been 100% proofread and some of the fonts don’t support accents. Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/6595/){:target="_blank" rel="noopener noreferrer"}.
+
+### <a name="spanish-translation"></a>**Language:** 🇪🇸 Spanish  
+*007: The World Is Not Enough (EUR)* has been fan-translated into Spanish by **Traducciones del Tío Víctor**. The patch uses the `.Xdelta` format and was released on **6 January 2015**. Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/2302/){:target="_blank" rel="noopener noreferrer"}.
+
 ## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ca1C-hDxAQA" title="007: The World Is Not Enough – Longplay Archive" frameborder="0" allowfullscreen></iframe>
-
-## Translations Available
-
-**Language:** 🇧🇷 Portuguese  
-*007: The World Is Not Enough (EUR)* has been fan-translated into Portuguese by **mikesuper666**. The patch uses the `.Xdelta` format and was released on **30 June 2022**. It hasn’t been 100% proofread and some of the fonts don’t support accents. Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/6595/){:target="_blank" rel="noopener noreferrer"}.
-
-**Language:** 🇪🇸 Spanish  
-*007: The World Is Not Enough (EUR)* has been fan-translated into Spanish by **Traducciones del Tío Víctor**. The patch uses the `.Xdelta` format and was released on **6 January 2015**. Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/2302/){:target="_blank" rel="noopener noreferrer"}.
 
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
 
