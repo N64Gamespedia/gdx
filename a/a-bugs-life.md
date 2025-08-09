@@ -32,9 +32,10 @@ toc: false
 
 ---
 
-## ▶️ Video Playthrough by [Gaming Exhibit](https://www.youtube.com/channel/UCnpTNnBBzxLjwM6en8eKy3A){:target="_blank" rel="noopener noreferrer"}
+## 🎥 Video Playthrough by [Gaming Exhibit](https://www.youtube.com/channel/UCnpTNnBBzxLjwM6en8eKy3A){:target="_blank" rel="noopener noreferrer"}
 <b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D43ZI_2YSCk" title="A Bug's Life – Full Playthrough by Gaming Exhibit" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D43ZI_2YSCk" title="A Bug's Life – Full Playthrough by Gaming Exhibit" frameborder="0" allowfullscreen></iframe><br>
+<a href="https://www.youtube.com/watch?v=D43ZI_2YSCk" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
 </b>
 
 <!-- Vault Format: n64gamespedia-dev -->
