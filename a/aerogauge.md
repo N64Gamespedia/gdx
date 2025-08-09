@@ -19,11 +19,10 @@ toc: false
 **Genre:** Racing / Futuristic / Hovercraft  
 **Players:** 1–2  
 **Force Feedback:** No  
-[**Language Patch Available:**](#translations-available)
-[🇧🇷 Portuguese](#portuguese-translation)
-
-[**Texture Pack Available:**](#texture-packs-available)  
-[Jabo 1.7 Format](#jabo-17-format)
+[**Language Patch Available:**](#translations-available)<br>
+[🇧🇷 Portuguese](#portuguese-translation)<br>
+[**Texture Pack Available:**](#texture-packs-available)<br>
+[Jabo 1.7 Format](#jabo-17-format)<br>
 [GlideN64 Format](#gliden64-format)
 
 ## 🕹️ Game Description
