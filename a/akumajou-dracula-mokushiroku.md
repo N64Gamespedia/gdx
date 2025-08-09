@@ -14,9 +14,12 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Konami Computer Entertainment Kobe](https://en.wikipedia.org/wiki/Konami#Former_subsidiaries){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Konami](https://en.wikipedia.org/wiki/Konami){:target="_blank" rel="noopener noreferrer"}  
-**Release Date (NTSC-JPN):** March 11th, 1999  (*Akumajou Dracula Mokushiroku*)    
-**Release Date (NTSC-USA):** January 26th, 1999 (*Castlevania*)    
-**Release Date (PAL-EUR):** May 14th, 1999 (*Castlevania*)    
+**Release Date (NTSC-JPN):** March 11th, 1999    
+(*Akumajou Dracula Mokushiroku*)    
+**Release Date (NTSC-USA):** January 26th, 1999    
+(*Castlevania*)    
+**Release Date (PAL-EUR):** May 14th, 1999    
+(*Castlevania*)    
 **Genre:** Adventure / 3D Platformer  
 **Players:** 1  
 **Force Feedback:** Yes
