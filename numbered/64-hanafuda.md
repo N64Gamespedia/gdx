@@ -25,6 +25,8 @@ toc: false
 **No Game Guide / Walkthrough Available**  
 ## 🎥 Video Gameplay Sample by [N64th Street](https://www.youtube.com/channel/UCiNQhAHcX6KiD0OvJtJ3kRQ){:target="_blank" rel="noopener noreferrer"}
 
+<br />
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FpS3_D5adn0" title="64 Hanafuda: Tenshi no Yakusoku – Gameplay Sample" frameborder="0" allowfullscreen></iframe>
 
 <!-- Vault Format: n64gamespedia-dev -->

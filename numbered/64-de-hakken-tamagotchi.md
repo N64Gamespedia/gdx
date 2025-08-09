@@ -30,6 +30,8 @@ No official game guide or walkthrough is available.
 
 ## 🎥 Video Gameplay Sample by [Vysethedetermined2](https://www.youtube.com/channel/UC27iiSqJk1HfPy1MruJfi9A){:target="_blank" rel="noopener noreferrer"}
 
+<br />
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pp1vEghPmZI" title="64 de Hakken!! Tamagotchi Gameplay" frameborder="0" allowfullscreen></iframe>
 
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
