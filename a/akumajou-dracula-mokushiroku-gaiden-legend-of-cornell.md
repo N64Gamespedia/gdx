@@ -1,12 +1,12 @@
 ---
-title: "Castlevania: Legacy of Darkness"
-nav_order: 9
-parent: "C-Titles"
+title: "Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell"
+nav_order: 8
+parent: "A-Titles"
 layout: default
 toc: false
 ---
 
-# Castlevania: Legacy of Darkness
+# Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell
 <b>
 <img src="https://upload.wikimedia.org/wikipedia/en/3/37/Castlevania_Legacy_of_Darkness.jpg" alt="Castlevania: Legacy of Darkness NTSC-USA Box Art" style="object-fit:cover;width:320px;height:224px"/>
 <img src="https://images.launchbox-app.com/53783cb5-b5a8-4a98-b79f-1e3c8b184da4.png" alt="Akumajou Dracula Mokushiroku Gaiden NTSC-JP Box Art" style="object-fit:cover;width:320px;height:224px"/>
