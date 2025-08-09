@@ -23,7 +23,9 @@ toc: false
 <em><strong>64 Ōzumō</strong></em> (64大相撲, <em>Rokujūyon Ōzumō</em>, lit. <em>64 Professional Sumo Wrestling</em>) is a sumo wrestling game for the Nintendo 64, released exclusively in Japan in 1997. The gameplay simulates various aspects of a sumo wrestler's life, including diet, training, and tournament progression. The game is entirely in Japanese.
 
 **No Game Guide / Walkthrough Available**  
-**Video Gameplay Sample by [Game Archive – No Commentary Gameplay](https://www.youtube.com/channel/UCsqOoOg7VbHJmw8jQ75odkg){:target="_blank" rel="noopener noreferrer"}**
+## 🎥 Video Gameplay Sample by [Game Archive – No Commentary Gameplay](https://www.youtube.com/channel/UCsqOoOg7VbHJmw8jQ75odkg){:target="_blank" rel="noopener noreferrer"}
+
+<br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LEY4HrslVas?start=7" title="64 Ōzumō – Gameplay Sample" frameborder="0" allowfullscreen></iframe>
 
