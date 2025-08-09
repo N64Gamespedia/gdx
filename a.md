@@ -18,7 +18,7 @@ Explore all N64 titles starting with the letter A, from *A Bug’s Life* to *Aut
 |---|---|
 | [AeroGauge](a/aerogauge) | [AI Shogi 3](a/ai-shogi-3) |
 
-| <a href="a/aidyn-chronicles"><img src="https://upload.wikimedia.org/wikipedia/en/7/7e/Aidyn_Chronicles_-_The_First_Mage_Coverart.png" width="320" height="240" alt="Aidyn Chronicles"/></a> | <a href="a/air-boarder-64"><img src="https://images.launchbox-app.com/3f3c1e3e-2f3e-4e7f-9f2f-2b3b3e3f3e3f.png" width="320" height="240" alt="Air Boarder 64"/></a> |
+| <a href="a/aidyn-chronicles"><img src="https://upload.wikimedia.org/wikipedia/en/6/62/Aidyn_Chronicles-_The_First_Mage_game_cover.jpg" width="320" height="240" alt="Aidyn Chronicles"/></a> | <a href="a/air-boarder-64"><img src="https://vignette.wikia.nocookie.net/nintendo/images/7/78/AirBoarder_64_(EU).jpg/revision/latest?cb=20090707144955&path-prefix=en" width="320" height="240" alt="Air Boarder 64"/></a> |
 |---|---|
 | [Aidyn Chronicles: The First Mage](a/aidyn-chronicles) | [Air Boarder 64](a/air-boarder-64) |
 
