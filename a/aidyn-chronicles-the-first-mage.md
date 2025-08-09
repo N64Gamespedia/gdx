@@ -11,18 +11,17 @@ toc: false
 <img src="https://upload.wikimedia.org/wikipedia/en/6/62/Aidyn_Chronicles-_The_First_Mage_game_cover.jpg" alt="Aidyn Chronicles Box Art" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
+**Platform:** Nintendo 64  
 **Developer:** [H2O Interactive](https://en.wikipedia.org/w/index.php?title=H2O_Interactive&action=edit&redlink=1){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [THQ](https://en.wikipedia.org/wiki/THQ){:target="_blank" rel="noopener noreferrer"}  
-**Release Date (NTSC-USA):** March 14, 2001  
-**Release Date (PAL-EUR):** August 3, 2001  
+**Release Date (NTSC-USA):** March 14th, 2001  
+**Release Date (PAL-EUR):** August 3rd, 2001  
 **Genre:** Adventure / Role Playing  
 **Players:** 1  
 **Force Feedback:** No
 
 ## 🕹️ Game Description
-*Aidyn Chronicles: The First Mage* is a single-player RPG for the Nintendo 64. The story unfolds in a world divided between the **spirit plane** (source of magic) and the **mundane plane** (where mortals live). When a person discovers their magical **true name**, they can unite both forms and unlock immense power.
-
-You play as **Alaron**, a poisoned squire who must uncover his identity and destiny. The game features turn-based combat, real-time exploration, and permanent death for party members — making strategic choices essential.
+*Aidyn Chronicles: The First Mage* is a role-playing video game developed by Canadian studio [H2O Interactive](https://en.wikipedia.org/w/index.php?title=H2O_Interactive&action=edit&redlink=1){:target="_blank" rel="noopener noreferrer"} and published by [THQ](https://en.wikipedia.org/wiki/THQ){:target="_blank" rel="noopener noreferrer"} and released on the Nintendo 64 in March 14th, 2001. The story is built around the concept of a universe with two places: the spirit plane (the source of magic) and the mundane plane (where mortals live). Once a person discovers their magical true name, they are able to unite their spirit and mundane forms, thereby unlocking unlimited power.
 
 ## Translations Available {#translations-available}
 
