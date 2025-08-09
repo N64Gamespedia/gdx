@@ -18,7 +18,7 @@ toc: false
 **Release Date (NTSC-JPN):** March 27th, 1998  
 **Release Date (PAL-EUR):** November 1998  
 **Genre:** Adventure / Role Playing  
-**Players:** 1–2
+**Players:** 1–2  
 **Force Feedback:** Yes
 
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/574480-airboarder-64/faqs/40814){:target="_blank" rel="noopener noreferrer"}
