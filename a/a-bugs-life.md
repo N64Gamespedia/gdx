@@ -19,24 +19,15 @@ toc: false
 **Players:** 1  
 **Force Feedback:** Yes
 
----
-
 ## 🕹️ Game Description
 <em><strong>A Bug's Life</strong></em> is a platform game for the Nintendo 64 based on the Disney/Pixar film of the same name. It was released in Europe on January 1, 1999 and in North America on April 30, 1999. The player controls Flik, a small ant who must save his colony from a gang of enemy grasshoppers. The game features five distinct worlds, each with multiple levels, and includes mechanics such as collecting grain, upgrading berries, and growing plants to aid in traversal and combat.
 
----
-
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196523-a-bugs-life/faqs/61928){:target="_blank" rel="noopener noreferrer"}
 
----
-
-## 🎥 Video Playthrough by [Gaming Exhibit](https://www.youtube.com/channel/UCnpTNnBBzxLjwM6en8eKy3A){:target="_blank" rel="noopener noreferrer"}
-<b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D43ZI_2YSCk" title="A Bug's Life – Full Playthrough by Gaming Exhibit" frameborder="0" allowfullscreen></iframe>
-</b><br>
+## 🎥 Video Playthrough by [Gaming Exhibit](https://www.youtube.com/channel/UCnpTNnBBzxLjwM6en8eKy3A){:target="_blank" rel="noopener noreferrer"}  
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D43ZI_2YSCk" title="A Bug's Life – Full Playthrough by Gaming Exhibit" frameborder="0" allowfullscreen></iframe><br>
 <a href="https://www.youtube.com/watch?v=D43ZI_2YSCk" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
-
----
 
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
 
