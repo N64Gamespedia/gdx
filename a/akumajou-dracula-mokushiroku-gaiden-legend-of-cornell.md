@@ -19,7 +19,8 @@ toc: false
 (*Castlevania: Legacy of Darkness*)    
 **Release Date (NTSC-JPN):** December 25th, 1999    
 (*Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell*)    
-**Release Date (PAL-EUR):** March 3rd, 2000 (*Castlevania: Legacy of Darkness*)    
+**Release Date (PAL-EUR):** March 3rd, 2000    
+(*Castlevania: Legacy of Darkness*)    
 [**Texture Pack Available:**](#texture-packs-available)    
 [GlideN64-Rice Format](#gliden64-rice-format)    
 **Genre:** Adventure / 3D Platformer  
