@@ -22,7 +22,7 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 |---|---|
 | [Banjo-Kazooie](b/banjo-kazooie) | [Banjo-Tooie](b/banjo-tooie) |
 
-| <a href="b/bass-hunter-64"><img src="media/usa/In-Fisherman-Bass-Hunter-64-(USA).png" width="320" height="240" alt="Bass Hunter 64"/></a> | <a href="b/bass-masters-2000"><img src="media/usa/bass-masters-2000.jpg" width="320" height="240" alt="Bass Masters 2000"/></a> |
+| <a href="b/bass-hunter-64"><img src="media/usa/In-Fisherman-Bass-Hunter-64-(USA).png" width="320" height="240" alt="Bass Hunter 64"/></a> | <a href="b/bass-masters-2000"><img src="media/usa/Bassmasters-2000-(USA).png" width="320" height="240" alt="Bass Masters 2000"/></a> |
 |---|---|
 | [Bass Hunter 64](b/bass-hunter-64) | [Bass Masters 2000](b/bass-masters-2000) |
 
