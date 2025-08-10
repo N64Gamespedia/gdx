@@ -31,6 +31,7 @@ Explore all N64 titles starting with the letter B, from *Banjo-Kazooie* to *Bust
 | <a href="b/bomberman-hero-mirian-oujo-wo-sukue"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/refs/heads/main/media/jp/bomberman-hero-mirian-oujo-wo-sukue.png" width="320" height="240" alt="Bomberman Hero: Mirian Oujo wo Sukue!"/></a> | <a href="b/puzzle-bobble-64"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/refs/heads/main/media/jp/puzzle-bobble-64.png" width="320" height="240" alt="Puzzle Bobble 64"/></a> |
 |---|---|
 | [Bomberman Hero: Mirian Oujo wo Sukue!](b/bomberman-hero-mirian-oujo-wo-sukue) | [Puzzle Bobble 64](b/puzzle-bobble-64) |
-| <a href="b/bust-a-move-99"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/refs/heads/main/media/eur/bust-a-move-99.png" width="320" height="240" alt="Bust-A-Move ’99"/></a> |
-|---|
-| [Bust-A-Move ’99](b/bust-a-move-99) |
+| <a href="b/bust-a-move-99"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/refs/heads/main/media/usa/bust-a-move-99.png" width="320" height="240" alt="Bust-A-Move ’99"/></a> | <a href="b/bust-a-move-3-dx"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/refs/heads/main/media/eur/bust-a-move-3-dx.jpg" width="320" height="240" alt="Bust-A-Move 3 DX"/></a> |
+|---|---|
+| [Bust-A-Move ’99](b/bust-a-move-99) | [Bust-A-Move 3 DX](b/bust-a-move-3-dx) |
+
