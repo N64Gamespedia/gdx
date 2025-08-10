@@ -9,7 +9,8 @@ baku-bomberman.png
 bakuretsu-muteki-bangai-o.png
 bakusho-jinsei-64.png
 banjo-to-kazooie-no-daiboken-2.png
-banjo-to-kazooie-no-daiboken.png
+banjo-to-kazooie-no-daiboken.pngv
+bass-rush-ecogear-powerworm-championship.png
 biohazard-2.jpg
 blast-dozer.png
 bokujo-monogatari-2.png
