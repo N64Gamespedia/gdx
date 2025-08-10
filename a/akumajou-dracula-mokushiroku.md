@@ -9,7 +9,7 @@ toc: false
 # Akumajou Dracula Mokushiroku
 <b>
 <img src="https://images.launchbox-app.com/aa7a3f27-700d-412a-8db2-2f755cb91ef5.png" alt="Akumajou Dracula Mokushiroku NTSC-JP Box Art" style="object-fit:cover;width:320px;height:224px"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/0/0b/Castlevania_(Nintendo_64).jpg" alt="Castlevania NTSC-USA Box Art" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Castlevania-(USA)-(Rev-B).png" alt="Castlevania NTSC-USA Box Art" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  

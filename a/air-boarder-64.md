@@ -8,7 +8,7 @@ toc: false
 
 # Air Boarder 64
 <b>
-<img src="https://vignette.wikia.nocookie.net/nintendo/images/7/78/AirBoarder_64_(EU).jpg/revision/latest?cb=20090707144955&amp;path-prefix=en" alt="Air Boarder 64 Box Art" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/eur/Air-Boarder-64-(Europe).png" alt="Air Boarder 64 Box Art" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  
