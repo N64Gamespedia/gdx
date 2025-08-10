@@ -22,7 +22,7 @@ toc: false
 **Release Date (PAL-CHN):** June 1, 2006    
 *(Animal Crossing – iQue)*  
 [**Language Patch Available:**](#translations-available)<br> 
-[🇺🇸 English](#english-translation)  
+🇺🇸 [English](#english-translation)  
 **Genre:** Simulation / Living / Social  
 **Players:** 1  
 **Force Feedback:** No  
