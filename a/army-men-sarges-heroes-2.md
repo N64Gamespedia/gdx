@@ -9,7 +9,7 @@ toc: false
 # Army Men: Sarge's Heroes 2
 
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Army-Men--Sarges-Heroes-2-(USA).png" alt="Army Men: Sarge's Heroes 2 Box Art (USA)" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Army-Men--Sarge's-Heroes-2-(USA).png" alt="Army Men: Sarge's Heroes 2 Box Art (USA)" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  
