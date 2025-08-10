@@ -45,7 +45,7 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 |---|---|
 | [Bio F.R.E.A.K.S.](b/bio-freaks) | [Biohazard 2 / Resident Evil 2](b/biohazard-2) |
 
-| <a href="b/blast-corps"><img src="media/usa/Blast-Corps-(USA)-(Rev-A).png" width="320" height="240" alt="Blast Corps"/></a> | <a href="b/blues-brothers-2000"><img src="media/usa/blues-brothers-2000.jpg" width="320" height="240" alt="Blues Brothers 2000"/></a> |
+| <a href="b/blast-corps"><img src="media/usa/Blast-Corps-(USA)-(Rev-A).png" width="320" height="240" alt="Blast Corps"/></a> | <a href="b/blues-brothers-2000"><img src="media/usa/Blues-Brothers-2000-(USA).png" width="320" height="240" alt="Blues Brothers 2000"/></a> |
 |---|---|
 | [Blast Corps / Blast Dozer](b/blast-corps) | [Blues Brothers 2000](b/blues-brothers-2000) |
 | <a href="b/body-harvest"><img src="media/usa/Body-Harvest-(USA).png" width="320" height="240" alt="Body Harvest"/></a> | <a href="b/bokujo-monogatari-2"><img src="media/jp/bokujo-monogatari-2.png" width="320" height="240" alt="Bokujō Monogatari 2"/></a> |
