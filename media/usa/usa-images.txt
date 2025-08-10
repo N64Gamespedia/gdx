@@ -6,7 +6,6 @@
 AeroFighters-Assault-(USA).png
 AeroGauge-(USA).png
 Aidyn-Chronicles--The-First-Mage-(USA).png
-Air-Boarder-64-(Europe).png
 All-Star-Baseball-'99-(USA).png
 All-Star-Baseball-2000-(USA).png
 All-Star-Baseball-2001-(USA).png
@@ -52,7 +51,6 @@ Clay-Fighter--Sculptor's-Cut-(USA).png
 Clay-Fighter-63-1-3-(USA).PNG
 Command-&-Conquer-(USA).png
 Conker's-Bad-Fur-Day-(USA).png
-Copy file names.bat
 Cruis'n-Exotica-(USA).PNG
 Cruis'n-USA-(USA)-(Rev-B).png
 Cruis'n-World-(USA).png
@@ -87,7 +85,6 @@ FIFA-Soccer-64-(USA)-(En,Fr,De).PNG
 Fighter-Destiny-2-(USA).PNG
 Fighters-Destiny-(USA).PNG
 Fighting-Force-64-(USA).PNG
-filenames.txt
 Flying-Dragon-(USA).PNG
 Forsaken-64-(USA).PNG
 Fox-Sports-College-Hoops-'99-(USA).PNG

@@ -4,4 +4,5 @@
 64-ozumo.png
 64-trump-collection.png
 ai-shogi-3.png
+dobutsu-no-mori.png
 sonic-wings.png
