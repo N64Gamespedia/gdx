@@ -10,11 +10,11 @@ has_toc: false
 
 Explore all N64 titles starting with numbers, including 007: TWINE to 64 Trump Collection: Alice no Waku Waku Trump World.
 
-| <a href="numbered/007-the-world-is-not-enough"><img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/The_World_Is_Not_Enough_Coverart1.png" width="320" height="240" alt="007 TWINE"/></a> | <a href="numbered/007-twine-prototype-2020"><img src="https://www.project64-legacy.com/data/uploads/RDX/TWINE_%28Prototype_2020_Release%29.png" width="320" height="240" alt="007 TWINE Prototype"/></a> |
+| <a href="numbered/007-the-world-is-not-enough"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-The-World-Is-Not-Enough-(USA).png" width="320" height="240" alt="007 TWINE"/></a> | <a href="numbered/007-twine-prototype-2020"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/007-world-is-not-enough-prototype2020.png" width="320" height="240" alt="007 TWINE Prototype"/></a> |
 |---|---|
 | [007: The World Is Not Enough](numbered/007-the-world-is-not-enough) | [007: The World Is Not Enough (Prototype 2020)](numbered/007-twine-prototype-2020) |
 
-| <a href="numbered/1080-snowboarding"><img src="https://upload.wikimedia.org/wikipedia/en/0/04/1080snowboardingbox.jpg" width="320" height="240" alt="1080° Snowboarding"/></a> | <a href="numbered/40-winks"><img src="https://images.launchbox-app.com/96977e70-0f18-45d3-8298-8f42df3e4b8b.jpg" width="320" height="240" alt="40 Winks"/></a> |
+| <a href="numbered/1080-snowboarding"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/" width="320" height="240" alt="1080° Snowboarding"/></a> | <a href1080-snowboarding.png="numbered/40-winks"><img src="https://images.launchbox-app.com/96977e70-0f18-45d3-8298-8f42df3e4b8b.jpg" width="320" height="240" alt="40 Winks"/></a> |
 |---|---|
 | [1080° Snowboarding](numbered/1080-snowboarding) | [40 Winks](numbered/40-winks) |
 
