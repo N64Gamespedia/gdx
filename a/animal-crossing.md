@@ -8,13 +8,21 @@ toc: false
 
 # Animal Crossing  
 <b>  
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/chn/animal-crossing.png" alt="Animal Crossing Box Art" style="object-fit:cover;width:320px;height:224px"/>  
-</b>
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/chn/animal-crossing.png" alt="Animal Crossing Box Art (China)" style="object-fit:cover;width:320px;height:224px"/>  
+</b> 
+<b>  
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/dobutsu-no-mori.png" alt="Dobutsu no Mori Box Art (Japan)" style="object-fit:cover;width:320px;height:224px"/>  
+</b> 
+<b>  
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/trans/animal-crossing-(T-Eng).jpg" alt="Animal Crossing Fan Translation Cover" style="object-fit:cover;width:320px;height:224px"/>  
+</b>  
 
 **Developer:** [Nintendo EAD](https://en.wikipedia.org/wiki/Nintendo_Entertainment_Analysis_%26_Development){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Nintendo](https://en.wikipedia.org/wiki/Nintendo){:target="_blank" rel="noopener noreferrer"}  
-**Release Date (NTSC-JPN):** April 14, 2001 *(Dobutsu no Mori – N64)*  
-**Release Date (PAL-CHN):** June 1, 2006 *(Animal Crossing – iQue)*  
+**Release Date (NTSC-JPN):** April 14, 2001    
+*(Dobutsu no Mori – N64)*  
+**Release Date (PAL-CHN):** June 1, 2006    
+*(Animal Crossing – iQue)*  
 [**Language Patch Available:**](#translations-available)<br>  
 [🇺🇸 English](#english-translation)  
 **Genre:** Simulation / Living / Social  
