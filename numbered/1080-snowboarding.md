@@ -9,7 +9,7 @@ toc: false
 # 1080° Snowboarding
 
 <b>
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/04/1080snowboardingbox.jpg"
+  <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/1080-snowboarding.png"
        alt="1080° Snowboarding"
        width="320"
        height="224" />
