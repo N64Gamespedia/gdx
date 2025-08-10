@@ -6,3 +6,4 @@
 ai-shogi-3.png
 dobutsu-no-mori.png
 sonic-wings.png
+super-speed-race-64.png
