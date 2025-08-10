@@ -30,29 +30,29 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 |---|---|
 | [Bass Rush: ECOGEAR Powerworm Championship](b/bass-rush-ecogear-powerworm-championship) | [Batman Beyond: Return of the Joker](b/batman-beyond) |
 
-| <a href="b/batman-beyond"><img src="media/eur/batman-of-the-future.jpg" width="320" height="240" alt="Batman of the Future: Return of the Joker"/></a> | <a href="b/battletanx"><img src="media/usa/battletanx.jpg" width="320" height="240" alt="BattleTanx"/></a> |
+| <a href="b/batman-beyond"><img src="media/eur/batman-of-the-future.jpg" width="320" height="240" alt="Batman of the Future: Return of the Joker"/></a> | <a href="b/battletanx"><img src="media/usa/BattleTanx-(USA).png" width="320" height="240" alt="BattleTanx"/></a> |
 |---|---|
 | [Batman of the Future: Return of the Joker](b/batman-beyond) | [BattleTanx](b/battletanx) |
-| <a href="b/battletanx-global-assault"><img src="media/usa/battletanx-global-assault.jpg" width="320" height="240" alt="BattleTanx: Global Assault"/></a> | <a href="b/battlezone"><img src="media/usa/battlezone.jpg" width="320" height="240" alt="Battlezone: Rise of the Black Dogs"/></a> |
+| <a href="b/battletanx-global-assault"><img src="media/usa/BattleTanx--Global-Assault-(USA).png" width="320" height="240" alt="BattleTanx: Global Assault"/></a> | <a href="b/battlezone"><img src="media/usa/Battlezone--Rise-of-the-Black-Dogs-(USA).png" width="320" height="240" alt="Battlezone: Rise of the Black Dogs"/></a> |
 |---|---|
 | [BattleTanx: Global Assault](b/battletanx-global-assault) | [Battlezone: Rise of the Black Dogs](b/battlezone) |
 
-| <a href="b/beetle-adventure-racing"><img src="media/usa/beetle-adventure-racing.jpg" width="320" height="240" alt="Beetle Adventure Racing"/></a> | <a href="b/big-mountain-2000"><img src="media/usa/big-mountain-2000.jpg" width="320" height="240" alt="Big Mountain 2000"/></a> |
+| <a href="b/beetle-adventure-racing"><img src="media/usa/Beetle-Adventure-Racing!-(USA)-(En,Fr,De).png" width="320" height="240" alt="Beetle Adventure Racing"/></a> | <a href="b/big-mountain-2000"><img src="media/usa/Big-Mountain-2000-(USA).png" width="320" height="240" alt="Big Mountain 2000"/></a> |
 |---|---|
 | [Beetle Adventure Racing](b/beetle-adventure-racing) | [Big Mountain 2000](b/big-mountain-2000) |
 
-| <a href="b/bio-freaks"><img src="media/usa/bio-freaks.jpg" width="320" height="240" alt="Bio F.R.E.A.K.S."/></a> | <a href="b/biohazard-2"><img src="media/jp/biohazard-2.jpg" width="320" height="240" alt="Biohazard 2"/></a> |
+| <a href="b/bio-freaks"><img src="media/usa/Bio-F.R.E.A.K.S.-(USA).png" width="320" height="240" alt="Bio F.R.E.A.K.S."/></a> | <a href="b/biohazard-2"><img src="media/jp/biohazard-2.jpg" width="320" height="240" alt="Biohazard 2"/></a> |
 |---|---|
 | [Bio F.R.E.A.K.S.](b/bio-freaks) | [Biohazard 2 / Resident Evil 2](b/biohazard-2) |
 
-| <a href="b/blast-corps"><img src="media/usa/blast-corps.jpg" width="320" height="240" alt="Blast Corps"/></a> | <a href="b/blues-brothers-2000"><img src="media/usa/blues-brothers-2000.jpg" width="320" height="240" alt="Blues Brothers 2000"/></a> |
+| <a href="b/blast-corps"><img src="media/usa/Blast-Corps-(USA)-(Rev-A).png" width="320" height="240" alt="Blast Corps"/></a> | <a href="b/blues-brothers-2000"><img src="media/usa/blues-brothers-2000.jpg" width="320" height="240" alt="Blues Brothers 2000"/></a> |
 |---|---|
 | [Blast Corps / Blast Dozer](b/blast-corps) | [Blues Brothers 2000](b/blues-brothers-2000) |
-| <a href="b/body-harvest"><img src="media/usa/body-harvest.jpg" width="320" height="240" alt="Body Harvest"/></a> | <a href="b/bokujo-monogatari-2"><img src="media/jp/bokujo-monogatari-2.png" width="320" height="240" alt="Bokujō Monogatari 2"/></a> |
+| <a href="b/body-harvest"><img src="media/usa/Body-Harvest-(USA).png" width="320" height="240" alt="Body Harvest"/></a> | <a href="b/bokujo-monogatari-2"><img src="media/jp/bokujo-monogatari-2.png" width="320" height="240" alt="Bokujō Monogatari 2"/></a> |
 |---|---|
 | [Body Harvest](b/body-harvest) | [Bokujō Monogatari 2](b/bokujo-monogatari-2) |
 
-| <a href="b/bomberman-64"><img src="media/jp/Bomberman-64-(USA).png" width="320" height="240" alt="Bomberman 64"/></a> | <a href="b/bomberman-64-arcade-edition"><img src="media/jp/bomberman-64-arcade-edition.png" width="320" height="240" alt="Bomberman 64: Arcade Edition"/></a> |
+| <a href="b/bomberman-64"><img src="media/usa/Bomberman-64-(USA).png" width="320" height="240" alt="Bomberman 64"/></a> | <a href="b/bomberman-64-arcade-edition"><img src="media/jp/bomberman-64-arcade-edition.png" width="320" height="240" alt="Bomberman 64: Arcade Edition"/></a> |
 |---|---|
 | [Bomberman 64](b/bomberman-64) | [Bomberman 64: Arcade Edition](b/bomberman-64-arcade-edition) |
 
