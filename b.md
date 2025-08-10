@@ -8,7 +8,7 @@ has_toc: false
 
 # Nintendo 64 Games — B Section
 
-Explore all N64 titles starting with the letter B, from *Banjo-Kazooie* to *Bust-A-Move 99*.
+Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bust-A-Move 99*.
 
 | <a href="b/baku-bomberman"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/refs/heads/main/media/jp/baku-bomberman.png" width="320" height="240" alt="Baku Bomberman"/></a> | <a href="b/baku-bomberman-2"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/refs/heads/main/media/jp/baku-bomberman-2.png" width="320" height="240" alt="Baku Bomberman 2"/></a> |
 |---|---|
