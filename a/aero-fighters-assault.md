@@ -8,7 +8,7 @@ toc: false
 
 # Aero Fighters Assault
 <b>
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a1/AeroFightersAssaultCover.jpg" alt="Aero Fighters Assault" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/AeroFighters-Assault-(USA).png" alt="Aero Fighters Assault" style="object-fit:cover;width:320px;height:224px"/>
 <img src="https://images.launchbox-app.com/2da58ddb-1b50-4121-a286-206b4349537d.png" alt="Aero Fighters Assault Gameplay" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 

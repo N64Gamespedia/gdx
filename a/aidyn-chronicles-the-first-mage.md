@@ -8,7 +8,7 @@ toc: false
 
 # Aidyn Chronicles: The First Mage
 <b>
-<img src="https://upload.wikimedia.org/wikipedia/en/6/62/Aidyn_Chronicles-_The_First_Mage_game_cover.jpg" alt="Aidyn Chronicles Box Art" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Aidyn-Chronicles--The-First-Mage-(USA).png" alt="Aidyn Chronicles Box Art" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  
