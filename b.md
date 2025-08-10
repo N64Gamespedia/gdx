@@ -49,11 +49,11 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 |---|---|
 | [Blues Brothers 2000](b/blues-brothers-2000) | [Body Harvest](b/body-harvest) |
 
-| <a href="b/bokujo-monogatari-2"><img src="media/jp/bokujo-monogatari-2.png" width="320" height="240" alt="Bokujō Monogatari 2"/></a> | <a href="b/bomberman-64"><img src="media/jp/bomberman-64.jpg" width="320" height="240" alt="Bomberman 64"/></a> |
+| <a href="b/bokujo-monogatari-2"><img src="media/jp/bokujo-monogatari-2.png" width="320" height="240" alt="Bokujō Monogatari 2"/></a> | <a href="b/bomberman-64"><img src="media/jp/Bomberman-64-(USA).png" width="320" height="240" alt="Bomberman 64"/></a> |
 |---|---|
 | [Bokujō Monogatari 2](b/bokujo-monogatari-2) | [Bomberman 64](b/bomberman-64) |
 
-| <a href="b/bomberman-64-arcade-edition"><img src="media/jp/bomberman-64-arcade-edition.jpg" width="320" height="240" alt="Bomberman 64: Arcade Edition"/></a> | <a href="b/bomberman-64-second-attack"><img src="media/usa/Bomberman-64--The-Second-Attack!-(USA).png" width="320" height="240" alt="Bomberman 64: The Second Attack"/></a> |
+| <a href="b/bomberman-64-arcade-edition"><img src="media/jp/bomberman-64-arcade-edition.png" width="320" height="240" alt="Bomberman 64: Arcade Edition"/></a> | <a href="b/bomberman-64-second-attack"><img src="media/usa/Bomberman-64--The-Second-Attack!-(USA).png" width="320" height="240" alt="Bomberman 64: The Second Attack"/></a> |
 |---|---|
 | [Bomberman 64: Arcade Edition](b/bomberman-64-arcade-edition) | [Bomberman 64: The Second Attack](b/bomberman-64-second-attack) |
 
