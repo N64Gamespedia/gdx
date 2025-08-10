@@ -10,7 +10,7 @@ toc: false
 
 <b>
 <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Automobili-Lamborghini-(USA).png" alt="Automobili Lamborghini Box Art (USA)" style="object-fit:cover;width:320px;height:224px"/>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Automobili-Lamborghini-Gameplay-(USA).png" alt="Automobili Lamborghini Gameplay Screenshot (USA)" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/super-speed-race-64.png" alt="Super Speed Race 64 Gameplay Screenshot (JP)" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  
