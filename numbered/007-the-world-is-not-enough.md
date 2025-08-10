@@ -21,7 +21,7 @@ toc: false
 **Players:** 1–4  
 **Force Feedback:** Yes  
 [**Language Patch Available:**](#translations-available)  
-[🇧🇷 Portuguese](#portuguese-translation) / [🇪🇸 Spanish](#spanish-translation)
+🇧🇷 [Portuguese](#portuguese-translation) / 🇪🇸 [Spanish](#spanish-translation)
 
 ## 🕹️ Game Description  
 <em><strong>The World Is Not Enough</strong></em> is a first-person shooter video game developed by [Eurocom](https://en.wikipedia.org/wiki/Eurocom){:target="_blank" rel="noopener noreferrer"}, based on the 1999 <em>James Bond</em> film of the same name. Published by [Electronic Arts](https://en.wikipedia.org/wiki/Electronic_Arts){:target="_blank" rel="noopener noreferrer"}, the game was released in October 2000 for the Nintendo 64.

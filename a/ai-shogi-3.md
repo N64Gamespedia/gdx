@@ -17,7 +17,8 @@ toc: false
 **Genre:** Board Game / Strategy  
 **Players:** 1  
 **Force Feedback:** No  
-[**Language Patch Available:**](#translations-available)<br>[🇺🇸 English](#language-english)
+[**Language Patch Available:**](#translations-available)<br> 
+🇺🇸 [English](#language-english)
 
 ## 🕹️ Game Description
 *AI Shogi 3* is a Nintendo 64 video board game released exclusively in Japan on December 18th, 1998. It simulates the traditional Japanese game of Shogi, offering AI opponents and a clean interface for strategic play. No multiplayer or story mode is included.

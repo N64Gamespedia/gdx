@@ -20,7 +20,7 @@ toc: false
 **Players:** 1–2  
 **Force Feedback:** No  
 [**Language Patch Available:**](#translations-available)<br>
-[🇧🇷 Portuguese](#portuguese-translation)<br>
+🇧🇷 [Portuguese](#portuguese-translation)<br>
 [**Texture Pack Available:**](#texture-packs-available)<br>
 [Jabo 1.7 Format](#jabo-17-format)<br>
 [GlideN64 Format](#gliden64-format)
