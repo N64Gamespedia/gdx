@@ -8,7 +8,7 @@ toc: false
 
 # Aerogauge
 <b>
-<img src="https://upload.wikimedia.org/wikipedia/en/3/36/AeroGauge_Coverart.png" alt="Aerogauge Box Art" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/AeroGauge-(USA).png" alt="Aerogauge Box Art" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Developer:** [Locomotive Co. Ltd.](https://en.wikipedia.org/wiki/AeroGauge){:target="_blank" rel="noopener noreferrer"}  

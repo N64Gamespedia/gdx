@@ -8,8 +8,8 @@ toc: false
 
 # All Star Tennis '99
 <b>
-<img src="https://upload.wikimedia.org/wikipedia/en/0/0b/All_Star_Tennis_'99_Coverart.png" alt="All Star Tennis '99 NTSC-USA Box Art" style="object-fit:cover;width:320px;height:224px"/>
-<img src="https://www.project64-legacy.com/data/uploads/RDX/Yannick-Noah-All-Star-Tennis-99.jpg" alt="Yannick Noah All Star Tennis '99 PAL-FRA Box Art" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/All-Star-Tennis-'99-(USA).png" alt="All Star Tennis '99 NTSC-USA Box Art" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/eur/Yannick-Noah-All-Star-Tennis-99.jpg" alt="Yannick Noah All Star Tennis '99 PAL-FRA Box Art" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  
