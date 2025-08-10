@@ -53,18 +53,18 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 |---|---|
 | [Bokujō Monogatari 2](b/bokujo-monogatari-2) | [Bomberman 64](b/bomberman-64) |
 
-| <a href="b/bomberman-64-arcade-edition"><img src="media/jp/bomberman-64-arcade-edition.jpg" width="320" height="240" alt="Bomberman 64: Arcade Edition"/></a> | <a href="b/bomberman-64-second-attack"><img src="media/usa/bomberman-64-second-attack.jpg" width="320" height="240" alt="Bomberman 64: The Second Attack"/></a> |
+| <a href="b/bomberman-64-arcade-edition"><img src="media/jp/bomberman-64-arcade-edition.jpg" width="320" height="240" alt="Bomberman 64: Arcade Edition"/></a> | <a href="b/bomberman-64-second-attack"><img src="media/usa/Bomberman-64--The-Second-Attack!-(USA).png" width="320" height="240" alt="Bomberman 64: The Second Attack"/></a> |
 |---|---|
 | [Bomberman 64: Arcade Edition](b/bomberman-64-arcade-edition) | [Bomberman 64: The Second Attack](b/bomberman-64-second-attack) |
 
-| <a href="b/bomberman-hero"><img src="media/jp/bomberman-hero-mirian-oujo-wo-sukue.png" width="320" height="240" alt="Bomberman Hero"/></a> | <a href="b/bottom-of-the-9th"><img src="media/usa/bottom-of-the-9th.jpg" width="320" height="240" alt="Bottom of the 9th"/></a> |
+| <a href="b/bomberman-hero"><img src="media/usa/Bomberman-Hero-(USA).png" width="320" height="240" alt="Bomberman Hero"/></a> | <a href="b/bottom-of-the-9th"><img src="media/usa/Bottom-of-the-9th-(USA).png" width="320" height="240" alt="Bottom of the 9th"/></a> |
 |---|---|
 | [Bomberman Hero](b/bomberman-hero) | [Bottom of the 9th](b/bottom-of-the-9th) |
-| <a href="b/brunswick-circuit-pro-bowling"><img src="media/usa/brunswick-circuit-pro-bowling.jpg" width="320" height="240" alt="Brunswick Circuit Pro Bowling"/></a> | <a href="b/buck-bumble"><img src="media/usa/buck-bumble.jpg" width="320" height="240" alt="Buck Bumble"/></a> |
+| <a href="b/brunswick-circuit-pro-bowling"><img src="media/usa/Brunswick-Circuit-Pro-Bowling-(USA).png" width="320" height="240" alt="Brunswick Circuit Pro Bowling"/></a> | <a href="b/buck-bumble"><img src="media/usa/Buck-Bumble-(USA).png" width="320" height="240" alt="Buck Bumble"/></a> |
 |---|---|
 | [Brunswick Circuit Pro Bowling](b/brunswick-circuit-pro-bowling) | [Buck Bumble](b/buck-bumble) |
 
-| <a href="b/bust-a-move-2"><img src="media/usa/bust-a-move-2.jpg" width="320" height="240" alt="Bust-A-Move 2: Arcade Edition"/></a> | <a href="b/bust-a-move-99"><img src="media/usa/Bust_A_Move_99_box.jpg" width="320" height="240" alt="Bust-A-Move ’99"/></a> |
+| <a href="b/bust-a-move-2"><img src="media/usa/Bust-A-Move-2-Arcade-Edition-(USA).png" width="320" height="240" alt="Bust-A-Move 2: Arcade Edition"/></a> | <a href="b/bust-a-move-99"><img src="media/usa/Bust_A_Move_99_box.jpg" width="320" height="240" alt="Bust-A-Move ’99"/></a> |
 |---|---|
 | [Bust-A-Move 2: Arcade Edition](b/bust-a-move-2) | [Bust-A-Move ’99](b/bust-a-move-99) |
 
