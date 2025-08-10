@@ -9,7 +9,7 @@ toc: false
 # Armorines: Project S.W.A.R.M.
 
 <b>
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Armorines_-_Project_S.W.A.R.M._Coverart.png/330px-Armorines_-_Project_S.W.A.R.M._Coverart.png" alt="Armorines Box Art" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/us/armorines-project-swarm.png" alt="Armorines Box Art (USA)" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  
