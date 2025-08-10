@@ -9,8 +9,6 @@ toc: false
 # Animal Crossing  
 <b>  
 <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/chn/animal-crossing.png" alt="Animal Crossing Box Art (China)" style="object-fit:cover;width:320px;height:224px"/>  
-</b> 
-<b>  
 <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/dobutsu-no-mori.png" alt="Dobutsu no Mori Box Art (Japan)" style="object-fit:cover;width:320px;height:224px"/>  
 </b> 
 <b>  
