@@ -24,7 +24,7 @@ toc: false
 
 <em><strong>Asteroids Hyper 64</strong></em> is a video game released in 1999 for the Nintendo 64. It was developed by <a href="https://en.wikipedia.org/wiki/Climax_Group" target="_blank" rel="noreferrer noopener">Syrox Developments</a> and published by <a href="https://en.wikipedia.org/wiki/Crave_Entertainment" target="_blank" rel="noreferrer noopener">Crave Entertainment</a> . &nbsp;It was a modern 3D take on the classic <em><strong>Asteroids</strong></em> Arcade game that was a space-themed multidirectional shooter arcade game designed by Lyle Rains, Ed Logg, and Dominic Walsh and released in November 1979 by <a href="https://en.wikipedia.org/wiki/Atari,_Inc." target="_blank" rel="noreferrer noopener">Atari, Inc</a>. This classic version is unlockable in the game when you shoot the green unusual looking object in Zone 1 - Level 15.
 
-## 📚 <strong>There is no Game Guide / Walkthrough</strong>
+## 📚 <strong>No Game Guide / Walkthrough</strong>
 
 ## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}  
 <br />
