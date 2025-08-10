@@ -28,45 +28,46 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 
 | <a href="b/bass-rush-ecogear-powerworm-championship"><img src="media/jp/bass-rush-ecogear-powerworm-championship.png" width="320" height="240" alt="Bass Rush: ECOGEAR Powerworm Championship"/></a> | <a href="b/batman-beyond"><img src="media/usa/batman-beyond.jpg" width="320" height="240" alt="Batman Beyond: Return of the Joker"/></a> |
 |---|---|
-| [Bass Rush: ECOGEAR Powerworm Championship](b/bass-rush-ecogear-powerworm-championship) | [Batman Beyond / Batman of the Future: Return of the Joker](b/batman-beyond) |
-| <a href="b/battletanx"><img src="media/usa/battletanx.jpg" width="320" height="240" alt="BattleTanx"/></a> | <a href="b/battletanx-global-assault"><img src="media/usa/battletanx-global-assault.jpg" width="320" height="240" alt="BattleTanx: Global Assault"/></a> |
-|---|---|
-| [BattleTanx](b/battletanx) | [BattleTanx: Global Assault](b/battletanx-global-assault) |
+| [Bass Rush: ECOGEAR Powerworm Championship](b/bass-rush-ecogear-powerworm-championship) | [Batman Beyond: Return of the Joker](b/batman-beyond) |
 
-| <a href="b/battlezone"><img src="media/usa/battlezone.jpg" width="320" height="240" alt="Battlezone: Rise of the Black Dogs"/></a> | <a href="b/beetle-adventure-racing"><img src="media/usa/beetle-adventure-racing.jpg" width="320" height="240" alt="Beetle Adventure Racing"/></a> |
+| <a href="b/batman-beyond"><img src="media/eur/batman-of-the-future.jpg" width="320" height="240" alt="Batman of the Future: Return of the Joker"/></a> | <a href="b/battletanx"><img src="media/usa/battletanx.jpg" width="320" height="240" alt="BattleTanx"/></a> |
 |---|---|
-| [Battlezone: Rise of the Black Dogs](b/battlezone) | [Beetle Adventure Racing](b/beetle-adventure-racing) |
+| [Batman of the Future: Return of the Joker](b/batman-beyond) | [BattleTanx](b/battletanx) |
+| <a href="b/battletanx-global-assault"><img src="media/usa/battletanx-global-assault.jpg" width="320" height="240" alt="BattleTanx: Global Assault"/></a> | <a href="b/battlezone"><img src="media/usa/battlezone.jpg" width="320" height="240" alt="Battlezone: Rise of the Black Dogs"/></a> |
+|---|---|
+| [BattleTanx: Global Assault](b/battletanx-global-assault) | [Battlezone: Rise of the Black Dogs](b/battlezone) |
 
-| <a href="b/big-mountain-2000"><img src="media/usa/big-mountain-2000.jpg" width="320" height="240" alt="Big Mountain 2000"/></a> | <a href="b/bio-freaks"><img src="media/usa/bio-freaks.jpg" width="320" height="240" alt="Bio F.R.E.A.K.S."/></a> |
+| <a href="b/beetle-adventure-racing"><img src="media/usa/beetle-adventure-racing.jpg" width="320" height="240" alt="Beetle Adventure Racing"/></a> | <a href="b/big-mountain-2000"><img src="media/usa/big-mountain-2000.jpg" width="320" height="240" alt="Big Mountain 2000"/></a> |
 |---|---|
-| [Big Mountain 2000](b/big-mountain-2000) | [Bio F.R.E.A.K.S.](b/bio-freaks) |
+| [Beetle Adventure Racing](b/beetle-adventure-racing) | [Big Mountain 2000](b/big-mountain-2000) |
 
-| <a href="b/biohazard-2"><img src="media/jp/biohazard-2.jpg" width="320" height="240" alt="Biohazard 2"/></a> | <a href="b/blast-corps"><img src="media/usa/blast-corps.jpg" width="320" height="240" alt="Blast Corps"/></a> |
+| <a href="b/bio-freaks"><img src="media/usa/bio-freaks.jpg" width="320" height="240" alt="Bio F.R.E.A.K.S."/></a> | <a href="b/biohazard-2"><img src="media/jp/biohazard-2.jpg" width="320" height="240" alt="Biohazard 2"/></a> |
 |---|---|
-| [Biohazard 2 / Resident Evil 2](b/biohazard-2) | [Blast Corps / Blast Dozer](b/blast-corps) |
+| [Bio F.R.E.A.K.S.](b/bio-freaks) | [Biohazard 2 / Resident Evil 2](b/biohazard-2) |
 
-| <a href="b/blues-brothers-2000"><img src="media/usa/blues-brothers-2000.jpg" width="320" height="240" alt="Blues Brothers 2000"/></a> | <a href="b/body-harvest"><img src="media/usa/body-harvest.jpg" width="320" height="240" alt="Body Harvest"/></a> |
+| <a href="b/blast-corps"><img src="media/usa/blast-corps.jpg" width="320" height="240" alt="Blast Corps"/></a> | <a href="b/blues-brothers-2000"><img src="media/usa/blues-brothers-2000.jpg" width="320" height="240" alt="Blues Brothers 2000"/></a> |
 |---|---|
-| [Blues Brothers 2000](b/blues-brothers-2000) | [Body Harvest](b/body-harvest) |
-| <a href="b/bokujo-monogatari-2"><img src="media/jp/bokujo-monogatari-2.png" width="320" height="240" alt="Bokujō Monogatari 2"/></a> | <a href="b/bomberman-64"><img src="media/jp/Bomberman-64-(USA).png" width="320" height="240" alt="Bomberman 64"/></a> |
+| [Blast Corps / Blast Dozer](b/blast-corps) | [Blues Brothers 2000](b/blues-brothers-2000) |
+| <a href="b/body-harvest"><img src="media/usa/body-harvest.jpg" width="320" height="240" alt="Body Harvest"/></a> | <a href="b/bokujo-monogatari-2"><img src="media/jp/bokujo-monogatari-2.png" width="320" height="240" alt="Bokujō Monogatari 2"/></a> |
 |---|---|
-| [Bokujō Monogatari 2](b/bokujo-monogatari-2) | [Bomberman 64](b/bomberman-64) |
+| [Body Harvest](b/body-harvest) | [Bokujō Monogatari 2](b/bokujo-monogatari-2) |
 
-| <a href="b/bomberman-64-arcade-edition"><img src="media/jp/bomberman-64-arcade-edition.png" width="320" height="240" alt="Bomberman 64: Arcade Edition"/></a> | <a href="b/bomberman-64-second-attack"><img src="media/usa/Bomberman-64--The-Second-Attack!-(USA).png" width="320" height="240" alt="Bomberman 64: The Second Attack"/></a> |
+| <a href="b/bomberman-64"><img src="media/jp/Bomberman-64-(USA).png" width="320" height="240" alt="Bomberman 64"/></a> | <a href="b/bomberman-64-arcade-edition"><img src="media/jp/bomberman-64-arcade-edition.png" width="320" height="240" alt="Bomberman 64: Arcade Edition"/></a> |
 |---|---|
-| [Bomberman 64: Arcade Edition](b/bomberman-64-arcade-edition) | [Bomberman 64: The Second Attack](b/bomberman-64-second-attack) |
+| [Bomberman 64](b/bomberman-64) | [Bomberman 64: Arcade Edition](b/bomberman-64-arcade-edition) |
 
-| <a href="b/bomberman-hero"><img src="media/usa/Bomberman-Hero-(USA).png" width="320" height="240" alt="Bomberman Hero"/></a> | <a href="b/bottom-of-the-9th"><img src="media/usa/Bottom-of-the-9th-(USA).png" width="320" height="240" alt="Bottom of the 9th"/></a> |
+| <a href="b/bomberman-64-second-attack"><img src="media/usa/Bomberman-64--The-Second-Attack!-(USA).png" width="320" height="240" alt="Bomberman 64: The Second Attack"/></a> | <a href="b/bomberman-hero"><img src="media/usa/Bomberman-Hero-(USA).png" width="320" height="240" alt="Bomberman Hero"/></a> |
 |---|---|
-| [Bomberman Hero](b/bomberman-hero) | [Bottom of the 9th](b/bottom-of-the-9th) |
+| [Bomberman 64: The Second Attack](b/bomberman-64-second-attack) | [Bomberman Hero](b/bomberman-hero) |
 
-| <a href="b/brunswick-circuit-pro-bowling"><img src="media/usa/Brunswick-Circuit-Pro-Bowling-(USA).png" width="320" height="240" alt="Brunswick Circuit Pro Bowling"/></a> | <a href="b/buck-bumble"><img src="media/usa/Buck-Bumble-(USA).png" width="320" height="240" alt="Buck Bumble"/></a> |
+| <a href="b/bottom-of-the-9th"><img src="media/usa/Bottom-of-the-9th-(USA).png" width="320" height="240" alt="Bottom of the 9th"/></a> | <a href="b/brunswick-circuit-pro-bowling"><img src="media/usa/Brunswick-Circuit-Pro-Bowling-(USA).png" width="320" height="240" alt="Brunswick Circuit Pro Bowling"/></a> |
 |---|---|
-| [Brunswick Circuit Pro Bowling](b/brunswick-circuit-pro-bowling) | [Buck Bumble](b/buck-bumble) |
+| [Bottom of the 9th](b/bottom-of-the-9th) | [Brunswick Circuit Pro Bowling](b/brunswick-circuit-pro-bowling) |
 
-| <a href="b/bust-a-move-2"><img src="media/usa/Bust-A-Move-2-Arcade-Edition-(USA).png" width="320" height="240" alt="Bust-A-Move 2: Arcade Edition"/></a> | <a href="b/bust-a-move-99"><img src="media/usa/Bust_A_Move_99_box.jpg" width="320" height="240" alt="Bust-A-Move ’99"/></a> |
+| <a href="b/buck-bumble"><img src="media/usa/Buck-Bumble-(USA).png" width="320" height="240" alt="Buck Bumble"/></a> | <a href="b/bust-a-move-2"><img src="media/usa/Bust-A-Move-2-Arcade-Edition-(USA).png" width="320" height="240" alt="Bust-A-Move 2: Arcade Edition"/></a> |
 |---|---|
-| [Bust-A-Move 2: Arcade Edition](b/bust-a-move-2) | [Bust-A-Move ’99](b/bust-a-move-99) |
-| <a href="b/bust-a-move-3-dx"><img src="media/eur/bust-a-move-3-dx.jpg" width="320" height="240" alt="Bust-A-Move 3 DX"/></a> |  |
+| [Buck Bumble](b/buck-bumble) | [Bust-A-Move 2: Arcade Edition](b/bust-a-move-2) |
+
+| <a href="b/bust-a-move-99"><img src="media/usa/Bust_A_Move_99_box.jpg" width="320" height="240" alt="Bust-A-Move ’99"/></a> | <a href="b/bust-a-move-3-dx"><img src="media/eur/bust-a-move-3-dx.jpg" width="320" height="240" alt="Bust-A-Move 3 DX"/></a> |
 |---|---|
-| [Bust-A-Move 3 DX](b/bust-a-move-3-dx) |  |
+| [Bust-A-Move ’99](b/bust-a-move-99) | [Bust-A-Move 3 DX](b/bust-a-move-3-dx) |
