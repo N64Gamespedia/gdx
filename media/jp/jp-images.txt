@@ -4,6 +4,12 @@
 64-ozumo.png
 64-trump-collection.png
 ai-shogi-3.png
+baku-bomberman-2.png
+baku-bomberman.png
+bakuretsu-muteki-bangai-o.png
+bakusho-jinsei-64.png
+banjo-to-kazooie-no-daiboken-2.png
+banjo-to-kazooie-no-daiboken.png
 dobutsu-no-mori.png
 sonic-wings.png
 super-speed-race-64.png
