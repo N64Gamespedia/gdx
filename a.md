@@ -30,7 +30,7 @@ Explore all N64 titles starting with the letter A, from *A Bug’s Life* to *Aut
 |---|---|
 | [All Star Tennis ’99](a/all-star-tennis-99) | [All-Star Baseball 2000](a/all-star-baseball-2000) |
 
-| <a href="a/all-star-baseball-2001"><img src="https://upload.wikimedia.org/wikipedia/en/6/6f/All_Star_Baseball_2001_Cover.jpg" width="320" height="240" alt="All-Star Baseball 2001"/></a> | <a href="a/all-star-baseball-99"><img src="https://upload.wikimedia.org/wikipedia/en/3/3e/All_Star_Baseball_99_Cover.jpg" width="320" height="240" alt="All-Star Baseball 99"/></a> |
+| <a href="a/all-star-baseball-2001"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/All-Star-Baseball-2001-(USA).png" width="320" height="240" alt="All-Star Baseball 2001"/></a> | <a href="a/all-star-baseball-99"><img src="https://upload.wikimedia.org/wikipedia/en/3/3e/All_Star_Baseball_99_Cover.jpg" width="320" height="240" alt="All-Star Baseball 99"/></a> |
 |---|---|
 | [All-Star Baseball 2001](a/all-star-baseball-2001) | [All-Star Baseball 99](a/all-star-baseball-99) |
 
