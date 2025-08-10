@@ -34,7 +34,7 @@ Explore all N64 titles starting with the letter A, from *A Bug’s Life* to *Aut
 |---|---|
 | [All-Star Baseball 2001](a/all-star-baseball-2001) | [All-Star Baseball 99](a/all-star-baseball-99) |
 
-| <a href="a/animal-crossing"><img src="media/chn/animal-crossing.png" width="320" height="240" alt="Animal Crossing"/></a> | <a href="a/armorines"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Armorines--Project-S.W.A.R.M.-(USA).png" width="320" height="240" alt="Armorines"/></a> |
+| <a href="a/animal-crossing"><img src="/media/chn/animal-crossing.png" width="320" height="240" alt="Animal Crossing"/></a> | <a href="a/armorines"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Armorines--Project-S.W.A.R.M.-(USA).png" width="320" height="240" alt="Armorines"/></a> |
 |---|---|
 | [Animal Crossing (iQue Player)](a/animal-crossing) | [Armorines Project S.W.A.R.M.](a/armorines) |
 
