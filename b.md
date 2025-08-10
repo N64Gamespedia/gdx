@@ -26,7 +26,7 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 |---|---|
 | [Bass Hunter 64](b/bass-hunter-64) | [Bass Masters 2000](b/bass-masters-2000) |
 
-| <a href="b/bass-rush-ecogear-powerworm-championship"><img src="media/jp/bass-rush-ecogear-powerworm-championship.png" width="320" height="240" alt="Bass Rush: ECOGEAR Powerworm Championship"/></a> | <a href="b/batman-beyond"><img src="media/usa/batman-beyond.jpg" width="320" height="240" alt="Batman Beyond: Return of the Joker"/></a> |
+| <a href="b/bass-rush-ecogear-powerworm-championship"><img src="media/jp/bass-rush-ecogear-powerworm-championship.png" width="320" height="240" alt="Bass Rush: ECOGEAR Powerworm Championship"/></a> | <a href="b/batman-beyond"><img src="media/usa/Batman-Beyond--Return-of-the-Joker-(USA).png" width="320" height="240" alt="Batman Beyond: Return of the Joker"/></a> |
 |---|---|
 | [Bass Rush: ECOGEAR Powerworm Championship](b/bass-rush-ecogear-powerworm-championship) | [Batman Beyond: Return of the Joker](b/batman-beyond) |
 
