@@ -26,7 +26,7 @@ Explore all N64 titles starting with the letter A, from *A Bug’s Life* to *Aut
 |---|---|
 | [Akumajou Dracula Mokushiroku](a/akumajou-dracula) | [Akumajou Dracula Mokushiroku Gaiden](a/akumajou-dracula-gaiden) |
 
-| <a href="a/all-star-tennis-99"><img src="https://upload.wikimedia.org/wikipedia/en/0/0b/All_Star_Tennis_'99_Coverart.png" width="320" height="240" alt="All Star Tennis ’99"/></a> | <a href="a/all-star-baseball-2000"><img src="https://upload.wikimedia.org/wikipedia/en/9/9e/All_Star_Baseball_2000_Cover.jpg" width="320" height="240" alt="All-Star Baseball 2000"/></a> |
+| <a href="a/all-star-tennis-99"><img src="https://upload.wikimedia.org/wikipedia/en/0/0b/All_Star_Tennis_'99_Coverart.png" width="320" height="240" alt="All Star Tennis ’99"/></a> | <a href="a/all-star-baseball-2000"><img src="https://gamepedia.cursecdn.com/gamia_gamepedia_en/thumb/0/0f/Front-Cover-All-Star-Baseball-2000-NA-N64.jpg/300px-Front-Cover-All-Star-Baseball-2000-NA-N64.jpg" width="320" height="240" alt="All-Star Baseball 2000"/></a> |
 |---|---|
 | [All Star Tennis ’99](a/all-star-tennis-99) | [All-Star Baseball 2000](a/all-star-baseball-2000) |
 
