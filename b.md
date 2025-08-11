@@ -1,6 +1,6 @@
 ---
 title: "B Title Games"
-nav_order: 4
+nav_order: 5
 has_children: true
 layout: default
 has_toc: false
