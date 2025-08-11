@@ -41,7 +41,7 @@ Explore classic N64 titles using the sidebar. 🎮
 - [Akumajou Dracula Mokushiroku Gaiden](a/akumajou-dracula-mokushiroku-gaiden-legend-of-cornell)
 - [All Star Tennis ’99](a/all-star-tennis-99)
 - [All-Star Baseball 2000](a/all-star-baseball-2000)
-- [All-Star Baseball 2001](a/all-star-baseball-20001)
+- [All-Star Baseball 2001](a/all-star-baseball-2001)
 - [All-Star Baseball 99](a/all-star-baseball-99)
 - [Animal Crossing (iQue Player)](a/animal-cross)
 - [Armorines Project S.W.A.R.M.](a/armorines)
