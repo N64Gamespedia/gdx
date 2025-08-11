@@ -8,7 +8,7 @@ nav_order: 1
 <br>
 <br>
 
-![](https://www.n64gamespedia.com/wp-content/uploads/2024/01/N64_GAMESPEIDA_LOGO_CLEAR.png)
+![](assets/images/N64_GAMESPEIDA_LOGO_CLEAR.png)
 
 Welcome to the  N64Gamespedia Github version of the Online GDX (Game Database eXtra).
 
@@ -22,13 +22,13 @@ Explore classic N64 titles using the sidebar. 🎮
 ## 0–9
 - [007: The World Is Not Enough](007-the-world-is-not-enough)
 - [007: The World Is Not Enough (Prototype 2020)](007-twine-prototype-2020)
-- [1080° Snowboarding]()
-- [40 Winks]()
-- [64 de Hakken!! Tamagotchi: Minna de Tamagotchi World]()
-- [64 Hanafuda: Tenshi no Yakusoku]()
-- [64 Ozumo]()
-- [64 Ozumo 2]()
-- [64 Trump Collection: Alice no Waku Waku Trump World]()
+- [1080° Snowboarding](1080-snowboarding)
+- [40 Winks](40-winks)
+- [64 de Hakken!! Tamagotchi: Minna de Tamagotchi World](64-de-hakken-tamagotchi)
+- [64 Hanafuda: Tenshi no Yakusoku](64-hanafuda)
+- [64 Ozumo](64-ozumo)
+- [64 Ozumo 2](64-ozumo-2)
+- [64 Trump Collection: Alice no Waku Waku Trump World](64-trump-collection)
 
 ## A
 - [A Bug’s Life]()

@@ -20,9 +20,9 @@ Explore all N64 titles starting with the letter A, from *A Bug’s Life* to *Aut
 
 | <a href="a/aidyn-chronicles-the-first-mage"><img src="media/usa/Aidyn-Chronicles--The-First-Mage-(USA).png" width="320" height="240" alt="Aidyn Chronicles"/></a> | <a href="a/air-boarder-64"><img src="media/eur/Air-Boarder-64-(Europe).png" width="320" height="240" alt="Air Boarder 64"/></a> |
 |---|---|
-| [Aidyn Chronicles: The First Mage](a/aidyn-chronicles) | [Air Boarder 64](a/air-boarder-64) |
+| [Aidyn Chronicles: The First Mage](a/aidyn-chronicles-the-first-mage) | [Air Boarder 64](a/air-boarder-64) |
 
-| <a href="a/akumajou-dracula-mokushiroku"><img src="media/jp/akumajou-dracula-mokushiroku" width="320" height="240" alt="Akumajou Dracula"/></a> | <a href="a/akumajou-dracula-gaiden"><img src="media/jp/akumajou-dracula-gaiden.png" width="320" height="240" alt="Akumajou Dracula Gaiden"/></a> |
+| <a href="a/akumajou-dracula-mokushiroku"><img src="media/jp/akumajou-dracula-mokushiroku.png" width="320" height="240" alt="Akumajou Dracula"/></a> | <a href="a/akumajou-dracula-gaiden"><img src="media/jp/akumajou-dracula-gaiden.png" width="320" height="240" alt="Akumajou Dracula Gaiden"/></a> |
 |---|---|
 | [Akumajou Dracula Mokushiroku](a/akumajou-dracula) | [Akumajou Dracula Mokushiroku Gaiden](a/akumajou-dracula-gaiden) |
 
