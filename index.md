@@ -44,7 +44,7 @@ Explore classic N64 titles using the sidebar. 🎮
 - [All-Star Baseball 2001](a/all-star-baseball-2001)
 - [All-Star Baseball 99](a/all-star-baseball-99)
 - [Animal Crossing (iQue Player)](a/animal-crossing)
-- [Armorines Project S.W.A.R.M.](a/armorines)
+- [Armorines Project S.W.A.R.M.](a/armorines-project-swarm)
 - [Army Men: Air Combat.](a/army-men-air-combat)
 - [Army Men: Sarge’s Heroes](a/army-men-sarges-heroes)
 - [Army Men: Sarge’s Heroes 2](a/army-men-sarges-heroes-2)
