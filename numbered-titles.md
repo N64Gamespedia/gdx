@@ -14,7 +14,7 @@ Explore all N64 titles starting with numbers, including 007: TWINE to 64 Trump C
 |---|---|
 | [007: The World Is Not Enough](numbered/007-the-world-is-not-enough) | [007: The World Is Not Enough (Prototype 2020)](numbered/007-twine-prototype-2020) |
 
-| <a href="numbered/1080-snowboarding"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/" width="320" height="240" alt="1080° Snowboarding"/></a> | <a href1080-snowboarding.png="numbered/40-winks"><img src="https://images.launchbox-app.com/96977e70-0f18-45d3-8298-8f42df3e4b8b.jpg" width="320" height="240" alt="40 Winks"/></a> |
+| <a href="numbered/1080-snowboarding"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/1080-snowboarding.png" width="320" height="240" alt="1080° Snowboarding"/></a> | <a href1080-snowboarding.png="numbered/40-winks"><img src="https://images.launchbox-app.com/96977e70-0f18-45d3-8298-8f42df3e4b8b.jpg" width="320" height="240" alt="40 Winks"/></a> |
 |---|---|
 | [1080° Snowboarding](numbered/1080-snowboarding) | [40 Winks](numbered/40-winks) |
 
