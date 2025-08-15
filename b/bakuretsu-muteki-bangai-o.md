@@ -14,7 +14,6 @@ toc: false
 **Developer:** [Treasure](https://en.wikipedia.org/wiki/Treasure_(company)){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Entertainment Software Publishing](https://en.wikipedia.org/wiki/Entertainment_Software_Publishing){:target="_blank" rel="noopener noreferrer"}  
 **Release Date (NTSC-JPN):** September 3, 1999  
-(Bakuretsu Muteki Bangai-O)  
 **Genre:** Action / Adventure  
 **Players:** 1  
 **Force Feedback:** No
