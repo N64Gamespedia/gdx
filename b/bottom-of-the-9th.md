@@ -14,7 +14,7 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Konami](https://en.wikipedia.org/wiki/Konami){:target="_blank" rel="noreferrer noopener"}  
 **Publisher:** [Konami](https://en.wikipedia.org/wiki/Konami){:target="_blank" rel="noreferrer noopener"}  
-**NTSC (USA) Release Date:** April 14th, 1999  
+**Release Date (NTSC-USA):** April 14th, 1999  
 **Genre:** Sports / Baseball  
 **Players:** 1–2  
 **Force Feedback:** No  

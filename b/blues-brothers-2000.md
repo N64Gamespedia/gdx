@@ -15,7 +15,7 @@ toc: false
 Platform: Nintendo 64  
 Developer: Player 1  
 Publisher: [Titus Software](https://en.wikipedia.org/wiki/Titus_Software){:target="_blank" rel="noreferrer noopener"}  
-NTSC (USA) Release Date: November 17th, 2000  
+Release Date (NTSC-USA): November 17th, 2000  
 Release Date (PAL-EUR): October 13th, 2000  
 (January 15, 2000 Prototype)  
 Scene Release Date: July 3, 2021 (Forest of Illusion)  

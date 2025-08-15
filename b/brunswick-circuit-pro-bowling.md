@@ -14,7 +14,7 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Point of View](https://en.wikipedia.org/wiki/Point_of_View,_Inc.){:target="_blank" rel="noreferrer noopener"}  
 **Publisher:** [THQ](https://en.wikipedia.org/wiki/THQ){:target="_blank" rel="noreferrer noopener"}  
-**NTSC (USA) Release Date:** December 23, 1999  
+**Release Date (NTSC-USA): ** December 23, 1999  
 **Genre:** Sports / Bowling  
 **Players:** 1–4  
 **Force Feedback:** No  
