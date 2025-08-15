@@ -6,7 +6,7 @@ layout: default
 toc: false
 ---
 
-# Bokujō Monogatari 2
+# Bokujō Monogatari 2 / Harvest Moon
 <b>
 <img src="https://images.launchbox-app.com/1904f628-2152-4f75-ae80-89bb73c9c473.jpg" alt="Bokujō Monogatari 2 Box Art" style="object-fit:cover;width:320px;height:224px"/>
 <img src="https://images.launchbox-app.com/8abe1b90-2024-4331-addf-fd943f4bd01e.png" alt="Bokujō Monogatari 2 Screenshot" style="object-fit:cover;width:320px;height:224px"/>
@@ -19,7 +19,7 @@ toc: false
 **Release Date (NTSC-JPN):** February 5, 1999  
 (Bokujō Monogatari 2)  
 **Release Date (NTSC-USA):** December 22, 1999  
-**Release Date (PAL-EUR):** Not officially released  
+(Harvest Moon 64)  
 **Genre:** Simulation / Management  
 **Players:** 1  
 **Force Feedback:** No  
