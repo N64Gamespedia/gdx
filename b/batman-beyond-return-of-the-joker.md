@@ -40,4 +40,7 @@ Download: [Batman Beyond – Return of the Joker – N64Tex (JaboPack 2022)](htt
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_jaABH6qzM" title="Batman Beyond – Longplay by LongplayArchive" frameborder="0" allowfullscreen></iframe>
 
-🕹️ Created by Gent & CP of
+🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
+
+<!-- Vault Format: n64gamespedia-dev -->
+<!-- Protocol Source: _vault-specs/format-protocol.md -->
