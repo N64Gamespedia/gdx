@@ -52,9 +52,9 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 |---|---|
 | [Body Harvest](b/body-harvest) | [Bokujō Monogatari 2](b/harvest-moon-64-bokuj-monogatari-2) |
 
-| <a href="b/baku-bomberman"><img src="media/usa/Bomberman-64-(USA).png" width="320" height="240" alt="Bomberman 64"/></a> | <a href="b/bomberman-64-arcade-edition"><img src="media/jp/bomberman-64-arcade-edition.png" width="320" height="240" alt="Bomberman 64: Arcade Edition"/></a> |
+| <a href="b/baku-bomberman"><img src="media/usa/Bomberman-64-(USA).png" width="320" height="240" alt="Bomberman 64"/></a> | <a href="b/bomberman-64-arcade-edition-2001"><img src="media/jp/bomberman-64-arcade-edition.png" width="320" height="240" alt="Bomberman 64: Arcade Edition"/></a> |
 |---|---|
-| [Bomberman 64](b/baku-bomberman) | [Bomberman 64: Arcade Edition](b/bomberman-64-arcade-edition) |
+| [Bomberman 64](b/baku-bomberman) | [Bomberman 64: Arcade Edition](b/bomberman-64-arcade-edition-2001) |
 
 | <a href="b/baku-bomberman-2"><img src="media/usa/Bomberman-64--The-Second-Attack!-(USA).png" width="320" height="240" alt="Bomberman 64: The Second Attack"/></a> | <a href="b/bomberman-hero"><img src="media/usa/Bomberman-Hero-(USA).png" width="320" height="240" alt="Bomberman Hero"/></a> |
 |---|---|
