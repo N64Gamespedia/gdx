@@ -32,7 +32,7 @@ Force Feedback: Yes
 ## [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196792-blues-brothers-2000/faqs/76715){:target="_blank" rel="noreferrer noopener"}
 
 ## Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noreferrer noopener"}
-
+<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h2tMpVTin1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
