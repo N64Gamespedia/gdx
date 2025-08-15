@@ -64,7 +64,7 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 |---|---|
 | [Bottom of the 9th](b/bottom-of-the-9th) | [Brunswick Circuit Pro Bowling](b/brunswick-circuit-pro-bowling) |
 
-| <a href="b/buck-bumble"><img src="media/usa/Buck-Bumble-(USA).png" width="320" height="240" alt="Buck Bumble"/></a> | <a href="b/bust-a-move-2-arcade-edition."><img src="media/usa/Bust-A-Move-2-Arcade-Edition-(USA).png" width="320" height="240" alt="Bust-A-Move 2: Arcade Edition"/></a> |
+| <a href="b/buck-bumble"><img src="media/usa/Buck-Bumble-(USA).png" width="320" height="240" alt="Buck Bumble"/></a> | <a href="b/bust-a-move-2-arcade-edition"><img src="media/usa/Bust-A-Move-2-Arcade-Edition-(USA).png" width="320" height="240" alt="Bust-A-Move 2: Arcade Edition"/></a> |
 |---|---|
 | [Buck Bumble](b/buck-bumble) | [Bust-A-Move 2: Arcade Edition](b/bust-a-move-2-arcade-edition) |
 
