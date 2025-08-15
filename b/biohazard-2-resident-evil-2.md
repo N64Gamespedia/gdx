@@ -16,8 +16,7 @@ toc: false
 Platform: Nintendo 64  
 Developers: [Capcom Production Studio 4](https://en.wikipedia.org/wiki/Capcom#Development_studios){:target="_blank" rel="noopener noreferrer"} / [Angel Studios](https://en.wikipedia.org/wiki/Rockstar_San_Diego){:target="_blank" rel="noopener noreferrer"} / [Capcom Production Studio 3](https://www.mobygames.com/company/capcom-production-studio-3){:target="_blank" rel="noopener noreferrer"}  
 Publisher: [Capcom](https://en.wikipedia.org/wiki/Capcom){:target="_blank" rel="noopener noreferrer"}  
-Publisher: [Virgin Interactive](https://en.wikipedia.org/wiki/Virgin_Interactive){:target="_blank" rel="noopener noreferrer"}  
-(Europe)  
+Publisher: [Virgin Interactive](https://en.wikipedia.org/wiki/Virgin_Interactive){:target="_blank" rel="noopener noreferrer"} (Europe)  
 NTSC (USA) Release Date: October 31, 1999  
 Release Date (NTSC-JPN):  
 (Biohazard 2)  
