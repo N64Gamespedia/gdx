@@ -17,7 +17,8 @@ Platform: Nintendo 64
 Developer: [Rare](https://en.wikipedia.org/wiki/Rare_(company)){:target="_blank" rel="noopener noreferrer"}  
 Publisher: [Nintendo](https://en.wikipedia.org/wiki/Nintendo){:target="_blank" rel="noopener noreferrer"}  
 NTSC (USA) Release Date: March 24, 1997  
-Release Date (NTSC-JPN): March 21, 1997 (Blast Dozer)  
+Release Date (NTSC-JPN): March 21, 1997 
+(Blast Dozer)  
 Release Date (PAL-EUR): December 22, 1997  
 Genre: Strategy / Demolition  
 Players: 1  
