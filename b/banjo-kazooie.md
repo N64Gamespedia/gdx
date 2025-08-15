@@ -29,7 +29,7 @@ toc: false
 <em><strong>Banjo-Kazooie</strong></em> is a platform video game developed by <a href="https://en.wikipedia.org/wiki/Rare_(company)" target="_blank" rel="noopener noreferrer">Rare</a> and originally released for the Nintendo 64 console in 1998. It is the first game in the <em>Banjo-Kazooie</em> series and follows the story of a bear, Banjo, and a bird, Kazooie, as they try to stop the plans of the witch Gruntilda, who intends to steal the beauty of Banjo's younger sister, Tooty, for herself. The game features nine nonlinear worlds where the player must use Banjo and Kazooie's wide range of abilities to gather items and progress through the story. It features challenges such as solving puzzles, jumping over obstacles, collecting items, and defeating opponents.
 
 ## Translations Available {#translations-available}  
-**Language:** 🇪🇸 Spanish  
+### Spanish Translation {#language-spanish}  
 Banjo-Kazooie has been fan-translated into Portuguese by the [Tales Translations](https://www.romhacking.net/community/808/){:target="_blank" rel="noopener noreferrer"} team. This is the Spanish translation of this fantastic game and is compatible with the European version. Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/1431/){:target="_blank" rel="noopener noreferrer"}.
 
 ## Texture Packs Available {#texture-packs-available}  
