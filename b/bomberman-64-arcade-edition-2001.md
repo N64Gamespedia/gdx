@@ -6,6 +6,8 @@ layout: default
 toc: false
 ---
 
+#  Bomberman 64: Arcade Edition 2001
+
 <b>
 <img src="https://images.launchbox-app.com/3beabffd-e2c7-4c41-b9a6-cb8a9b491f9c.png" alt="" style="object-fit:cover;width:320px;height:224px"/>
 </b>
