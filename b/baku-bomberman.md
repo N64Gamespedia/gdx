@@ -13,7 +13,7 @@ toc: false
 </b>
 
 **Developer:** [Hudson Soft](https://en.wikipedia.org/wiki/Hudson_Soft){:target="_blank" rel="noopener noreferrer"}  
-**Publisher:** Hudson Soft (JP), Nintendo (NA/EU)  
+**Publisher:** [Hudson Soft](https://en.wikipedia.org/wiki/Hudson_Soft){:target="_blank" rel="noopener noreferrer"} (JP), Nintendo (NA/EU)  
 **Release Date (NTSC-JPN):** September 26, 1997  
 (Baku Bomberman)  
 **Release Date (NTSC-USA):** November 30, 1997  
