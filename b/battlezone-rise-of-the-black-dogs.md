@@ -20,9 +20,7 @@ toc: false
 **Force Feedback:** Yes  
 
 ## 🕹️ Game Description
-<em><strong>Battlezone: Rise of the Black Dogs</strong></em> is an alternate-history tank combat game where the Soviet and U.S. governments secretly discover alien technology on the moon and battle for control behind the scenes. Players choose from three factions: the Americans, the Soviets, and the mysterious Black Dogs.
-
-The game shares similarities with *BattleTanx: Global Assault* but features faster, more arcade-style tanks and includes other vehicle types beyond tanks.
+Battlezone: Rise of the Black Dogs, is an alternate-history type game, where the Soviet & US government hides the fact of finding alien technology on the moon from the public, and battle for military occupation of the moon behind the scenes. During the story mode, you choose one of three factions: The Americans, The Soviets, and the Black Dogs who are apparently rising. The game features similarities to BattleTanx: Global Assault, another Nintendo 64 title, but with faster, unrealistic & arcadey tanks. There are also other vehicles besides tanks
 
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196739-battlezone-rise-of-the-black-dogs/faqs/9862){:target="_blank" rel="noopener noreferrer"}
 
