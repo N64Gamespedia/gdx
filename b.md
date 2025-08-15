@@ -30,7 +30,7 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 |---|---|
 | [Bass Rush: ECOGEAR Powerworm Championship](b/bass-rush-ecogear-powerworm-championship) | [Batman Beyond: Return of the Joker](b/batman-beyond-return-of-the-joker) |
 
-| <a href="b/batman-beyond-return-of-the-joker"><img src="media/eur/batman-of-the-future.jpg" width="320" height="240" alt="Batman of the Future: Return of the Joker"/></a> | <a href="b/battletanx"><img src="media/usa/BattleTanx-(USA).png" width="320" height="240" alt="BattleTanx"/></a> |
+| <a href="b/batman-beyond-return-of-the-joker"><img src="media/eur/batman-of-the-future.jpg" width="320" height="240" alt="Batman of the Future: Return of the Joker"/></a> | <a href="b/battle-tanx"><img src="media/usa/BattleTanx-(USA).png" width="320" height="240" alt="BattleTanx"/></a> |
 |---|---|
 | [Batman of the Future: Return of the Joker](b/batman-beyond-return-of-the-joker) | [BattleTanx](b/battle-tanx) |
 | <a href="b/battle-tanx-global-assault"><img src="media/usa/BattleTanx--Global-Assault-(USA).png" width="320" height="240" alt="BattleTanx: Global Assault"/></a> | <a href="b/battlezone-rise-of-the-black-dogs"><img src="media/usa/Battlezone--Rise-of-the-Black-Dogs-(USA).png" width="320" height="240" alt="Battlezone: Rise of the Black Dogs"/></a> |
