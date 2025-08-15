@@ -9,7 +9,6 @@ toc: false
 # Body Harvest
 <b>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Body_Harvest.jpg/330px-Body_Harvest.jpg" alt="Body Harvest Box Art" style="object-fit:cover;width:320px;height:224px"/>
-<img src="https://images.launchbox-app.com/9a3f4e3e-6f2f-4c3a-9f4e-7e2f3b2a1c3e.png" alt="Body Harvest Screenshot" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Developer:** [DMA Design](https://en.wikipedia.org/wiki/DMA_Design){:target="_blank" rel="noreferrer noopener"}  
