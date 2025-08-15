@@ -31,10 +31,9 @@ Beetle Adventure Racing! is a racing game released for the Nintendo 64 in 1999. 
 
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196751-beetle-adventure-racing/faqs/7668){:target="_blank" rel="noopener noreferrer"}
 
-## 🎥 Video Playthrough
+## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/@LongplayArchive){:target="_blank" rel="noopener noreferrer"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xM2QCoYy0RI" title="Beetle Adventure Racing – Longplay by LongplayArchive" frameborder="0" allowfullscreen></iframe>  
-Video by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xM2QCoYy0RI" title="Beetle Adventure Racing – Longplay by LongplayArchive" frameborder="0" allowfullscreen></iframe>
 
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
 
