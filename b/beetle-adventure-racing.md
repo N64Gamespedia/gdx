@@ -18,7 +18,7 @@ toc: false
 **Release Date (NTSC-USA):** March 24, 1999  
 **Release Date (NTSC-JPN):** November 26, 1999  
 **Release Date (PAL-EUR):** September 4, 1999  
-**Release Date (PAL-AUS):** 1999 
+**Release Date (PAL-AUS):** 1999  
 (*HSV Adventure Racing*)  
 **Genre:** Racing / Automobile / Adventure  
 **Players:** 1 - 4  
