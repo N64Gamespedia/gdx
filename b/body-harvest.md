@@ -26,7 +26,7 @@ toc: false
 <em><strong>Body Harvest</strong></em> is an action-adventure video game developed by [DMA Design](https://en.wikipedia.org/wiki/DMA_Design){:target="_blank" rel="noreferrer noopener"} for the Nintendo 64. Players assume the role of genetically engineered soldier Adam Drake, who must stop an alien race that returns every 25 years to harvest humans for organic material. Using a time travel device, Drake battles across five eras: WWI-era Greece, 1940s Java, 1960s USA, 1990s Siberia, and the near future (2016). The game features nonlinear exploration, vehicle combat, and strategic alien encounters.
 
 ## Translations Available {#translations-available}  
-### Spanish Translation {#language-spanish}  
+### 🇪🇸 Spanish Translation {#language-spanish}  
 Body Harvest has been fan-translated into Spanish by [jackic](https://www.romhacking.net/community/3960/){:target="_blank" rel="noreferrer noopener"}. The patch uses the `.ips` format and translates most game text, intros, menus, and some graphics. Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/4976/){:target="_blank" rel="noreferrer noopener"}.
 
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196796-body-harvest/faqs/3157){:target="_blank" rel="noreferrer noopener"}
