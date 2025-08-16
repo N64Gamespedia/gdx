@@ -1,6 +1,6 @@
 ---
 title: "Mario Kart 64"
-nav_order: 13
+nav_order: 4
 parent: "M-Titles"
 layout: default
 toc: false
@@ -21,7 +21,7 @@ toc: false
 **Genre:** Racing / Kart  
 **Players:** 1–4  
 **Force Feedback:** No  
-[**Nintendo Gateway System**](#gateway-system)1993<br>(1-player only)<br>
+[**Nintendo Gateway System**](#gateway-system) 1993<br>(1-player only)<br>
 [**Language Patch Available:**](#translations-available)<br>
 🇫🇷 [French](#language-french) / 🇮🇹 [Italian](#language-italian) / 🇵🇱 [Polish](#language-polish) / 🇪🇸 [Spanish](#language-spanish)<br>
 [**Texture Pack Available:**](#texture-packs-available)<br>
@@ -31,7 +31,8 @@ toc: false
 ## 🕹️ Game Description
 <em><strong>Mario Kart 64</strong></em> lets you race solo in the Mario GP or battle up to three friends in split-screen VS mode. The competitive Battle mode and Ghost racing feature allow players to challenge their best runs. Ghost data can be saved to a Controller Pak. The game includes 20 tracks: 4 Cups with 4 courses each, plus 4 Battle mode arenas. Characters are beautifully rendered, including newcomers Donkey Kong and Wario.
 
-This game was also available through the <strong>Nintendo Gateway System</strong> {#gateway-system}, a partnership between Nintendo and LodgeNet from 1993 to the late 2000s. It was playable in over 40,000 airline seats and 955,000 hotel rooms. Games streamed via LodgeNet servers using a special controller connected to the TV or set-top box. Pricing was typically $6.95 per hour. Most games were modified for single-player only.
+<a name="gateway-system"></a>
+This game was also available through the Nintendo Gateway System, a specialized platform for airlines and hotels. As part of a partnership between Nintendo and LodgeNet from late 1993 up until the late 2000s, about 40,000 airline seats and 955,000 hotel rooms featured a modified version of the game. LodgeNet partnered with Nintendo to bring video games directly into guest hotel rooms through streaming over the LodgeNet server, with the special LodgeNet controller plugging directly into the television or LodgeNet set-top box, transmitting the game over phone lines connected to a central game server. Pricing was usually $6.95 plus tax for 1 hour of video games. After 1 hour, the game would immediately stop and prompt the user to purchase more play time. Many games were modified for single-player play only.
 
 ## Translations Available {#translations-available}  
 ### Language: 🇫🇷 French {#language-french}  
