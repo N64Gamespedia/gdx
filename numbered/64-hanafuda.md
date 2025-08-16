@@ -8,7 +8,7 @@ toc: false
 
 # 64 Hanafuda: Tenshi no Yakusoku
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/64-hanafuda.png" alt="64 Hanafuda: Tenshi no Yakusoku" width="320" height="224" />
+<img src="https://images.launchbox-app.com//f75f1072-dcb3-41e1-abf1-90ac1e2dea4b.png" alt="64 Hanafuda: Tenshi no Yakusoku" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  

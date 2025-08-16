@@ -9,10 +9,10 @@ toc: false
 # 40 Winks
 
 <b>
-  <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/40-winks-piko-usa.jpg"
+  <img src="https://images.launchbox-app.com//16d73dc1-ae64-4570-a9ad-6f2f638abd9e.jpg"
        alt="40 Winks"
        width="330"
-       height="224" />
+       height="240" />
 </b>
 
 **Platform:** Nintendo 64  

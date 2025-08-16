@@ -10,11 +10,11 @@ has_toc: false
 
 Explore all N64 titles starting with numbers, including 007: TWINE to 64 Trump Collection: Alice no Waku Waku Trump World.
 
-| <a href="numbered/007-the-world-is-not-enough"><img src="media/usa/007-The-World-Is-Not-Enough-(USA).png" width="320" height="240" alt="007 TWINE"/></a> | <a href="numbered/007-twine-prototype-2020"><img src="media/usa/007-world-is-not-enough-prototype2020.png" width="320" height="240" alt="007 TWINE Prototype"/></a> |
+| <a href="numbered/007-the-world-is-not-enough"><img src="https://images.launchbox-app.com//98ec9344-62c0-4a81-a073-0ec115a93dfd.jpg" width="320" height="240" alt="007 TWINE"/></a> | <a href="numbered/007-twine-prototype-2020"><img src="media/usa/007-world-is-not-enough-prototype2020.png" width="320" height="240" alt="007 TWINE Prototype"/></a> |
 |---|---|
 | [007: The World Is Not Enough](numbered/007-the-world-is-not-enough) | [007: The World Is Not Enough (Prototype 2020)](numbered/007-twine-prototype-2020) |
 
-| <a href="numbered/1080-snowboarding"><img src="media/usa/1080-snowboarding.png" width="320" height="240" alt="1080° Snowboarding"/></a> | <a href1080-snowboarding.png="numbered/40-winks"><img src="media/usa/40-winks-piko-usa.jpg" width="320" height="240" alt="40 Winks"/></a> |
+| <a href="numbered/1080-snowboarding"><img src="https://images.launchbox-app.com//14532eca-f48f-4120-9461-db09643dd730.jpg" width="320" height="240" alt="1080° Snowboarding"/></a> | <a href1080-snowboarding.png="numbered/40-winks"><img src="https://images.launchbox-app.com//16d73dc1-ae64-4570-a9ad-6f2f638abd9e.jpg" width="320" height="240" alt="40 Winks"/></a> |
 |---|---|
 | [1080° Snowboarding](numbered/1080-snowboarding) | [40 Winks](numbered/40-winks) |
 

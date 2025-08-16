@@ -8,7 +8,7 @@ toc: false
 
 # 64 Ōzumō 2
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/64-ozumo-2.png" alt="64 Ōzumō 2" width="320" height="224" />
+<img src="https://images.launchbox-app.com//8de049a9-4614-4246-86f0-e1c51256ce95.png" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
