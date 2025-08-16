@@ -21,7 +21,7 @@ toc: false
 **Genre:** Racing / Kart  
 **Players:** 1–4  
 **Force Feedback:** No  
-[**Nintendo Gateway System **](#gateway-system)1993<br>(1-player only)<br>
+[**Nintendo Gateway System *](#gateway-system)1993<br>(1-player only)<br>
 [**Language Patch Available:**](#translations-available)<br>
 🇫🇷 [French](#language-french) / 🇮🇹 [Italian](#language-italian) / 🇵🇱 [Polish](#language-polish) / 🇪🇸 [Spanish](#language-spanish)<br>
 [**Texture Pack Available:**](#texture-packs-available)<br>
