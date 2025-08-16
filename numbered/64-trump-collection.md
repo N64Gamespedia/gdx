@@ -8,7 +8,7 @@ toc: false
 
 # 64 Trump Collection: Alice no Waku Waku Trump World
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/64-trump-collection.png" alt="64 Trump Collection: Alice no Waku Waku Trump World" width="320" height="224" />
+<img src="https://images.launchbox-app.com//56b331a8-343d-4fdf-a1c1-30b68717068a.png" alt="64 Trump Collection: Alice no Waku Waku Trump World" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
