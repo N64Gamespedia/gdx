@@ -13,9 +13,9 @@ toc: false
 </b>
 
 **Platform:** Nintendo 64  
-**Developer:** [Software Creations](https://en.wikipedia.org/wiki/Software_Creations_(UK)){:target="_blank" rel="noopener noreferrer"}  
-**Publisher:** [Titus Software](https://en.wikipedia.org/wiki/Titus_Software) (USA):target="_blank" rel="noopener noreferrer"}  
-**Publisher:** [Sales Curve Interactive](https://en.wikipedia.org/wiki/Sales_Curve_Interactive) (Europe):target="_blank" rel="noopener noreferrer"}  
+**Developer:** [Software Creations](https://en.wikipedia.org/wiki/Software_Creations){:target="_blank" rel="noopener noreferrer"}  
+**Publisher:** [Titus Software](https://en.wikipedia.org/wiki/Titus_Software):target="_blank" rel="noopener noreferrer"} (USA)
+**Publisher:** [Sales Curve Interactive](https://en.wikipedia.org/wiki/Sales_Curve_Interactive):target="_blank" rel="noopener noreferrer"} (Europe)   
 **Release Date (NTSC-USA):** December 5th, 1999  
 **Scene Release (PAL-EUR):** October 22nd, 1999  
 **Genre:** Racing/Battle  
