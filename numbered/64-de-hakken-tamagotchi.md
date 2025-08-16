@@ -9,7 +9,7 @@ toc: false
 # 64 de Hakken!! Tamagotchi: Minna de Tamagotchi World
 
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/64-de-hakken.png" alt="64 de Hakken!! Tamagotchi: Minna de Tamagotchi World" width="320" height="224" />
+<img src="https://images.launchbox-app.com//893c1cb2-2603-4508-8a8c-66c5c3653140.png" alt="64 de Hakken!! Tamagotchi: Minna de Tamagotchi World" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
