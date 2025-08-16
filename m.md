@@ -10,6 +10,6 @@ has_toc: false
 
 Explore all N64 titles starting with the letter M.
 
-| <a href="b/mario-kart-64"><img src="https://www.n64gamespedia.com/wp-content/uploads/2025/05/5d4e7ee9-81df-4978-886d-0b661ea024621.png" width="320" height="240" alt="Mario Kart 64"/></a> |  |
+| <a href="m/mario-kart-64"><img src="https://www.n64gamespedia.com/wp-content/uploads/2025/05/5d4e7ee9-81df-4978-886d-0b661ea024621.png" width="320" height="240" alt="Mario Kart 64"/></a> |  |
 |---|---|
-| [MArio Kart 64](c/mario-kart-64) |  |
+| [MArio Kart 64](m/mario-kart-64) |  |
