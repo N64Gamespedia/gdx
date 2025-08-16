@@ -9,10 +9,10 @@ toc: false
 # 1080° Snowboarding
 
 <b>
-  <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/1080-snowboarding.png"
+  <img src="https://images.launchbox-app.com//14532eca-f48f-4120-9461-db09643dd730.jpg"
        alt="1080° Snowboarding"
        width="320"
-       height="224" />
+       height="240" />
 </b>
 
 **Platform:** Nintendo 64  
