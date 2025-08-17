@@ -58,7 +58,7 @@ Explore classic N64 titles using the sidebar. 🎮
 - [Bakusho Jinsei 64: Mezase! Resort-O](b/bakusho-jinsei-64-mezase-resort-o)
 - [Banjo-Kazooie / Banjo to Kazooie no Daiboken](b/banjo-kazooie)
 - [Banjo-Tooie / Banjo to Kazooie no Daiboken 2](b/banjo-tooie)
-- [Bass Hunter 64 / In-Fisherman Bass Hunter 64](b/bass-hunter)
+- [Bass Hunter 64 / In-Fisherman Bass Hunter 64](b/bass-hunter-64)
 - [Bass Masters 2000](b/bass-masters-2000)
 - [Bass Rush: ECOGEAR Powerworm Championship](b/bass-rush-ecogear-powerworm-championship)
 - [Batman Beyond / Batman of the Future: Return of the Joker](b/batman-beyond-return-of-the-joker)
