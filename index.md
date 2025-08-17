@@ -87,8 +87,8 @@ Explore classic N64 titles using the sidebar. 🎮
 - [California Speed](c/california-speed)
 - [Carmageddon 64](c/carmageddon-64)
 - [Carnivale – Cenzo’s Adventure (Prototype)](c/carnivale-cenzos-adventure-prototype)
-- [Castlevania / Akumajou Dracula Mokushiroku](a/akumajou-dracula)
-- [Castlevania: Legacy of Darkness / Akumajou Dracula Mokushiroku Gaiden](a/akumajou-dracula-gaiden)
+- [Castlevania / Akumajou Dracula Mokushiroku](a/akumajou-dracula-mokushiroku)
+- [Castlevania: Legacy of Darkness / Akumajou Dracula Mokushiroku Gaiden](a/akumajou-dracula-mokushiroku-gaiden-legend-of-cornell)
 
 ## D
 - [Diddy Kong Racing]()
