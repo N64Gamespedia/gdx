@@ -20,4 +20,4 @@ Explore all N64 titles starting with the letter C, from *California-Speed* to *C
 
 | <a href="c/castlevania-legacy-of-darkness"><img src="https://images.launchbox-app.com//bb806c09-db19-48fe-aa77-1238939ad5e4.jpg" width="320" height="240" alt="Castlevania: Legacy of Darkness"/></a> |
 |---|---|
-|[Castlevania: Legacy of Darkness](c/castlevania-legacy-of-darkness) | |
+| [Castlevania: Legacy of Darkness](c/castlevania-legacy-of-darkness) |
