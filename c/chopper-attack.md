@@ -10,8 +10,6 @@ toc: false
 
 <b>
 <img src="https://images.launchbox-app.com/1429eebf-2906-4238-8c5c-06af44ee19f1.jpg" alt="Chopper Attack Box Art" width="320" height="240" />
-</b>  
-<b>
 <img src="https://images.launchbox-app.com/e74c2b94-73c0-4157-8ad2-939e68ddcecd.png" alt="Chopper Attack Title Screen" width="320" height="240" />
 </b>
 
