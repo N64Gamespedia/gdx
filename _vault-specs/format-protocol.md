@@ -91,7 +91,6 @@ Convert the `Game Description` block **as-is from the original WP Block source**
 ### 🎯 Goals:
 - Preserve the **exact sentence flow and formatting**
 - Retain **inline hyperlinks**, targets, and visible text
-- Wrap entire paragraph in a `<b>` block  
 - No paraphrasing, no merging with other sources
 
 ### 📄 Example Output:

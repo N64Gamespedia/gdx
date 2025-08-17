@@ -22,9 +22,7 @@ toc: false
 **Force Feedback:** Yes
 
 ## 🕹️ Game Description
-<b>
 Here's a fun puzzle for you, Charlie. See if you can set up a series of bombs in time to blow yourself to the next level - before you get so nervous you explode. It's a total N64 blast for 1 to 4 players. Bursting with cool Line Bombs and Freeze Bombs to demolish your competition. 45 increasingly complicated Multi-Player game boards for Survival Mode and Territory Mode. 60 single player Puzzle Mode levels. All kinds of wacky booby-traps designed by the world-famous game designer Scott Kim.
-</b>
 
 ## 📚 [Game Guide / Walkthrough](https://www.ign.com/articles/2006/02/28/charlie-blasts-territory-walkthrough-687223){:target="_blank" rel="noopener noreferrer"}
 
