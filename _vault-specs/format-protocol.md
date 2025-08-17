@@ -30,6 +30,7 @@ toc: false
 ------ Example: parent: "Numbered Title Games", parent: "A-Titles", parent: "B-Titles", parent: "C-Titles" etc -----------------
 ------ Every New Section A, B, C etc starts fresh with the first Alphabetical Letter as nav_order: 1 and so on until the next Sectioon  -----------------
 
+# "[Game Title]"
 
 ## 📷 Image Block
 ```markdown
@@ -151,3 +152,5 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 <!-- Vault Format: n64gamespedia-dev -->
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
 ```
+
+Before generating the Final MD Format CodeBox, Normal Chat print the Slugname.md with a - replacing any spaces.
