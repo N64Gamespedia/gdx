@@ -39,21 +39,31 @@ toc: false
 </b>
 ```
 
+------ If more than 2 then like This -----------------
+
+```markdown
+<b>
+<img src="[IMAGEURL]" alt="[Box Art Alt Text]" width="320" height="240" />
+<img src="[IMAGEURL]" alt="[Box Art Alt Text]" width="320" height="240" />
+</b>
+```
+
 ## 📄 Metadata Section
 ```markdown
 **Platform:** Nintendo 64  
 **Developer:** [Developer Name](WikiURL){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Publisher Name](WikiURL){:target="_blank" rel="noopener noreferrer"}  
 ```
-If Developer or Publisher is followed by a (region) in Brackets, we leave that on the same line followed by 4 spaces after it like:    
-This allows a next line without a big gap
+------ If Developer or Publisher is followed by a (region) in Brackets, we leave that on the same line followed by 4 spaces after it like:    ----------------- 
+------ This allows a next line without a big gap -----------------
+
 ```markdown
 **Release Date (NTSC-USA):** [Date]  
 **Release Date (PAL-EUR):** [Date]  
 **Prototype Scene Release Date:** [Date + Source]  
 ```
-If Release Date: [Date]  is followed by an alternative (region name) in Brackets, then we drop that down to the next line followed by 4 spaces after it like:    
-This allows a next line without a big gap
+------ If Release Date: [Date]  is followed by an alternative (region name) in Brackets, then we drop that down to the next line followed by 4 spaces after it like:     -----------------
+------ This allows a next line without a big gap -----------------
 
 ------ Extra Gateway System Section if present -----------------
 ```markdown
@@ -65,12 +75,13 @@ This allows a next line without a big gap
 [**Language Patch Available:**](#translations-available)<br>
 🇺🇸 [English](#english-translation)<br>
 ```
-If there are more than one Language then we do like this:
+------ If there are more than one Language then we do like this: -----------------
+
 ```markdown
 🇫🇷 [French](#language-french) / 🇮🇹 [Italian](#language-italian) / 🇵🇱 [Polish](#language-polish) / 🇪🇸 [Spanish](#language-spanish)<br>
 ```
 
-If there is no flag we add it, If the Language name arrears in brackets (Language) then we remove the Brackets.
+------ If there is no flag we add it, If the Language name arrears in brackets (Language) then we remove the Brackets. -----------------
 
 ------ Extra Texture Pack Section if present -----------------
 ```markdown
@@ -153,4 +164,4 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
 ```
 
-Before generating the Final MD Format CodeBox, Normal Chat print the Slugname.md with a - replacing any spaces.
+------  Before generating the Final MD Format CodeBox, Normal Chat print the Slugname.md with a - replacing any spaces. -----------------
