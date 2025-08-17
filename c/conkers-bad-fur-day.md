@@ -20,10 +20,8 @@ toc: false
 (Aug 26, 2000 Prototype - Borman)  
 **Prototype Scene Release Date:** November 22, 2016  
 (Oct 25, 2000 Prototype - Borman)  
-
 [**Language Patch Available:**](#translations-available)<br>
 🇫🇷 [French](#language-french) / 🇧🇷 [Portuguese](#language-portuguese) / 🇪🇸 [Spanish](#language-spanish)<br>
-
 **Genre:** Action/Adventure/3D Platformer  
 **Players:** 1 - 4  
 **Force Feedback:** Yes  
