@@ -9,7 +9,7 @@ toc: false
 # Carmageddon 64
 
 <b>
-<img src="https://gamepedia.cursecdn.com/gamia_gamepedia_en/thumb/4/43/Front-Cover-Carmageddon-64-NA-N64.jpg/450px-Front-Cover-Carmageddon-64-NA-N64.jpg?version=6b4dd9f43571f968987daacb6c7b41c6" alt="California Speed" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com//be6132bd-478c-4389-b716-de7729184bb2.jpg" alt="California Speed" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  
