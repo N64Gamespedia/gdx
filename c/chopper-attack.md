@@ -28,9 +28,7 @@ NTSC (JPN) Release Date: November 28, 1997 (Wild Choppers)
 **Force Feedback:** Yes  
 
 ## 🕹️ Game Description
-<b>
-Chopper Attack (Wild Choppers in Japan) is a helicopter-based third-person shooter game released and published in 1997 by Midway. The game features numerous missions in various locations; missions include bombing the enemy's bases, escorting Air Force One through dangerous jungle terrain and rescuing prisoners of war.
-</b>
+*Chopper Attack* (*Wild Choppers* in Japan) is a helicopter-based third-person shooter game released and published in 1997 by Midway. The game features numerous missions in various locations; missions include bombing the enemy's bases, escorting Air Force One through dangerous jungle terrain and rescuing prisoners of war.
 
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196913-chopper-attack/faqs/8417){:target="_blank" rel="noopener noreferrer"}
 
