@@ -8,8 +8,8 @@ toc: false
 
 # City-Tour GrandPrix / GT 64: Championship Edition
 <b>
-<img src="https://images.launchbox-app.com/f9a65e42-e997-4a55-9d58-85b99b109288.jpg" alt="GT 64 Box Art 1" width="320" height="224" />
-<img src="https://images.launchbox-app.com/9bfadfdb-5f16-4d1b-99e4-cc663efafdb7.png" alt="GT 64 Box Art 2" width="320" height="224" />
+<img src="https://images.launchbox-app.com/9bfadfdb-5f16-4d1b-99e4-cc663efafdb7.png" alt="City-Tour GrandPrix Box Art" width="320" height="224" />
+<img src="https://images.launchbox-app.com/f9a65e42-e997-4a55-9d58-85b99b109288.jpg" alt="GT 64: Championship Edition Box Art" width="320" height="224" />
 </b>
 
 **Platform:** Nintendo 64  

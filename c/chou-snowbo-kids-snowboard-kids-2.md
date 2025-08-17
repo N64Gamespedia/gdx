@@ -8,8 +8,8 @@ toc: false
 
 # Chou Snowbo Kids / Snowboard Kids 2
 <b>
-<img src="https://images.launchbox-app.com/1c71dc27-dc6a-45b4-b554-169656a554dc.jpg" alt="Snowboard Kids 2 Box Art 1" width="320" height="224" />
-<img src="https://images.launchbox-app.com/cdc46509-679b-422f-9651-1adb8f7c3c6a.jpg" alt="Snowboard Kids 2 Box Art 2" width="320" height="224" />
+<img src="https://images.launchbox-app.com/cdc46509-679b-422f-9651-1adb8f7c3c6a.jpg" alt="Chou Snowbo Kids Box Art" width="320" height="224" />
+<img src="https://images.launchbox-app.com/1c71dc27-dc6a-45b4-b554-169656a554dc.jpg" alt="Snowboard Kids 2 Box Art" width="320" height="224" />
 </b>
 
 **Platform:** Nintendo 64  

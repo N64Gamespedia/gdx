@@ -8,8 +8,8 @@ toc: false
 
 # Choro Q 64 / Penney Racers
 <b>
-<img src="https://images.launchbox-app.com/d3abc23d-e7e3-49b4-b053-29870d47dedd.jpg" alt="Choro Q 64 Screenshot 1" width="320" height="224" />
-<img src="https://images.launchbox-app.com/2aa6187f-9f89-41da-81dc-97e3b3f1b561.png" alt="Choro Q 64 Screenshot 2" width="320" height="224" />
+<img src="https://images.launchbox-app.com/2aa6187f-9f89-41da-81dc-97e3b3f1b561.png" alt="Choro Q 64" width="320" height="224" />
+<img src="https://images.launchbox-app.com/d3abc23d-e7e3-49b4-b053-29870d47dedd.jpg" alt="Penny Racers" width="320" height="224" />
 </b>
 
 **Platform:** Nintendo 64  
