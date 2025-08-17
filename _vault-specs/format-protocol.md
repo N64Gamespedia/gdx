@@ -49,11 +49,16 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Developer Name](WikiURL){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Publisher Name](WikiURL){:target="_blank" rel="noopener noreferrer"}  
+```
+If Developer or Publisher is followed by a (region) in Brackets, we leave that on the same line followed by 4 spaces after it like:    
+This allows a next line without a big gap
+```markdown
 **Release Date (NTSC-USA):** [Date]  
 **Release Date (PAL-EUR):** [Date]  
 **Prototype Scene Release Date:** [Date + Source]  
 ```
-If Release Date: [Date]  is followed by an alternative (region name) in Brackets, then we drop that down to the next line followed by 4 spaces like:    
+If Release Date: [Date]  is followed by an alternative (region name) in Brackets, then we drop that down to the next line followed by 4 spaces after it like:    
+This allows a next line without a big gap
 
 ------ Extra Gateway System Section if present -----------------
 ```markdown
