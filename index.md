@@ -57,7 +57,7 @@ Explore classic N64 titles using the sidebar. 🎮
 - [Bakuretsu Muteki Bangai-O](bakuretsu-muteki-bangai-o)
 - [Bakusho Jinsei 64: Mezase! Resort-O](bakusho-jinsei-64-mezase-resort-o)
 - [Banjo-Kazooie / Banjo to Kazooie no Daiboken](banjo-kazooie)
-- [Banjo-Tooie / Banjo to Kazooie no Daiboken 2](b/banjo-to)
+- [Banjo-Tooie / Banjo to Kazooie no Daiboken 2](b/banjo-tooie)
 - [Bass Hunter 64 / In-Fisherman Bass Hunter 64](b/bass-hunter)
 - [Bass Masters 2000](bass-masters-2000)
 - [Bass Rush: ECOGEAR Powerworm Championship](bass-rush-ecogear-powerworm-championship)
