@@ -53,6 +53,8 @@ toc: false
 **Release Date (PAL-EUR):** [Date]  
 **Prototype Scene Release Date:** [Date + Source]  
 ```
+If Release Date: [Date]  is followed by an alternative (region name) in Brackets, then we drop that down to the next line followed by 4 spaces like:    
+
 ------ Extra Gateway System Section if present -----------------
 ```markdown
 [**Nintendo Gateway System:**](#gateway-system) 1993  
