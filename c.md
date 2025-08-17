@@ -59,5 +59,5 @@ Explore all N64 titles starting with the letter C, from *California Speed* to *C
 | [Custom Robo](c/custom-robo) | [Custom Robo V2](c/custom-robo-v2) |
 
 | <a href="c/cyber-tiger"><img src="https://images.launchbox-app.com/b793a4db-d8d8-4f8a-9e93-35633e0d671f.jpg" width="320" height="240" alt="Cyber Tiger"/></a> |  |
-|---|---|
-| [Cyber Tiger](c/cyber-tiger) |  |
+|---|
+| [Cyber Tiger](c/cyber-tiger) |
