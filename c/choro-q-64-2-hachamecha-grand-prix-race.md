@@ -16,8 +16,8 @@ toc: false
 **Publisher:** [THQ](https://en.wikipedia.org/wiki/THQ){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Takara](https://en.wikipedia.org/wiki/Takara){:target="_blank" rel="noopener noreferrer"} (Japan)  
 **Release Date (NTSC-JPN):** July 17, 1998  
-[**Language Patch Available:**](#translations-available)<br>  
-🇺🇸 [English](#language-english)<br>  
+[**Language Patch Available:**](#translations-available)    
+🇺🇸 [English](#language-english)    
 **Genre:** Racing / Car  
 **Players:** 1 - 4  
 **Force Feedback:** No
