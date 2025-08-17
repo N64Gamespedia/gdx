@@ -90,6 +90,28 @@ Explore classic N64 titles using the sidebar. 🎮
 - [Castlevania / Akumajou Dracula Mokushiroku](c/castlevania)
 - [Castlevania: Legacy of Darkness / Akumajou Dracula Mokushiroku Gaiden](c/castlevania-legacy-of-darkness)
 
+
+- [Centre Court Tennis / Let’s Smash](c/centre-court-tennis)
+- [Chameleon Twist](c/chameleon-twist)
+- [Chameleon Twist 2](c/chameleon-twist-2)
+- [Charlie Blast’s Territory](c/charlie-blast's-territory)
+- [Chopper Attack / Wild Choppers](c/chopper-attack)
+- [Choro Q 64 / Penny Racers](c/choro-q-64-penney-racers)
+- [Choro Q 64 2: Hachamecha Grand Prix Race](c/choro-q-64-2-hachamecha-grand-prix-race)
+- [Chōkūkan Night: Pro Yakyū King](c/chou-kuukan-night-pro-yakyuu-king)
+- [Chōkūkan Night: Pro Yakyū King 2](c/chou-kuukan-night-pro-yakyuu-king-2)
+- [Chou Snowbo Kids](c/chou-snowbo-kids-snowboard-kids-2)
+- [City-Tour GrandPrix: Zen-Nihon GT Senshuken](c/city-tour-grandprix-gt-64-championship-edition)
+- [ClayFighter 63⅓ / ClayFighter 63⅓ Sculptor’s Cut](c/clayfighter-63-1-quarter)
+- [Command & Conquer 64](c/command-and-conquer)
+- [Conker’s Bad Fur Day](c/conkers-bad-fur-day)
+- [Cruis’n Exotica](c/cruisn-exotica)
+- [Cruis’n USA](c/cruisn-usa)
+- [Cruis’n World](c/cruisn-world)
+- [Custom Robo](c/custom-robo)
+- [Custom Robo V2](c/custom-robo-v2)
+- [Cybertiger](c/cyber-tiger)
+
 ## D
 - [Diddy Kong Racing]()
 - [Donkey Kong 64]()
