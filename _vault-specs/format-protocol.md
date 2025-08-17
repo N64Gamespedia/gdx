@@ -61,7 +61,11 @@ toc: false
 ------ Extra Language Patch Section if present -----------------
 ```markdown
 [**Language Patch Available:**](#translations-available)<br>
-🇺🇸 [English](#english-translation)<br>   
+🇺🇸 [English](#english-translation)<br>
+```
+If there are more than one Language then we do like this:
+```markdown
+🇫🇷 [French](#language-french) / 🇮🇹 [Italian](#language-italian) / 🇵🇱 [Polish](#language-polish) / 🇪🇸 [Spanish](#language-spanish)<br>
 ```
 ------ Extra Texture Pack Section if present -----------------
 ```markdown
