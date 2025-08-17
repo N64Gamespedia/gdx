@@ -7,8 +7,6 @@
 - Entries originate from sealed WP Block code using Gutenberg syntax
 - Markdown conversion must follow this protocol exactly
 
----
-
 ## 🎯 Conversion Rules
 
 - ✅ Use WP Block content as authoritative source — no rephrasing, additions, or merges  
@@ -16,8 +14,6 @@
 - ❌ Do NOT alter sentence structure in description  
 - ❌ No duplicate headings or link blocks  
 - ❌ No stray tags (`</b>`, unmatched wrappers) below iframe or other elements
-
----
 
 ## 🧩 Metadata Formatting
 
@@ -33,7 +29,7 @@ toc: false
 ```
 ------ Example: parent: "Numbered Title Games", parent: "A-Titles", parent: "B-Titles", parent: "C-Titles" etc -----------------
 ------ Every New Section A, B, C etc starts fresh with the first Alphabetical Letter as nav_order: 1 and so on until the next Sectioon  -----------------
----
+
 
 ## 📷 Image Block
 ```markdown
@@ -41,8 +37,6 @@ toc: false
 <img src="[IMAGEURL]" alt="[Box Art Alt Text]" width="320" height="240" />
 </b>
 ```
-
----
 
 ## 📄 Metadata Section
 ```markdown
@@ -74,6 +68,9 @@ If there are more than one Language then we do like this:
 ```markdown
 🇫🇷 [French](#language-french) / 🇮🇹 [Italian](#language-italian) / 🇵🇱 [Polish](#language-polish) / 🇪🇸 [Spanish](#language-spanish)<br>
 ```
+
+If there is no flag we add it, If the Language name arrears in brackets (Language) then we remove the Brackets.
+
 ------ Extra Texture Pack Section if present -----------------
 ```markdown
 [**Texture Pack Available:**](#texture-packs-available)<br>
@@ -85,7 +82,6 @@ If there are more than one Language then we do like this:
 **Players:** [Number]  
 **Force Feedback:** [Yes/No]
 ```
----
 
 ## 🕹️ Description Section
 
@@ -126,14 +122,11 @@ This converted release from DX DDS to PNG includes upscaling, detail tuning, and
 ### GlideN64 Format {#gliden64-format}  
 This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" rel="noopener noreferrer"} reworks the environment with new textures, enhanced menus, and a 3D visual overhaul. Download at [Aerogauge Texture Pack – GlideN64 Version](https://www.n64textures.com/pj64-rdx-repo/aeroguage-game-page){:target="_blank" rel="noopener noreferrer"}.
 ```
----
 
 ## 📚 Game Guide Section
 ```markdown
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs/37816){:target="_blank" rel="noopener noreferrer"}
 ```
-
----
 
 ## 🎥 Video Playthrough Section
 ```markdown
@@ -142,8 +135,6 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ca1C-hDxAQA?si=6t30Vg26Sn3dt9-t" title="The World Is Not Enough Gameplay" frameborder="0" allowfullscreen></iframe>
 ```
 
----
-
 ## 🧼 Render Checklist
 
 - ✅ No stray formatting tags  
@@ -151,7 +142,6 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 - ✅ Exact metadata clause order preserved  
 - ✅ Image and iframe rendered without layout drift
 
----
 
 ## 🏁 Entry Completion Tags
 
