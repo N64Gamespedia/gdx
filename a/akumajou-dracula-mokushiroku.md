@@ -9,7 +9,7 @@ toc: false
 # Akumajou Dracula Mokushiroku
 <b>
 <img src="https://images.launchbox-app.com/aa7a3f27-700d-412a-8db2-2f755cb91ef5.png" alt="Akumajou Dracula Mokushiroku NTSC-JP Box Art" style="object-fit:cover;width:320px;height:224px"/>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Castlevania-(USA)-(Rev-B).png" alt="Castlevania NTSC-USA Box Art" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com//0545a9db-a5ca-496a-89fa-02fbf94c8a3e.jpg" alt="Castlevania NTSC-USA Box Art" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  
@@ -26,7 +26,7 @@ toc: false
 **Force Feedback:** Yes
 
 ## 🕹️ Game Description
-*Akumajou Dracula Mokushiroku* is the Japanese release of the first 3D entry in the *Castlevania* series, developed by [Konami Computer Entertainment Kobe](https://en.wikipedia.org/wiki/Konami#Former_subsidiaries){:target="_blank" rel="noopener noreferrer"} for the Nintendo 64. Players choose between Carrie Fernandez or Reinhardt Schneider as they explore Dracula’s castle to prevent his resurrection. The game was later expanded and re-released as *Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell*.
+*Castlevania* (*Akumajou Dracula Mokushiroku* in Japan) is the first 3D entry in the series, developed by [Konami Computer Entertainment Kobe](https://en.wikipedia.org/wiki/Konami#Former_subsidiaries){:target="_blank" rel="noopener noreferrer"} for the Nintendo 64. Players choose between Carrie Fernandez or Reinhardt Schneider as they explore Dracula’s castle to prevent his resurrection. The game was later expanded and re-released as *Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell*.
 
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196882-castlevania/faqs/44590){:target="_blank" rel="noopener noreferrer"}
 

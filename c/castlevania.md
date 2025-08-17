@@ -26,7 +26,7 @@ toc: false
 **Force Feedback:** Yes
 
 ## 🕹️ Game Description
-*Castlevania* (*Akumajou Dracula Mokushiroku* in Japan) is the first 3D entry in the  series, developed by [Konami Computer Entertainment Kobe](https://en.wikipedia.org/wiki/Konami#Former_subsidiaries){:target="_blank" rel="noopener noreferrer"} for the Nintendo 64. Players choose between Carrie Fernandez or Reinhardt Schneider as they explore Dracula’s castle to prevent his resurrection. The game was later expanded and re-released as *Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell*.
+*Castlevania* (*Akumajou Dracula Mokushiroku* in Japan) is the first 3D entry in the series, developed by [Konami Computer Entertainment Kobe](https://en.wikipedia.org/wiki/Konami#Former_subsidiaries){:target="_blank" rel="noopener noreferrer"} for the Nintendo 64. Players choose between Carrie Fernandez or Reinhardt Schneider as they explore Dracula’s castle to prevent his resurrection. The game was later expanded and re-released as *Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell*.
 
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196882-castlevania/faqs/44590){:target="_blank" rel="noopener noreferrer"}
 

@@ -9,7 +9,7 @@ toc: false
 # Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell
 <b>
 <img src="https://images.launchbox-app.com/53783cb5-b5a8-4a98-b79f-1e3c8b184da4.png" alt="Akumajou Dracula Mokushiroku Gaiden NTSC-JP Box Art" style="object-fit:cover;width:320px;height:224px"/>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Castlevania--Legacy-of-Darkness-(USA).png" alt="Castlevania: Legacy of Darkness NTSC-USA Box Art" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com//bb806c09-db19-48fe-aa77-1238939ad5e4.jpg" alt="Castlevania: Legacy of Darkness NTSC-USA Box Art" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  
