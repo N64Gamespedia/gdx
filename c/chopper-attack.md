@@ -18,11 +18,10 @@ toc: false
 **Publisher:** [Midway Games](https://en.wikipedia.org/wiki/Midway_Games){:target="_blank" rel="noopener noreferrer"} (North America)    
 **Publisher:** [SETA Corporation](https://en.wikipedia.org/wiki/SETA_Corporation){:target="_blank" rel="noopener noreferrer"} (Japan)    
 **Publisher:** [GT Interactive](https://en.wikipedia.org/wiki/Atari,_Inc._(Atari_SA_subsidiary)){:target="_blank" rel="noopener noreferrer"} (Europe)    
-
 **Release Date (NTSC-USA):** June 17, 1998  
-NTSC (JPN) Release Date: November 28, 1997 (Wild Choppers)    
+**Release Date (NTSC-JPN):** November 28, 1997    
+(Wild Choppers)    
 **Release Date (PAL-EUR):** September 1, 1998  
-
 **Genre:** Simulation/Helicopter/Shooter  
 **Players:** 1  
 **Force Feedback:** Yes  
