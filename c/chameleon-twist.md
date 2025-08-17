@@ -17,7 +17,7 @@ toc: false
 **Release Date (NTSC-USA):** November 30, 1997  
 **Release Date (NTSC-JPN):** December 12, 1997  
 **Release Date (PAL-EUR):** December 6, 1997  
-[**Language Patch Available:**](#translations-available)<br>  
+[**Language Patch Available:**](#translations-available)<br>
 🇺🇸 [English](#language-english)<br>  
 **Genre:** Adventure / 3D Platformer  
 **Players:** 1–4  
