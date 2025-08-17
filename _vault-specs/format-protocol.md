@@ -89,6 +89,8 @@ toc: false
 [Jabo 1.7 Format](#jabo-17-format)<br>
 [GlideN64 Format](#gliden64-format)   
 ```
+------ No big gaps between extra sections. Just a paragraph space from last Release date Any Extra Sections and then Genre -----------------
+
 ```markdown
 **Genre:** [Genre]  
 **Players:** [Number]  
