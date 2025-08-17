@@ -14,9 +14,9 @@ Explore all N64 titles starting with the letter C, from *California-Speed* to *C
 |---|---|
 | [California Speed](c/california-speed) | [Carmageddon 64](c/carmageddon-64) |
 
-| <a href="c/carnivale-cenzos-adventure-prototype"><img src="https://images.launchbox-app.com//f2a3ae2a-3130-405f-b424-6cab6b7c03c7.jpg" width="320" height="240" alt="Carnivale – Cenzo’s Adventure (Prototype)"/></a> |  <a href="c/castlevania"><img src="https://images.launchbox-app.com//8d222e09-8190-40d2-a505-a0423143be0c.png" width="320" height="240" alt="Castlevania"/></a> | |
+| <a href="c/carnivale-cenzos-adventure-prototype"><img src="https://images.launchbox-app.com//f2a3ae2a-3130-405f-b424-6cab6b7c03c7.jpg" width="320" height="240" alt="Carnivale – Cenzo’s Adventure (Prototype)"/></a> |  <a href="c/castlevania"><img src="https://images.launchbox-app.com//8d222e09-8190-40d2-a505-a0423143be0c.png" width="320" height="240" alt="Castlevania"/></a> |
 |---|---|
-| [Carnivale – Cenzo’s Adventure (Prototype)](c/carnivale-cenzos-adventure-prototype) | [Castlevania](c/castlevania)
+| [Carnivale – Cenzo’s Adventure (Prototype)](c/carnivale-cenzos-adventure-prototype) | [Castlevania](c/castlevania) |
 
 | <a href="c/castlevania-legacy-of-darkness"><img src="https://images.launchbox-app.com//3ddd627b-9318-4a78-8a0a-2e4cf8a81056.png" width="320" height="240" alt="Castlevania: Legacy of Darkness"/></a> |
 |---|---|
