@@ -6,7 +6,7 @@ layout: default
 has_toc: false
 ---
 
-# Nintendo 64 Games — M Section
+# Nintendo 64 Games — M Titles
 
 Explore all N64 titles starting with the letter M.
 

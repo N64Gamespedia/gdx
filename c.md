@@ -6,7 +6,7 @@ layout: default
 has_toc: false
 ---
 
-# Nintendo 64 Games — C Section
+# Nintendo 64 Games — C Titles
 
 Explore all N64 titles starting with the letter C, from *California-Speed* to *Cybertiger*.
 

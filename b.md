@@ -6,7 +6,7 @@ layout: default
 has_toc: false
 ---
 
-# Nintendo 64 Games — B Section
+# Nintendo 64 Games — B Titles
 
 Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bust-A-Move 3 DX*.
 
@@ -20,7 +20,7 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 
 | <a href="b/banjo-kazooie"><img src="https://images.launchbox-app.com//c9f2e2ee-0be0-4265-bc1e-a513b01916c6.jpg" width="320" height="240" alt="Banjo-Kazooie"/></a> | <a href="b/banjo-tooie"><img src="https://images.launchbox-app.com//931bc900-6d2e-4699-bff8-15bcacc78d71.jpg" width="320" height="240" alt="Banjo-Tooie"/></a> |
 |---|---|
-| [Banjo-Kazooie](b/banjo-kazooie) | [Banjo-Tooie](b/banjo-tooie) |
+| [Banjo-Kazooie / Banjo to Kazooie no Daiboken](b/banjo-kazooie) | [Banjo-Tooie / Banjo to Kazooie no Daiboken 2](b/banjo-tooie) |
 
 | <a href="b/bass-hunter-64"><img src="https://images.launchbox-app.com//e58f1267-2b20-4cf6-ac02-70ae3675ea89.jpg" width="320" height="240" alt="Bass Hunter 64"/></a> | <a href="b/bass-masters-2000"><img src="https://images.launchbox-app.com//d5b18c18-1b66-4a91-98bd-09ff398589dc.jpg" width="320" height="240" alt="Bass Masters 2000"/></a> |
 |---|---|

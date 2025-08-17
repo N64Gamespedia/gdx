@@ -6,7 +6,7 @@ layout: default
 has_toc: false
 ---
 
-# Nintendo 64 Games — A Section
+# Nintendo 64 Games — A Titles
 
 Explore all N64 titles starting with the letter A, from *A Bug’s Life* to *Automobili Lamborghini*.
 
