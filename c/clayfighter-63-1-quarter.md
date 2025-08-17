@@ -19,7 +19,7 @@ toc: false
 **Release Date (NTSC-USA):** May 15, 1998  
 (*Sculptor's Cut*)  
 **Release Date (PAL-EUR):** November 19, 1997  
-**Language Patch Available:**  
+**[Language Patch Available:](#translations-available)**  
 🇧🇷 [Portuguese](#language-portuguese)  
 **Genre:** Arcade/Fighting  
 **Players:** 1 - 2  
