@@ -20,7 +20,7 @@ toc: false
 (*Sculptor's Cut*)  
 **Release Date (PAL-EUR):** November 19, 1997  
 **Language Patch Available:**  
-(🇧🇷 [Portuguese](#Language-Portuguese))  
+🇧🇷 [Portuguese](#Language-Portuguese)  
 **Genre:** Arcade/Fighting  
 **Players:** 1 - 2  
 **Force Feedback:** No
