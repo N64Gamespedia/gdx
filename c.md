@@ -10,6 +10,6 @@ has_toc: false
 
 Explore all N64 titles starting with the letter C, from *California-Speed* to *Cybertiger*.
 
-| <a href="c/california-speed"><img src="https://images.launchbox-app.com/5a6c7e5c-834e-46af-af26-3042259db0ee.jpg" width="320" height="240" alt="California Speed"/></a> |  |
+| <a href="c/california-speed"><img src="https://images.launchbox-app.com/5a6c7e5c-834e-46af-af26-3042259db0ee.jpg" width="320" height="240" alt="California Speed"/></a> | <a href="c/carmageddon-64"><img src="https://images.launchbox-app.com//be6132bd-478c-4389-b716-de7729184bb2.jpg" width="320" height="240" alt="Carmageddon 64"/></a> |
 |---|---|
-| [California Speed](c/california-speed) |  |
+| [California Speed](c/california-speed) | [Carmageddon 64](c/carmageddon-64) |
