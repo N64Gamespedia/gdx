@@ -13,8 +13,7 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Rare](https://en.wikipedia.org/wiki/Rare_(company)){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Rare](https://en.wikipedia.org/wiki/Rare_(company)){:target="_blank" rel="noopener noreferrer"}  
-**Publisher:** [THQ](https://en.wikipedia.org/wiki/THQ){:target="_blank" rel="noopener noreferrer"}  
-(Europe)  
+**Publisher:** [THQ](https://en.wikipedia.org/wiki/THQ){:target="_blank" rel="noopener noreferrer"} (Europe)    
 **Release Date (NTSC-USA):** 5 March 2001  
 **Release Date (PAL-EUR):** 13 April 2001  
 **Prototype Scene Release Date:** November 22, 2016  
