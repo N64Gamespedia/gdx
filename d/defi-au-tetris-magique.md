@@ -1,12 +1,12 @@
 ---
-title: "Defi au Tetris Magique / Magical Tetris Challenge / Magical Tetris Challenge Arcade [Aleck64] / Magical Tetris Challenge featuring Mickey"
+title: "Defi au Tetris Magique / Magical Tetris Challenge"
 nav_order: 5
 parent: "D-Titles"
 layout: default
 toc: false
 ---
 
-# Defi au Tetris Magique / Magical Tetris Challenge / Magical Tetris Challenge Arcade [Aleck64] / Magical Tetris Challenge featuring Mickey
+# Defi au Tetris Magique / Magical Tetris Challenge
 
 <b>
 <img src="https://www.n64gamespedia.com/wp-content/uploads/2025/04/62ba645b-477c-4be8-b9c7-786f87dbb8801.jpg" alt="Magical Tetris Challenge USA Box Art" width="320" height="224" />
