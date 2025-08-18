@@ -27,8 +27,7 @@ toc: false
 ## 🕹️ Game Description
 Marvin The Martian has developed an ultimate weapon that will allow him to finally destroy Earth, which will ultimately allow him to take control of the universe. Upon the demonstration of the weapon, a slight snag hinders Marvin from completing his devious deed. The Weapon is out of Atoms, which it runs on, so he sends his minions (all of which are characters from the Looney Tune universe) to gather Atoms to fuel his weapon. Duck Dodgers is informed by his academy of Marvin's deeds and sets out to find the one-hundred Atoms before Marvin can. This ultimately has Dodgers and his sidekick, Cadet, trekking to four different planets, including a large pirate ship, to obtain the upper-hand over Marvin.
 
-## 📚 Game Guide / Walkthrough
-There is no Game Guide / Walkthrough
+## 📚 There is no Game Guide / Walkthrough
 
 ## 🎥 Video Playthrough by [Mariofan98 Longplays](https://www.youtube.com/channel/UCL66oGo4SmlRBITO-EnUslg){:target="_blank" rel="noopener noreferrer"}  
 <br />  
