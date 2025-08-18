@@ -15,10 +15,8 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Aruze](https://en.wikipedia.org/wiki/Universal_Entertainment){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Aruze](https://en.wikipedia.org/wiki/Universal_Entertainment){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-JPN):** 2003  
 (Aleck64)
-
 **Genre:** Puzzle  
 **Players:** 1 - 2  
 **Force Feedback:** No
