@@ -110,9 +110,7 @@ Convert the `Game Description` block **as-is from the original WP Block source**
 ### 📄 Example Output:
 ```markdown
 ## 🕹️ Game Description
-<b>
 <em><strong>The World Is Not Enough</strong></em> is a first-person shooter video game developed by <a href="https://en.wikipedia.org/wiki/Eurocom" target="_blank">Eurocom</a> and based on the 1999 <em>James Bond</em> film of the same name. It was published by <a href="https://en.wikipedia.org/wiki/Electronic_Arts" target="_blank">Electronic Arts</a> and released on October 17, 2000 for the Nintendo 64. The game features a single-player campaign in which players assume the role of MI6 agent James Bond as he fights to stop a terrorist from triggering a nuclear meltdown in the waters of Istanbul. It includes a split-screen multiplayer mode where up to four players can compete in different types of deathmatch and objective-based games.
-</b>
 ```
 ------ Extra Gateway System Section if present -----------------
 ```markdown
