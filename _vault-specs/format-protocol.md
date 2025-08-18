@@ -32,7 +32,12 @@ toc: false
 
 # "[Game Title]"
 
-## 📷 Image Block
+
+------ If more than 2 because of a region name change then like This -----------------
+
+# "[Game Title / Game Title]"
+
+<!--  ## 📷 Image Block -->
 ```markdown
 <b>
 <img src="[IMAGEURL]" alt="[Box Art Alt Text]" width="320" height="240" />
@@ -48,7 +53,7 @@ toc: false
 </b>
 ```
 
-## 📄 Metadata Section
+<!-- ## 📄 Metadata Section -->
 ```markdown
 **Platform:** Nintendo 64  
 **Developer:** [Developer Name](WikiURL){:target="_blank" rel="noopener noreferrer"}  
@@ -97,7 +102,7 @@ toc: false
 **Force Feedback:** [Yes/No]
 ```
 
-## 🕹️ Description Section
+<!-- ## 🕹️ Description Section -->
 
 ### ✅ Conversion Rule:
 Convert the `Game Description` block **as-is from the original WP Block source**
@@ -107,7 +112,7 @@ Convert the `Game Description` block **as-is from the original WP Block source**
 - Retain **inline hyperlinks**, targets, and visible text
 - No paraphrasing, no merging with other sources
 
-### 📄 Example Output:
+<!-- ### 📄 Example Output: -->
 ```markdown
 ## 🕹️ Game Description
 <em><strong>The World Is Not Enough</strong></em> is a first-person shooter video game developed by <a href="https://en.wikipedia.org/wiki/Eurocom" target="_blank">Eurocom</a> and based on the 1999 <em>James Bond</em> film of the same name. It was published by <a href="https://en.wikipedia.org/wiki/Electronic_Arts" target="_blank">Electronic Arts</a> and released on October 17, 2000 for the Nintendo 64. The game features a single-player campaign in which players assume the role of MI6 agent James Bond as he fights to stop a terrorist from triggering a nuclear meltdown in the waters of Istanbul. It includes a split-screen multiplayer mode where up to four players can compete in different types of deathmatch and objective-based games.
@@ -141,19 +146,19 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 
 ------ If there is no  Game Guide / Walkthrough , we just use that without a link like this: -----------------
 
-## 📚 Game Guide Section
+<!--  ## 📚 Game Guide Section-->
 ```markdown
 ## 📚 No Game Guide / Walkthrough
 ```
 
-## 🎥 Video Playthrough Section
+<!-- ## 🎥 Video Playthrough Section -->
 ```markdown
 ## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
 <br />  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ca1C-hDxAQA?si=6t30Vg26Sn3dt9-t" title="The World Is Not Enough Gameplay" frameborder="0" allowfullscreen></iframe>
 ```
 
-## 🧼 Render Checklist
+<!-- ## 🧼 Render Checklist -->
 
 - ✅ No stray formatting tags  
 - ✅ Verified embedded links open in new tabs  
@@ -161,7 +166,7 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 - ✅ Image and iframe rendered without layout drift
 
 
-## 🏁 Entry Completion Tags
+<!-- ## 🏁 Entry Completion Tags -->
 
 ```markdown
 
