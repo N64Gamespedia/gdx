@@ -190,4 +190,4 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
 ```
 
-------  Before generating the Final MD Format CodeBox, Normal Chat print the Slugname.md lowercase with a - replacing any spaces. -----------------
+------  Before generating the Final MD Format CodeBox, print in lowercase the slugname in plain text with a - replacing any spaces. -----------------
