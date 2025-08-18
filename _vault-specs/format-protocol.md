@@ -139,6 +139,13 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs/37816){:target="_blank" rel="noopener noreferrer"}
 ```
 
+------ If there is no  Game Guide / Walkthrough , we just use that without a link like this: -----------------
+
+## 📚 Game Guide Section
+```markdown
+## 📚 No Game Guide / Walkthrough
+```
+
 ## 🎥 Video Playthrough Section
 ```markdown
 ## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}
