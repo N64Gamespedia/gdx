@@ -9,8 +9,8 @@ toc: false
 # Donald Duck - Goin' Quackers / Quack Attack
 
 <b>
-<img src="https://images.launchbox-app.com/a1175697-e1d2-460e-80bb-ae947dfe4942.jpg" alt="Donald Duck - Quack Attack USA Box Art" width="320" height="240" />
-<img src="https://images.launchbox-app.com/adf08e4b-8984-4775-b554-0a8c230e3052.jpg" alt="Donald Duck - Goin' Quackers EUR Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/e1ef8958-61fe-4c3c-a5fd-84c2d34ad6bb.jpg" alt="Donald Duck - Quack Attack USA Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/f81797ff-7a3b-4adf-9ffe-24cb5e94ad4b.jpg" alt="Donald Duck - Goin' Quackers EUR Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
