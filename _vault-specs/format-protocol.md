@@ -67,8 +67,19 @@ toc: false
 **Release Date (PAL-EUR):** [Date]  
 **Prototype Scene Release Date:** [Date + Source]  
 ```
------- If Release Date: [Date]  is followed by an alternative (region name) in Brackets, then we drop that down to the next line followed by 4 spaces after it like:     -----------------
------- This allows a next line without a big gap -----------------
+
+If a Release Date line includes an alternative region name in parentheses, drop the localized game title to the next line. That next line should begin flush left — with no leading spaces before the opening parenthesis. Example:
+
+```markdown
+**Release Date (NTSC-USA):** December 20, 2000  
+(Donald Duck - Quack Attack)  
+**Release Date (PAL-EUR):** December 8, 2000  
+(Disney's Donald Duck - Goin' Quackers)  
+```
+This keeps the formatting tight and consistent. 
+
+✅ Never add spaces before the parentheses on the second line. 
+✅ Keeps the layout clean for vault parsing and visual clarity.
 
 ------ Extra Gateway System Section if present -----------------
 ```markdown
