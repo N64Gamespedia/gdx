@@ -68,7 +68,10 @@ toc: false
 **Prototype Scene Release Date:** [Date + Source]  
 ```
 
-If a Release Date line includes an alternative region name in parentheses, drop the localized game title to the next line. That next line should begin flush left — with no leading spaces before the opening parenthesis. Example:
+If a Release Date line is followed by a localized game title in parentheses, drop that title to the next line. 
+
+✅ The parentheses line must begin flush left — with no leading spaces before the opening (. 
+✅ This ensures clean parsing and visual consistency in the vault.
 
 ```markdown
 **Release Date (NTSC-USA):** December 20, 2000  
