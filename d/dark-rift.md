@@ -18,8 +18,7 @@ toc: false
 **Publisher:** [Vic Tokai](https://en.wikipedia.org/wiki/Tokai_Communications){:target="_blank" rel="noopener noreferrer"}  
 **Release Date (NTSC-USA):** July 8, 1997  
 **Release Date (PAL-EUR):** July 30, 1997  
-**Release Date (NTSC-JPN):** March 27, 1998  
-&nbsp;  
+**Release Date (NTSC-JPN):** March 27, 1998    
 (Space Dynamites)  
 **Genre:** Fighting  
 **Players:** 1 - 2  
