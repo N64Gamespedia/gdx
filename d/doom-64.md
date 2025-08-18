@@ -17,11 +17,9 @@ toc: false
 **Publisher:** [Midway Home Entertainment](https://en.wikipedia.org/wiki/Midway_Games#Publishing_and_distribution){:target="_blank" rel="noopener noreferrer"} (USA)  
 **Publisher:** [Gamebank](https://www.mobygames.com/company/gamebank-corp){:target="_blank" rel="noopener noreferrer"} (JP)  
 **Publisher:** [GT Interactive](https://en.wikipedia.org/wiki/Atari,_Inc._(Atari_SA_subsidiary)){:target="_blank" rel="noopener noreferrer"} (Europe)  
-
 **Release Date (NTSC-USA):** April 4, 1997  
 **Release Date (NTSC-JPN):** August 1, 1997  
 **Release Date (PAL-EUR):** December 2, 1997  
-
 **Genre:** Action/First-Person Shooter  
 **Players:** 1  
 **Force Feedback:** No
