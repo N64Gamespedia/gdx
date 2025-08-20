@@ -23,7 +23,7 @@ toc: false
 ## 🕹️ Game Description
 This is the prototype of the canceled Die Hard 64 developed by Bits Studios and consists of 3 development discs. The game was later remade for the GameCube and released as *Die Hard: Vendetta*. Although these prototypes are very cool to play, remember they are just that and is still unfinished.
 
-## 📚 No Game Guide / Walkthrough
+## 📚 There is no Game Guide / Walkthrough
 
 ## 🎥 Video Playthrough by [phoenix1291](https://www.youtube.com/channel/UCRe5KY3wmE8AbnSxfeKK1KQ){:target="_blank" rel="noopener noreferrer"}
 <br />  
