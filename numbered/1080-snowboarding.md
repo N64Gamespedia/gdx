@@ -34,7 +34,7 @@ _**1080° Snowboarding**_ is a snowboard racing game developed by [Nintendo EAD]
 <a name="gateway-system"></a>
 This game was also available through the Nintendo Gateway System, a specialized platform for airlines and hotels. As part of a partnership between Nintendo and LodgeNet from late 1993 up until the late 2000s, about 40,000 airline seats and 955,000 hotel rooms featured a modified version of the game. LodgeNet partnered with Nintendo to bring video games directly into guest hotel rooms through streaming over the LodgeNet server, with the special LodgeNet controller plugging directly into the television or LodgeNet set-top box, transmitting the game over phone lines connected to a central game server. Pricing was usually $6.95 plus tax for 1 hour of video games. After 1 hour, the game would immediately stop and prompt the user to purchase more play time. Many games were modified for single-player play only.
 
-**[Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196500-1080-teneighty-snowboarding/faqs/13645){:target="_blank" rel="noopener noreferrer"}**
+## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/196500-1080-teneighty-snowboarding/faqs/13645){:target="_blank" rel="noopener noreferrer"}
 
 ## 🎥 Video Playthrough by [N64 Archive](https://www.youtube.com/channel/UC1fUDTXUTKjpk_j7leAhAyw){:target="_blank" rel="noopener noreferrer"}
 

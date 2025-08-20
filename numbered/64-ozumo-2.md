@@ -22,7 +22,7 @@ toc: false
 ## 🕹️ Game Description  
 <em><strong>64 Ōzumō 2</strong></em> (64大相撲 2, <em>Rokujūyon Ōzumō Ni</em>, lit. <em>64 Professional Sumo Wrestling 2</em>) is a sequel which was only released in Japan on March 19, 1999, for the Nintendo 64. Like its predecessor, the gameplay simulates various aspects of a sumo wrestler’s life — including training, diet, and tournament progression. The game is entirely in Japanese.
 
-## 📚 **No Game Guide / Walkthrough Available**  
+## 📚 There is no Game Guide / Walkthrough Available  
 
 ## 🎥 Video Gameplay Sample by [N64 Previews](https://www.youtube.com/channel/UCBMuzqWDTcvPeEHaFYgfavQ){:target="_blank" rel="noopener noreferrer"}
 

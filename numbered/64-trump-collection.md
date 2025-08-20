@@ -22,7 +22,7 @@ toc: false
 ## 🕹️ Game Description  
 <em><strong>64 Trump Collection: Alice no Waku Waku Trump World</strong></em> is a card game developed and published by Bottom Up for the Nintendo 64. Released exclusively in Japan on August 7, 1998, the game features four distinct modes: Story Mode, Standard Mode, Trump Classroom, and Options. Players can enjoy 15 different card games including Poker, Blackjack, Page One, Dobon, and Daifugō, each with unique rules and character interactions. The game is entirely in Japanese and includes whimsical characters from Alice’s world.
 
-## 📚 **No Game Guide / Walkthrough Available**  
+## 📚 There is no Game Guide / Walkthrough Available  
 
 ## 🎥 Video Gameplay Sample by [N64 Previews](https://www.youtube.com/channel/UCBMuzqWDTcvPeEHaFYgfavQ){:target="_blank" rel="noopener noreferrer"}
 
