@@ -30,7 +30,7 @@ The game is very much an early prototype and has many issues when trying to play
 
 There is an amazing community for this game and is ever evolving with updates fixing various issues and stumbling blocks. You can find out more it over at [Dinosaur Planet Wiki](https://dinosaurpla.net/Main/){:target="_blank" rel="noopener noreferrer"}.
 
-## 📚 No Game Guide / Walkthrough
+## 📚 There is no Game Guide / Walkthrough
 
 ## 🎥 Video Playthrough (8 Part) by [★WishingTikal★](https://www.youtube.com/c/WishingTikal){:target="_blank" rel="noopener noreferrer"}
 <br />  
