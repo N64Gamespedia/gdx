@@ -162,7 +162,7 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 
 <!--  ## 📚 Game Guide Section-->
 ```markdown
-## 📚 No Game Guide / Walkthrough
+## 📚 There is no Game Guide / Walkthrough
 ```
 
 <!-- ## 🎥 Video Playthrough Section -->
