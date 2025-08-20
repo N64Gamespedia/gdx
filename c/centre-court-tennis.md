@@ -26,8 +26,7 @@ toc: false
 ## 🕹️ Game Description
 <em><strong>Centre Court Tennis</strong></em> is a tennis game for the Nintendo 64 released in 1999 in Europe. It was released under the name <em><strong>Let's Smash</strong></em> (Let's スマッシュ) in Japan in 1998. The basic game features a multiplayer mode (up to 4 players), a tournament mode and an exhibition mode. You also have four mini-games, "Tennis Court Bingo", "Burning Barrels", "Run and Gun" & Knock'em Down", where your goal is to hit certain objects in the tennis field. You can win special prices for getting enough points.
 
-## 📚 Game Guide / Walkthrough  
-**There is no Game Guide / Walkthrough**
+## 📚 There is no Game Guide / Walkthrough 
 
 ## 🎥 Video Playthrough by [N64 Previews](https://www.youtube.com/channel/UCBMuzqWDTcvPeEHaFYgfavQ){:target="_blank" rel="noopener noreferrer"}  
 <br />
