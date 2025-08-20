@@ -28,7 +28,7 @@ toc: false
 ## 🕹️ Game Description
 **Disney's Tarzan** is an action-packed adventure based on the animated film. Relive Tarzan's journey from a headstrong youth to a courageous adult. Swing, climb, run, jump, and surf through 13 beautiful environments while interacting with unique characters, riding elephants, and solving challenging puzzles. Master the moves of this jungle hero and save Tarzan's family from a ruthless hunter.
 
-## 📚 No Game Guide / Walkthrough
+## 📚 There is no Game Guide / Walkthrough
 
 ## 🎥 Video Playthrough by [N64 Archive](https://www.youtube.com/channel/UC1fUDTXUTKjpk_j7leAhAyw){:target="_blank" rel="noopener noreferrer"}
 <br />  
