@@ -28,7 +28,7 @@ Your Slot machine can land on coloured bombs, character tiles which clear everyt
 
 Although this game sounds weird it's not too hard to pick up on. The voice samples in this game are all Japanese and the text is 99% Japanese as well. Setting up a game is not hard but changing any settings may take some trial and error. This game supports 2 players so bring a friend to join in on the madness.
 
-## 📚 No Game Guide / Walkthrough
+## 📚 There is no Game Guide / Walkthrough
 
 ## 🎥 Video Gameplay Sample by [InsertMoreCoins](https://www.youtube.com/channel/UCq8n2oMl5dVugY_u4pzwoOQ){:target="_blank" rel="noopener noreferrer"}
 <br />  
