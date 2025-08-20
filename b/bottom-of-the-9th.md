@@ -22,8 +22,7 @@ toc: false
 ## 🕹️ Game Description
 <em><strong>Bottom of the 9th</strong></em> is a baseball video game developed and published by [Konami](https://nintendo.fandom.com/wiki/Konami){:target="_blank" rel="noreferrer noopener"} for the Nintendo 64. It was released exclusively in North America in 1999.
 
-## 📚 Game Guide / Walkthrough  
-**There is no Game Guide / Walkthrough available.**
+## 📚 There is no Game Guide / Walkthrough  
 
 ## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noreferrer noopener"}  
 <br />

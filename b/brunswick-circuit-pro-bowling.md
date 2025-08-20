@@ -22,8 +22,7 @@ toc: false
 ## 🕹️ Game Description
 The realistic <strong>Brunswick Circuit Pro Bowling</strong> is a multi-platform title available on the Nintendo 64. The game features a create-a-bowler mode, or if you're not the customizable type, 13 players to choose from. There are also a few other modes other than your standard exhibition, such as a career mode and an oily disco-lane mode.
 
-## 📚 Game Guide / Walkthrough  
-**There is no Game Guide / Walkthrough available.**
+## 📚 There is no Game Guide / Walkthrough  
 
 ## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noreferrer noopener"}  
 <br />
