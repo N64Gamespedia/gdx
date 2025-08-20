@@ -33,7 +33,7 @@ Compatible with Project64 and Mupen64Plus.
 ROM match: *AI Shougi 3 (Japan)* — No-Intro verified.  
 Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/7249/){:target="_blank" rel="noopener noreferrer"}.
 
-## 📚 No Game Guide / Walkthrough
+## 📚 There is no Game Guide / Walkthrough
 
 ## 🎥 Video Gameplay Sample by [N64 Previews](https://www.youtube.com/channel/UCBMuzqWDTcvPeEHaFYgfavQ){:target="_blank" rel="noopener noreferrer"}  
 <br />
