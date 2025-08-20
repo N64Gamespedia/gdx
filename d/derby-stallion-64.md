@@ -24,7 +24,7 @@ toc: false
 ## 🕹️ Game Description
 Derby Stallion 64 is a horse racing Nintendo 64 game that is also a business simulation game. The game has nice graphics in that distinctive 64 style. It can be very compelling for the player to bring up a young foal to eventually win the cup, before being put out to pasture.
 
-## 📚 No Game Guide / Walkthrough
+## 📚 There is no Game Guide / Walkthrough
 
 ## 🎥 Video Gameplay Sample by [N64 Previews](https://www.youtube.com/channel/UCBMuzqWDTcvPeEHaFYgfavQ){:target="_blank" rel="noopener noreferrer"}
 <br />  
