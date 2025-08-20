@@ -23,7 +23,7 @@ toc: false
 
 <p class="has-medium-font-size"></p>
 
-## 📚 No Game Guide / Walkthrough  
+## 📚 There is no Game Guide / Walkthrough  
 
 <p class="has-medium-font-size"></p>
 
