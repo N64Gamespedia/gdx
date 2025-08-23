@@ -1,15 +1,15 @@
 ---
-title: "Animal Crossing"
-nav_order: 13
-parent: "A-Titles"
+title: "Dobutsu no Mori"
+nav_order: 15
+parent: "D-Titles"
 layout: default
 toc: false
 ---
 
 # Animal Crossing  
 <b>  
-<img src="https://images.launchbox-app.com//196c2e3d-3b07-4418-a56e-48524d7eff97.jpg" alt="Animal Crossing Box Art (China)" style="object-fit:cover;width:320px;height:224px"/>
 <img src="https://images.launchbox-app.com//436ad5b4-b7f8-4fcc-b7ea-b38f38793955.png" alt="Dobutsu no Mori Box Art (Japan)" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com//196c2e3d-3b07-4418-a56e-48524d7eff97.jpg" alt="Animal Crossing Box Art (China)" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 <b>  
 <img src="https://images.launchbox-app.com/7d65132c-7d91-4e71-89f5-ed97e515c85e.png" alt="Animal Crossing Fan Translation Cover" style="object-fit:cover;width:320px;height:224px"/>  
@@ -18,7 +18,7 @@ toc: false
 **Developer:** [Nintendo EAD](https://en.wikipedia.org/wiki/Nintendo_Entertainment_Analysis_%26_Development){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Nintendo](https://en.wikipedia.org/wiki/Nintendo){:target="_blank" rel="noopener noreferrer"}  
 **Release Date (NTSC-JPN):** April 14, 2001    
-*(Dobutsu no Mori – N64)*  
+*(Dobutsu no Mori)*  
 **Release Date (PAL-CHN):** June 1, 2006    
 *(Animal Crossing – iQue)*  
 [**Language Patch Available:**](#translations-available)<br> 

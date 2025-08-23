@@ -54,9 +54,9 @@ Explore all N64 titles starting with the letter D, from *Daffy Duck Starring Daf
 |---|---|
 | [Doraemon 3 – Nobita no Machi SOS!](d/doraemon-3-nobita-no-machi-sos) | [Doubutsu Banchou (Prototype)](d/doubutsu-banchou) |
 
-| <a href="d/animal-crossing"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/dobutsu-no-mori.png" width="320" height="240" alt="Doubutsu no Mori"/></a> | <a href="d/dr-mario-64"><img src="https://images.launchbox-app.com//53eebbb8-bcab-4e48-ac70-2de2f330b290.jpg" width="320" height="240" alt="Dr. Mario 64"/></a> |
+| <a href="d/dobutsu-no-mori"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/dobutsu-no-mori.png" width="320" height="240" alt="Doubutsu no Mori"/></a> | <a href="d/dr-mario-64"><img src="https://images.launchbox-app.com//53eebbb8-bcab-4e48-ac70-2de2f330b290.jpg" width="320" height="240" alt="Dr. Mario 64"/></a> |
 |---|---|
-| [Doubutsu no Mori](d/animal-crossing) | [Dr. Mario 64](d/dr-mario-64) |
+| [Doubutsu no Mori](d/dobutsu-no-mori) | [Dr. Mario 64](d/dr-mario-64) |
 
 | <a href="d/dragon-sword-64"><img src="https://images.launchbox-app.com/65a5665b-2a6b-407d-a128-df15f295041f.png" width="320" height="240" alt="Dragon Sword 64 (Prototype)"/></a> | <a href="d/dual-heroes"><img src="https://images.launchbox-app.com/1b7e5350-7b08-4b0a-8b6d-8564c1d5e74b.jpg" width="320" height="240" alt="Dual Heroes"/></a> |
 |---|---|
