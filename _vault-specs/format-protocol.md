@@ -27,8 +27,14 @@ layout: default
 toc: false
 ---
 ```
-<!--  Example: parent: "Numbered Title Games", parent: "A-Titles", parent: "B-Titles", parent: "C-Titles" etc
-	  Every New Section A, B, C etc starts fresh with the first Alphabetical Letter as nav_order: 1 and so on until the next Sectioon -->
+
+<!-- Example: Use ONE of the following depending on section —
+     parent: "Numbered Title Games"
+     parent: "A-Titles"
+     parent: "B-Titles"
+     parent: "C-Titles"
+     etc. -->
+	  
 
 # [Game Title]
 
