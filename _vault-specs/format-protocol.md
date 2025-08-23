@@ -91,6 +91,8 @@ This keeps the formatting tight and consistent.
 ✅ Never add spaces before the parentheses on the second line. 
 ✅ Keeps the layout clean for vault parsing and visual clarity.
 
+<!--  No big gaps between last release. Just 2 space bar at the end of from last Release date Any Extra Sections and then Genre -->
+
 <!--  Extra Gateway System Section if present -->
 ```markdown
 [**Nintendo Gateway System:**](#gateway-system) 1993  
