@@ -91,7 +91,7 @@ This keeps the formatting tight and consistent.
 <!--  Extra Language Patch Section if present -->
 ```markdown
 [**Language Patch Available:**](#translations-available)<br>
-🇺🇸 [English](#english-translation)<br>
+🇺🇸 [English](#english-translation)  
 ```
 <!--  If there are more than one Language then we do like this: -->
 
