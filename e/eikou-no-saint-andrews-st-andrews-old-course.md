@@ -17,7 +17,7 @@ toc: false
 **Developer:** [SETA Corporation](https://en.wikipedia.org/wiki/SETA_Corporation){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [SETA Corporation](https://en.wikipedia.org/wiki/SETA_Corporation){:target="_blank" rel="noopener noreferrer"}  
 **Release Date (NTSC-JPN):** November 29, 1996  
-[**Language Patch Available:**](#translations-available)<br>  
+[**Language Patch Available:**](#translations-available)<br>
 🇺🇸 [English](#english-translation)  
 **Genre:** Sports/Golf  
 **Players:** 1 - 4  
