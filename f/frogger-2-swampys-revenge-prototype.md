@@ -30,15 +30,6 @@ Frogger 2: Swampy's Revenge is a video game released in 2000 for various platfor
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AzOhOAfQkRk" title="Frogger 2: Swampy's Revenge Prototype Gameplay" frameborder="0" allowfullscreen></iframe>
 
-To explore gameplay mechanics, level design, and platform differences, these additional videos offer valuable reference:
-
-- [PS1 Frogger 2: Swampy's Revenge 2000 - No Commentary](https://www.youtube.com/watch?v=YYwT5vyA8RQ) provides a full breakdown of level progression, character selection, and environmental hazards across all stages.
-- [Frogger 2: Swampy's Revenge - Full Playthrough](https://www.youtube.com/watch?v=GKCDtDQPNdo) showcases uninterrupted gameplay from start to finish, ideal for understanding pacing and difficulty curve.
-- [Frogger 2 Swampy's Revenge [1 - Baby Frog Rescue] The ...](https://www.youtube.com/watch?v=_l6BQVQrqtU) focuses on the opening level and tutorial mechanics, helping players grasp movement and objectives.
-- [Frogger 2: Swampy's Revenge - Nitro Rad](https://www.youtube.com/watch?v=cgP-KT8rbC0) offers a critical review of gameplay innovations, character abilities, and level design evolution from the original.
-- [PSX Longplay [724] Frogger 2: Swampy's Revenge (US)](https://www.youtube.com/watch?v=SvSFgvVa9KY) delivers a complete longplay with timestamps for multiplayer, arcade mode, and hidden content.
-- [Let's play Frogger 2: Swampy's Revenge (2000, DC)](https://www.youtube.com/watch?v=l7iV8grNla8) provides commentary and comparisons with the Dreamcast version, highlighting visual and control differences.
-
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️  
 <!-- Vault Format: n64gamespedia-dev -->  
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
