@@ -9,7 +9,7 @@ toc: false
 # Dr. Mario 64
 
 <b>
-<img src="https://www.project64-legacy.com/data/uploads/BoxArt/2d/Dr.%20Mario%2064%20%28USA%29.png" alt="" width="320" height="224" />
+<img src="https://images.launchbox-app.com//53eebbb8-bcab-4e48-ac70-2de2f330b290.jpg" alt="" width="320" height="224" />
 <img src="https://images.launchbox-app.com/431ec595-bc24-4072-87e8-3563f95883a1.png" alt="" width="320" height="224" />
 </b>
 

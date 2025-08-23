@@ -9,7 +9,7 @@ toc: false
 # Deadly Arts / G.A.S.P!! Fighters' NEXTream
 
 <b>
-<img src="https://www.project64-legacy.com/data/uploads/BoxArt/2d/Deadly%20Arts%20(USA).PNG" alt="Deadly Arts USA Box Art" width="320" height="224" />
+<img src="https://images.launchbox-app.com//df7fd704-df80-4e5d-940a-2ffbae4fe59d.jpg" alt="Deadly Arts USA Box Art" width="320" height="224" />
 <img src="https://images.launchbox-app.com/422cbb3b-09f4-4a60-834c-b4ac6b5459c1.jpg" alt="G.A.S.P!! Fighters' NEXTream JP Box Art" width="320" height="224" />
 </b>
 

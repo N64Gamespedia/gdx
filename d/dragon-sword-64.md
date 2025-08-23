@@ -9,8 +9,8 @@ toc: false
 # Dragon Sword 64
 
 <b>
-<img src="https://www.project64-legacy.com/data/uploads/BoxArt/Dragon%20Sword%20%28E%29.jpg" alt="" width="320" height="224" />
-<img src="https://www.project64-legacy.com/data/uploads/BoxArt/Dragon%20Sword%20%28U%29.jpg" alt="" width="320" height="224" />
+<img src="https://images.launchbox-app.com/65a5665b-2a6b-407d-a128-df15f295041f.png" alt="" width="320" height="224" />
+<img src="https://www.n64gamespedia.com/wp-content/uploads/2025/08/Dragon20Sword20U1.jpg" alt="" width="320" height="224" />
 </b>
 
 **Platform:** Nintendo 64  
