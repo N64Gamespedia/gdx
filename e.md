@@ -1,6 +1,6 @@
 ---
 title: "E-Titles"
-nav_order: 8
+nav_order: 7
 has_children: true
 layout: default
 has_toc: false
