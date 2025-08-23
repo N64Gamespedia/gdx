@@ -14,9 +14,9 @@ Explore all N64 titles starting with the letter F, from *F1 Pole Position 64* to
 |---|---|
 | [F1 Pole Position 64](f/f1-pole-position-64) | [F-1 World Grand Prix](f/f-1-world-grand-prix) |
 
-| <a href="f/f-1-world-grand-prix-ii"><img src="https://placeholder.image/f-1-world-grand-prix-ii.jpg" width="320" height="240" alt="F-1 World Grand Prix II"/></a> | <a href="f/f-zero-x"><img src="https://placeholder.image/f-zero-x.jpg" width="320" height="240" alt="F-Zero X"/></a> |
+| <a href="f/f-1-world-grand-prix-2"><img src="https://placeholder.image/f-1-world-grand-prix-ii.jpg" width="320" height="240" alt="F-1 World Grand Prix II"/></a> | <a href="f/f-zero-x"><img src="https://placeholder.image/f-zero-x.jpg" width="320" height="240" alt="F-Zero X"/></a> |
 |---|---|
-| [F-1 World Grand Prix II](f/f-1-world-grand-prix-ii) | [F-Zero X](f/f-zero-x) |
+| [F-1 World Grand Prix II](f/f-1-world-grand-prix-2) | [F-Zero X](f/f-zero-x) |
 
 | <a href="f/f1-racing-championship"><img src="https://placeholder.image/f1-racing-championship.jpg" width="320" height="240" alt="F1 Racing Championship"/></a> | <a href="f/fifa-road-to-world-cup-98"><img src="https://placeholder.image/fifa-road-to-world-cup-98.jpg" width="320" height="240" alt="FIFA – Road to World Cup 98 / World Cup e no Michi"/></a> |
 |---|---|
