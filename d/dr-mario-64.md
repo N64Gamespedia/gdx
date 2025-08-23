@@ -1,6 +1,6 @@
 ---
 title: "Dr. Mario 64"
-nav_order: 22
+nav_order: 24
 parent: "D-Titles"
 layout: default
 toc: false

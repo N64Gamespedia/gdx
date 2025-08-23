@@ -1,6 +1,6 @@
 ---
 title: "Dual Heroes"
-nav_order: 24
+nav_order: 25
 parent: "D-Titles"
 layout: default
 toc: false

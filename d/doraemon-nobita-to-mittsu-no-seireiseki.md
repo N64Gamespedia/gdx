@@ -1,6 +1,6 @@
 ---
 title: "Doraemon: Nobita to Mittsu no Seireiseki"
-nav_order: 18
+nav_order: 19
 parent: "D-Titles"
 layout: default
 toc: false

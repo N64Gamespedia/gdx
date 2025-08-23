@@ -1,6 +1,6 @@
 ---
 title: "Donchan Puzzle Hanabi de Doon!"
-nav_order: 15
+nav_order: 16
 parent: "D-Titles"
 layout: default
 toc: false

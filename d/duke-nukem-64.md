@@ -1,6 +1,6 @@
 ---
 title: "Duke Nukem 64"
-nav_order: 25
+nav_order: 26
 parent: "D-Titles"
 layout: default
 toc: false

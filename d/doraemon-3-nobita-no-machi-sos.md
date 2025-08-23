@@ -1,6 +1,6 @@
 ---
 title: "Doraemon 3: Nobi Dai no Machi SOS!"
-nav_order: 20
+nav_order: 21
 parent: "D-Titles"
 layout: default
 toc: false

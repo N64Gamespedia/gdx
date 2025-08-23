@@ -1,6 +1,6 @@
 ---
 title: "Dobutsu no Mori"
-nav_order: 15
+nav_order: 14
 parent: "D-Titles"
 layout: default
 toc: false

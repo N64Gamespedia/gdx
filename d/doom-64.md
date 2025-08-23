@@ -1,6 +1,6 @@
 ---
 title: "DOOM 64"
-nav_order: 17
+nav_order: 18
 parent: "D-Titles"
 layout: default
 toc: false

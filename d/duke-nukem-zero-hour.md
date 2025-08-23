@@ -1,6 +1,6 @@
 ---
 title: "Duke Nukem: Zero Hour"
-nav_order: 26
+nav_order: 27
 parent: "D-Titles"
 layout: default
 toc: false

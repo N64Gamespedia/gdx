@@ -1,6 +1,6 @@
 ---
 title: "Doraemon 2: Nobita to Hikari no Shinden"
-nav_order: 19
+nav_order: 20
 parent: "D-Titles"
 layout: default
 toc: false
