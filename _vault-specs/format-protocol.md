@@ -63,6 +63,13 @@ toc: false
 </b>
 ```
 
+<!-- ✅ Box Art Deduplication Rule -->
+<!-- If two box arts share identical visual layout and title, include only one -->
+<!-- If both USA, EUR & JPN exist with same title, use USA Box Front Cover only -->
+<!-- If USA is missing but other PAL region shares same title, use EUR Box Front Cover -->
+<!-- If JPN box art shares same title and layout as USA or EUR, exclude JP image -->
+
+
 <!-- ## 📄 Metadata Section -->
 ```markdown
 **Platform:** Nintendo 64  
