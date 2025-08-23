@@ -73,8 +73,11 @@ toc: false
 	  This allows a next line without a big gap -->
 ```markdown
 **Release Date (NTSC-USA):** [Date]  
+**Release Date (NTSC-JPN):** [Date]  
 **Release Date (PAL-EUR):** [Date]  
-**Prototype Scene Release Date:** [Date + Source]  
+**Scene Release Date (NTSC-Prototype):** [Date + Source]  
+**Scene Release Date (PAL-Prototype):** [Date + Source]  
+**Scene Release Date (Prototype):** [Date + Source]  
 ```
 
 If a Release Date line is followed by a localized game title in parentheses, drop that title to the next line. 
@@ -94,6 +97,17 @@ This keeps the formatting tight and consistent.
 ✅ Keeps the layout clean for vault parsing and visual clarity.
 
 <!--  No big gaps between last release. Just 2 space bar at the end of from last Release date Any Extra Sections and then Genre -->
+
+<!-- ✅ Region Code Enforcement -->
+<!-- Always check the WP-Block Source code and check if it follows the correct format of release -->
+<!-- If source input uses anything different, then correct to the following examples below; flag it as incorrect and correct it -->
+
+```markdown
+**Release Date (PAL-AUS):** [Date]  
+**Release Date (PAL-FRA):** [Date]  
+**Release Date (PAL-GER):** [Date]  
+**Release Date (PAL-CHN):** [Date]  
+```
 
 <!--  Extra Gateway System Section if present -->
 ```markdown
