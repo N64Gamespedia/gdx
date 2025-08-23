@@ -18,7 +18,7 @@ toc: false
 **Release Date (NTSC-USA):** September 1, 1999  
 **Release Date (PAL-EUR):** September 30, 1999  
 [**Language Patch Available:**](#translations-available)<br>
-🇪🇸 [Spanish](#spanish-translation)<br>  
+🇪🇸 [Spanish](#spanish-translation)  
 **Genre:** Action / First-Person Shooter  
 **Players:** 1 - 4  
 **Force Feedback:** Yes  
