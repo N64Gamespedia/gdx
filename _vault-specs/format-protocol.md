@@ -44,6 +44,8 @@ toc: false
 
 <!--  Make sure the titles follow Alphabetical order though Example: Eltale Monsters / Quest 64 / Holy Magic Century -->
 
+<!--  Always check for localized titles in parentheses under release dates. If present, update the header to dual-title format like shown above. -->
+
 
 <!--  ## 📷 Image Block -->
 ```markdown
