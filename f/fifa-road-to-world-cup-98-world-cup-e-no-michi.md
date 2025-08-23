@@ -10,7 +10,6 @@ toc: false
 
 <b>
 <img src="https://images.launchbox-app.com/8d4c649f-d508-4b51-84eb-ef4aad9c8271.jpg" alt="FIFA: Road to World Cup 98 USA Box Art" width="320" height="240" />
-<img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/FIFA20Road20to20World20Cup209820EUE_1.jpg" alt="FIFA: Road to World Cup 98 EUR Box Art" width="320" height="240" />
 <img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/Road20To20World20Cup209820JP1.png" alt="FIFA: Road to World Cup 98 JP Box Art" width="320" height="240" />
 </b>
 
@@ -26,10 +25,10 @@ toc: false
 **Players:** 1 - 4  
 **Force Feedback:** No  
 
-## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/197311-fifa-road-to-world-cup-98/faqs){:target="_blank" rel="noopener noreferrer"}
-
 ## 🕹️ Game Description
 The late-1997 edition of FIFA was heavily tied in with the qualifying procedure for the 1998 World Cup. In the Road to the World Cup mode, you take a team from first qualification through to the main tournament, using the varying systems in different parts of the world. The game features 16 distinct outdoor stadiums. The League play features 189 clubs and 11 leagues. Each team has specific crowd chants incorporated into the ambient sound. The action is faster than in previous versions, and AI has been expanded. Players have distinct facial feature and hair styles. Each match is introduced by Des Lynam and commentated on by John Motson and former Scotland international Andy Gray.
+
+## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/197311-fifa-road-to-world-cup-98/faqs){:target="_blank" rel="noopener noreferrer"}
 
 ## 🎥 Video Playthrough by [N64 Archive](https://www.youtube.com/channel/UC1fUDTXUTKjpk_j7leAhAyw){:target="_blank" rel="noopener noreferrer"}
 <br />  
