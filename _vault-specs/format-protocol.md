@@ -30,7 +30,7 @@ toc: false
 <!--  Example: parent: "Numbered Title Games", parent: "A-Titles", parent: "B-Titles", parent: "C-Titles" etc
 	  Every New Section A, B, C etc starts fresh with the first Alphabetical Letter as nav_order: 1 and so on until the next Sectioon -->
 
-# "[Game Title]"
+# [Game Title]
 
 
 <!--  If more than 2 because of a region name change then like This -->
