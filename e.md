@@ -14,9 +14,9 @@ Explore all N64 titles starting with the letter E, from *Earthworm Jim 3D* to *E
 |---|---|
 | [Earthworm Jim 3D](e/earthworm-jim-3d) | [ECW Hardcore Revolution](e/ecw-hardcore-revolution) |
 
-| <a href="e/eikou-no-saint-andrews-st-andrews-old-course."><img src="https://images.launchbox-app.com/65214e69-9db4-48ab-8697-918142bafe32.png" width="320" height="240" alt="Eikou no Saint Andrews"/></a> | <a href="e/eleven-beat-world-tournament-aleck64"><img src="https://www.n64gamespedia.com/wp-content/uploads/2025/07/11beat.png" width="320" height="240" alt="Eleven Beat – World Tournament [Aleck64]"/></a> |
+| <a href="e/eikou-no-saint-andrews-st-andrews-old-course"><img src="https://images.launchbox-app.com/65214e69-9db4-48ab-8697-918142bafe32.png" width="320" height="240" alt="Eikou no Saint Andrews"/></a> | <a href="e/eleven-beat-world-tournament-aleck64"><img src="https://www.n64gamespedia.com/wp-content/uploads/2025/07/11beat.png" width="320" height="240" alt="Eleven Beat – World Tournament [Aleck64]"/></a> |
 |---|---|
-| [Eikou no Saint Andrews](e/eikou-no-saint-andrews-st-andrews-old-course.) | [Eleven Beat – World Tournament [Aleck64]](e/eleven-beat-world-tournament-aleck64) |
+| [Eikou no Saint Andrews](e/eikou-no-saint-andrews-st-andrews-old-course) | [Eleven Beat – World Tournament [Aleck64]](e/eleven-beat-world-tournament-aleck64) |
 
 | <a href="e/elmos-letter-adventure"><img src="https://images.launchbox-app.com/8e9c4841-1956-405a-85cb-e06c1037946a.jpg" width="320" height="240" alt="Elmo’s Letter Adventure"/></a> | <a href="e/elmos-number-journey"><img src="https://images.launchbox-app.com/2d74f7d8-6ada-440b-84dc-2f3a44a8e9ac.jpg" width="320" height="240" alt="Elmo’s Number Journey"/></a> |
 |---|---|
