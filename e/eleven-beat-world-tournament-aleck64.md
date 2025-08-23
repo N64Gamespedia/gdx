@@ -15,9 +15,7 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Hudson Soft](https://en.wikipedia.org/wiki/Hudson_Soft){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [SETA Corporation](https://en.wikipedia.org/wiki/SETA_Corporation){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-JPN):** 1998 (Aleck64)  
-
 **Genre:** Sports/Soccer  
 **Players:** 1 - 2  
 **Force Feedback:** No  
