@@ -6,7 +6,7 @@ layout: default
 toc: false
 ---
 
-# "ECW Hardcore Revolution"
+# ECW Hardcore Revolution
 
 <b>
 <img src="https://images.launchbox-app.com/b76d7028-a43c-4e47-8317-83feb085e1a4.jpg" alt="ECW Hardcore Revolution Box Art" width="320" height="240" />

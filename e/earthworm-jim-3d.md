@@ -6,7 +6,7 @@ layout: default
 toc: false
 ---
 
-# "Earthworm Jim 3D"
+# Earthworm Jim 3D
 
 <b>
 <img src="https://images.launchbox-app.com/466b7efb-92da-4ecd-9e12-a5da6757863f.jpg" alt="Earthworm Jim 3D Box Art" width="320" height="240" />
@@ -16,10 +16,8 @@ toc: false
 **Developer:** [VIS Interactive](https://en.wikipedia.org/wiki/VIS_Entertainment){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Rockstar Games](https://en.wikipedia.org/wiki/Rockstar_Games){:target="_blank" rel="noopener noreferrer"} (USA)  
 **Publisher:** [Interplay Entertainment](https://en.wikipedia.org/wiki/Interplay_Entertainment){:target="_blank" rel="noopener noreferrer"} (Europe)  
-
 **Release Date (NTSC-USA):** October 31, 1999  
 **Release Date (PAL-EUR):** December 17, 1999  
-
 **Genre:** Action/3D Platformer  
 **Players:** 1  
 **Force Feedback:** No  
