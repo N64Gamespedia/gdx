@@ -18,8 +18,8 @@ toc: false
 **Release Date (NTSC-JPN):** September 27, 2000  
 **Scene Release Date (NTSC-USA):** 04 February 2022  
 (Fushigi no Dungeon - Fuurai no Shiren 2 – English Translation) – ozidual  
-[**Language Patch Available:**](#translations-available)<br>  
-🇺🇸 [English](#english-translation) 
+[**Language Patch Available:**](#translations-available)<br>
+🇺🇸 [English](#english-translation)  
 **Genre:** Role Playing Game  
 **Players:** 1  
 **Force Feedback:** No  
