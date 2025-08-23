@@ -16,7 +16,6 @@ toc: false
 **Developer:** [Epoch Co.](https://en.wikipedia.org/wiki/Epoch_Co.){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Epoch Co.](https://en.wikipedia.org/wiki/Epoch_Co.){:target="_blank" rel="noopener noreferrer"}  
 **Release Date (NTSC-JPN):** December 11, 1998  
-
 **Genre:** Action/Adventure  
 **Players:** 1  
 **Force Feedback:** No  
