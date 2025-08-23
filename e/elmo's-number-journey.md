@@ -6,7 +6,7 @@ layout: default
 toc: false
 ---
 
-# "Elmo's Number Journey"
+# Elmo's Number Journey
 
 <b>
 <img src="https://images.launchbox-app.com/2d74f7d8-6ada-440b-84dc-2f3a44a8e9ac.jpg" alt="Elmo's Number Journey Box Art" width="320" height="224" />
