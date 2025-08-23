@@ -32,10 +32,12 @@ toc: false
 
 # [Game Title]
 
-
 <!--  If more than 2 because of a region name change then like This -->
 
-# "[Game Title / Game Title]"
+# [Game Title / Game Title]
+
+<!--  Make sure the titles follow Alphabetical order though Example: Eltale Monsters / Quest 64 / Holy Magic Century -->
+
 
 <!--  ## 📷 Image Block -->
 ```markdown
