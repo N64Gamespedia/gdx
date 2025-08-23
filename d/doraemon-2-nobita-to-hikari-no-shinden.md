@@ -6,7 +6,7 @@ layout: default
 toc: false
 ---
 
-# "Doraemon 2: Nobita to Hikari no Shinden"
+# Doraemon 2: Nobita to Hikari no Shinden
 
 <b>
 <img src="https://images.launchbox-app.com/4ac1d1bb-ac53-4cc9-9f88-518375d0bc8b.png" alt="" width="320" height="224" />
