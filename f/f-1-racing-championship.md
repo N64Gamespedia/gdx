@@ -9,8 +9,7 @@ toc: false
 # F-1 Racing Championship
 
 <b>
-<img src="https://images.launchbox-app.com/30dd4698-1e24-4de6-8c91-bdd7c4f83254.png" alt="F-1 Racing Championship Box Art" width="320" height="240" />
-<img src="https://images.launchbox-app.com/1bb9a4fd-8c5a-472c-8227-009a825ff789.png" alt="F-1 Racing Championship Screenshot" width="320" height="240" />
+<img src="https://images.launchbox-app.com/30dd4698-1e24-4de6-8c91-bdd7c4f83254.png" alt="F-1 Racing Championship EUR Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
