@@ -6,7 +6,7 @@ layout: default
 toc: false
 ---
 
-# Animal Crossing  
+# Dobutsu no Mori  
 <b>  
 <img src="https://images.launchbox-app.com//436ad5b4-b7f8-4fcc-b7ea-b38f38793955.png" alt="Dobutsu no Mori Box Art (Japan)" style="object-fit:cover;width:320px;height:224px"/>
 <img src="https://images.launchbox-app.com//196c2e3d-3b07-4418-a56e-48524d7eff97.jpg" alt="Animal Crossing Box Art (China)" style="object-fit:cover;width:320px;height:224px"/>
