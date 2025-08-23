@@ -27,13 +27,13 @@ layout: default
 toc: false
 ---
 ```
------- Example: parent: "Numbered Title Games", parent: "A-Titles", parent: "B-Titles", parent: "C-Titles" etc -----------------
------- Every New Section A, B, C etc starts fresh with the first Alphabetical Letter as nav_order: 1 and so on until the next Sectioon  -----------------
+<!--  Example: parent: "Numbered Title Games", parent: "A-Titles", parent: "B-Titles", parent: "C-Titles" etc
+	  Every New Section A, B, C etc starts fresh with the first Alphabetical Letter as nav_order: 1 and so on until the next Sectioon -->
 
 # "[Game Title]"
 
 
------- If more than 2 because of a region name change then like This -----------------
+<!--  If more than 2 because of a region name change then like This -->
 
 # "[Game Title / Game Title]"
 
@@ -44,7 +44,7 @@ toc: false
 </b>
 ```
 
------- If more than 2 then like This -----------------
+<!--  If more than 2 then like This -->
 
 ```markdown
 <b>
@@ -59,9 +59,8 @@ toc: false
 **Developer:** [Developer Name](WikiURL){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Publisher Name](WikiURL){:target="_blank" rel="noopener noreferrer"}  
 ```
------- If Developer or Publisher is followed by a (region) in Brackets, we leave that on the same line followed by 4 spaces after it like:    ----------------- 
------- This allows a next line without a big gap -----------------
-
+<!--  If Developer or Publisher is followed by a (region) in Brackets, we leave that on the same line followed by 4 spaces after it like: 
+	  This allows a next line without a big gap -->
 ```markdown
 **Release Date (NTSC-USA):** [Date]  
 **Release Date (PAL-EUR):** [Date]  
@@ -84,32 +83,31 @@ This keeps the formatting tight and consistent.
 ✅ Never add spaces before the parentheses on the second line. 
 ✅ Keeps the layout clean for vault parsing and visual clarity.
 
------- Extra Gateway System Section if present -----------------
+<!--  Extra Gateway System Section if present -->
 ```markdown
 [**Nintendo Gateway System:**](#gateway-system) 1993  
 (1-player only)   
 ```
------- Extra Language Patch Section if present -----------------
+<!--  Extra Language Patch Section if present -->
 ```markdown
 [**Language Patch Available:**](#translations-available)<br>
 🇺🇸 [English](#english-translation)<br>
 ```
------- If there are more than one Language then we do like this: -----------------
+<!--  If there are more than one Language then we do like this: -->
 
 ```markdown
 🇫🇷 [French](#language-french) / 🇮🇹 [Italian](#language-italian) / 🇵🇱 [Polish](#language-polish) / 🇪🇸 [Spanish](#language-spanish)<br>
 ```
 
------- If there is no flag we add it, If the Language name arrears in brackets (Language) then we remove the Brackets. -----------------
+<!--  If there is no flag we add it, If the Language name arrears in brackets (Language) then we remove the Brackets. -->
 
------- Extra Texture Pack Section if present -----------------
+<!--  Extra Texture Pack Section if present -->
 ```markdown
 [**Texture Pack Available:**](#texture-packs-available)<br>
 [Jabo 1.7 Format](#jabo-17-format)<br>
 [GlideN64 Format](#gliden64-format)   
 ```
------- No big gaps between extra sections. Just a paragraph space from last Release date Any Extra Sections and then Genre -----------------
-
+<!--  No big gaps between extra sections. Just a paragraph space from last Release date Any Extra Sections and then Genre -->
 ```markdown
 **Genre:** [Genre]  
 **Players:** [Number]  
@@ -131,19 +129,19 @@ Convert the `Game Description` block **as-is from the original WP Block source**
 ## 🕹️ Game Description
 <em><strong>The World Is Not Enough</strong></em> is a first-person shooter video game developed by <a href="https://en.wikipedia.org/wiki/Eurocom" target="_blank">Eurocom</a> and based on the 1999 <em>James Bond</em> film of the same name. It was published by <a href="https://en.wikipedia.org/wiki/Electronic_Arts" target="_blank">Electronic Arts</a> and released on October 17, 2000 for the Nintendo 64. The game features a single-player campaign in which players assume the role of MI6 agent James Bond as he fights to stop a terrorist from triggering a nuclear meltdown in the waters of Istanbul. It includes a split-screen multiplayer mode where up to four players can compete in different types of deathmatch and objective-based games.
 ```
------- Extra Gateway System Section if present -----------------
+<!--  Extra Gateway System Section if present -->
 ```markdown
 <a name="gateway-system"></a>
 This game was also available through the Nintendo Gateway System, a specialized platform for airlines and hotels. As part of a partnership between Nintendo and LodgeNet from late 1993 up until the late 2000s, about 40,000 airline seats and 955,000 hotel rooms featured a modified version of the game. LodgeNet partnered with Nintendo to bring video games directly into guest hotel rooms through streaming over the LodgeNet server, with the special LodgeNet controller plugging directly into the television or LodgeNet set-top box, transmitting the game over phone lines connected to a central game server. Pricing was usually $6.95 plus tax for 1 hour of video games. After 1 hour, the game would immediately stop and prompt the user to purchase more play time. Many games were modified for single-player play only.
 ```
------- Extra Language Patch Section if present -----------------
+<!--  Extra Language Patch Section if present -->
 ```markdown
 ## Translations Available {#translations-available}  
 ### 🇺🇸 English Translation {#english-translation}  
 *Dobutsu no Mori* has been fan-translated into English by [Zoinkity](https://www.romhacking.net/community/803/){:target="_blank" rel="noopener noreferrer"}. The patch uses `.ups` or `.xdelta` formats and was released on December 2, 2010. It includes extensive hacking work and game data.  
 Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/1581/){:target="_blank" rel="noopener noreferrer"}.
 ```
------- Extra Texture Pack Section if present -----------------
+<!--  Extra Texture Pack Section if present -->
 ```markdown
 ## Texture Packs Available {#texture-packs-available}  
 ### Jabo 1.7 Format {#jabo-17-format}  
@@ -158,7 +156,7 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/914163-007-the-world-is-not-enough/faqs/37816){:target="_blank" rel="noopener noreferrer"}
 ```
 
------- If there is no  Game Guide / Walkthrough , we just use that without a link like this: -----------------
+<!--  If there is no  Game Guide / Walkthrough , we just use that without a link like this: -->
 
 <!--  ## 📚 Game Guide Section-->
 ```markdown
@@ -190,4 +188,4 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
 ```
 
-------  Before generating the Final MD Format CodeBox, print in lowercase the slugname in plain text with a - replacing any spaces. -----------------
+<!--   Before generating the Final MD Format CodeBox, print in lowercase the slugname in plain text with a - replacing any spaces. -->
