@@ -9,7 +9,7 @@ toc: false
 # Freak Boy
 
 <b>
-<img src="https://www.project64-legacy.com/data/uploads/BoxArt/Freak%20Boy%20Prototype.png" alt="Freak Boy Prototype Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com//1f54a8e4-2dde-4284-a139-567a642e43cd.png" alt="Freak Boy Prototype Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
