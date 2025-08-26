@@ -9,7 +9,7 @@ toc: false
 # Frogger 2: Swampy's Revenge
 
 <b>
-<img src="https://www.project64-legacy.com/data/uploads/BoxArt/Frogger%202%20-%20Swampy%27s%20Revenge%20%28Prototype%29.jpg" alt="Frogger 2: Swampy's Revenge Prototype Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/bbc7f39d-b4e1-45c1-8aad-ef22b017f3ae.jpg" alt="Frogger 2: Swampy's Revenge Prototype Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
