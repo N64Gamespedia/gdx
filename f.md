@@ -34,9 +34,9 @@ Explore all N64 titles starting with the letter F, from *F1 Pole Position 64* to
 |---|---|
 | [Fighter Destiny 2](f/fighter-destiny-2-kakutou-denshou-f-cup-maniax) | [Fighting Force 64](f/fighting-force-64) |
 
-| <a href="f/flying-dragon-hiry-no-ken-twin"><img src="https://images.launchbox-app.com/30249b73-4bf5-44fe-aba0-5c7abc9246ab.jpg" width="320" height="240" alt="Flying Dragon"/></a> | <a href="f/forsaken-64"><img src="https://images.launchbox-app.com/23b97de3-4507-4e09-b741-288f7dc73bb1.jpg" width="320" height="240" alt="Forsaken 64 / Forsaken"/></a> |
+| <a href="f/flying-dragon-hiry-no-ken-twin"><img src="https://images.launchbox-app.com/30249b73-4bf5-44fe-aba0-5c7abc9246ab.jpg" width="320" height="240" alt="Flying Dragon"/></a> | <a href="f/forsaken-64-forsaken"><img src="https://images.launchbox-app.com/23b97de3-4507-4e09-b741-288f7dc73bb1.jpg" width="320" height="240" alt="Forsaken 64 / Forsaken"/></a> |
 |---|---|
-| [Flying Dragon](f/flying-dragon-hiry-no-ken-twin) | [Forsaken 64 / Forsaken](f/forsaken-64) |
+| [Flying Dragon](f/flying-dragon-hiry-no-ken-twin) | [Forsaken 64 / Forsaken](f/forsaken-64-forsaken) |
 
 | <a href="f/fox-sports-college-hoops-99"><img src="https://images.launchbox-app.com/4cd5a1fc-59bd-4491-bea0-91a6e9a7922a.jpg" width="320" height="240" alt="Fox Sports College Hoops ’99"/></a> | <a href="f/freak-boy-prototype"><img src="https://images.launchbox-app.com//1f54a8e4-2dde-4284-a139-567a642e43cd.png" width="320" height="240" alt="Freak Boy (Prototype)"/></a> |
 |---|---|
