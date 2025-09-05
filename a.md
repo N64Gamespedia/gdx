@@ -46,6 +46,6 @@ Explore all N64 titles starting with the letter A, from *A Bug’s Life* to *Aut
 |---|---|
 | [Army Men: Sarge’s Heroes 2](a/army-men-sarges-heroes-2) | [Asteroids Hyper 64](a/asteroids-hyper-64) |
 
-| <a href="a/automobili-lamborghini"><img src="https://images.launchbox-app.com//f81e4bcc-75f2-411b-81e4-a4c433873e8e.jpg" width="320" height="240" alt="Automobili Lamborghini"/></a> |  |
+| <a href="a/automobili-lamborghini"><img src="https://images.launchbox-app.com//f81e4bcc-75f2-411b-81e4-a4c433873e8e.jpg" width="320" height="240" alt="Automobili Lamborghini"/></a> |
 |---|---|
-| [Automobili Lamborghini / Super Speed Race 64](a/automobili-lamborghini) |  |
+| [Automobili Lamborghini / Super Speed Race 64](a/automobili-lamborghini) |
