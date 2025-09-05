@@ -39,4 +39,3 @@ Goemon and all his friends are back in his greatest adventure yet! Goemon's Grea
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️  
 <!-- Vault Format: n64gamespedia-dev -->  
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
-```
