@@ -12,7 +12,7 @@ Explore all N64 titles starting with the letter G, from *G.A.S.P!! Fighters’ N
 
 | <a href="g/gasp-fighters-nextream"><img src="" width="320" height="240" alt=""/></a> | <a href="g/ganbare-goemon-derodero"><img src="" width="320" height="240" alt=""/></a> |
 |---|---|
-| [G.A.S.P!! Fighters’ NEXTream](deadly-arts-gasp-fighters-nextream) | [Ganbare Goemon – Derodero Douchuu…](ganbare-goemon-derodero)
+| [G.A.S.P!! Fighters’ NEXTream](gasp-fighters-nextream) | [Ganbare Goemon – Derodero Douchuu…](ganbare-goemon-derodero)
 
 | <a href="g/ganbare-goemon-mononoke-sugoroku"><img src="" width="320" height="240" alt=""/></a> | <a href="g/ganbare-goemon-neo-momoyama-bakufu-no-odori"><img src="" width="320" height="240" alt=""/></a> |
 |---|---|
