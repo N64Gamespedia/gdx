@@ -1,5 +1,5 @@
 ---
-title: "Ganbare Goemon Derodero Dōchū Obake Tenko Mori / Goemon's Great Adventure / Mystical Ninja 2 Starring Goemon"
+title: "Ganbare Goemon Derodero Dōchū Obake Tenko Mori"
 nav_order: 2
 parent: "G-Titles"
 layout: default
