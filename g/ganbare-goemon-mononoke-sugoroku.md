@@ -29,16 +29,6 @@ Goemon and his pals take a break from fighting evil and instead get together and
 <br />  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZcNxDmR0yzc" title="Ganbare Goemon: Mononoke Sugoroku Gameplay" frameborder="0" allowfullscreen></iframe>
 
-To explore gameplay mechanics, board strategy, and monster card battles, these additional videos offer valuable reference:
-
-- [Goemon Mononoke Sugoroku review - The N64 Japanese Eye](https://www.youtube.com/watch?v=yvmz53YI-nc) provides a full breakdown of packaging, card types, battle system, and multiplayer features.
-- [Ganbare Goemon - Mononoke Sugoroku (Nintendo 64)](https://www.youtube.com/watch?v=hg0zt56rctY) showcases the game’s visual style and board layout with commentary from Emulation64.
-- [Longplay of Goemon: Mononoke Sugoroku](https://www.youtube.com/watch?v=tCp1FqBmrNc) delivers a complete walkthrough of all stages, including bonus content unlocked by beating the game with all four characters.
-- [Ganbare Goemon: Mononoke Sugoroku (J) | NVIDIA SHIELD ...](https://www.youtube.com/watch?v=dYuw09y2hWI) demonstrates emulation performance and controller response on Android TV.
-- [Goemon:Mononoke Sugoroku (ゴエモンもののけ双六 ) for ...](https://www.youtube.com/watch?v=-WhU-FiSDk0) offers a clean capture of gameplay mechanics and character movement.
-- [Goemon: Mononoke Sugoroku - Party Time](https://www.youtube.com/watch?v=Ywh5rQmMH7k) highlights multiplayer chaos and strategic card placement.
-- [Ganbare Goemon Mononoke Sugoroku - nintendo](https://www.youtube.com/watch?v=voUgniHEst4) presents gameplay phases and board transitions with commentary.
-
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️  
 <!-- Vault Format: n64gamespedia-dev -->  
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
