@@ -89,8 +89,6 @@ Explore classic N64 titles using the sidebar. 🎮
 - [Carnivale – Cenzo’s Adventure (Prototype)](c/carnivale-cenzos-adventure-prototype)
 - [Castlevania / Akumajou Dracula Mokushiroku](c/castlevania)
 - [Castlevania: Legacy of Darkness / Akumajou Dracula Mokushiroku Gaiden](c/castlevania-legacy-of-darkness)
-
-
 - [Centre Court Tennis / Let’s Smash](c/centre-court-tennis)
 - [Chameleon Twist](c/chameleon-twist)
 - [Chameleon Twist 2](c/chameleon-twist-2)
@@ -113,22 +111,164 @@ Explore classic N64 titles using the sidebar. 🎮
 - [Cybertiger](c/cyber-tiger)
 
 ## D
-- [Diddy Kong Racing]()
-- [Donkey Kong 64]()
-- [Doom 64]()
-- [Dr. Mario 64]()
-- [Duke Nukem: Zero Hour]()
+
+- [Daffy Duck Starring Daffy Duck](daffy-duck-duck-dodgers-starring-daffy-duck)
+- [Dance Dance Revolution: Disney Dancing Museum](dance-dance-revolution-disney-dancing-museum)
+- [Dark Rift / Space Dynamites](dark-rift)
+- [Deadly Arts](deadly-arts-gasp-fighters-nextream)
+- [Defi au Tetris Magique](defi-au-tetris-magique)
+- [Densha de Go! 64](densha-de-go-64)
+- [Derby Stallion 64](derby-stallion-64)
+- [Destruction Derby 64](destruction-derby-64)
+- [Dezaemon 3D](dezaemon-3d)
+- [Diddy Kong Racing](diddy-kong-racing)
+- [Die Hard 64 (Prototype)](die-hard-64)
+- [Dinosaur Planet (Prototype)](dinosaur-planet)
+- [Disney’s Donald Duck – Goin’ Quackers]()
+- [Disney’s Tarzan](disneys-tarzan)
+- [Donald Duck – Quack Attack](donald-duck-goin-quackers-quack-attack)
+- [Donchan Puzzle Hanabi de Doon! [Aleck64]](donchan-puzzle-hanabi-de-doon-aleck64)
+- [Donkey Kong 64](donkey-kong-64)
+- [Doom 64](doom-64)
+- [Doraemon – Nobita to Mittsu no Seireiseki](doraemon-nobita-to-mittsu-no-seireiseki)
+- [Doraemon 2 – Nobita to Hikari no Shinden](doraemon-2-nobita-to-hikari-no-shinden)
+- [Doraemon 3 – Nobita no Machi SOS!](doraemon-3-nobita-no-machi-sos)
+- [Doubutsu Banchou (Prototype)](doubutsu-banchou)
+- [Doubutsu no Mori](dobutsu-no-mori)
+- [Dr. Mario 64](dr-mario-64)
+- [Dragon Sword 64 (Prototype)](dragon-sword-64)
+- [Dual Heroes](dual-heroes)
+- [Duck Dodgers Starring Daffy Duck](daffy-duck-duck-dodgers-starring-daffy-duck)
+- [Duke Nukem 64](duke-nukem-64)
+- [Duke Nukem – ZER0 H0UR](duke-nukem-zero-hour)
+
+## E
+
+- [Earthworm Jim 3D]()earthworm-jim-3d
+- [ECW Hardcore Revolution](ecw-hardcore-revolution)
+- [Eikou no Saint Andrews](eikou-no-saint-andrews-st-andrews-old-course)
+- [Eleven Beat – World Tournament [Aleck64]](eleven-beat-world-tournament-aleck64)
+- [Elmo’s Letter Adventure](elmos-letter-adventure)
+- [Elmo’s Number Journey](elmos-number-journey)
+- [Eltale Monsters](eltale-monsters-quest-64-holy-magic-century)
+- [Excitebike 64](excitebike-64)
+- [Extreme-G](extreme-g)
+- [Extreme-G2 XG2](extreme-g2-xg2)
 
 ## F
-- [F-Zero X]()
+
+- [F1 Pole Position 64](f1-pole-position-64-human-grand-prix-the-new-generation)
+- [F-1 World Grand Prix](f-1-world-grand-prix)
+- [F-1 World Grand Prix II](f-1-world-grand-prix-2)
+- [F-Zero X](f-zero-x)
+- [F1 Racing Championship](f-1-racing-championship)
+- [FIFA – Road to World Cup 98 / World Cup e no Michi]()
+- [FIFA 99](fifa-99)
+- [FIFA Soccer 64 / FIFA 64](fifa-soccer-64-fifa-64)
+- [Famista 64](famista-64)
+- [Fighters Destiny / Fighting Cup](fighters-destiny-fighting-cup)
+- [Fighter Destiny 2](fighter-destiny-2-kakutou-denshou-f-cup-maniax)
+- [Fighting Force 64](fighting-force-64)
+- [Flying Dragon](flying-dragon-hiry-no-ken-twin)
+- [Forsaken 64 / Forsaken](forsaken-64-forsaken)
+- [Fox Sports College Hoops ’99](fox-sports-college-hoops-99)
+- [Freak Boy (Prototype)](freak-boy-prototype)
+- [Frogger 2 – Swampy’s Revenge (Prototype)](frogger-2-swampys-revenge-prototype)
+- [Fushigi no Dungeon – Fuurai no Shiren 2](fushigi-no-dungeon-fuurai-no-shiren-2)
 
 ## G
-- [GoldenEye 007]()
+
+- [G.A.S.P!! Fighters’ NEXTream]()
+- [Ganbare Goemon – Derodero Douchuu…]()
+- [Ganbare Goemon – Mononoke Sugoroku]()
+- [Ganbare Goemon – Neo Momoyama Bakufu no Odori]()
+- [Ganbare Nippon! Olympics 2000]()
+- [Gauntlet Legends]()
+- [Getter Love!! – Cho Ren-ai Party Game]()
+- [Gex 3 – Deep Cover Gecko]()
+- [Gex 64 – Enter the Gecko]()
 - [Glover]()
-- [Goemon's Great Adventure]()
+- [Glover 2 (Prototype)]()
+- [Goemon’s Great Adventure]()
+- [Golden Nugget 64]()
+- [GoldenEye 007]()
+- [GT 64 – Championship Edition]()
+
+## H
+
+
+Hamster Monogatari 64
+Harukanaru Augusta Masters 98
+Harvest Moon 64
+Heiwa Pachinko World 64
+Hercules – The Legendary Journeys
+Hexen
+Hey You, Pikachu! / Pikachū Genki Dechū
+Hi Pai Paradise [Aleck64]
+Hi Pai Paradise 2 [Aleck64]
+Hiryū no Ken Twin
+Holy Magic Century
+Hoshi no Kirby 64
+Hot Wheels Turbo Racing
+Human Grand Prix – New Generation
+HSV Adventure Racing
+Hybrid Heaven
+Hydro Thunder
+Hyper Olympics in Nagano 64
+
+## I
+
+Ide Yousuke no Mahjong Juku
+Iggy-kun no Bura Bura Poyon
+Iggy’s Reckin’ Balls
+In-Fisherman Bass Hunter 64
+Indiana Jones and the Infernal Machine
+Indy Racing 2000
+International Superstar Soccer ’98
+International Superstar Soccer 2000
+International Superstar Soccer 64
+International Track & Field 2000
+International Track & Field Summer Games
+Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!
+
+## J
+
+J.League Dynamite Soccer 64
+J.League Eleven Beat 1997
+J.League Live 64
+J.League Tactics Soccer
+Jangou Simulation Mahjong Dou 64
+Jeopardy!
+Jeremy McGrath Supercross 2000
+Jet Force Gemini
+Jikkyou G1 Stable
+Jikkyou J.League 1999 – Perfect Striker 2
+Jikkyou J.League Perfect Striker
+Jikkyou Powerful Pro Yakyuu – Basic Ban 2001
+Jikkyou Powerful Pro Yakyuu 2000
+Jikkyou Powerful Pro Yakyuu 4
+Jikkyou Powerful Pro Yakyuu 5
+Jikkyou Powerful Pro Yakyuu 6
+Jikkyou World Soccer – World Cup France ’98
+Jikkyou World Soccer 3
+Jikuu Senshi Turok
+Jinsei Game 64
+John Romero’s Daikatana
 
 ## K
-- [Kirby 64: The Crystal Shards]()
+
+Kakutou Denshou – F-Cup Maniax
+Ken Griffey Jr.’s Slugfest
+Killer Instinct Gold
+King Hill 64 – Extreme Snowboarding
+Kiratto Kaiketsu! 64 Tanteidan
+Kirby 64 – The Crystal Shards
+Knife Edge – Nose Gunner
+Knockout Kings 2000
+Kobe Bryant in NBA Courtside
+Kuru Kuru Fever (Aleck64)
+
+## L
 
 ## M
 - [Mario Kart 64]()
@@ -138,6 +278,10 @@ Explore classic N64 titles using the sidebar. 🎮
 - [Mario Tennis]()
 - [Mystical Ninja Starring Goemon]()
 
+## N
+
+## O
+
 ## P
 - [Paper Mario]()
 - [Perfect Dark]()
@@ -145,6 +289,8 @@ Explore classic N64 titles using the sidebar. 🎮
 - [Pokémon Snap]()
 - [Pokémon Stadium]()
 - [Pokémon Stadium 2]()
+
+## Q
 
 ## R
 - [Rayman 2: The Great Escape]()
@@ -161,10 +307,18 @@ Explore classic N64 titles using the sidebar. 🎮
 - [The Legend of Zelda: Ocarina of Time]()
 - [Turok: Dinosaur Hunter]()
 
+## U
+
+## V
+
 ## W
 - [Wave Race 64]()
 - [Wipeout 64]()
 - [WWF No Mercy]()
 
+## X
+
 ## Y
 - [Yoshi's Story]()
+
+## Z
