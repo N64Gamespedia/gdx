@@ -178,7 +178,7 @@ Explore classic N64 titles using the sidebar. 🎮
 
 ## G
 
-- [G.A.S.P!! Fighters’ NEXTream]()
+- [G.A.S.P!! Fighters’ NEXTream](deadly-arts-gasp-fighters-nextream)
 - [Ganbare Goemon – Derodero Douchuu…]()
 - [Ganbare Goemon – Mononoke Sugoroku]()
 - [Ganbare Goemon – Neo Momoyama Bakufu no Odori]()
