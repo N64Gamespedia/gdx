@@ -38,6 +38,6 @@ Explore all N64 titles starting with the letter G, from *G.A.S.P!! Fighters’ N
 |---|---|
 | [GoldenEye 007](goldeneye-007) | [Golden Nugget 64](golden-nugget-64)
 
-| <a href="g/gt-64-championship-edition"><img src="https://images.launchbox-app.com/f9a65e42-e997-4a55-9d58-85b99b109288.jpg" width="320" height="240" alt=""/></a> |  |
+| <a href="g/gt-64-championship-edition"><img src="https://images.launchbox-app.com/f9a65e42-e997-4a55-9d58-85b99b109288.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
 | [GT 64 – Championship Edition](gt-64-championship-edition) |
