@@ -14,7 +14,7 @@ Explore all N64 titles starting with the letter G, from *G.A.S.P!! Fighters’ N
 |---|---|
 | [G.A.S.P!! Fighters’ NEXTream](gasp-fighters-nextream) | [Ganbare Goemon – Derodero Douchuu…](ganbare-goemon-derodero)
 
-| <a href="g/ganbare-goemon-mononoke-sugoroku"><img src="https://images.launchbox-app.com/2beccdaa-f316-4d94-85c3-466677fe9246.png" width="320" height="240" alt=""/></a> | <a href="g/ganbare-goemon-neo-momoyama-bakufu-no-odori"><img src="="https://images.launchbox-app.com/7f6f686a-8fd6-4b47-a6cd-b10b2c1a96d1.png" width="320" height="240" alt=""/></a> |
+| <a href="g/ganbare-goemon-mononoke-sugoroku"><img src="https://images.launchbox-app.com/2beccdaa-f316-4d94-85c3-466677fe9246.png" width="320" height="240" alt=""/></a> | <a href="g/ganbare-goemon-neo-momoyama-bakufu-no-odori"><img src="https://images.launchbox-app.com/7f6f686a-8fd6-4b47-a6cd-b10b2c1a96d1.png" width="320" height="240" alt=""/></a> |
 |---|---|
 | [Ganbare Goemon – Mononoke Sugoroku](ganbare-goemon-mononoke-sugoroku) | [Ganbare Goemon – Neo Momoyama Bakufu no Odori](ganbare-goemon-neo-momoyama-bakufu-no-odori)
 
@@ -34,10 +34,10 @@ Explore all N64 titles starting with the letter G, from *G.A.S.P!! Fighters’ N
 |---|---|
 | [Glover 2 (Prototype)](glover-2-prototype) | [Goemon’s Great Adventure](goemons-great-adventure-mystical-ninja-2)
 
-| <a href="g/goldeneye-007"><img src="https://images.launchbox-app.com/fd44cd4d-fac0-45b9-a36f-dcf0e2279755.jpg" width="320" height="240" alt=""/></a> | <a href="g/golden-nugget-64"><img src="" width="320" height="240" alt=""/></a> |
+| <a href="g/goldeneye-007"><img src="https://images.launchbox-app.com/fd44cd4d-fac0-45b9-a36f-dcf0e2279755.jpg" width="320" height="240" alt=""/></a> | <a href="g/golden-nugget-64"><img src="https://images.launchbox-app.com/fd44cd4d-fac0-45b9-a36f-dcf0e2279755.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
 | [GoldenEye 007](goldeneye-007) | [Golden Nugget 64](golden-nugget-64)
 
 | <a href="g/gt-64-championship-edition"><img src="https://images.launchbox-app.com/f9a65e42-e997-4a55-9d58-85b99b109288.jpg" width="320" height="240" alt=""/></a> |  |
 |---|---|
-| [GT 64 – Championship Edition](gt-64-championship-edition) |  |
+| [GT 64 – Championship Edition](gt-64-championship-edition) |
