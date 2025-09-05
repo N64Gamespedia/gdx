@@ -9,7 +9,7 @@ toc: false
 # Golden Nugget 64
 
 <b>
-<img src="https://www.project64-legacy.com/data/uploads/BoxArt/2d/Golden%20Nugget%2064%20%28USA%29.PNG" alt="Golden Nugget 64 USA Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/fd44cd4d-fac0-45b9-a36f-dcf0e2279755.jpg" alt="Golden Nugget 64 USA Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
