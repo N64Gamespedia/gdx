@@ -10,9 +10,9 @@ has_toc: false
 
 Explore all N64 titles starting with the letter G, from *G.A.S.P!! Fighters’ NEXTream* to *GT 64 – Championship Edition*.
 
-| <a href="g/"><img src="deadly-arts-gasp-fighters-nextream" width="320" height="240" alt=""/></a> | <a href="g/"><img src="ganbare-goemon-derodero-goemons-great-adventure-mystical-ninja-2" width="320" height="240" alt=""/></a> |
+| <a href="g/"><img src="deadly-arts-gasp-fighters-nextream" width="320" height="240" alt=""/></a> | <a href="g/"><img src="ganbare-goemon-derodero" width="320" height="240" alt=""/></a> |
 |---|---|
-| [G.A.S.P!! Fighters’ NEXTream](deadly-arts-gasp-fighters-nextream) | [Ganbare Goemon – Derodero Douchuu…](ganbare-goemon-derodero-goemons-great-adventure-mystical-ninja-2)
+| [G.A.S.P!! Fighters’ NEXTream](deadly-arts-gasp-fighters-nextream) | [Ganbare Goemon – Derodero Douchuu…](ganbare-goemon-derodero)
 
 | <a href="g/"><img src="" width="320" height="240" alt=""/></a> | <a href="g/"><img src="" width="320" height="240" alt=""/></a> |
 |---|---|
@@ -30,9 +30,9 @@ Explore all N64 titles starting with the letter G, from *G.A.S.P!! Fighters’ N
 |---|---|
 | [Gex 64 – Enter the Gecko]() | [Glover]()
 
-| <a href="g/"><img src="" width="320" height="240" alt=""/></a> | <a href="g/"><img src="ganbare-goemon-derodero-goemons-great-adventure-mystical-ninja-2" width="320" height="240" alt=""/></a> |
+| <a href="g/"><img src="" width="320" height="240" alt=""/></a> | <a href="g/"><img src="goemons-great-adventure-mystical-ninja-2" width="320" height="240" alt=""/></a> |
 |---|---|
-| [Glover 2 (Prototype)]() | [Goemon’s Great Adventure](ganbare-goemon-derodero-goemons-great-adventure-mystical-ninja-2)
+| [Glover 2 (Prototype)]() | [Goemon’s Great Adventure](goemons-great-adventure-mystical-ninja-2)
 
 | <a href="g/"><img src="" width="320" height="240" alt=""/></a> | <a href="g/"><img src="" width="320" height="240" alt=""/></a> |
 |---|---|
