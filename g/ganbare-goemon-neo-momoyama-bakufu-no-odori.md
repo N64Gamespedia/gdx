@@ -33,5 +33,6 @@ A giant UFO has appeared over Oedo Castle, and the Mystical Ninja is off to save
 <br />  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VnWJJ_NPMk4" title="Mystical Ninja Starring Goemon Full Playthrough" frameborder="0" allowfullscreen></iframe>
 
-- [Mystical Ninja Starring Goemon - N64 Gameplay](https://www.youtube.com/watch?v=eY7IhAR5LqU) offers a raw capture of the game’s mechanics, showcasing platforming, combat, and character switching.
-- [Nintendo 64 Longplay [044] Mystical Ninja Goemon](https://www.youtube.com/watch?v=0pWKgfVBAIs) provides a complete walkthrough with all major story beats and boss fights
+🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️  
+<!-- Vault Format: n64gamespedia-dev -->  
+<!-- Protocol Source: _vault-specs/format-protocol.md -->
