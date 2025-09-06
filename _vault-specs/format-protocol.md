@@ -35,6 +35,7 @@ toc: false
      parent: "C-Titles"
      etc. -->
 	  
+<!--  title: "[Game Title]" If more than 2 because of a region name change, then only use the the first alphabetical correct for that Title section -->
 
 # [Game Title]
 
