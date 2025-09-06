@@ -26,10 +26,10 @@ Explore all N64 titles starting with the letter H, from *Ide Yousuke no Mahjong 
 |---|---|
 [International Superstar Soccer ’98](i/international-superstar-soccer-98) | [International Superstar Soccer 2000](i/international-superstar-soccer-2000)
 
-| <a href="i/international-superstar-soccer-64"><img src="https://images.launchbox-app.com/d503b597-d94a-4ce6-a507-00e6e0e1670" width="320" height="240" alt=""/></a> | <a href="i/international-track-field"><img src="https://images.launchbox-app.com/3d8a1b65-f33f-4e49-a09d-5acb407d1070.jpg" width="320" height="240" alt=""/></a> |
+| <a href="i/international-superstar-soccer-64"><img src="https://images.launchbox-app.com/d503b597-d94a-4ce6-a507-00e6e0e16700.jpg" width="320" height="240" alt=""/></a> | <a href="i/international-track-field"><img src="https://images.launchbox-app.com/3d8a1b65-f33f-4e49-a09d-5acb407d1070.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
 [International Superstar Soccer 64](i/international-superstar-soccer-64) | [International Track & Field 2000](i/international-track-field)
 
-| <a href="i/international-track-field-summer-games"><img src="https://images.launchbox-app.com/96f0faef-2ece-4b11-8f54-a680e03048f7.jp" width="320" height="240" alt=""/></a> | <a href="i/itoi-shigesato-no-bass-tsuri-no-1-ketteiban"><img src="https://images.launchbox-app.com/e7a5a345-f248-4087-aa67-ae972979790f.png" width="320" height="240" alt=""/></a> |
+| <a href="i/international-track-field-summer-games"><img src="https://images.launchbox-app.com/96f0faef-2ece-4b11-8f54-a680e03048f7.jpg" width="320" height="240" alt=""/></a> | <a href="i/itoi-shigesato-no-bass-tsuri-no-1-ketteiban"><img src="https://images.launchbox-app.com/e7a5a345-f248-4087-aa67-ae972979790f.png" width="320" height="240" alt=""/></a> |
 |---|---|
 [International Track & Field Summer Games](i/international-track-field-summer-games) | [Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!](i/itoi-shigesato-no-bass-tsuri-no-1-ketteiban)
