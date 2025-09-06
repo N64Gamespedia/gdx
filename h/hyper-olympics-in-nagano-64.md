@@ -1,5 +1,5 @@
 ---
-title: "Hyper Olympics in Nagano 64 / Nagano Winter Olympics '98"
+title: "Hyper Olympics in Nagano 64"
 nav_order: 18
 parent: "H-Titles"
 layout: default
