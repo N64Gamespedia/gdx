@@ -1,5 +1,7 @@
 # N64GamesPedia Vault Formatting Protocol
 
+<!--  Part  1 -->
+
 ## 🔐 Protocol Name
 `n64gamespedia-dev`
 
@@ -47,29 +49,24 @@ toc: false
 
 <!--  Always check for localized titles in parentheses under release dates. If present, update the header to dual-title format like shown above. -->
 
-
 <!--  ## 📷 Image Block -->
 ```markdown
 <b>
 <img src="[IMAGEURL]" alt="[Box Art Alt Text]" width="320" height="240" />
 </b>
 ```
-
 <!--  If more than 2 then like This -->
-
 ```markdown
 <b>
 <img src="[IMAGEURL]" alt="[Box Art Alt Text]" width="320" height="240" />
 <img src="[IMAGEURL]" alt="[Box Art Alt Text]" width="320" height="240" />
 </b>
 ```
-
 <!-- ✅ Box Art Deduplication Rule -->
 <!-- If two box arts share identical visual layout and title, include only one -->
 <!-- If both USA, EUR & JPN exist with same title, use USA Box Front Cover only -->
 <!-- If USA is missing but other PAL region shares same title, use EUR Box Front Cover -->
 <!-- If JPN box art shares same title and layout as USA or EUR, exclude JP image -->
-
 
 <!-- ## 📄 Metadata Section -->
 ```markdown
@@ -153,6 +150,8 @@ This keeps the formatting tight and consistent.
 ### ✅ Conversion Rule:
 Convert the `Game Description` block **as-is from the original WP Block source**
 
+<!--  Part  2 -->
+
 ### 🎯 Goals:
 - Preserve the **exact sentence flow and formatting**
 - Retain **inline hyperlinks**, targets, and visible text
@@ -224,9 +223,11 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 
 <!--   Before generating the Final MD Format CodeBox, print in lowercase the slug name in plain text with a - replacing any spaces. -->
 
-<!--
-SECTION INDEX FORMATTING PROTOCOL
-Used for vault index files like h.md, i.md, or 0-9.md
+<!--  Part  3 -->
+
+# SECTION INDEX FORMATTING PROTOCOL
+
+<!-- Used for vault index files like h.md, i.md, or 0-9.md
 
 This protocol governs how to format section-level index pages that organize all Nintendo 64 game entries beginning with a specific letter or number.
 
