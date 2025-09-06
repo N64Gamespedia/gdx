@@ -217,18 +217,18 @@ Explore classic N64 titles using the sidebar. 🎮
 
 ## I
 
-- [Ide Yousuke no Mahjong Juku](i/)
-- [Iggy-kun no Bura Bura Poyon](i/)
-- [Iggy’s Reckin’ Balls](i/)
-- [In-Fisherman Bass Hunter 64](i/)
-- [Indiana Jones and the Infernal Machine](i/)
-- [Indy Racing 2000](i/)
-- [International Superstar Soccer ’98](i/)
-- [International Superstar Soccer 2000](i/)
-- [International Superstar Soccer 64](i/)
-- [International Track & Field 2000](i/)
-- [International Track & Field Summer Games](i/)
-- [Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!](i/)
+- [Ide Yousuke no Mahjong Juku](i/ide-yousuke-no-mahjong-juku)
+- [Iggy-kun no Bura Bura Poyon](i/iggy-kun-no-bura-bura-poyon)
+- [Iggy’s Reckin’ Balls](i/iggys-reckin-balls)
+- [In-Fisherman Bass Hunter 64](i/in-fisherman-bass-hunter-64)
+- [Indiana Jones and the Infernal Machine](i/indiana-jones-and-the-infernal-machine)
+- [Indy Racing 2000](i/indy-racing-2000)
+- [International Superstar Soccer ’98](i/international-superstar-soccer-98)
+- [International Superstar Soccer 2000](i/international-superstar-soccer-2000)
+- [International Superstar Soccer 64](i/international-superstar-soccer-64)
+- [International Track & Field 2000](i/international-track-field)
+- [International Track & Field Summer Games](i/international-track-field-summer-games)
+- [Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!](i/itoi-shigesato-no-bass-tsuri-no-1-ketteiban)
 
 ## J
 
