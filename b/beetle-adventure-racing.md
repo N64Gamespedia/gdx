@@ -6,7 +6,7 @@ layout: default
 toc: false
 ---
 
-# Beetle Adventure Racing!
+# Beetle Adventure Racing! / HSV Adventure Racing
 
 <b>
   <img src="https://upload.wikimedia.org/wikipedia/en/b/b4/BAR_gamebox.PNG" alt="Beetle Adventure Racing Box Art" style="object-fit:cover;width:320px;height:224px"/>
