@@ -11,8 +11,7 @@ toc: false
 <b>
 <img src="https://images.launchbox-app.com/d503b597-d94a-4ce6-a507-00e6e0e16700.jpg" alt="International Superstar Soccer 64 USA Box Art" width="320" height="240" />
 <img src="https://images.launchbox-app.com/757a6f84-c177-4e1a-9e77-f54bf883ce58.png" alt="International Superstar Soccer 64 EUR Box Art" width="320" height="240" />
-<img src="https://www.project64-legacy.com/data/uploads/BoxArt/PERFECT_STRIKER.png" alt="Jikkyou J.League Perfect Striker JPN Box Art" width="320" height="240" />
-<img src="https://images.launchbox-app.com//bd42f505-2f01-4309-9175-3d8d44cdb502.png" alt="Jikkyō World Soccer 3 JPN Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/04b79200-5190-43c8-8a62-26f63e49a847.png" alt="Jikkyou J.League Perfect Striker JPN Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
@@ -21,8 +20,6 @@ toc: false
 **Release Date (NTSC-USA):** July 31, 1997  
 **Release Date (NTSC-JPN):** December 20, 1996  
 (Jikkyou J.League Perfect Striker)  
-**Release Date (NTSC-JPN):** September 18, 1997  
-(Jikkyō World Soccer 3)  
 **Release Date (PAL-EUR):** June 1, 1997  
 **Genre:** Sports/Soccer  
 **Players:** 1 - 4  
