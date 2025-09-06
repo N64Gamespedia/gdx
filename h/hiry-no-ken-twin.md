@@ -1,12 +1,12 @@
 ---
-title: "Hiryū no Ken Twin / Flying Dragon"
+title: "Hiryū no Ken Twin"
 nav_order: 10
-parent: "F-Titles"
+parent: "H-Titles"
 layout: default
 toc: false
 ---
 
-# Hiryū no Ken Twin
+# Hiryū no Ken Twin / Flying Dragon
 
 <b>
 <img src="https://images.launchbox-app.com/1da18252-3597-44d9-b1d5-72a5adc9d01e.png" alt="Hiryū no Ken Twin JPN Box Art" width="320" height="240" />

@@ -1,7 +1,7 @@
 ---
 title: "Holy Magic Century"
 nav_order: 11
-parent: "E-Titles"
+parent: "H-Titles"
 layout: default
 toc: false
 ---

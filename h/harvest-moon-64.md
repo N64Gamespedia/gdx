@@ -1,7 +1,7 @@
 ---
 title: "Harvest Moon 64"
 nav_order: 3
-parent: "B-Titles"
+parent: "H-Titles"
 layout: default
 toc: false
 ---
