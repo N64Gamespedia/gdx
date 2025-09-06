@@ -223,3 +223,88 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 ```
 
 <!--   Before generating the Final MD Format CodeBox, print in lowercase the slug name in plain text with a - replacing any spaces. -->
+
+<!--
+SECTION INDEX FORMATTING PROTOCOL
+Used for vault index files like h.md, i.md, or 0-9.md
+
+This protocol governs how to format section-level index pages that organize all Nintendo 64 game entries beginning with a specific letter or number.
+
+Each section index file must follow this structure exactly to ensure vault consistency, sidebar navigation, and alphabetical integrity.
+
+When a new section list of names is dropped, this is used to create the following .md
+
+───────────────────────────────────────────────────────────────
+YAML FRONTMATTER
+───────────────────────────────────────────────────────────────
+
+Required at the top of every section index file:
+
+title: "[Letter]-Titles"           # e.g. "H-Titles", "I-Titles", "0-9 Titles"
+nav_order: [section number]        # Sequential order in sidebar
+has_children: true                 # Enables nested entries
+layout: default
+has_toc: false
+
+───────────────────────────────────────────────────────────────
+HEADER BLOCK
+───────────────────────────────────────────────────────────────
+
+Must begin with:
+
+# Nintendo 64 Games — [Letter] Titles
+
+Followed by:
+
+Explore all N64 titles starting with the letter [X], from *[First Game Title]* to *[Last Game Title]*.
+
+Notes:
+- Replace [Letter] with the actual letter or number group
+- Replace [First Game Title] and [Last Game Title] with the alphabetical first and last entries in that section
+- Use italic formatting for game titles
+
+───────────────────────────────────────────────────────────────
+GAME GRID
+───────────────────────────────────────────────────────────────
+
+Games must be displayed in 2-column rows using Markdown tables:
+
+| <a href="[folder]/"><img src="" width="320" height="240" alt=""/></a> | <a href="[folder]/"><img src="" width="320" height="240" alt=""/></a> |
+|---|---|
+[Game Title A](folder/) | [Game Title B](folder/)
+
+Repeat this block for every pair of titles.
+
+Notes:
+- Use [folder]/ as placeholder for actual game subfolder
+- If odd number of titles, last row contains one entry and one empty cell
+- Image `src` can be left blank or populated later
+
+───────────────────────────────────────────────────────────────
+DUAL-TITLE RULE
+───────────────────────────────────────────────────────────────
+
+If a game has multiple regional titles:
+
+- Use the **first alphabetically correct title** for the `title:` field in YAML
+- Use the **full dual-title format** in the `#` header of the individual game entry
+- Section index links should match the **first alphabetical title**
+
+Example:
+For `Hyper Olympics in Nagano 64 / Nagano Winter Olympics '98`
+- YAML `title:` = "Hyper Olympics in Nagano 64"
+- Header = # Hyper Olympics in Nagano 64 / Nagano Winter Olympics '98
+- Section index link = [Hyper Olympics in Nagano 64](h/)
+
+───────────────────────────────────────────────────────────────
+SUMMARY
+───────────────────────────────────────────────────────────────
+
+This protocol ensures:
+- Clean sidebar navigation
+- Alphabetical consistency
+- Accurate regional representation
+- Vault integrity across all indexed sections
+
+Use this format for every `[letter].md` or `0-9.md` index file in the vault.
+-->
