@@ -9,8 +9,7 @@ toc: false
 # Jikkyou World Cup France '98 / International Superstar Soccer '98
 
 <b>
-<img src="https://www.project64-legacy.com/data/uploads/BoxArt/2d/International%20Superstar%20Soccer%20%2798%20%28USA%29.png" alt="International Superstar Soccer '98 USA Box Art" width="320" height="240" />
-<img src="https://images.launchbox-app.com/69dd0590-fcce-4523-8c3f-c70d5e1a74a6.jpg" alt="International Superstar Soccer '98 EUR Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com//e423697a-271f-4ee3-a4fe-7f78e4815324.jpg" alt="International Superstar Soccer '98 USA Box Art" width="320" height="240" />
 <img src="https://images.launchbox-app.com/000095f9-c5ed-4326-a5b9-7645b0b04811.png" alt="Jikkyou World Cup France '98 JPN Box Art" width="320" height="240" />
 </b>
 
