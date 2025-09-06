@@ -182,7 +182,7 @@ Explore classic N64 titles using the sidebar. 🎮
 - [Ganbare Goemon – Derodero Douchuu…](g/ganbare-goemon-derodero)
 - [Ganbare Goemon – Mononoke Sugoroku](g/ganbare-goemon-mononoke-sugoroku)
 - [Ganbare Goemon – Neo Momoyama Bakufu no Odori](g/ganbare-goemon-neo-momoyama-bakufu-no-odori)
-- [Ganbare Nippon! Olympics 2000](g/ganbare-nippon-olympics-2000-international-track-field)
+- [Ganbare Nippon! Olympics 2000](g/ganbare-nippon-olympics-2000)
 - [Gauntlet Legends](g/gauntlet-legends)
 - [Getter Love!! – Cho Ren-ai Party Game](g/getter-love)
 - [Gex 3 – Deep Cover Gecko](g/gex-3-deep-cover-gecko)
