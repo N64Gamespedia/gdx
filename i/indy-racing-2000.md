@@ -9,7 +9,7 @@ toc: false
 # Indy Racing 2000
 
 <b>
-<img src="https://www.project64-legacy.com/data/uploads/BoxArt/2d/Indy%20Racing%202000%20%28USA%29.png" alt="Indy Racing 2000 USA Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/c22fa38a-52ff-4426-bc01-a78b7cfea7d5.jpg" alt="Indy Racing 2000 USA Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
