@@ -8,7 +8,7 @@ has_toc: false
 
 # Nintendo 64 Games — I Titles
 
-Explore all N64 titles starting with the letter H, from *Ide Yousuke no Mahjong Juku* to *Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!*.
+Explore all N64 titles starting with the letter I, from *Ide Yousuke no Mahjong Juku* to *Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!*.
 
 | <a href="i/ide-yousuke-no-mahjong-juku"><img src="https://images.launchbox-app.com/00acc0f4-3ee9-4ce9-9ea5-0025e1a39808.jpg" width="320" height="240" alt=""/></a> | <a href="i/iggy-kun-no-bura-bura-poyon"><img src="https://images.launchbox-app.com/43aadb79-aba2-4f13-90a4-7d46414386c5.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
