@@ -196,39 +196,39 @@ Explore classic N64 titles using the sidebar. 🎮
 
 ## H
 
-Hamster Monogatari 64
-Harukanaru Augusta Masters 98
-Harvest Moon 64
-Heiwa Pachinko World 64
-Hercules – The Legendary Journeys
-Hexen
-Hey You, Pikachu!
-Hi Pai Paradise [Aleck64]
-Hi Pai Paradise 2 [Aleck64]
-Hiryū no Ken Twin
-Holy Magic Century
-Hoshi no Kirby 64
-Hot Wheels Turbo Racing
-Human Grand Prix – New Generation
-HSV Adventure Racing
-Hybrid Heaven
-Hydro Thunder
-Hyper Olympics in Nagano 64
+- [Hamster Monogatari 64](h/hamster-monogatari-64)
+- [Harukanaru Augusta Masters 98](h/harukanaru-augusta-masters-98)
+- [Harvest Moon 64](h/harvest-moon-64)
+- [Heiwa Pachinko World 64](h/heiwa-pachinko-world-64)
+- [Hercules – The Legendary Journeys](h/hercules-the-legendary-journeys)
+- [Hexen](h/hexen)
+- [Hey You, Pikachu!](h/hey-you-pikachu)
+- [Hi Pai Paradise [Aleck64]](h/hi-pai-paradise-2-aleck64)
+- [Hi Pai Paradise 2 [Aleck64]](h/hi-pai-paradise-aleck64)
+- [Hiryū no Ken Twin](h/hiry-no-ken-twin)
+- [Holy Magic Century](h/holy-magic-century)
+- [Hoshi no Kirby 64](h/hoshi-no-kirby-64)
+- [Hot Wheels Turbo Racing](h/hot-wheels-turbo-racing)
+- [Human Grand Prix – New Generation](h/human-grand-prix-the-new-generation)
+- [HSV Adventure Racing](h/hsv-adventure-racing)
+- [Hybrid Heaven](h/hybrid-heaven)
+- [Hydro Thunder](h/hydro-thunder)
+- [Hyper Olympics in Nagano 64](h/hyper-olympics-in-nagano-64)
 
 ## I
 
-Ide Yousuke no Mahjong Juku
-Iggy-kun no Bura Bura Poyon
-Iggy’s Reckin’ Balls
-In-Fisherman Bass Hunter 64
-Indiana Jones and the Infernal Machine
-Indy Racing 2000
-International Superstar Soccer ’98
-International Superstar Soccer 2000
-International Superstar Soccer 64
-International Track & Field 2000
-International Track & Field Summer Games
-Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!
+- [Ide Yousuke no Mahjong Juku](i/)
+- [Iggy-kun no Bura Bura Poyon](i/)
+- [Iggy’s Reckin’ Balls](i/)
+- [In-Fisherman Bass Hunter 64](i/)
+- [Indiana Jones and the Infernal Machine](i/)
+- [Indy Racing 2000](i/)
+- [International Superstar Soccer ’98](i/)
+- [International Superstar Soccer 2000](i/)
+- [International Superstar Soccer 64](i/)
+- [International Track & Field 2000](i/)
+- [International Track & Field Summer Games](i/)
+- [Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!](i/)
 
 ## J
 
