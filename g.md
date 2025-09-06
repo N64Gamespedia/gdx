@@ -18,7 +18,7 @@ Explore all N64 titles starting with the letter G, from *G.A.S.P!! Fighters’ N
 |---|---|
 | [Ganbare Goemon – Mononoke Sugoroku](g/ganbare-goemon-mononoke-sugoroku) | [Ganbare Goemon – Neo Momoyama Bakufu no Odori](g/ganbare-goemon-neo-momoyama-bakufu-no-odori) |
 
-| <a href="g/ganbare-nippon-olympics-2000"><img src="https://images.launchbox-app.com/a30cbbf1-e21a-401a-808a-2dae4d5abbb3.jpg" width="320" height="240" alt=""/></a> | <a href="g/gauntlet-legends"><img src="https://images.launchbox-app.com/709f99c5-72af-4259-9952-dd254975cef1.jpg" width="320" height="240" alt=""/></a> |
+| <a href="g/ganbare-nippon-olympics-2000"><img src="https://images.launchbox-app.com/96f0faef-2ece-4b11-8f54-a680e03048f7.jpg" width="320" height="240" alt=""/></a> | <a href="g/gauntlet-legends"><img src="https://images.launchbox-app.com/709f99c5-72af-4259-9952-dd254975cef1.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
 | [Ganbare Nippon! Olympics 2000](g/ganbare-nippon-olympics-2000) | [Gauntlet Legends](g/gauntlet-legends) |
 

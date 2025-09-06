@@ -9,9 +9,9 @@ toc: false
 # Ganbare! Nippon! Olympics 2000 / International Track & Field 2000 / International Track & Field: Summer Games
 
 <b>
-<img src="https://images.launchbox-app.com/a30cbbf1-e21a-401a-808a-2dae4d5abbb3.jpg" alt="Ganbare! Nippon! Olympics 2000 JPN Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/96f0faef-2ece-4b11-8f54-a680e03048f7.jpg" alt="Ganbare! Nippon! Olympics 2000 JPN Box Art" width="320" height="240" />
 <img src="https://images.launchbox-app.com/3d8a1b65-f33f-4e49-a09d-5acb407d1070.jpg" alt="International Track & Field 2000 USA Box Art" width="320" height="240" />
-<img src="https://images.launchbox-app.com/96f0faef-2ece-4b11-8f54-a680e03048f7.jpg" alt="International Track & Field: Summer Games EUR Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/a30cbbf1-e21a-401a-808a-2dae4d5abbb3.jpg" alt="International Track & Field: Summer Games EUR Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
