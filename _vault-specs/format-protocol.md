@@ -210,15 +210,15 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 - ✅ Exact metadata clause order preserved  
 - ✅ Image and iframe rendered without layout drift
 
+<!--   again, Do not add anything other than the original Metadata or and especially after the embedded video if it exists. -->
 
 <!-- ## 🏁 Entry Completion Tags -->
 
 ```markdown
-
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
 
 <!-- Vault Format: n64gamespedia-dev -->
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
 ```
 
-<!--   Before generating the Final MD Format CodeBox, print in lowercase the slugname in plain text with a - replacing any spaces. -->
+<!--   Before generating the Final MD Format CodeBox, print in lowercase the slug name in plain text with a - replacing any spaces. -->
