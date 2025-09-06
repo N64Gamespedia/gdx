@@ -6,7 +6,7 @@ layout: default
 toc: false
 ---
 
-# Bass Hunter 64
+# Bass Hunter 64 / In-Fisherman Bass Hunter 64
 <b>
 <img src="https://images.launchbox-app.com/2925103b-19dc-4e59-837a-423d5956fc6f.jpg" alt="Bass Hunter 64 Box Art" style="object-fit:cover;width:320px;height:224px"/>
 <img src="https://images.launchbox-app.com/2a21ef9a-4ff5-43f2-b1a7-f3a1d3d2afe0.png" alt="Bass Hunter 64 Screenshot" style="object-fit:contain;width:320px;height:224px"/>
