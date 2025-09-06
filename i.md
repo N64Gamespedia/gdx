@@ -30,6 +30,6 @@ Explore all N64 titles starting with the letter H, from *Ide Yousuke no Mahjong 
 |---|---|
 [International Superstar Soccer 64](i/international-superstar-soccer-64) | [International Track & Field 2000](i/international-track-field)
 
-| <a href="i/international-track-field-summer-games"><img src="https://images.launchbox-app.com/96f0faef-2ece-4b11-8f54-a680e03048f7.jpg" width="320" height="240" alt=""/></a> | <a href="i/itoi-shigesato-no-bass-tsuri-no-1-ketteiban"><img src="https://images.launchbox-app.com/e7a5a345-f248-4087-aa67-ae972979790f.png" width="320" height="240" alt=""/></a> |
+| <a href="i/international-track-field-summer-games"><img src="https://images.launchbox-app.com/a30cbbf1-e21a-401a-808a-2dae4d5abbb3.jpg" width="320" height="240" alt=""/></a> | <a href="i/itoi-shigesato-no-bass-tsuri-no-1-ketteiban"><img src="https://images.launchbox-app.com/e7a5a345-f248-4087-aa67-ae972979790f.png" width="320" height="240" alt=""/></a> |
 |---|---|
 [International Track & Field Summer Games](i/international-track-field-summer-games) | [Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!](i/itoi-shigesato-no-bass-tsuri-no-1-ketteiban)
