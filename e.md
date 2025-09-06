@@ -22,9 +22,9 @@ Explore all N64 titles starting with the letter E, from *Earthworm Jim 3D* to *E
 |---|---|
 | [Elmo’s Letter Adventure](e/elmos-letter-adventure) | [Elmo’s Number Journey](e/elmos-number-journey) |
 
-| <a href="e/eltale-monsters-quest-64-holy-magic-century"><img src="https://images.launchbox-app.com/7dbe7358-ad53-48a7-a695-2ea00a0247a6.png" width="320" height="240" alt="Eltale Monsters"/></a> | <a href="e/excitebike-64"><img src="https://images.launchbox-app.com/d91d6731-7afd-4b13-abc5-bfbbc904ca6d.jpg" width="320" height="240" alt="Excitebike 64"/></a> |
+| <a href="e/eltale-monsters"><img src="https://images.launchbox-app.com/7dbe7358-ad53-48a7-a695-2ea00a0247a6.png" width="320" height="240" alt="Eltale Monsters"/></a> | <a href="e/excitebike-64"><img src="https://images.launchbox-app.com/d91d6731-7afd-4b13-abc5-bfbbc904ca6d.jpg" width="320" height="240" alt="Excitebike 64"/></a> |
 |---|---|
-| [Eltale Monsters](e/eltale-monsters-quest-64-holy-magic-century) | [Excitebike 64](e/excitebike-64) |
+| [Eltale Monsters](e/eltale-monsters) | [Excitebike 64](e/excitebike-64) |
 
 | <a href="e/extreme-g"><img src="https://images.launchbox-app.com/786c936e-af7c-467e-870d-c71b3f427008.jpg" width="320" height="240" alt="Extreme-G"/></a> | <a href="e/extreme-g2-xg2"><img src="https://images.launchbox-app.com/e042b47c-ea2f-4ce3-8480-f9693a3891df.jpg" width="320" height="240" alt="Extreme-G2 XG2"/></a> |
 |---|---|
