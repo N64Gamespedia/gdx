@@ -48,9 +48,9 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 | <a href="b/blast-corps"><img src="https://images.launchbox-app.com//48eee44b-6bae-4db1-a1e5-2f42fff8a884.jpg" width="320" height="240" alt="Blast Corps"/></a> | <a href="b/blues-brothers-2000"><img src="https://images.launchbox-app.com//23b26c5c-35b5-40e7-953c-9e44e2549d43.jpg" width="320" height="240" alt="Blues Brothers 2000"/></a> |
 |---|---|
 | [Blast Corps / Blast Dozer](b/blast-corps) | [Blues Brothers 2000](b/blues-brothers-2000) |
-| <a href="b/body-harvest"><img src="https://images.launchbox-app.com//fede7c37-e7eb-42ea-9728-a57e8279c820.jpg" width="320" height="240" alt="Body Harvest"/></a> | <a href="b/harvest-moon-64-bokuj-monogatari-2"><img src="https://images.launchbox-app.com//f68666cd-c2f4-4d41-b1c3-4e297a80bbe2.png" width="320" height="240" alt="Bokujō Monogatari 2"/></a> |
+| <a href="b/body-harvest"><img src="https://images.launchbox-app.com//fede7c37-e7eb-42ea-9728-a57e8279c820.jpg" width="320" height="240" alt="Body Harvest"/></a> | <a href="b/bokuj-monogatari-2"><img src="https://images.launchbox-app.com//f68666cd-c2f4-4d41-b1c3-4e297a80bbe2.png" width="320" height="240" alt="Bokujō Monogatari 2"/></a> |
 |---|---|
-| [Body Harvest](b/body-harvest) | [Bokujō Monogatari 2](b/harvest-moon-64-bokuj-monogatari-2) |
+| [Body Harvest](b/body-harvest) | [Bokujō Monogatari 2](b/bokuj-monogatari-2) |
 
 | <a href="b/baku-bomberman"><img src="https://images.launchbox-app.com//b52ffaea-e4b3-4645-9999-c90a7501e503.jpg" width="320" height="240" alt="Bomberman 64"/></a> | <a href="b/bomberman-64-arcade-edition-2001"><img src="https://images.launchbox-app.com//05922be5-c076-44d7-b821-d88c671511af.jpg" width="320" height="240" alt="Bomberman 64: Arcade Edition"/></a> |
 |---|---|
