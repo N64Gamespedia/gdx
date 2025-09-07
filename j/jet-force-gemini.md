@@ -18,7 +18,7 @@ toc: false
 **Publisher:** [Rare](https://en.wikipedia.org/wiki/Rare_(company)){:target="_blank" rel="noopener noreferrer"}  
 **Release Date (NTSC-USA):** October 11, 1999  
 **Release Date (PAL-EUR):** October 29, 1999  
-**Release Date (JPN):** December 1, 1999  
+**Release Date (NTSC-JPN):** December 1, 1999  
 (Star Twins)  
 **Genre:** Action/Third-Person Shooter  
 **Players:** 1 - 4  
