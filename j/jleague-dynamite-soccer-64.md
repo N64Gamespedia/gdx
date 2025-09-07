@@ -9,7 +9,7 @@ toc: false
 # J.League Dynamite Soccer 64
 
 <b>
-<img src="https://www.n64gamespedia.com/wp-content/uploads/2025/01/5f7cbe00-0289-4da8-abd5-d0d5f8f8c5131.png" alt="J.League Dynamite Soccer 64 Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/695c7639-d413-48e1-a474-cf8633c16970.png" alt="J.League Dynamite Soccer 64 Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
