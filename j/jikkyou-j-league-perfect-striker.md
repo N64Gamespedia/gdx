@@ -10,7 +10,7 @@ toc: false
 
 <b>
 <img src="https://images.launchbox-app.com/d503b597-d94a-4ce6-a507-00e6e0e16700.jpg" alt="" width="320" height="240" />
-<img src="https://www.project64-legacy.com/data/uploads/BoxArt/PERFECT_STRIKER.png" alt="" width="320" height="240" />
+<img src="https://images.launchbox-app.com/04b79200-5190-43c8-8a62-26f63e49a847.png" alt="" width="320" height="240" />
 <img src="https://images.launchbox-app.com//bd42f505-2f01-4309-9175-3d8d44cdb502.png" alt="" width="320" height="240" />
 </b>
 
