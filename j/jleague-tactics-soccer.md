@@ -9,7 +9,7 @@ toc: false
 # J.League Tactics Soccer
 
 <b>
-<img src="https://www.n64gamespedia.com/wp-content/uploads/2025/01/2e9e1c71-fa31-42ab-9734-5eb89eabec531.png" alt="J.League Tactics Soccer Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/b177ac06-d7d8-49f5-991c-d30d9e34fa36.png" alt="J.League Tactics Soccer Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
