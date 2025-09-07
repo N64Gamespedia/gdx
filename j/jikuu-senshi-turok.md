@@ -10,8 +10,8 @@ toc: false
 
 <b>
 <img src="https://images.launchbox-app.com//b8ae5850-b65e-4e5b-b47f-1d10b36ee256.jpg" alt="Turok Dinosaur Hunter USA Box Art" width="320" height="240" />
-<img src="https://images.launchbox-app.com//79760d17-02ac-4571-b402-598e7ff85551.jpg" alt="Turok Dinosaur Hunter PAL Box Art" width="320" height="240" />
-<img src="https://www.n64gamespedia.com/wp-content/uploads/2025/01/Turok_Dinosaur_Hunter_G1.jpg" alt="Jikuu Senshi Turok JPN Box Art" width="320" height="240" />
+  <img src="https://images.launchbox-app.com//79760d17-02ac-4571-b402-598e7ff85551.jpg" alt="Jikuu Senshi Turok JPN Box Art" width="320" height="240" />
+<img src="https://www.n64gamespedia.com/wp-content/uploads/2025/01/Turok_Dinosaur_Hunter_G1.jpg" alt="Turok Dinosaur Hunter PAL Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
