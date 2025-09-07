@@ -36,15 +36,6 @@ Patch details available at [ROMHacking.net](https://www.romhacking.net/translati
 <br />  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-gx4DBq_eo" title="J.League Dynamite Soccer 64 Gameplay by Nintendo 64 Ever" frameborder="0" allowfullscreen></iframe>
 
-### Additional Gameplay References  
-- [J-League Dynamite Soccer 64 (N64) · Retro Football](https://www.youtube.com/watch?v=7fZaYIKxMKI) offers commentary on mechanics and retro football comparisons.  
-- [Longplay of J.League Dynamite Soccer 64 (Fan translation)](https://www.youtube.com/watch?v=-1YIM7gimZ8) provides a full walkthrough using the English patch.  
-- [Andy Tries J.League Dynamite Soccer 64 (Nintendo 64)](https://www.youtube.com/watch?v=9Zi5Pdz3CPU) showcases casual first impressions and gameplay quirks.  
-- [The Beautiful Game-Pad [28] J.League Dynamite Soccer 64 ...](https://www.youtube.com/watch?v=9DeawWv9wHI) ranks the game among other football titles with humorous critique.  
-- [J-League Dynamite Soccer 64 - Nintendo 64](https://www.youtube.com/watch?v=m-gx4DBq_eo) features direct gameplay footage with no commentary.  
-- [Full Playthrough [169] Nintendo 64 [14] J.League Dynamite ...](https://www.youtube.com/watch?v=dtZnz4v5cc4) includes every match and ending sequence.  
-- [Nintendo 64 - J.League Dynamite Soccer 64 © 1997 ...](https://www.youtube.com/watch?v=onATO1O-oxU) highlights the original Japanese release with gameplay samples.
-
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️  
 <!-- Vault Format: n64gamespedia-dev -->  
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
