@@ -9,7 +9,7 @@ toc: false
 # J.League Eleven Beat 1997
 
 <b>
-<img src="https://www.n64gamespedia.com/wp-content/uploads/2025/01/eecf81b1-49c7-4a76-a252-55c9aeec27021.png" alt="J.League Eleven Beat 1997 Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com/0c7f0b1e-a751-43d3-98c0-a104fd38a3c5.png" alt="J.League Eleven Beat 1997 Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
