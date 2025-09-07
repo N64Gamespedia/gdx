@@ -209,6 +209,8 @@ This GlideN64 pack from [N64TEX](https://www.n64textures.com){:target="_blank" r
 - ✅ Verified embedded links open in new tabs  
 - ✅ Exact metadata clause order preserved  
 - ✅ Image and iframe rendered without layout drift
+- ✅ Only include what’s explicitly present in the WP Block source 
+- ✅ No extra links, no enrichment, no commentary beyond the embedded video unless in the original WP Block source 
 
 <!--   again, Do not add anything other than the original Metadata or and especially after the embedded video if it exists. -->
 
