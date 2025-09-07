@@ -46,10 +46,10 @@ Explore all N64 titles starting with the letter J, from *J.League Dynamite Socce
 |---|---|
 [Jikkyou World Soccer – World Cup France ’98](j/jikky-world-cup-98) | [Jikkyou World Soccer 3](j/jikkyou-world-soccer-3)
 
-| <a href="j/jikuu-senshi-turok"><img src="https://images.launchbox-app.com//79760d17-02ac-4571-b402-598e7ff85551.jpg" width="320" height="240" alt=""/></a> | <a href="j/jinsei-game-64"><img src="" width="320" height="240" alt="https://images.launchbox-app.com/304cf259-1b76-416d-bd39-3f8b361264bb.png"/></a> |
+| <a href="j/jikuu-senshi-turok"><img src="https://images.launchbox-app.com//79760d17-02ac-4571-b402-598e7ff85551.jpg" width="320" height="240" alt=""/></a> | <a href="j/jinsei-game-64"><img src="https://images.launchbox-app.com/304cf259-1b76-416d-bd39-3f8b361264bb.png" width="320" height="240" alt=""/></a> |
 |---|---|
 [Jikuu Senshi Turok](j/jikuu-senshi-turok) | [Jinsei Game 64](j/jinsei-game-64)
 
-| <a href="j/john-romeros-daikatana"><img src="https://images.launchbox-app.com//443ab898-48ab-49a3-86f5-7075b781cf84.jpg" width="320" height="240" alt=""/></a> | <a href="j/"><img src="" width="320" height="240" alt=""/></a> |
+| <a href="j/john-romeros-daikatana"><img src="https://images.launchbox-app.com//443ab898-48ab-49a3-86f5-7075b781cf84.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
 [John Romero’s Daikatana](j/john-romeros-daikatana) | 
