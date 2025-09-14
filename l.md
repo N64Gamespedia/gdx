@@ -14,7 +14,7 @@ Explore all N64 titles starting with the letter L, from *Last Legion UX* to *Lyl
 |---|---|
 [Last Legion UX](l/last-legion-ux) | [Lego Racers](l/lego-racers) |
 
-| <a href="l/legend-of-zelda-majora-s-mask"><img src="https://images.launchbox-app.com//bbfeed46-f743-4f69-b47d-a9551ce29a49.jpg" width="320" height="240" alt=""/></a> | <a href="l/legend-of-zelda-ocarina-of-time"><img src="https://images.launchbox-app.com/80815f07-7bb1-439a-8496-a8cc153ee91d.jpg" width="320" height="240" alt=""/></a> |
+| <a href="l/legend-of-zelda-majoras-mask"><img src="https://images.launchbox-app.com//bbfeed46-f743-4f69-b47d-a9551ce29a49.jpg" width="320" height="240" alt=""/></a> | <a href="l/legend-of-zelda-ocarina-of-time"><img src="https://images.launchbox-app.com/80815f07-7bb1-439a-8496-a8cc153ee91d.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
 [Legend of Zelda – Majora’s Mask](l/legend-of-zelda-majoras-mask) | [Legend of Zelda – Ocarina of Time](l/legend-of-zelda-ocarina-of-time) |
 
