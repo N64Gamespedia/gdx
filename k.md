@@ -10,7 +10,7 @@ has_toc: false
 
 Explore all N64 titles starting with the letter K, from *Kakutou Denshou – F-Cup Maniax* to *Kuru Kuru Fever (Aleck64)*.
 
-| <a href="k/kakutou-denshou-f-cup-maniax"><img src="https://images.launchbox-app.com/6d321652-eb3b-4220-98b7-bcbd21c687aa.png"" width="320" height="240" alt=""/></a> | <a href="k/ken-griffey-jrs-slugfest"><img src="https://images.launchbox-app.com/731be833-edbc-4847-867b-c687251cd4f9.jpg" width="320" height="240" alt=""/></a> |
+| <a href="k/kakutou-denshou-f-cup-maniax"><img src="https://images.launchbox-app.com/6d321652-eb3b-4220-98b7-bcbd21c687aa.png" width="320" height="240" alt=""/></a> | <a href="k/ken-griffey-jrs-slugfest"><img src="https://images.launchbox-app.com/731be833-edbc-4847-867b-c687251cd4f9.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
 [Kakutou Denshou – F-Cup Maniax](k/kakutou-denshou-f-cup-maniax) | [Ken Griffey Jr.’s Slugfest](k/ken-griffey-jrs-slugfest) |
 
@@ -22,7 +22,7 @@ Explore all N64 titles starting with the letter K, from *Kakutou Denshou – F-C
 |---|---|
 [Kiratto Kaiketsu! 64 Tanteidan](k/kiratto-kaiketsu-64-tanteidan) | [Kirby 64 – The Crystal Shards](k/kirby-64-the-crystal-shards) |
 
-| <a href="k/knife-edge-nose-gunner"><img src="https://images.launchbox-app.com//180ba61f-186b-424a-a2d7-09141c240e11.jpg"" width="320" height="240" alt=""/></a> | <a href="k/knockout-kings-2000"><img src="https://images.launchbox-app.com//d4021655-bb93-49a1-bd35-aade15aa45ea.jpg" width="320" height="240" alt=""/></a> |
+| <a href="k/knife-edge-nose-gunner"><img src="https://images.launchbox-app.com//180ba61f-186b-424a-a2d7-09141c240e11.jpg" width="320" height="240" alt=""/></a> | <a href="k/knockout-kings-2000"><img src="https://images.launchbox-app.com//d4021655-bb93-49a1-bd35-aade15aa45ea.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
 [Knife Edge – Nose Gunner](k/knife-edge-nose-gunner) | [Knockout Kings 2000](k/knockout-kings-2000) |
 
