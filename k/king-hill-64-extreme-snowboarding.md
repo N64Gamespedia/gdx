@@ -1,5 +1,5 @@
 ---
-title: "King Hill 64 / Twisted Edge - Extreme Snowboarding"
+title: "King Hill 64 - Extreme Snowboarding"
 nav_order: 4
 parent: "K-Titles"
 layout: default
