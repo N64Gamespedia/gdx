@@ -1,9 +1,8 @@
 ---
 title: "K-Titles"
 nav_order: 14
-parent: "Games Vault"
-layout: default
 has_children: true
+layout: default
 has_toc: false
 ---
 
