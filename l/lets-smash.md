@@ -1,7 +1,7 @@
 ---
 title: "Let's Smash"
 nav_order: 7
-parent: "C-Titles"
+parent: "L-Titles"
 layout: default
 toc: false
 ---
