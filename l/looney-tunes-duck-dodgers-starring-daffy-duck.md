@@ -1,5 +1,5 @@
 ---
-title: "Looney Tunes – Duck Dodgers Starring Daffy Duck / Daffy Duck Starring as Duck Dodgers"
+title: "Looney Tunes – Duck Dodgers Starring Daffy Duck"
 nav_order: 9
 parent: "L-Titles"
 layout: default
