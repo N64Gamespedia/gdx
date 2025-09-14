@@ -6,10 +6,10 @@ layout: default
 toc: false
 ---
 
-# Centre Court Tennis
+# Centre Court Tennis / Let's Smash
 <b>
-<img src="https://images.launchbox-app.com/d9d192e1-a1b7-4d0c-b87d-18bdefc9d08d.jpg" alt="Centre Court Tennis Screenshot 1" style="object-fit:cover;width:320px;height:224px"/>
-<img src="https://images.launchbox-app.com/086bbfcd-0e11-4605-b89a-5208f09962c2.png" alt="Centre Court Tennis Screenshot 2" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com//991e71b1-6583-49fb-a71b-3d480c539173.jpg" alt="Centre Court Tennis Screenshot" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com//8a43a3ba-6640-49da-8e47-7782738a89b0.png" alt="Let's Smash Screenshot" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  
