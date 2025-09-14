@@ -1,7 +1,7 @@
 ---
 title: "Looney Tunes – Duck Dodgers Starring Daffy Duck / Daffy Duck Starring as Duck Dodgers"
-nav_order: 25
-parent: "D-Titles"
+nav_order: 9
+parent: "L-Titles"
 layout: default
 toc: false
 ---
