@@ -33,4 +33,3 @@ Killer Instinct Gold rocks the gaming world with its earth-shattering moves and 
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️  
 <!-- Vault Format: n64gamespedia-dev -->  
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
-```
