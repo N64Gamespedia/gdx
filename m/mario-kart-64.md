@@ -1,6 +1,6 @@
 ---
 title: "Mario Kart 64"
-nav_order: 4
+nav_order: 13
 parent: "M-Titles"
 layout: default
 toc: false
