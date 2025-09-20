@@ -10,7 +10,7 @@ toc: false
 
 <b>
 <img src="https://images.launchbox-app.com/39ddd35d-4f37-45fc-8ecb-09b06b3bebce.jpg" alt="NHL Blades of Steel ‘99" width="320" height="240" />
-<img src="https://images.launchbox-app.com/8f399e10-054e-4c17-be93-cd7541394e77.jpg" alt="NHL Pro 99" width="320" height="240" />
+<img src="https://images.launchbox-app.com/8f399e10-054e-4c17-be93-cd7541394e77.jpg" alt="NHL Pro 99 (EUR)" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
