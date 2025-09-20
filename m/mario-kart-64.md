@@ -8,8 +8,8 @@ toc: false
 
 # Mario Kart 64
 <b>
-<img src="https://www.n64gamespedia.com/wp-content/uploads/2025/05/5d4e7ee9-81df-4978-886d-0b661ea024621.png" alt="Mario Kart 64 Screenshot 1" style="object-fit:cover;width:320px;height:224px"/>
-<img src="https://www.n64gamespedia.com/wp-content/uploads/2025/05/d577f866-9037-4f8e-ba70-cf26af3b9ae61.png" alt="Mario Kart 64 Screenshot 2" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com//e921ec0f-4a2f-4a57-b59a-36edb8ae3096.jpg" alt="Mario Kart 64 (USA)" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com//0ad5a0f2-3cfe-48ac-a5d5-65c66340a5f1.png" alt="Mario Kart 64 (马力欧卡丁车) (China)" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Developer:** [Nintendo EAD](https://en.wikipedia.org/wiki/Nintendo_Entertainment_Analysis_%26_Development){:target="_blank" rel="noopener noreferrer"}  
@@ -18,6 +18,7 @@ toc: false
 **Release Date (NTSC-JPN):** December 14, 1996  
 **Release Date (PAL-EUR):** June 24, 1997  
 **Release Date (PAL-CHN):** November 17, 2003  
+(马力欧卡丁车)  
 **Genre:** Racing / Kart  
 **Players:** 1–4  
 **Force Feedback:** No  
