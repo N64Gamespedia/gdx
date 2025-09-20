@@ -94,6 +94,6 @@ Explore all N64 titles starting with the letter M, from *Mace – The Dark Age* 
 |---|---|
 [MRC – Multi Racing Championship"](m/mrc-multi-racing-championship) | [Ms. Pac-Man – Maze Madness](m/ms-pac-man-maze-madness) |
 
-| <a href="m/mystical-ninja-starring-goemon"><img src="https://images.launchbox-app.com/d7b649cf-1261-407a-952a-c5c5f25f21eb.jpg" " width="320" height="240" alt=""/></a> | <a href="m/mystical-ninja-2"><img src="https://images.launchbox-app.com/5c537e44-034f-4fb3-9cee-bfa37a0934f2" width="320" height="240" alt=""/></a> |
+| <a href="m/mystical-ninja-starring-goemon"><img src="https://images.launchbox-app.com/d7b649cf-1261-407a-952a-c5c5f25f21eb.jpg" " width="320" height="240" alt=""/></a> | <a href="m/mystical-ninja-2"><img src="https://images.launchbox-app.com/5c537e44-034f-4fb3-9cee-bfa37a0934f2.png" width="320" height="240" alt=""/></a> |
 |---|---|
 [Mystical Ninja Starring Goemon"](m/mystical-ninja-starring-goemon) | [Mystical Ninja 2 Starring Goemon](m/mystical-ninja-2) |
