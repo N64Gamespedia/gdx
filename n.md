@@ -10,7 +10,7 @@ has_toc: false
 
 Explore all N64 titles starting with the letter N, from *NASCAR 2000* to *Nushi Tsuri 64 – Shiokaze ni Notte*.
 
-| <a href="n/nascar-2000"><img src="https://images.launchbox-app.com/6e2e6b4e-2f4e-4d4a-9e7f-2a6a3b3e4b2f.jpg" width="320" height="240" alt="NASCAR 2000"/></a> | <a href="n/nascar-99"><img src="https://images.launchbox-app.com/2c2c1b4e-3d4f-4f4a-8e7f-1b6a3b3e4b1f.jpg" width="320" height="240" alt="NASCAR 99"/></a> |
+| <a href="n/nascar-2000"><img src="https://images.launchbox-app.com/4897442c-a3a4-492f-bae3-bd4f882ecea3.jpg" width="320" height="240" alt="NASCAR 2000"/></a> | <a href="n/nascar-99"><img src="https://images.launchbox-app.com/2c2c1b4e-3d4f-4f4a-8e7f-1b6a3b3e4b1f.jpg" width="320" height="240" alt="NASCAR 99"/></a> |
 |---|---|
 [NASCAR 2000](n/nascar-2000) | [NASCAR 99](n/nascar-99) |
 
