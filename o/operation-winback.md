@@ -9,8 +9,8 @@ toc: false
 # Operation Winback / WinBack – Covert Operations / Winback
 
 <b>
-<img src="https://images.launchbox-app.com/573ef52f-34ab-4de2-a1b8-f9badd93770d.jpg" alt="Operation Winback (USA)" width="320" height="240" />
-<img src="https://images.launchbox-app.com/a53d4527-7a39-44be-abe9-d58e88649a10.jpg" alt="WinBack – Covert Operations (USA)" width="320" height="240" />
+<img src="https://images.launchbox-app.com/a53d4527-7a39-44be-abe9-d58e88649a10.jpg" alt="Operation Winback (Europe)" width="320" height="240" />
+<img src="https://images.launchbox-app.com/573ef52f-34ab-4de2-a1b8-f9badd93770d.jpg" alt="WinBack – Covert Operations (USA)" width="320" height="240" />
 <img src="https://images.launchbox-app.com/620acfcd-dcec-4848-aca8-9634e53ea402.jpg" alt="Winback (JPN)" width="320" height="240" />
 </b>
 
