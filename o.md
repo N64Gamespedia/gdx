@@ -18,6 +18,6 @@ Explore all N64 titles starting with the letter O, from *O.D.T. – Escape Or Di
 |---|---|
 [Ogre Battle 64 – Person of Lordly Caliber](o/ogre-battle-64-person-of-lordly-caliber) | [Olympic Hockey Nagano '98](o/olympic-hockey-nagano-98) |
 
-| <a href="o/onegai-monsters"><img src="https://images.launchbox-app.com/0256c2b4-6f10-4e52-857a-fccdde518b4e.png" width="320" height="240" alt="Onegai Monsters"/></a> | <a href="o/operation-winback"><img src="https://images.launchbox-app.com/573ef52f-34ab-4de2-a1b8-f9badd93770d.jpg" width="320" height="240" alt="Operation Winback"/></a> |
+| <a href="o/onegai-monsters"><img src="https://images.launchbox-app.com/0256c2b4-6f10-4e52-857a-fccdde518b4e.png" width="320" height="240" alt="Onegai Monsters"/></a> | <a href="o/operation-winback"><img src="https://images.launchbox-app.com/a53d4527-7a39-44be-abe9-d58e88649a10.jpg" width="320" height="240" alt="Operation Winback (Europe)"/></a> |
 |---|---|
 [Onegai Monsters](o/onegai-monsters) | [Operation Winback](o/operation-winback) |
