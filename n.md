@@ -30,11 +30,11 @@ Explore all N64 titles starting with the letter N, from *NASCAR 2000* to *Nushi 
 |---|---|
 [NBA Jam 2000](n/nba-jam-2000) | [NBA Jam 99](n/nba-jam-99) |
 
-| <a href="n/nba-live-99"><img src="https://images.launchbox-app.com/90cc3b4d-4001-4ecc-93dd-485b192709c3.jpg" width="320" height="240" alt="NBA Live 99"/></a> | <a href="n/nba-live-2000"><img src="https://images.launchbox-app.com/71-nlxMf+WL._UF1000,1000_QL80_.jpg" width="320" height="240" alt="NBA Live 2000"/></a> |
+| <a href="n/nba-live-99"><img src="https://images.launchbox-app.com/90cc3b4d-4001-4ecc-93dd-485b192709c3.jpg" width="320" height="240" alt="NBA Live 99"/></a> | <a href="n/nba-live-2000"><img src="https://images.launchbox-app.com/0031fa9d-9bd5-43eb-8540-0beb608fdfa5.jpg" width="320" height="240" alt="NBA Live 2000"/></a> |
 |---|---|
 [NBA Live 99](n/nba-live-99) | [NBA Live 2000](n/nba-live-2000) |
 
-| <a href="n/nba-pro-98"><img src="https://images.launchbox-app.com/1a1b234e-b3af-4f4a-9e7f-1a6a3b3e4b1f.jpg" width="320" height="240" alt="NBA Pro 98"/></a> | <a href="n/nba-pro-99"><img src="https://images.launchbox-app.com/3c2d4e5f-8f6a-4b3c-9d7e-7f2e6d9f4b2e.jpg" width="320" height="240" alt="NBA Pro 99"/></a> |
+| <a href="n/nba-pro-98"><img src="https://images.launchbox-app.com/f88e2c9f-87bf-4638-8138-4faab5c1990f.png" width="320" height="240" alt="NBA Pro 98"/></a> | <a href="n/nba-pro-99"><img src="https://images.launchbox-app.com/e925d345-cb57-43b2-8c33-a7b172497547.jpg" width="320" height="240" alt="NBA Pro 99"/></a> |
 |---|---|
 [NBA Pro 98](n/nba-pro-98) | [NBA Pro 99](n/nba-pro-99) |
 
@@ -58,7 +58,7 @@ Explore all N64 titles starting with the letter N, from *NASCAR 2000* to *Nushi 
 |---|---|
 [NFL Quarterback Club 2001](n/nfl-quarterback-club-2001) | [NHL 99](n/nhl-99) |
 
-| <a href="n/nhl-pro-99"><img src="https://images.launchbox-app.com/6b2c3f2e-9e4f-4d3a-bc7e-8c2f6e9f3a1e.jpg" width="320" height="240" alt="NHL Pro 99 (PAL)"/></a> | <a href="n/nhl-blades-of-steel"><img src="https://images.launchbox-app.com/39ddd35d-4f37-45fc-8ecb-09b06b3bebce.jpg" width="320" height="240" alt="NHL Blades of Steel '99 (USA)"/></a> |
+| <a href="n/nhl-pro-99"><img src="https://images.launchbox-app.com/8f399e10-054e-4c17-be93-cd7541394e77.jpg" width="320" height="240" alt="NHL Pro 99 (PAL)"/></a> | <a href="n/nhl-blades-of-steel"><img src="https://images.launchbox-app.com/39ddd35d-4f37-45fc-8ecb-09b06b3bebce.jpg" width="320" height="240" alt="NHL Blades of Steel '99 (USA)"/></a> |
 |---|---|
 [NHL Pro 99](n/nhl-pro-99) | [NHL Blades of Steel '99](n/nhl-blades-of-steel) |
 
@@ -74,6 +74,6 @@ Explore all N64 titles starting with the letter N, from *NASCAR 2000* to *Nushi 
 |---|---|
 [Nuclear Strike 64](n/nuclear-strike-64) | [Nushi Tsuri 64](n/nushi-tsuri-64) |
 
-| <a href="n/nushi-tsuri-64-shiokaze-ni-notte"><img src="https://images.launchbox-app.com/1c42c676-185f-451f-9ba2-7f618993be91.png" width="320" height="240" alt="Nushi Tsuri 64: Shiokaze ni Notte"/></a> |  |
+| <a href="n/nushi-tsuri-64-shiokaze-ni-notte"><img src="https://images.launchbox-app.com/1c42c676-185f-451f-9ba2-7f618993be91.png" width="320" height="240" alt="Nushi Tsuri 64: Shiokaze ni Notte"/></a> |
 |---|---|
-[Nushi Tsuri 64: Shiokaze ni Notte](n/nushi-tsuri-64-shiokaze-ni-notte) |  |
+[Nushi Tsuri 64: Shiokaze ni Notte](n/nushi-tsuri-64-shiokaze-ni-notte) |
