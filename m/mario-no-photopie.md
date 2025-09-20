@@ -9,7 +9,7 @@ toc: false
 # Mario no Photopie
 
 <b>
-<img src="¨https://images.launchbox-app.com//f8239728-8af4-4b1c-bae0-1aa22bed6b69.png" alt="Mario no Photopie Box Art" width="320" height="240" />
+<img src="https://images.launchbox-app.com//f8239728-8af4-4b1c-bae0-1aa22bed6b69.png" alt="Mario no Photopie Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
