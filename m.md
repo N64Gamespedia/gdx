@@ -34,7 +34,7 @@ Explore all N64 titles starting with the letter M, from *Mace – The Dark Age* 
 |---|---|
 [Major League Baseball Featuring Ken Griffey Jr.](m/major-league-baseball-featuring-ken-griffey-jr) | [Mario Golf](m/mario-golf) |
 
-| <a href="m/mario-kart-64"><img src="g src="https://images.launchbox-app.com//e921ec0f-4a2f-4a57-b59a-36edb8ae3096.jpg" width="320" height="240" alt=""/></a> | <a href="m/mario-party"><img src="https://images.launchbox-app.com//37445ef4-53fa-47ad-8ac5-646ee5b7d188.jpg" width="320" height="240" alt=""/></a> |
+| <a href="m/mario-kart-64"><img src="https://images.launchbox-app.com//e921ec0f-4a2f-4a57-b59a-36edb8ae3096.jpg" width="320" height="240" alt=""/></a> | <a href="m/mario-party"><img src="https://images.launchbox-app.com//37445ef4-53fa-47ad-8ac5-646ee5b7d188.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
 [Mario Kart 64](m/mario-kart-64) | [Mario Party](m/mario-party) |
 
@@ -74,7 +74,7 @@ Explore all N64 titles starting with the letter M, from *Mace – The Dark Age* 
 |---|---|
 [Mischief Makers](m/mischief-makers) | [Mission Impossible](m/mission-impossible) |
 
-| <a href="m/monaco-grand-prix"><img src="https://images.launchbox-app.com//f061ca7b-9959-4ad9-8fdc-0b65603e3b3f.jpg" width="320" height="240" alt=""/></a> | <a href="m/monaco-grand-prix-racing-simulation-2"><img src=""https://images.launchbox-app.com//838ecada-92ce-486d-8619-072c892c618b.jpg" width="320" height="240" alt=""/></a> |
+| <a href="m/monaco-grand-prix"><img src="https://images.launchbox-app.com//f061ca7b-9959-4ad9-8fdc-0b65603e3b3f.jpg" width="320" height="240" alt=""/></a> | <a href="m/monaco-grand-prix-racing-simulation-2"><img src="https://images.launchbox-app.com//838ecada-92ce-486d-8619-072c892c618b.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
 [Monaco Grand Prix](m/monaco-grand-prix) | [Monaco Grand Prix – Racing Simulation 2](m/monaco-grand-prix-racing-simulation-2) |
 
@@ -86,4 +86,5 @@ Explore all N64 titles starting with the letter M, from *Mace – The Dark Age* 
 |---|---|
 [Morita Shougi 64](m/morita-shougi-64) | [Mortal Kombat 4](m/mortal-kombat-4) |
 
-| <a href="m/mortal-kombat-mythologies-sub-zero"><img src="https://images.launchbox-app.com//4acf4ab0-86c3-4a2c-b5ce-377df0be201b.jpg" width="320" height="240" alt=""/></a> | <a href="m/mortal-kombat-trilogy"><img src="https://images.launchbox-app.com//4b66dbe4-cf28-4771-a4fc-b785b0223058.jpg" width="320" height
+| <a href="m/mortal-kombat-mythologies-sub-zero"><img src="https://images.launchbox-app.com//4acf4ab0-86c3-4a2c-b5ce-377df0be201b.jpg" width="320" height="240" alt=""/></a> | <a href="m/mortal-kombat-trilogy"><img src="https://images.launchbox-app.com//4b66dbe4-cf28-4771-a4fc-b785b0223058.jpg" width="320" height="240" alt=""/></a> |
+[Mortal Kombat Mythologies: Sub-Zero"](m/mortal-kombat-mythologies-sub-zero) | [Mortal Kombat Trilogy](m/mortal-kombat-trilogy) |
