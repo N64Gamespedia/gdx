@@ -47,10 +47,10 @@ and display the information via their project.
 
 <div class="zoom-pair">
   <div class="zoom-on-hover">
-    <img src="assets/images/mib_game_information_1.png" alt="Group Cheat Collapsed" width="245" />
+    <img src="assets/images/mib_game_information_1.png" alt="Group Cheat Collapsed" width="320" />
   </div>
   <div class="zoom-on-hover">
-    <img src="assets/images/mib_game_information_2.png" alt="Group Cheat Expanded" width="245" />
+    <img src="assets/images/mib_game_information_2.png" alt="Group Cheat Expanded" width="320" />
   </div>
 </div>
 
