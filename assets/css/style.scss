@@ -1,0 +1,15 @@
+.zoom-on-hover {
+  display: inline-block;
+  overflow: hidden;
+}
+
+.zoom-on-hover img {
+  transition: transform 0.3s ease;
+  cursor: zoom-in;
+  transform-origin: center;
+}
+
+.zoom-on-hover img:hover {
+  transform: scale(1.5);
+  z-index: 10;
+}
