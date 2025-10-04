@@ -1,5 +1,5 @@
 ---
-title: "Hey You, Pikachu! / Pikachū Genki Dechū"
+title: "Hey You, Pikachu!"
 nav_order: 7
 parent: "H-Titles"
 layout: default
