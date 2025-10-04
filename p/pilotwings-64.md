@@ -1,6 +1,6 @@
 ---
 title: "Pilotwings 64"
-nav_order: 8
+nav_order: 10
 parent: "P-Titles"
 layout: default
 toc: false
