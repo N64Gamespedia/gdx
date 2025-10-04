@@ -10,43 +10,43 @@ has_toc: false
 
 Explore all N64 titles starting with the letter P, from *Pachinko 365 Nichi* to *Puzzle Bobble 64*.
 
-| <a href="p/pachinko-365-nichi"><img src="" width="320" height="240" alt="Pachinko 365 Nichi"/></a> | <a href="p/paper-mario"><img src="" width="320" height="240" alt="Paper Mario"/></a> |
+| <a href="p/pachinko-365-nichi"><img src="https://images.launchbox-app.com/252e3cb7-7491-4518-9f17-d34a10ed1ad5.png" width="320" height="240" alt="Pachinko 365 Nichi"/></a> | <a href="p/paper-mario"><img src="https://images.launchbox-app.com//363e6708-2ec8-495a-be53-492e31d3d5f8.png" width="320" height="240" alt="Paper Mario"/></a> |
 |---|---|
 [Pachinko 365 Nichi](p/pachinko-365-nichi) | [Paper Mario](p/paper-mario) |
 
-| <a href="p/paperboy"><img src="" width="320" height="240" alt="Paperboy"/></a> | <a href="p/parlor-pro-64-pachinko-jikki-simulation-game"><img src="" width="320" height="240" alt="Parlor! Pro 64 – Pachinko Jikki Simulation Game"/></a> |
+| <a href="p/paperboy"><img src="https://images.launchbox-app.com/05e9c9b4-0da7-43e0-bc83-15cf98430b42.jpg" width="320" height="240" alt="Paperboy"/></a> | <a href="p/parlor-pro-64-pachinko-jikki-simulation-game"><img src="https://images.launchbox-app.com/c7651398-5eb4-4124-bd10-c85ecafae566.png" width="320" height="240" alt="Parlor! Pro 64 – Pachinko Jikki Simulation Game"/></a> |
 |---|---|
 [Paperboy](p/paperboy) | [Parlor! Pro 64 – Pachinko Jikki Simulation Game](p/parlor-pro-64-pachinko-jikki-simulation-game) |
 
-| <a href="p/pd-ultraman-battle-collection-64"><img src="" width="320" height="240" alt="PD Ultraman Battle Collection 64"/></a> | <a href="p/penny-racers"><img src="" width="320" height="240" alt="Penny Racers"/></a> |
+| <a href="p/pd-ultraman-battle-collection-64"><img src="https://images.launchbox-app.com/1ff36b34-b3e2-40fa-9e85-913082fe2d06.png" width="320" height="240" alt="PD Ultraman Battle Collection 64"/></a> | <a href="p/penny-racers"><img src="https://images.launchbox-app.com/d3abc23d-e7e3-49b4-b053-29870d47dedd.jpg" width="320" height="240" alt="Penny Racers"/></a> |
 |---|---|
 [PD Ultraman Battle Collection 64](p/pd-ultraman-battle-collection-64) | [Penny Racers](p/penny-racers) |
 
-| <a href="p/perfect-dark"><img src="" width="320" height="240" alt="Perfect Dark"/></a> | <a href="p/pga-european-tour"><img src="" width="320" height="240" alt="PGA European Tour"/></a> |
+| <a href="p/perfect-dark"><img src="https://images.launchbox-app.com/58e220b3-0016-4c5b-bb2b-5dc0d2345e5b.jpg" width="320" height="240" alt="Perfect Dark"/></a> | <a href="p/pga-european-tour"><img src="https://images.launchbox-app.com/39d74190-aaec-4046-85d8-3ca08ccfe21b.jpg" width="320" height="240" alt="PGA European Tour"/></a> |
 |---|---|
 [Perfect Dark](p/perfect-dark) | [PGA European Tour](p/pga-european-tour) |
 
-| <a href="p/pikachu-genki-dechu"><img src="" width="320" height="240" alt="Pikachu Genki Dechu"/></a> | <a href="p/pilotwings-64"><img src="" width="320" height="240" alt="Pilotwings 64"/></a> |
+| <a href="p/pikachu-genki-dechu"><img src="="https://images.launchbox-app.com/e69194e5-db86-47df-a428-0d6f3ab23b29.p" width="320" height="240" alt="Pikachu Genki Dechu"/></a> | <a href="p/pilotwings-64"><img src="https://images.launchbox-app.com/b61714b8-17d8-4d9b-a5b8-b62d7179b656.jpg" width="320" height="240" alt="Pilotwings 64"/></a> |
 |---|---|
 [Pikachu Genki Dechu](p/pikachu-genki-dechu) | [Pilotwings 64](p/pilotwings-64) |
 
-| <a href="p/pocket-monsters-snap"><img src="" width="320" height="240" alt="Pocket Monsters Snap"/></a> | <a href="p/pocket-monsters-stadium"><img src="" width="320" height="240" alt="Pocket Monsters Stadium"/></a> |
+| <a href="p/pocket-monsters-snap"><img src="https://images.launchbox-app.com/4812deac-5d49-4887-a58b-22a6b88096e3.jpg" width="320" height="240" alt="Pocket Monsters Snap"/></a> | <a href="p/pocket-monsters-stadium"><img src="https://images.launchbox-app.com/51e81920-40ae-4dc2-92d1-a1057f140f7a.png" width="320" height="240" alt="Pocket Monsters Stadium"/></a> |
 |---|---|
 [Pocket Monsters Snap](p/pocket-monsters-snap) | [Pocket Monsters Stadium](p/pocket-monsters-stadium) |
 
-| <a href="p/pocket-monsters-stadium-2"><img src="" width="320" height="240" alt="Pocket Monsters Stadium 2"/></a> | <a href="p/pocket-monsters-stadium-kin-gin"><img src="" width="320" height="240" alt="Pocket Monsters Stadium Kin Gin"/></a> |
+| <a href="p/pocket-monsters-stadium-2"><img src="https://images.launchbox-app.com/cb4e65ad-6424-4a82-8012-5eaf6c6b9ef6.jpg" width="320" height="240" alt="Pocket Monsters Stadium 2"/></a> | <a href="p/pocket-monsters-stadium-kin-gin"><img src=""https://images.launchbox-app.com/66b41ad6-1d20-438b-b06f-f9e10ac16240.png" width="320" height="240" alt="Pocket Monsters Stadium Kin Gin"/></a> |
 |---|---|
 [Pocket Monsters Stadium 2](p/pocket-monsters-stadium-2) | [Pocket Monsters Stadium Kin Gin](p/pocket-monsters-stadium-kin-gin) |
 
-| <a href="p/pokemon-puzzle-league"><img src="" width="320" height="240" alt="Pokemon Puzzle League"/></a> | <a href="p/pokemon-snap"><img src="" width="320" height="240" alt="Pokemon Snap"/></a> |
+| <a href="p/pokemon-puzzle-league"><img src="https://images.launchbox-app.com/3a8204a0-90bb-4ca7-82b4-f939683360ed.jpg" width="320" height="240" alt="Pokemon Puzzle League"/></a> | <a href="p/pokemon-snap"><img src="https://images.launchbox-app.com/4812deac-5d49-4887-a58b-22a6b88096e3.jpg" width="320" height="240" alt="Pokemon Snap"/></a> |
 |---|---|
 [Pokemon Puzzle League](p/pokemon-puzzle-league) | [Pokemon Snap](p/pokemon-snap) |
 
-| <a href="p/pokemon-snap-station"><img src="" width="320" height="240" alt="Pokemon Snap Station"/></a> | <a href="p/pokemon-stadium"><img src="" width="320" height="240" alt="Pokemon Stadium"/></a> |
+| <a href="p/pokemon-snap-station"><img src="https://images.launchbox-app.com/1c6e0863-3982-4135-9289-9d08686cd3f3.png" width="320" height="240" alt="Pokemon Snap Station"/></a> | <a href="p/pokemon-stadium"><img src="https://images.launchbox-app.com/cb4e65ad-6424-4a82-8012-5eaf6c6b9ef6.jpg" width="320" height="240" alt="Pokemon Stadium"/></a> |
 |---|---|
 [Pokemon Snap Station](p/pokemon-snap-station) | [Pokemon Stadium](p/pokemon-stadium) |
 
-| <a href="p/pokemon-stadium-2"><img src="" width="320" height="240" alt="Pokemon Stadium 2"/></a> | <a href="p/polaris-snocross"><img src="https://images.launchbox-app.com/c4aaa732-9ac5-4a25-ac4f-221d1af326df.jpg" width="320" height="240" alt="Polaris SnoCross"/></a> |
+| <a href="p/pokemon-stadium-2"><img src="https://images.launchbox-app.com/5e014ed5-ec31-42d5-9e85-20b210b53011.jpg" width="320" height="240" alt="Pokemon Stadium 2"/></a> | <a href="p/polaris-snocross"><img src="https://images.launchbox-app.com/c4aaa732-9ac5-4a25-ac4f-221d1af326df.jpg" width="320" height="240" alt="Polaris SnoCross"/></a> |
 |---|---|
 [Pokemon Stadium 2](p/pokemon-stadium-2) | [Polaris SnoCross](p/polaris-snocross) |
 
