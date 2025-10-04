@@ -1,5 +1,5 @@
 ---
-title: "Mario Story / Paper Mario"
+title: "Mario Story"
 nav_order: 17
 parent: "M-Titles"
 layout: default
