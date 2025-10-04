@@ -62,7 +62,7 @@ Explore all N64 titles starting with the letter P, from *Pachinko 365 Nichi* to 
 |---|---|
 [Pro Mahjong Tsuwamono 64 – Jansou Battle ni Chousen](p/pro-mahjong-tsuwamono-64-jansou-battle-ni-chousen) | [Puyo Puyo 4 – Puyo Puyo Party](p/puyo-puyo-4-puyo-puyo-party) |
 
-| <a href="p/puyo-puyo-sun-64"><img src="https://images.launchbox-app.com/cf8db5a1-fd95-4082-8f56-8663a67530c0.png" width="320" height="240" alt="Puyo Puyo Sun 64"/></a> | <a href="p/puzzle-bobble-64"><img src="" width="320" height="240" alt="Puzzle Bobble 64"/></a> |
+| <a href="p/puyo-puyo-sun-64"><img src="https://images.launchbox-app.com/cf8db5a1-fd95-4082-8f56-8663a67530c0.png" width="320" height="240" alt="Puyo Puyo Sun 64"/></a> | <a href="p/puzzle-bobble-64"><img src="https://images.launchbox-app.com/17e767cb-462a-4ab5-8d5b-7b1e78df46a7.png" width="320" height="240" alt="Puzzle Bobble 64"/></a> |
 |---|---|
 [Puyo Puyo Sun 64](p/puyo-puyo-sun-64) | [Puzzle Bobble 64](p/puzzle-bobble-64) |
 
