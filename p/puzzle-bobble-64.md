@@ -8,7 +8,7 @@ toc: false
 
 # Bust-A-Move '99 / Bust-A-Move 3 DX / Puzzle Bobble 64  
 <b>
-<img src="https://gamepedia.cursecdn.com/gamia_gamepedia_en/thumb/9/9d/Bust_A_Move_99_box.jpg/450px-Bust_A_Move_99_box.jpg?version=cafd58fa5118e5af8c60ac50531e6f21" alt="Bust-A-Move 99 Box Art" style="object-fit:contain;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com/55ab52d9-d307-4a09-b6de-ac4668114d36.jpg" alt="Bust-A-Move 99 Box Art" style="object-fit:contain;width:320px;height:224px"/>
 <img src="https://images.launchbox-app.com/17e767cb-462a-4ab5-8d5b-7b1e78df46a7.png" alt="Bust-A-Move 99 Screenshot" style="object-fit:contain;width:320px;height:224px"/>
 <img src="https://images.launchbox-app.com/c885ca98-822b-40b2-ab20-bb2f79004b76.jpg" alt="Bust-A-Move 99 Gameplay" style="object-fit:contain;width:320px;height:224px"/>
 </b>
