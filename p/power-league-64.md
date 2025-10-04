@@ -9,7 +9,7 @@ toc: false
 # Power League 64
 
 <b>
-<img src="https://images.launchbox-app.com/20e3854e-182c-4fc9-a59c-f9d00e9383c1.png" alt="Power League 64 NTSC-JP Box Art" width="241" height="177" />
+<img src="https://images.launchbox-app.com/20e3854e-182c-4fc9-a59c-f9d00e9383c1.png" alt="Power League 64 NTSC-JP Box Art" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
