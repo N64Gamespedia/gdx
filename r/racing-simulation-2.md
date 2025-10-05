@@ -1,7 +1,7 @@
 ---
-title: "Monaco Grand Prix: Racing Simulation 2"
-nav_order: 34
-parent: "M-Titles"
+title: "Racing Simulation 2"
+nav_order: 1
+parent: "R-Titles"
 layout: default
 toc: false
 ---
