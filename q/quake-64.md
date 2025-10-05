@@ -9,7 +9,7 @@ toc: false
 # Quake 64
 
 <b>
-<img src="https://www.n64gamespedia.com/wp-content/uploads/2025/01/dd066291-42ce-4088-83d0-46df857b0aa41.jpg" alt="Quaket 64 Box Art (USA)" width="320" height="224" />
+<img src="https://images.launchbox-app.com//5c9fbc81-ffbe-4e52-b120-91ae633a6d6e.jpg" alt="Quake 64 Box Art (USA)" width="320" height="224" />
 </b>
 
 **Platform:** Nintendo 64  
