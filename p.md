@@ -22,9 +22,9 @@ Explore all N64 titles starting with the letter P, from *Pachinko 365 Nichi* to 
 |---|---|
 [PD Ultraman Battle Collection 64](p/pd-ultraman-battle-collection-64) | [Penny Racers](p/penny-racers) |
 
-| <a href="p/perfect-dark"><img src="https://images.launchbox-app.com/58e220b3-0016-4c5b-bb2b-5dc0d2345e5b.jpg" width="320" height="240" alt="Perfect Dark"/></a> | <a href="p/pga-european-tour"><img src="https://images.launchbox-app.com/39d74190-aaec-4046-85d8-3ca08ccfe21b.jpg" width="320" height="240" alt="PGA European Tour"/></a> |
+| <a href="p/perfect-dark"><img src="https://images.launchbox-app.com/58e220b3-0016-4c5b-bb2b-5dc0d2345e5b.jpg" width="320" height="240" alt="Perfect Dark"/></a> | <a href="p/pga-european-tour-pga-european-tour-golf"><img src="https://images.launchbox-app.com/39d74190-aaec-4046-85d8-3ca08ccfe21b.jpg" width="320" height="240" alt="PGA European Tour"/></a> |
 |---|---|
-[Perfect Dark](p/perfect-dark) | [PGA European Tour](p/pga-european-tour) |
+[Perfect Dark](p/perfect-dark) | [PGA European Tour](p/pga-european-tour-pga-european-tour-golf) |
 
 | <a href="p/pikachu-genki-dech"><img src="https://images.launchbox-app.com/e69194e5-db86-47df-a428-0d6f3ab23b29.png" width="320" height="240" alt="Pikachu Genki Dechu"/></a> | <a href="p/pilotwings-64"><img src="https://images.launchbox-app.com/b61714b8-17d8-4d9b-a5b8-b62d7179b656.jpg" width="320" height="240" alt="Pilotwings 64"/></a> |
 |---|---|
