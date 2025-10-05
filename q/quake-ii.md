@@ -6,10 +6,10 @@ layout: default
 toc: false
 ---
 
-# Quake 64
+# Quake II
 
 <b>
-<img src="https://www.n64gamespedia.com/wp-content/uploads/2025/01/dd066291-42ce-4088-83d0-46df857b0aa41.jpg" alt="Quaket 64 Box Art (USA)" width="320" height="224" />
+<img src="https://images.launchbox-app.com//f63d809d-7668-43d8-8772-20de0b044071.jpg" alt="Quake II Box Art (USA)" width="320" height="224" />
 </b>
 
 **Platform:** Nintendo 64  
