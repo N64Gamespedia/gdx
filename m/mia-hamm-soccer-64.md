@@ -6,7 +6,7 @@ layout: default
 toc: false
 ---
 
-# Mia Hamm Soccer 64 / Michael Owen’s WL / RTL WL / Telefoot Soccer 2000
+# Mia Hamm Soccer 64 / Michael Owen’s WL / RTL World League Soccer 2000 / Telefoot Soccer 2000
 
 <b>
 <img src="https://images.launchbox-app.com//cf937c51-7c43-4926-a361-8f5aac13e9e0.jpg" alt="Mia Hamm Soccer 64 (USA)" width="320" height="240" />
