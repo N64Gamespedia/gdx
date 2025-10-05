@@ -26,7 +26,7 @@ Explore all N64 titles starting with the letter P, from *Pachinko 365 Nichi* to 
 |---|---|
 [Perfect Dark](p/perfect-dark) | [PGA European Tour](p/pga-european-tour) |
 
-| <a href="p/pikachu-genki-dechu"><img src="="https://images.launchbox-app.com/e69194e5-db86-47df-a428-0d6f3ab23b29.png" width="320" height="240" alt="Pikachu Genki Dechu"/></a> | <a href="p/pilotwings-64"><img src="https://images.launchbox-app.com/b61714b8-17d8-4d9b-a5b8-b62d7179b656.jpg" width="320" height="240" alt="Pilotwings 64"/></a> |
+| <a href="p/pikachu-genki-dechu"><img src="https://images.launchbox-app.com/e69194e5-db86-47df-a428-0d6f3ab23b29.png" width="320" height="240" alt="Pikachu Genki Dechu"/></a> | <a href="p/pilotwings-64"><img src="https://images.launchbox-app.com/b61714b8-17d8-4d9b-a5b8-b62d7179b656.jpg" width="320" height="240" alt="Pilotwings 64"/></a> |
 |---|---|
 [Pikachu Genki Dechu](p/pikachu-genki-dechu) | [Pilotwings 64](p/pilotwings-64) |
 
