@@ -6,7 +6,7 @@ layout: default
 toc: false
 ---
 
-# Les Razmoket – La Chasse Aux Tresors / Rugrats: Scavenger Hunt
+# Les Razmoket – La Chasse Aux Tresors / Rugrats: Die grosse Schatzsuche / Rugrats: Scavenger Hunt / Rugrats: Treasure Hunt
 
 <b>
 <img src="https://images.launchbox-app.com//fa1ce7b5-259b-4511-a91e-5312dbe03f96.png" alt="Les Razmoket PAL-FRA Box Art" width="320" height="240" />
