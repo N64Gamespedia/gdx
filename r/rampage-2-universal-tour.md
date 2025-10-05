@@ -19,7 +19,7 @@ toc: false
 **Release Date (NTSC-USA):** March 31, 1999  
 **Release Date (PAL-EUR):** May 21, 1999  
 [Nintendo Gateway System](#Gateway-System) 1993  
-[(1-player only)](#Gateway-System)  
+(1-player only)  
 **Genre:** Action / Arcade  
 **Players:** 3  
 **Force Feedback:** Yes  
@@ -27,8 +27,7 @@ toc: false
 ## 🕹️ Game Description
 *Rampage 2: Universal Tour* brings arcade-style destruction back with updated visuals, new monsters, and global smash zones. Alongside George, Lizzie, and Ralph, players meet four new mutants each sporting unique animations and combo moves. The game retains its side-scrolling 2D maps while upgrading character rendering, letting three players devastate cities worldwide in chaotic co-op. From bonus rounds and power meters to exploding helicopters and crumbling skyscrapers, Rampage 2 is a roaring love letter to pixelated pandemonium.
 
-## 🛫 Nintendo Gateway System {#Gateway-System}
-This game was also available through the **Nintendo Gateway System**, a specialized platform for airline and hotel entertainment. As part of a partnership between Nintendo and LodgeNet from late 1993 up until the late 2000s, about 40,000 airline seats and 955,000 hotel rooms featured a modified version of the game. LodgeNet partnered with Nintendo to bring video games directly into guest hotel rooms through streaming over the LodgeNet server, with the special LodgeNet controller plugging directly into the television or LodgeNet set-top box, transmitting the game over phone lines connected to a central game server. Pricing was usually $6.95 plus tax for 1 hour of video games. After 1 hour, the game would immediately stop and prompt the user to purchase more play time. Many games were modified for single-player play only.
+<p id="Gateway-System">This game was also available through the Nintendo Gateway System, a specialized platform for airline and hotel entertainment. As part of a partnership between Nintendo and LodgeNet from late 1993 up until the late 2000s, about 40,000 airline seats and 955,000 hotel rooms featured a modified version of the game. LodgeNet partnered with Nintendo to bring video games directly into guest hotel rooms through streaming over the LodgeNet server, with the special LodgeNet controller plugging directly into the television or LodgeNet set-top box, transmitting the game over phone lines connected to a central game server. Pricing was usually $6.95 plus tax for 1 hour of video games. After 1 hour, the game would immediately stop and prompt the user to purchase more play time. Many games were modified for single-player play only.</p>
 
 ## 📚 No Game Guide / Walkthrough
 
