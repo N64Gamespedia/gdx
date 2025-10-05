@@ -16,5 +16,5 @@ Explore all N64 titles starting with the letter Q, from *Quake 64* to *Quest 64*
 
 | <a href="q/quest-64"><img src="https://images.launchbox-app.com/cc0d0c31-cae9-4a18-8db3-89604b477445.jpg" width="320" height="240" alt="Quest 64"/></a> |
 |---|---|
-[Quest 64](q/quest-64) | 
+[<center>Quest 64</center>](q/quest-64) | 
 
