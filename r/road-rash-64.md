@@ -29,7 +29,7 @@ toc: false
 ## Texture Packs Available {#texture-packs-available}  
 ### Jabo 1.7 Format {#jabo-17-format}  
 Designed for use with the `Jabo_Direct3D8 1.7.0.57-ver6` video plugin. In 2013, [Linkstan](https://www.emutalk.net/members/linkstian.109106/){:target="_blank" rel="noopener noreferrer"} began the project and, after some ups and downs, completed it with a result that left him quite satisfied. The pack is 100% complete.  
-Available at: **[Linkstian's: Road Rash 64 (U) Remastered Edition](https://www.n64textures.com/downloads/jabo-texture-packs/#Linkstian's:%20Road%20Rash%2064%20Remastered%20Edition)**{:target="_blank" rel="noopener noreferrer"}
+Available at: [Linkstian's: Road Rash 64 (U) Remastered Edition](https://www.n64textures.com/downloads/jabo-texture-packs/#Linkstian's:%20Road%20Rash%2064%20Remastered%20Edition){:target="_blank" rel="noopener noreferrer"}  
 
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/198491-road-rash-64/faqs/46566){:target="_blank" rel="noopener noreferrer"}
 
