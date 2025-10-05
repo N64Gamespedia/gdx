@@ -10,7 +10,7 @@ has_toc: false
 
 Explore all N64 titles starting with the letter P, from *Pachinko 365 Nichi* to *Puzzle Bobble 64*.
 
-| <a href="p/pachinko-365-nichi"><img src="https://images.launchbox-app.com/252e3cb7-7491-4518-9f17-d34a10ed1ad5.png" width="320" height="240" alt="Pachinko 365 Nichi"/></a> | <a href="p/paper-mario"><img src="https://images.launchbox-app.com//363e6708-2ec8-495a-be53-492e31d3d5f8.png" width="320" height="240" alt="Paper Mario"/></a> |
+| <a href="p/pachinko-365-nichi"><img src="https://images.launchbox-app.com/252e3cb7-7491-4518-9f17-d34a10ed1ad5.png" width="320" height="240" alt="Pachinko 365 Nichi"/></a> | <a href="p/paper-mario"><img src="https://images.launchbox-app.com//eb7eb36a-2a90-4100-aa6b-1c9736e38ae6.png" width="320" height="240" alt="Paper Mario"/></a> |
 |---|---|
 [Pachinko 365 Nichi](p/pachinko-365-nichi) | [Paper Mario](p/paper-mario) |
 
@@ -26,15 +26,15 @@ Explore all N64 titles starting with the letter P, from *Pachinko 365 Nichi* to 
 |---|---|
 [Perfect Dark](p/perfect-dark) | [PGA European Tour](p/pga-european-tour) |
 
-| <a href="p/pikachu-genki-dechu"><img src="="https://images.launchbox-app.com/e69194e5-db86-47df-a428-0d6f3ab23b29.p" width="320" height="240" alt="Pikachu Genki Dechu"/></a> | <a href="p/pilotwings-64"><img src="https://images.launchbox-app.com/b61714b8-17d8-4d9b-a5b8-b62d7179b656.jpg" width="320" height="240" alt="Pilotwings 64"/></a> |
+| <a href="p/pikachu-genki-dechu"><img src="="https://images.launchbox-app.com/e69194e5-db86-47df-a428-0d6f3ab23b29.png" width="320" height="240" alt="Pikachu Genki Dechu"/></a> | <a href="p/pilotwings-64"><img src="https://images.launchbox-app.com/b61714b8-17d8-4d9b-a5b8-b62d7179b656.jpg" width="320" height="240" alt="Pilotwings 64"/></a> |
 |---|---|
 [Pikachu Genki Dechu](p/pikachu-genki-dechu) | [Pilotwings 64](p/pilotwings-64) |
 
-| <a href="p/pocket-monsters-snap"><img src="https://images.launchbox-app.com/4812deac-5d49-4887-a58b-22a6b88096e3.jpg" width="320" height="240" alt="Pocket Monsters Snap"/></a> | <a href="p/pocket-monsters-stadium"><img src="https://images.launchbox-app.com/51e81920-40ae-4dc2-92d1-a1057f140f7a.png" width="320" height="240" alt="Pocket Monsters Stadium"/></a> |
+| <a href="p/pocket-monsters-snap"><img src="https://images.launchbox-app.com/1c6e0863-3982-4135-9289-9d08686cd3f3.png" width="320" height="240" alt="Pocket Monsters Snap"/></a> | <a href="p/pocket-monsters-stadium"><img src="https://images.launchbox-app.com/51e81920-40ae-4dc2-92d1-a1057f140f7a.png" width="320" height="240" alt="Pocket Monsters Stadium"/></a> |
 |---|---|
 [Pocket Monsters Snap](p/pocket-monsters-snap) | [Pocket Monsters Stadium](p/pocket-monsters-stadium) |
 
-| <a href="p/pocket-monsters-stadium-2"><img src="https://images.launchbox-app.com/cb4e65ad-6424-4a82-8012-5eaf6c6b9ef6.jpg" width="320" height="240" alt="Pocket Monsters Stadium 2"/></a> | <a href="p/pocket-monsters-stadium-kin-gin"><img src=""https://images.launchbox-app.com/66b41ad6-1d20-438b-b06f-f9e10ac16240.png" width="320" height="240" alt="Pocket Monsters Stadium Kin Gin"/></a> |
+| <a href="p/pocket-monsters-stadium-2"><img src="https://images.launchbox-app.com/8d5abf35-fe38-4c47-b70a-c97c8d845471.png" width="320" height="240" alt="Pocket Monsters Stadium 2"/></a> | <a href="p/pocket-monsters-stadium-kin-gin"><img src="https://images.launchbox-app.com/66b41ad6-1d20-438b-b06f-f9e10ac16240.png" width="320" height="240" alt="Pocket Monsters Stadium Kin Gin"/></a> |
 |---|---|
 [Pocket Monsters Stadium 2](p/pocket-monsters-stadium-2) | [Pocket Monsters Stadium Kin Gin](p/pocket-monsters-stadium-kin-gin) |
 
