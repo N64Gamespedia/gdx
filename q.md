@@ -6,7 +6,7 @@ layout: default
 has_toc: false
 ---
 
-# Nintendo 64 Games — P Titles
+# Nintendo 64 Games — Q Titles
 
 Explore all N64 titles starting with the letter P, from *Quake 64* to *Quest 64*.
 
