@@ -8,7 +8,7 @@ has_toc: false
 
 # Nintendo 64 Games — Q Titles
 
-Explore all N64 titles starting with the letter P, from *Quake 64* to *Quest 64*.
+Explore all N64 titles starting with the letter Q, from *Quake 64* to *Quest 64*.
 
 | <a href="q/quake-64"><img src="https://images.launchbox-app.com//5c9fbc81-ffbe-4e52-b120-91ae633a6d6e.jpg" width="320" height="240" alt="Quake 64"/></a> | <a href="q/quake-ii"><img src="https://images.launchbox-app.com//f63d809d-7668-43d8-8772-20de0b044071.jpg" width="320" height="240" alt="Quake II"/></a> |
 |---|---|
