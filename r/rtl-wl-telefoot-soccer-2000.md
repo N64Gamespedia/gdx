@@ -1,7 +1,7 @@
 ---
 title: "RTL WL Telefoot Soccer 2000"
 nav_order: 22
-parent: "M-Titles"
+parent: "R-Titles"
 layout: default
 toc: false
 ---
