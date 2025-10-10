@@ -15,7 +15,6 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Acclaim Studios Austin](https://en.wikipedia.org/wiki/Acclaim_Studios_Austin){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Acclaim Entertainment](https://en.wikipedia.org/wiki/Acclaim_Entertainment){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-USA):** October 12, 1999  
 **Release Date (PAL-EUR):** October 31, 1999  
 **Genre:** Trivia / Game Show  
