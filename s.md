@@ -38,7 +38,7 @@ Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to
 |---|---|
 [Speed Racer](s/speed-racer) | [Snowboard Kids](s/snowbo-kids-snowboard-kids) |
 
-| <a href="s/snowboard-kids-2"><img src="" width="320" height="240" alt="Snowboard Kids 2"/></a> | <a href="s/south-park"><img src="" width="320" height="240" alt="South Park"/></a> |
+| <a href="s/snowboard-kids-2"><img src="https://images.launchbox-app.com/1c71dc27-dc6a-45b4-b554-169656a554dc.jpg" width="320" height="240" alt="Snowboard Kids 2 (NTSC-USA Box Art)"/></a> | <a href="s/south-park"><img src="https://images.launchbox-app.com/e813c0cb-c28f-49fb-ae73-eb02888d76cd.jpg" width="320" height="240" alt="South Park (NTSC-USA Box Art)"/></a> |
 |---|---|
 [Snowboard Kids 2](s/snowboard-kids-2) | [South Park](s/south-park) |
 
