@@ -1,13 +1,12 @@
 ---
-title: "Sin and Punishment – Successor of the Earth / Tsumi to Batsu: Hoshi no Keishōsha"
+title: "Sin and Punishment – Successor of the Earth"
 nav_order: 12
 parent: "S-Titles"
 layout: default
 toc: false
 ---
 
-# Sin and Punishment – Successor of the Earth  
-## Tsumi to Batsu: Hoshi no Keishōsha
+# Sin and Punishment – Successor of the Earth  / Tsumi to Batsu: Hoshi no Keishōsha
 
 <b>
 <img src="https://images.launchbox-app.com/ff42abf1-ef83-48a4-ad46-ded95321a446.jpg" alt="Sin and Punishment (NTSC-JP Box Art)" width="300" />
@@ -17,10 +16,8 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Treasure](https://en.wikipedia.org/wiki/Treasure_(company)){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Nintendo](https://en.wikipedia.org/wiki/Nintendo){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-JPN):** November 21, 2000  
 **Release Date (PAL-CHN):** September 25, 2004  
-
 **Genre:** Action / 3D Rail Shooter  
 **Players:** 1–2  
 **Force Feedback:** Yes  
