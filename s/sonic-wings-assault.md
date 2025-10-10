@@ -1,7 +1,7 @@
 ---
-title: "Aero Fighters Assault"
-nav_order: 2
-parent: "A-Titles"
+title: "Sonic Wings Assault"
+nav_order: 16
+parent: "S-Titles"
 layout: default
 toc: false
 ---
