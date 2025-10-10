@@ -1,6 +1,6 @@
 ---
 title: "South Park – Chef’s Luv Shack"
-nav_order: 17
+nav_order: 18
 parent: "S-Titles"
 layout: default
 toc: false
