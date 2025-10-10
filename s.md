@@ -18,11 +18,11 @@ Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to
 |---|---|
 [San Francisco Rush – Extreme Racing](s/san-francisco-rush-extreme-racing) | [S.C.A.R.S.](s/scars) |
 
-| <a href="s/scooby-doo-classic-creep-capers"><img src="https://images.launchbox-app.com/0ff8c275-cff8-4df9-bcaf-0ad4dbc2838a.jpg" width="320" height="240" alt="Scooby-Doo! – Classic Creep Capers"/></a> | <a href="s/sd-hiryuu-no-ken-densetsu"><img src="" width="320" height="240" alt="SD Hiryuu no Ken Densetsu"/></a> |
+| <a href="s/scooby-doo-classic-creep-capers"><img src="https://images.launchbox-app.com/0ff8c275-cff8-4df9-bcaf-0ad4dbc2838a.jpg" width="320" height="240" alt="Scooby-Doo! – Classic Creep Capers"/></a> | <a href="s/sd-hiryuu-no-ken-densetsu"><img src="https://images.launchbox-app.com/65655157-9a08-424c-85d6-60b01be29931.png" width="320" height="240" alt="SD Hiryuu no Ken Densetsu"/></a> |
 |---|---|
 [Scooby-Doo! – Classic Creep Capers](s/scooby-doo-classic-creep-capers) | [SD Hiryuu no Ken Densetsu](s/sd-hiryuu-no-ken-densetsu) |
 
-| <a href="s/shadow-man"><img src="" width="320" height="240" alt="Shadow Man"/></a> | <a href="s/shadowgate-64-trials-of-the-four-towers"><img src="" width="320" height="240" alt="Shadowgate 64 – Trials of The Four Towers"/></a> |
+| <a href="s/shadow-man"><img src="https://images.launchbox-app.com/928d5b99-d8a7-488e-a05e-2f54fce63366.jpg" width="320" height="240" alt="Shadow Man"/></a> | <a href="s/shadowgate-64-trials-of-the-four-towers"><img src="" width="320" height="240" alt="Shadowgate 64 – Trials of The Four Towers"/></a> |
 |---|---|
 [Shadow Man](s/shadow-man) | [Shadowgate 64 – Trials of The Four Towers](s/shadowgate-64-trials-of-the-four-towers) |
 
