@@ -14,7 +14,7 @@ Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to
 |---|---|
 [Saikyou Habu Shougi](s/saikyou-habu-shougi) | [San Francisco Rush 2049](s/san-francisco-rush-2049) |
 
-| <a href="s/san-francisco-rush-extreme-racing"><img src="" width="320" height="240" alt="San Francisco Rush – Extreme Racing"/></a> | <a href="s/scars"><img src="" width="320" height="240" alt="S.C.A.R.S."/></a> |
+| <a href="s/san-francisco-rush-extreme-racing"><img src="https://images.launchbox-app.com/7927c9d7-1281-464d-84c4-7f912d7e0394.jpg" width="320" height="240" alt="San Francisco Rush – Extreme Racing"/></a> | <a href="s/scars"><img src="https://images.launchbox-app.com/df80b2de-1e42-4e0c-bb37-16e59b0cd7d3.jpg" width="320" height="240" alt="S.C.A.R.S."/></a> |
 |---|---|
 [San Francisco Rush – Extreme Racing](s/san-francisco-rush-extreme-racing) | [S.C.A.R.S.](s/scars) |
 
