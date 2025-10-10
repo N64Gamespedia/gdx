@@ -9,8 +9,8 @@ toc: false
 # Automobili Lamborghini / Super Speed Race 64
 
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Automobili-Lamborghini-(USA).png" alt="Automobili Lamborghini Box Art (USA)" style="object-fit:cover;width:320px;height:224px"/>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/super-speed-race-64.png" alt="Super Speed Race 64 Gameplay Screenshot (JP)" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com//f81e4bcc-75f2-411b-81e4-a4c433873e8e.jpg" alt="Automobili Lamborghini Box Art (USA)" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com//a4f1aa5d-5dab-463b-bc31-06bc35374c5e.png" alt="Super Speed Race 64 Gameplay Screenshot (JP)" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  

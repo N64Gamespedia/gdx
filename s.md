@@ -58,26 +58,26 @@ Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to
 | <a href="s/star-wars-shutsugeki-rogue-chuutai"><img src="https://images.launchbox-app.com/bd605fde-2104-4cc0-b9c5-a0f136bfa808.jpg" width="300" height="240" alt="Star Wars: Rogue Squadron (NTSC-USA Box Art)"/></a> | <a href="s/star-wars-teikoku-no-kage"><img src="https://images.launchbox-app.com/c4d1e75f-873a-4ce5-81bb-98168dc77888.jpg" width="320" height="240" alt="Star Wars: Shadows of the Empire (NTSC-USA Box Art)"/></a> |
 | [Star Wars – Shutsugeki! Rogue Chuutai](s/star-wars-shutsugeki-rogue-chuutai) | [Star Wars – Teikoku no Kage](s/star-wars-teikoku-no-kage) |
 
-| <a href="s/starcraft-64"><img src="" width="320" height="240" alt="StarCraft 64 (NTSC-USA Box Art)"/></a> | <a href="s/starshot-space-circus-fever"><img src="" width="320" height="240" alt="Starshot – Space Circus Fever (NTSC-USA Box Art)"/></a> |
+| <a href="s/starcraft-64"><img src="https://images.launchbox-app.com/17b94d9a-6646-4a5f-adad-ad6ddcb90918.jpg" width="320" height="240" alt="StarCraft 64 (NTSC-USA Box Art)"/></a> | <a href="s/starshot-space-circus-fever"><img src="https://images.launchbox-app.com/58014d84-0560-48fa-8a7f-4f7fb28f85d6.jpg" width="320" height="240" alt="Starshot – Space Circus Fever (NTSC-USA Box Art)"/></a> |
 | [StarCraft 64](s/starcraft-64) | [Starshot – Space Circus Fever](s/starshot-space-circus-fever) |
 
-| <a href="s/stunt-racer-64"><img src="" width="320" height="240" alt="Stunt Racer 64 (NTSC-USA Box Art)"/></a> | <a href="s/super-b-daman-battle-phoenix-64"><img src="" width="320" height="240" alt="Super B-Daman – Battle Phoenix 64 (NTSC-J Box Art)"/></a> |
+| <a href="s/stunt-racer-64"><img src="https://images.launchbox-app.com/aa661bfc-e206-41ee-87ad-65e6575856d8.jpg" width="320" height="240" alt="Stunt Racer 64 (NTSC-USA Box Art)"/></a> | <a href="s/super-b-daman-battle-phoenix-64"><img src="https://images.launchbox-app.com/04581368-6c2d-4fdd-9f68-5837117d5c6f.jpg" width="320" height="240" alt="Super B-Daman – Battle Phoenix 64 (NTSC-J Box Art)"/></a> |
 | [Stunt Racer 64](s/stunt-racer-64) | [Super B-Daman – Battle Phoenix 64](s/super-b-daman-battle-phoenix-64) |
 
-| <a href="s/super-bowling"><img src="" width="320" height="240" alt="Super Bowling (NTSC Box Art)"/></a> | <a href="s/super-mario-64"><img src="" width="320" height="240" alt="Super Mario 64 (NTSC-USA Box Art)"/></a> |
+| <a href="s/super-bowling"><img src="https://images.launchbox-app.com/64315846-a0d1-4688-96ec-ffe40c8f4b61.png" width="320" height="240" alt="Super Bowling (NTSC Box Art)"/></a> | <a href="s/super-mario-64"><img src="https://images.launchbox-app.com/2e30d6ba-e921-4b8b-9e01-9bf519d28e84.jpg" width="320" height="240" alt="Super Mario 64 (NTSC-USA Box Art)"/></a> |
 | [Super Bowling](s/super-bowling) | [Super Mario 64](s/super-mario-64) |
 
-| <a href="s/super-real-mahjong-vs"><img src="" width="320" height="240" alt="Super Real Mahjong VS [Aleck 64] (NTSC-J Box Art)"/></a> | <a href="s/super-robot-spirits"><img src="" width="320" height="240" alt="Super Robot Spirits (NTSC-J Box Art)"/></a> |
+| <a href="s/super-real-mahjong-vs"><img src="https://images.launchbox-app.com/5ede084e-53f1-4c41-aed9-70c1f2f1b83a.png" width="320" height="240" alt="Super Real Mahjong VS [Aleck 64] (NTSC-J Box Art)"/></a> | <a href="s/super-robot-spirits"><img src="https://images.launchbox-app.com/b49415d3-9d6f-4654-8f7e-5715aa38f6cc.jpg" width="320" height="240" alt="Super Robot Spirits (NTSC-J Box Art)"/></a> |
 | [Super Real Mahjong VS [Aleck 64]](s/super-real-mahjong-vs) | [Super Robot Spirits](s/super-robot-spirits) |
 
-| <a href="s/super-robot-taisen-64"><img src="" width="320" height="240" alt="Super Robot Taisen 64 (NTSC-J Box Art)"/></a> | <a href="s/super-smash-bros"><img src="" width="320" height="240" alt="Super Smash Bros (NTSC-USA Box Art)"/></a> |
+| <a href="s/super-robot-taisen-64"><img src="https://images.launchbox-app.com/b19e7700-d6f5-4103-a289-8cb87e28aed1.jpg" width="320" height="240" alt="Super Robot Taisen 64 (NTSC-J Box Art)"/></a> | <a href="s/super-smash-bros"><img src="https://images.launchbox-app.com/8ce6bc0a-553c-4af5-8d3d-126c5ae1dc22.jpg" width="320" height="240" alt="Super Smash Bros (NTSC-USA Box Art)"/></a> |
 | [Super Robot Taisen 64](s/super-robot-taisen-64) | [Super Smash Bros](s/super-smash-bros) |
 
-| <a href="s/super-speed-race-64"><img src="" width="320" height="240" alt="Super Speed Race 64 (NTSC-J Box Art)"/></a> | <a href="s/supercross-2000"><img src="" width="320" height="240" alt="Supercross 2000 (NTSC-USA Box Art)"/></a> |
+| <a href="s/super-speed-race-64"><img src="https://images.launchbox-app.com//a4f1aa5d-5dab-463b-bc31-06bc35374c5e.png" width="320" height="240" alt="Super Speed Race 64 (NTSC-J Box Art)"/></a> | <a href="s/supercross-2000"><img src="https://images.launchbox-app.com/b1f15b5d-6aa6-4217-b9fb-f709f0cb558c.jpg" width="320" height="240" alt="Supercross 2000 (NTSC-USA Box Art)"/></a> |
 | [Super Speed Race 64](s/super-speed-race-64) | [Supercross 2000](s/supercross-2000) |
 
-| <a href="s/superman"><img src="" width="320" height="240" alt="Superman (NTSC-USA Box Art)"/></a> | <a href="s/susume-taisen-puzzle-dama-toukon-marumata-chou"><img src="" width="320" height="240" alt="Susume! Taisen Puzzle Dama – Toukon! Marumata Chou (NTSC-J Box Art)"/></a> |
+| <a href="s/superman"><img src="https://images.launchbox-app.com/36567999-f7d3-45e2-8830-3235af26845a.jpg" width="320" height="240" alt="Superman (NTSC-USA Box Art)"/></a> | <a href="s/susume-taisen-puzzle-dama-toukon-marumata-chou"><img src="https://images.launchbox-app.com/50b08499-04b6-414a-b77b-5837ebae54ca.png" width="320" height="240" alt="Susume! Taisen Puzzle Dama – Toukon! Marumata Chou (NTSC-J Box Art)"/></a> |
 | [Superman](s/superman) | [Susume! Taisen Puzzle Dama – Toukon! Marumata Chou](s/susume-taisen-puzzle-dama-toukon-marumata-chou) |
 
-| <a href="s/sydney-2000"><img src="" width="320" height="240" alt="Sydney 2000 (NTSC-USA Box Art)"/></a> |  |
+| <a href="s/sydney-2000"><img src="https://images.launchbox-app.com/ada84a2e-a30d-423c-8ae3-139c0f529d15.jpg" width="320" height="240" alt="Sydney 2000 (NTSC-USA Box Art)"/></a> |  |
 | [Sydney 2000](s/sydney-2000) |
