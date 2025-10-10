@@ -26,7 +26,7 @@ Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to
 |---|---|
 [Shadow Man](s/shadow-man) | [Shadowgate 64 – Trials of The Four Towers](s/shadowgate-64-trials-of-the-four-towers) |
 
-| <a href="s/shin-nihon-pro-wrestling-toukon-road-2-the-next-generation"><img src="https://images.launchbox-app.com/ba9fdd18-3945-4f50-864a-c29995b8c81d.jpg" width="320" height="240" alt="Shin Nihon Pro Wrestling Toukon Road 2 – The Next Generation"/></a> | <a href="s/shin-nihon-pro-wrestling-toukon-road-brave-spirits"><img src="" width="320" height="240" alt="Shin Nihon Pro Wrestling Toukon Road – Brave Spirits"/></a> |
+| <a href="s/shin-nihon-pro-wrestling-toukon-road-2-the-next-generation"><img src="https://images.launchbox-app.com/ba9fdd18-3945-4f50-864a-c29995b8c81d.jpg" width="320" height="240" alt="Shin Nihon Pro Wrestling Toukon Road 2 – The Next Generation"/></a> | <a href="s/shin-nihon-pro-wrestling-toukon-road-brave-spirits"><img src="https://images.launchbox-app.com/68165d92-c47a-492d-8531-6ac41dff3809.jpg" width="320" height="240" alt="Shin Nihon Pro Wrestling Toukon Road – Brave Spirits"/></a> |
 |---|---|
 [Shin Nihon Pro Wrestling Toukon Road 2 – The Next Generation](s/shin-nihon-pro-wrestling-toukon-road-2-the-next-generation) | [Shin Nihon Pro Wrestling Toukon Road – Brave Spirits](s/shin-nihon-pro-wrestling-toukon-road-brave-spirits) |
 
