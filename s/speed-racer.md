@@ -1,12 +1,12 @@
 ---
-title: "Big Mountain 2000"
+title: "Speed Racer"
 nav_order: 13
 parent: "S-Titles"
 layout: default
 toc: false
 ---
 
-# Big Mountain 2000
+# Big Mountain 2000 / Speed Racer
 
 <b>
   <img src="https://images.launchbox-app.com/fd2fc9dd-77d8-47c4-a835-3f2ea4904c50.jpg" alt="Big Mountain 2000 Box Art" style="object-fit:cover;width:320px;height:224px"/>
