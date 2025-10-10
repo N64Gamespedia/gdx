@@ -43,7 +43,7 @@ Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to
 | <a href="s/space-invaders"><img src="https://images.launchbox-app.com/a1835851-c111-4275-96bb-04978bbd6dd8.jpg" width="320" height="240" alt="Space Invaders (NTSC-USA Box Art)"/></a> | <a href="s/space-station-silicon-valley"><img src="https://images.launchbox-app.com/deaa4dc8-436c-4caf-8e9a-cd2bb3c2842c.jpg" width="320" height="240" alt="Space Station Silicon Valley (NTSC-USA Box Art)"/></a> |
 | [Space Invaders](s/space-invaders) | [Space Station Silicon Valley](s/space-station-silicon-valley) |
 
-| <a href="s/spider-man"><img src="https://images.launchbox-app.com/placeholder-spider-man.jpg" width="320" height="240" alt="Spider-Man (NTSC-USA Box Art)"/></a> | <a href="s/star-fox-64"><img src="https://images.launchbox-app.com/placeholder-star-fox-64.jpg" width="320" height="240" alt="Star Fox 64 (NTSC-USA Box Art)"/></a> |
+| <a href="s/spider-man"><img src="https://images.launchbox-app.com/10429a89-d496-42dc-93d0-0d24671f0507.jpg" width="320" height="240" alt="Spider-Man (NTSC-USA Box Art)"/></a> | <a href="s/star-fox-64"><img src="https://images.launchbox-app.com/placeholder-star-fox-64.jpg" width="320" height="240" alt="Star Fox 64 (NTSC-USA Box Art)"/></a> |
 | [Spider-Man](s/spider-man) | [Star Fox 64](s/star-fox-64) |
 
 | <a href="s/star-soldier-vanishing-earth"><img src="https://images.launchbox-app.com/placeholder-star-soldier-vanishing-earth.jpg" width="320" height="240" alt="Star Soldier – Vanishing Earth (NTSC-USA Box Art)"/></a> | <a href="s/star-twins"><img src="https://images.launchbox-app.com/placeholder-star-twins.jpg" width="320" height="240" alt="Star Twins (NTSC-J Box Art)"/></a> |
