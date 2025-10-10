@@ -30,9 +30,9 @@ Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to
 |---|---|
 [Shin Nihon Pro Wrestling Toukon Road 2 – The Next Generation](s/shin-nihon-pro-wrestling-toukon-road-2-the-next-generation) | [Shin Nihon Pro Wrestling Toukon Road – Brave Spirits](s/shin-nihon-pro-wrestling-toukon-road-brave-spirits) |
 
-| <a href="s/simcity-2000"><img src="" width="320" height="240" alt="Sim City 2000"/></a> | <a href="s/sin-and-punishment"><img src="" width="320" height="240" alt="Sin and Punishment – Successor of the Earth"/></a> |
+| <a href="s/simcity-2000"><img src="https://images.launchbox-app.com/ff163ec4-bb6f-4abe-b46c-2e96b184be56.jpg" width="320" height="240" alt="SimCity 2000"/></a> | <a href="s/sin-and-punishment"><img src="https://images.launchbox-app.com/ff42abf1-ef83-48a4-ad46-ded95321a446.jpg" width="320" height="240" alt="Sin and Punishment – Successor of the Earth"/></a> |
 |---|---|
-[Sim City 2000](s/simcity-2000) | [Sin and Punishment – Successor of the Earth](s/sin-and-punishment) |
+[SimCity 2000](s/simcity-2000) | [Sin and Punishment – Successor of the Earth](s/sin-and-punishment) |
 
 | <a href="s/snowbo-kids"><img src="" width="320" height="240" alt="Snobow Kids"/></a> | <a href="s/snow-speeder"><img src="" width="320" height="240" alt="Snow Speeder"/></a> |
 |---|---|
