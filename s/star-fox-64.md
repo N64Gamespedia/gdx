@@ -59,7 +59,8 @@ Patch details available at [TraduAquare.es](https://tradusquare.es/proyectos/sta
 Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/6906/){:target="_blank" rel="noopener noreferrer"}.
 
 ### 🇪🇸 Spanish Translation {#language-spanish}  
-*Star Fox 64* (USA) has been fan-translated into Spanish. No verified ROMHacking.net entry was found.
+*Star Fox 64* (USA) has been fan-translated into Portuguese by [Blade133bo](https://www.romhacking.net/community/2941/){:target="_blank" rel="noopener noreferrer"}. The patch uses the `.xdelta` format and was released on 07 April 2023. This is a complete translation of the game, changing only texts and textures to Brazilian Portuguese.  
+Patch details available at [ROMHacking.net](https://www.romhacking.net/translations/2941/){:target="_blank" rel="noopener noreferrer"}.
 
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/198759-star-fox-64/faqs/23088){:target="_blank" rel="noopener noreferrer"}
 
