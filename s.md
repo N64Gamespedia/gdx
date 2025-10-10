@@ -18,7 +18,7 @@ Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to
 |---|---|
 [San Francisco Rush – Extreme Racing](s/san-francisco-rush-extreme-racing) | [S.C.A.R.S.](s/scars) |
 
-| <a href="s/scooby-doo-classic-creep-capers"><img src="" width="320" height="240" alt="Scooby-Doo! – Classic Creep Capers"/></a> | <a href="s/sd-hiryuu-no-ken-densetsu"><img src="" width="320" height="240" alt="SD Hiryuu no Ken Densetsu"/></a> |
+| <a href="s/scooby-doo-classic-creep-capers"><img src="https://images.launchbox-app.com/0ff8c275-cff8-4df9-bcaf-0ad4dbc2838a.jpg" width="320" height="240" alt="Scooby-Doo! – Classic Creep Capers"/></a> | <a href="s/sd-hiryuu-no-ken-densetsu"><img src="" width="320" height="240" alt="SD Hiryuu no Ken Densetsu"/></a> |
 |---|---|
 [Scooby-Doo! – Classic Creep Capers](s/scooby-doo-classic-creep-capers) | [SD Hiryuu no Ken Densetsu](s/sd-hiryuu-no-ken-densetsu) |
 
