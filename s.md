@@ -67,17 +67,17 @@ Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to
 | <a href="s/super-bowling"><img src="https://images.launchbox-app.com/64315846-a0d1-4688-96ec-ffe40c8f4b61.png" width="320" height="240" alt="Super Bowling (NTSC Box Art)"/></a> | <a href="s/super-mario-64"><img src="https://images.launchbox-app.com/2e30d6ba-e921-4b8b-9e01-9bf519d28e84.jpg" width="320" height="240" alt="Super Mario 64 (NTSC-USA Box Art)"/></a> |
 | [Super Bowling](s/super-bowling) | [Super Mario 64](s/super-mario-64) |
 
-| <a href="s/super-real-mahjong-vs"><img src="https://images.launchbox-app.com/5ede084e-53f1-4c41-aed9-70c1f2f1b83a.png" width="320" height="240" alt="Super Real Mahjong VS [Aleck 64] (NTSC-J Box Art)"/></a> | <a href="s/super-robot-spirits"><img src="https://images.launchbox-app.com/placeholder-super-robot-spirits.jpg" width="320" height="240" alt="Super Robot Spirits (NTSC-J Box Art)"/></a> |
+| <a href="s/super-real-mahjong-vs"><img src="https://images.launchbox-app.com/5ede084e-53f1-4c41-aed9-70c1f2f1b83a.png" width="320" height="240" alt="Super Real Mahjong VS [Aleck 64] (NTSC-J Box Art)"/></a> | <a href="s/super-robot-spirits"><img src="super-robot-spirits.jpg" width="320" height="240" alt="Super Robot Spirits (NTSC-J Box Art)"/></a> |
 | [Super Real Mahjong VS [Aleck 64]](s/super-real-mahjong-vs) | [Super Robot Spirits](s/super-robot-spirits) |
 
-| <a href="s/super-robot-taisen-64"><img src="https://images.launchbox-app.com/placeholder-super-robot-taisen-64.jpg" width="320" height="240" alt="Super Robot Taisen 64 (NTSC-J Box Art)"/></a> | <a href="s/super-smash-bros"><img src="https://images.launchbox-app.com/placeholder-super-smash-bros.jpg" width="320" height="240" alt="Super Smash Bros (NTSC-USA Box Art)"/></a> |
+| <a href="s/super-robot-taisen-64"><img src="super-robot-taisen-64.jpg" width="320" height="240" alt="Super Robot Taisen 64 (NTSC-J Box Art)"/></a> | <a href="s/super-smash-bros"><img src="super-smash-bros.jpg" width="320" height="240" alt="Super Smash Bros (NTSC-USA Box Art)"/></a> |
 | [Super Robot Taisen 64](s/super-robot-taisen-64) | [Super Smash Bros](s/super-smash-bros) |
 
-| <a href="s/super-speed-race-64"><img src="https://images.launchbox-app.com/placeholder-super-speed-race-64.jpg" width="320" height="240" alt="Super Speed Race 64 (NTSC-J Box Art)"/></a> | <a href="s/supercross-2000"><img src="https://images.launchbox-app.com/placeholder-supercross-2000.jpg" width="320" height="240" alt="Supercross 2000 (NTSC-USA Box Art)"/></a> |
+| <a href="s/super-speed-race-64"><img src="super-speed-race-64.jpg" width="320" height="240" alt="Super Speed Race 64 (NTSC-J Box Art)"/></a> | <a href="s/supercross-2000"><img src="supercross-2000.jpg" width="320" height="240" alt="Supercross 2000 (NTSC-USA Box Art)"/></a> |
 | [Super Speed Race 64](s/super-speed-race-64) | [Supercross 2000](s/supercross-2000) |
 
-| <a href="s/superman"><img src="https://images.launchbox-app.com/placeholder-superman.jpg" width="320" height="240" alt="Superman (NTSC-USA Box Art)"/></a> | <a href="s/susume-taisen-puzzle-dama-toukon-marumata-chou"><img src="https://images.launchbox-app.com/placeholder-susume-taisen.jpg" width="320" height="240" alt="Susume! Taisen Puzzle Dama – Toukon! Marumata Chou (NTSC-J Box Art)"/></a> |
+| <a href="s/superman"><img src="" width="320" height="240" alt="Superman (NTSC-USA Box Art)"/></a> | <a href="s/susume-taisen-puzzle-dama-toukon-marumata-chou"><img src="" width="320" height="240" alt="Susume! Taisen Puzzle Dama – Toukon! Marumata Chou (NTSC-J Box Art)"/></a> |
 | [Superman](s/superman) | [Susume! Taisen Puzzle Dama – Toukon! Marumata Chou](s/susume-taisen-puzzle-dama-toukon-marumata-chou) |
 
-| <a href="s/sydney-2000"><img src="https://images.launchbox-app.com/placeholder-sydney-2000.jpg" width="320" height="240" alt="Sydney 2000 (NTSC-USA Box Art)"/></a> |  |
+| <a href="s/sydney-2000"><img src="https://images.launchbox-app.com/ada84a2e-a30d-423c-8ae3-139c0f529d15.jpg" width="320" height="240" alt="Sydney 2000 (NTSC-USA Box Art)"/></a> |  |
 | [Sydney 2000](s/sydney-2000) |
