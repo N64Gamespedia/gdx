@@ -88,17 +88,11 @@ Pack by [Djipi](http://www.emutalk.net/members/13070-Djipi){:target="_blank" rel
 
 ### GlideN64 Format {#gliden64-format}  
 Designed for use with GlideN64. Available packs:
-- [Super Mario 64 (Nintemod)](https://www.n64textures.com/downloads/#Super Mario 64 (Nintemod)) by [elxuxi](http://www.emutalk.net/members/54184-elxuxi){:target="_blank" rel="noopener noreferrer"}
-- [Super Mario 64 (Mollymutt)](https://www.n64textures.com/downloads/#Super Mario 64 (Mollymutt)) by [Mollymutt](http://www.emutalk.net/members/23220-Mollymutt){:target="_blank" rel="noopener noreferrer"}
-- [Super Mario 64 Retro (RiSiO)](https://www.n64textures.com/downloads/#Super Mario 64 Retro (RiSiO)) by [RiSiO](http://www.emutalk.net/members/28524-Risio){:target="_blank" rel="noopener noreferrer"}
 
-### GlideN64 Format {#gliden64-format}  
-Designed for use with GlideN64. Available packs:
-
-- [Super Mario 64 (Nintemod)](https://www.n64textures.com/downloads/#Super%20Mario%2064%20(Nintemod)) by [elxuxi](http://www.emutalk.net/members/54184-elxuxi){:target="_blank" rel="noopener noreferrer"}
-- [Super Mario 64 (Mollymutt)](https://www.n64textures.com/downloads/#Super%20Mario%2064%20(Mollymutt)) by [Mollymutt](http://www.emutalk.net/members/23220-Mollymutt){:target="_blank" rel="noopener noreferrer"}
-- [Super Mario 64 Retro (RiSiO)](https://www.n64textures.com/downloads/#Super%20Mario%2064%20Retro%20(RiSiO)) by [RiSiO](http://www.emutalk.net/members/28524-Risio){:target="_blank" rel="noopener noreferrer"}
-- [Super Mario Sunshine 64 (Camden 1101)](https://www.n64textures.com/downloads/#Super%20Mario%20Sunshine%2064%20(Camden%201101)) by [Camden 1101](http://www.emutalk.net/members/83022-Camden1101){:target="_blank" rel="noopener noreferrer"}
+- [Super Mario 64 (Nintemod)](https://www.n64textures.com/downloads/#Super%20Mario%2064%20(Nintemod)){:target="_blank" rel="noopener noreferrer"} by [elxuxi](http://www.emutalk.net/members/54184-elxuxi){:target="_blank" rel="noopener noreferrer"}
+- [Super Mario 64 (Mollymutt)](https://www.n64textures.com/downloads/#Super%20Mario%2064%20(Mollymutt)){:target="_blank" rel="noopener noreferrer"} by [Mollymutt](http://www.emutalk.net/members/23220-Mollymutt){:target="_blank" rel="noopener noreferrer"}
+- [Super Mario 64 Retro (RiSiO)](https://www.n64textures.com/downloads/#Super%20Mario%2064%20Retro%20(RiSiO)){:target="_blank" rel="noopener noreferrer"} by [RiSiO](http://www.emutalk.net/members/28524-Risio){:target="_blank" rel="noopener noreferrer"}
+- [Super Mario Sunshine 64 (Camden 1101)](https://www.n64textures.com/downloads/#Super%20Mario%20Sunshine%2064%20(Camden%201101)){:target="_blank" rel="noopener noreferrer"} by [Camden 1101](http://www.emutalk.net/members/83022-Camden1101){:target="_blank" rel="noopener noreferrer"}
 
 ## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/198848-super-mario-64/faqs/43950){:target="_blank" rel="noopener noreferrer"}
 
