@@ -6,7 +6,7 @@ layout: default
 toc: false
 ---
 
-# Automobili Lamborghini
+# Automobili Lamborghini / Super Speed Race 64
 
 <b>
 <img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Automobili-Lamborghini-(USA).png" alt="Automobili Lamborghini Box Art (USA)" style="object-fit:cover;width:320px;height:224px"/>
