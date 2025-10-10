@@ -10,25 +10,25 @@ has_toc: false
 
 Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to *Sydney 2000*.
 
-| <a href="s/saikyou-habu-shougi"><img src="" width="320" height="240" alt="Saikyou Habu Shougi (NTSC-J Box Art)"/></a> | <a href="s/san-francisco-rush-2049"><img src="" width="320" height="240" alt="San Francisco Rush 2049 (NTSC-USA Box Art)"/></a> |
+| <a href="s/saikyou-habu-shougi"><img src="https://images.launchbox-app.com/2928a8f1-68fb-4efb-bb0b-20939fca594a.jpg" width="320" height="240" alt="Saikyou Habu Shougi (NTSC-J Box Art)"/></a> | <a href="s/san-francisco-rush-2049"><img src="https://images.launchbox-app.com/03abea77-61db-40b9-a23c-a9ea65d78e67.jpg" width="320" height="240" alt="San Francisco Rush 2049 (NTSC-USA Box Art)"/></a> |
 | [Saikyou Habu Shougi](s/saikyou-habu-shougi) | [San Francisco Rush 2049](s/san-francisco-rush-2049) |
 
-| <a href="s/san-francisco-rush-extreme-racing"><img src="" width="320" height="240" alt="San Francisco Rush – Extreme Racing (NTSC-USA Box Art)"/></a> | <a href="s/scars"><img src="" width="320" height="240" alt="S.C.A.R.S. (NTSC-USA Box Art)"/></a> |
+| <a href="s/san-francisco-rush-extreme-racing"><img src="https://images.launchbox-app.com/7927c9d7-1281-464d-84c4-7f912d7e0394.jpg" width="320" height="240" alt="San Francisco Rush – Extreme Racing (NTSC-USA Box Art)"/></a> | <a href="s/scars"><img src="https://images.launchbox-app.com/df80b2de-1e42-4e0c-bb37-16e59b0cd7d3.jpg" width="320" height="240" alt="S.C.A.R.S. (NTSC-USA Box Art)"/></a> |
 | [San Francisco Rush – Extreme Racing](s/san-francisco-rush-extreme-racing) | [S.C.A.R.S.](s/scars) |
 
-| <a href="s/scooby-doo-classic-creep-capers"><img src="" width="320" height="240" alt="Scooby-Doo! – Classic Creep Capers (NTSC-USA Box Art)"/></a> | <a href="s/sd-hiryuu-no-ken-densetsu"><img src="" width="320" height="240" alt="SD Hiryuu no Ken Densetsu (NTSC-J Box Art)"/></a> |
+| <a href="s/scooby-doo-classic-creep-capers"><img src="https://images.launchbox-app.com/0ff8c275-cff8-4df9-bcaf-0ad4dbc2838a.jpg" width="320" height="240" alt="Scooby-Doo! – Classic Creep Capers (NTSC-USA Box Art)"/></a> | <a href="s/sd-hiryuu-no-ken-densetsu"><img src="https://images.launchbox-app.com/65655157-9a08-424c-85d6-60b01be29931.png" width="320" height="240" alt="SD Hiryuu no Ken Densetsu (NTSC-J Box Art)"/></a> |
 | [Scooby-Doo! – Classic Creep Capers](s/scooby-doo-classic-creep-capers) | [SD Hiryuu no Ken Densetsu](s/sd-hiryuu-no-ken-densetsu) |
 
-| <a href="s/shadow-man"><img src="" width="320" height="240" alt="Shadow Man (NTSC-USA Box Art)"/></a> | <a href="s/shadowgate-64-trials-of-the-four-towers"><img src="" width="320" height="240" alt="Shadowgate 64 – Trials of The Four Towers (NTSC-USA Box Art)"/></a> |
+| <a href="s/shadow-man"><img src="https://images.launchbox-app.com/928d5b99-d8a7-488e-a05e-2f54fce63366.jpg" width="320" height="240" alt="Shadow Man (NTSC-USA Box Art)"/></a> | <a href="s/shadowgate-64-trials-of-the-four-towers"><img src="https://images.launchbox-app.com/862f023f-0d52-4c20-a46e-e35962418d70.png" width="320" height="240" alt="Shadowgate 64 – Trials of The Four Towers (NTSC-USA Box Art)"/></a> |
 | [Shadow Man](s/shadow-man) | [Shadowgate 64 – Trials of The Four Towers](s/shadowgate-64-trials-of-the-four-towers) |
 
-| <a href="s/shin-nihon-pro-wrestling-toukon-road-2-the-next-generation"><img src="" width="320" height="240" alt="Shin Nihon Pro Wrestling Toukon Road 2 – The Next Generation (NTSC-J Box Art)"/></a> | <a href="s/shin-nihon-pro-wrestling-toukon-road-brave-spirits"><img src="" width="320" height="240" alt="Shin Nihon Pro Wrestling Toukon Road – Brave Spirits (NTSC-J Box Art)"/></a> |
+| <a href="s/shin-nihon-pro-wrestling-toukon-road-2-the-next-generation"><img src="https://images.launchbox-app.com/ba9fdd18-3945-4f50-864a-c29995b8c81d.jpg" width="320" height="240" alt="Shin Nihon Pro Wrestling Toukon Road 2 – The Next Generation (NTSC-J Box Art)"/></a> | <a href="s/shin-nihon-pro-wrestling-toukon-road-brave-spirits"><img src="https://images.launchbox-app.com/68165d92-c47a-492d-8531-6ac41dff3809.jpg" width="320" height="240" alt="Shin Nihon Pro Wrestling Toukon Road – Brave Spirits (NTSC-J Box Art)"/></a> |
 | [Shin Nihon Pro Wrestling Toukon Road 2 – The Next Generation](s/shin-nihon-pro-wrestling-toukon-road-2-the-next-generation) | [Shin Nihon Pro Wrestling Toukon Road – Brave Spirits](s/shin-nihon-pro-wrestling-toukon-road-brave-spirits) |
 
-| <a href="s/simcity-2000"><img src="" width="320" height="240" alt="Sim City 2000 (NTSC-USA Box Art)"/></a> | <a href="s/sin-and-punishment"><img src="" width="320" height="240" alt="Sin and Punishment – Successor of the Earth (NTSC-J Box Art)"/></a> |
+| <a href="s/simcity-2000"><img src="https://images.launchbox-app.com/ff163ec4-bb6f-4abe-b46c-2e96b184be56.jpg" width="320" height="240" alt="Sim City 2000 (NTSC-USA Box Art)"/></a> | <a href="s/sin-and-punishment"><img src="https://images.launchbox-app.com/ff42abf1-ef83-48a4-ad46-ded95321a446.jpg" width="320" height="240" alt="Sin and Punishment – Successor of the Earth (NTSC-J Box Art)"/></a> |
 | [Sim City 2000](s/simcity-2000) | [Sin and Punishment – Successor of the Earth](s/sin-and-punishment) |
 
-| <a href="s/snow-speeder"><img src="" width="320" height="240" alt="Snow Speeder (NTSC-J Box Art)"/></a> | <a href="s/snowbo-kids-snowboard-kids"><img src="" width="320" height="240" alt="Snowboard Kids / Snobow Kids (NTSC-USA & NTSC-J Box Art)"/></a> |
+| <a href="s/snow-speeder"><img src="https://images.launchbox-app.com//8d12c771-5614-492a-a5c7-9cbbc083e84b.png" width="320" height="240" alt="Snow Speeder (NTSC-J Box Art)"/></a> | <a href="s/snowbo-kids-snowboard-kids"><img src="https://images.launchbox-app.com/489aa684-e817-4b02-a57f-c959d81bccbf.jpg" width="320" height="240" alt="Snowboard Kids / Snobow Kids (NTSC-USA & NTSC-J Box Art)"/></a> |
 | [Snow Speeder](s/snow-speeder) | [Snowboard Kids / Snobow Kids](s/snowbo-kids-snowboard-kids) |
 
 | <a href="s/snowboard-kids-2"><img src="" width="320" height="240" alt="Snowboard Kids 2 (NTSC-USA Box Art)"/></a> | <a href="s/sonic-wings-assault"><img src="" width="320" height="240" alt="Sonic Wings Assault (NTSC-J Box Art)"/></a> |
