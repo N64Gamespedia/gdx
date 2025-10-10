@@ -10,7 +10,7 @@ has_toc: false
 
 Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to *Sydney 2000*.
 
-| <a href="s/saikyou-habu-shougi"><img src="https://images.launchbox-app.com/2928a8f1-68fb-4efb-bb0b-20939fca594a.jpg" width="320" height="240" alt="Saikyou Habu Shougi"/></a> | <a href="s/san-francisco-rush-2049"><img src="" width="320" height="240" alt="San Francisco Rush 2049"/></a> |
+| <a href="s/saikyou-habu-shougi"><img src="https://images.launchbox-app.com/2928a8f1-68fb-4efb-bb0b-20939fca594a.jpg" width="320" height="240" alt="Saikyou Habu Shougi"/></a> | <a href="s/san-francisco-rush-2049"><img src="https://images.launchbox-app.com/03abea77-61db-40b9-a23c-a9ea65d78e67.jpg" width="320" height="240" alt="San Francisco Rush 2049"/></a> |
 |---|---|
 [Saikyou Habu Shougi](s/saikyou-habu-shougi) | [San Francisco Rush 2049](s/san-francisco-rush-2049) |
 
