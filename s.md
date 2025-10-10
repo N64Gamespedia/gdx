@@ -79,5 +79,5 @@ Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to
 | <a href="s/superman"><img src="https://images.launchbox-app.com/36567999-f7d3-45e2-8830-3235af26845a.jpg" width="320" height="240" alt="Superman (NTSC-USA Box Art)"/></a> | <a href="s/susume-taisen-puzzle-dama-toukon-marumata-chou"><img src="https://images.launchbox-app.com/50b08499-04b6-414a-b77b-5837ebae54ca.png" width="320" height="240" alt="Susume! Taisen Puzzle Dama – Toukon! Marumata Chou (NTSC-J Box Art)"/></a> |
 | [Superman](s/superman) | [Susume! Taisen Puzzle Dama – Toukon! Marumata Chou](s/susume-taisen-puzzle-dama-toukon-marumata-chou) |
 
-| <a href="s/sydney-2000"><img src="https://images.launchbox-app.com/ada84a2e-a30d-423c-8ae3-139c0f529d15.jpg" width="320" height="240" alt="Sydney 2000 (NTSC-USA Box Art)"/></a> |  |
+| <a href="s/sydney-2000"><img src="https://images.launchbox-app.com/ada84a2e-a30d-423c-8ae3-139c0f529d15.jpg" width="320" height="240" alt="Sydney 2000 (NTSC-USA Box Art)"/></a> |  
 | [Sydney 2000](s/sydney-2000) |
