@@ -1,86 +1,105 @@
 ---
-title: "Mario Kart 64"
-nav_order: 13
-parent: "M-Titles"
+title: "Super Mario 64"
+nav_order: 38
+parent: "S-Titles"
 layout: default
 toc: false
 ---
 
-# Mario Kart 64
+# Super Mario 64
+
 <b>
-<img src="https://images.launchbox-app.com//e921ec0f-4a2f-4a57-b59a-36edb8ae3096.jpg" alt="Mario Kart 64 (USA)" style="object-fit:cover;width:320px;height:224px"/>
-<img src="https://images.launchbox-app.com//0ad5a0f2-3cfe-48ac-a5d5-65c66340a5f1.png" alt="Mario Kart 64 (马力欧卡丁车) (China)" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://images.launchbox-app.com/2e30d6ba-e921-4b8b-9e01-9bf519d28e84.jpg" alt="Super Mario 64 (NTSC-USA Box Art)" width="320" height="240" />
+<img src="https://images.launchbox-app.com/94edecd1-4d82-4bfd-a17c-dd51cda65f68.png" alt="Super Mario 64 (Secondary Box Art)" width="320" height="240" />
 </b>
 
+**Platform:** Nintendo 64  
 **Developer:** [Nintendo EAD](https://en.wikipedia.org/wiki/Nintendo_Entertainment_Analysis_%26_Development){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Nintendo](https://en.wikipedia.org/wiki/Nintendo){:target="_blank" rel="noopener noreferrer"}  
-**Release Date (NTSC-USA):** February 10, 1997  
-**Release Date (NTSC-JPN):** December 14, 1996  
-**Release Date (PAL-EUR):** June 24, 1997  
-**Release Date (PAL-CHN):** November 17, 2003  
-(马力欧卡丁车)  
-**Genre:** Racing / Kart  
-**Players:** 1–4  
-**Force Feedback:** No  
-[**Nintendo Gateway System**](#gateway-system) 1993<br>(1-player only)<br>
-[**Language Patch Available:**](#translations-available)<br>
-🇫🇷 [French](#language-french) / 🇮🇹 [Italian](#language-italian) / 🇵🇱 [Polish](#language-polish) / 🇪🇸 [Spanish](#language-spanish)<br>
-[**Texture Pack Available:**](#texture-packs-available)<br>
-[Jabo 1.7 Format](#jabo-17-format)<br>
-[GlideN64 Format](#gliden64-format)
+**Release Date (NTSC-USA):** September 29, 1996  
+**Release Date (NTSC-JPN):** June 23, 1996  
+**Release Date (PAL-EUR):** March 1, 1997  
+**Release Date (PAL-CHN):** November 21, 2003 *(Shényóu Mǎlìōu – iQue)*  
+[**Nintendo Gateway System**](#gateway-system) 1993 *(1-player only)*  
+[**Language Patch Available:**](#translations-available)  
+🇬🇷 [Greek](#language-greek) / 🇮🇹 [Italian](#language-italian) / 🇵🇱 [Polish](#language-polish) / 🇧🇷 [Portuguese](#language-portuguese)  
+🇷🇴 [Romanian](#language-romanian) / 🇪🇸 [Spanish](#language-spanish) / 🇹🇷 [Turkish](#language-turkish) / 🇰🇷 [Korean](#language-korean)  
+[**Texture Pack Available:**](#texture-packs-available)  
+[Jabo 1.7 Format](#jabo-17-format)  
+[GlideN64 Format](#gliden64-format)  
+**Genre:** Platform  
+**Players:** 1  
+**Force Feedback:** No / Yes *(Shindou Edition)*
 
-## 🕹️ Game Description
-<em><strong>Mario Kart 64</strong></em> lets you race solo in the Mario GP or battle up to three friends in split-screen VS mode. The competitive Battle mode and Ghost racing feature allow players to challenge their best runs. Ghost data can be saved to a Controller Pak. The game includes 20 tracks: 4 Cups with 4 courses each, plus 4 Battle mode arenas. Characters are beautifully rendered, including newcomers Donkey Kong and Wario.
+## 🕹️ Game Description  
+Mario arrives at Peach’s Castle only to discover she’s been kidnapped by Bowser once again. The villain has trapped her subjects and cursed the castle using powerful magic. Mario must collect Power Stars scattered across vast 3D worlds to unlock new areas, defeat Bowser’s minions, and rescue the Princess. With innovative platform mechanics, expansive levels, and a range of acrobatic moves — including triple jumps, wall kicks, and backflips — *Super Mario 64* redefined 3D gaming. Power-ups like the Wing Cap, Metal Cap, and Vanish Cap grant new abilities, while cannons and flying unlock unreachable zones. The Shindou Edition includes Rumble Pak support and updated voice clips.
 
-<a name="gateway-system"></a>
+<a name="gateway-system"></a>  
+## Gateway System  
 This game was also available through the Nintendo Gateway System, a specialized platform for airlines and hotels. As part of a partnership between Nintendo and LodgeNet from late 1993 up until the late 2000s, about 40,000 airline seats and 955,000 hotel rooms featured a modified version of the game. LodgeNet partnered with Nintendo to bring video games directly into guest hotel rooms through streaming over the LodgeNet server, with the special LodgeNet controller plugging directly into the television or LodgeNet set-top box, transmitting the game over phone lines connected to a central game server. Pricing was usually $6.95 plus tax for 1 hour of video games. After 1 hour, the game would immediately stop and prompt the user to purchase more play time. Many games were modified for single-player play only.
 
 ## Translations Available {#translations-available}  
-### Language: 🇫🇷 French {#language-french}  
-*Mario Kart 64* (EUR) was fan-translated into French by [Corrigo](https://www.romhacking.net/community/1196/){:target="_blank" rel="noopener noreferrer"}.  
-Format: `.ips`  
-Release Date: 23 May 2010  
-Patch details: [ROMHacking.net](https://www.romhacking.net/translations/5077/){:target="_blank" rel="noopener noreferrer"}
+### Language: 🇬🇷 Greek {#language-greek}  
+Translated by [Tasos500](https://www.romhacking.net/community/6186/){:target="_blank" rel="noopener noreferrer"}  
+Patch: `.xdelta` — Released: 09 Nov 2020  
+[ROMHacking.net](https://www.romhacking.net/translations/5746/){:target="_blank" rel="noopener noreferrer"}
 
 ### Language: 🇮🇹 Italian {#language-italian}  
-*Mario Kart 64* (USA) was fan-translated into Italian by [Rulesless](https://www.romhacking.net/community/7348/){:target="_blank" rel="noopener noreferrer"}.  
-Format: `.bps`  
-Release Date: 20 October 2021  
-Patch details: [ROMHacking.net](https://www.romhacking.net/translations/6478/){:target="_blank" rel="noopener noreferrer"}
+Translated by [Rulesless](https://www.romhacking.net/community/7348/){:target="_blank" rel="noopener noreferrer"}  
+Patch: `.bps` — Released: 25 Feb 2022  
+[ROMHacking.net](https://www.romhacking.net/translations/6469/){:target="_blank" rel="noopener noreferrer"}
 
 ### Language: 🇵🇱 Polish {#language-polish}  
-*Mario Kart 64* (USA) was fan-translated into Polish by [LunaDook](https://www.romhacking.net/community/6874/){:target="_blank" rel="noopener noreferrer"}.  
-Format: `.bps`  
-Release Date: 09 September 2021  
-Patch details: [ROMHacking.net](https://www.romhacking.net/translations/6173/){:target="_blank" rel="noopener noreferrer"}
+Translated by [Robert202](https://www.romhacking.net/community/6855/){:target="_blank" rel="noopener noreferrer"}  
+Patch: `.ips` — Released: 16 Sep 2021  
+[ROMHacking.net](https://www.romhacking.net/translations/6282/){:target="_blank" rel="noopener noreferrer"}
+
+### Language: 🇧🇷 Portuguese {#language-portuguese}  
+Translated by [bMatSantos](https://www.romhacking.net/community/4193/){:target="_blank" rel="noopener noreferrer"}  
+Patch: `.bps` — Released: 20 May 2021  
+[ROMHacking.net](https://www.romhacking.net/translations/6100/){:target="_blank" rel="noopener noreferrer"}
+
+### Language: 🇷🇴 Romanian {#language-romanian}  
+Translated by [RGTT](https://www.romhacking.net/community/8526/){:target="_blank" rel="noopener noreferrer"}  
+Patch: `.bps` — Released: 14 Feb 2024  
+[ROMHacking.net](https://www.romhacking.net/translations/7222/){:target="_blank" rel="noopener noreferrer"}
 
 ### Language: 🇪🇸 Spanish {#language-spanish}  
-*Mario Kart 64* (USA) was fan-translated into Spanish by [Blade133bo](https://www.romhacking.net/community/2941/){:target="_blank" rel="noopener noreferrer"}.  
-Format: `.xdelta`  
-Release Date: 22 November 2020  
-Patch details: [ROMHacking.net](https://www.romhacking.net/translations/3417/){:target="_blank" rel="noopener noreferrer"}
+Translated by [Blade133bo](https://www.romhacking.net/community/2941/){:target="_blank" rel="noopener noreferrer"}  
+Patch: `.xdelta` — Released: 09 May 2023  
+[ROMHacking.net](https://www.romhacking.net/translations/2942/){:target="_blank" rel="noopener noreferrer"}
+
+### Language: 🇹🇷 Turkish {#language-turkish}  
+Translated by [Gizlilik](https://www.romhacking.net/community/6121/){:target="_blank" rel="noopener noreferrer"}  
+Patch: `.xdelta` — Released: 08 Jun 2020  
+[ROMHacking.net](https://www.romhacking.net/translations/5583/){:target="_blank" rel="noopener noreferrer"}
+
+### Language: 🇰🇷 Korean {#language-korean}  
+Translated by [Minio](https://www.romhacking.net/community/8172/){:target="_blank" rel="noopener noreferrer"}  
+Patch: `.xdelta` — Released: 18 Jan 2023 *(Shindou Edition – Japanese Rev A)*  
+[ROMHacking.net](https://www.romhacking.net/translations/6980/){:target="_blank" rel="noopener noreferrer"}
 
 ## Texture Packs Available {#texture-packs-available}  
 ### Jabo 1.7 Format {#jabo-17-format}  
-Designed for use with the Jabo_Direct3D8 1.7.0.57-ver6 plugin. Available packs:
-- [Gecko Lee's: Mario Kart (U) World Tour](https://www.n64textures.com/downloads/jabo-texture-packs/#Gecko%20Lee's:%20Mario%20Kart%20World%20Tour){:target="_blank" rel="noopener noreferrer"}
-- [Kerber2k's: Mario Kart Pack v1.1](https://www.n64textures.com/downloads/jabo-texture-packs/#Kerber2k's:%20Mario%20Kart%20Pack%20v1.1){:target="_blank" rel="noopener noreferrer"}
-- [Kerber2k's: Mario Kart Pack v1.2](https://www.n64textures.com/downloads/jabo-texture-packs/#Kerber2k's:%20Mario%20Kart%20Pack%20v1.2){:target="_blank" rel="noopener noreferrer"}
+Designed for use with the Jabo_Direct3D8 1.7.0.57-ver6 video plugin.  
+Pack by [Djipi](http://www.emutalk.net/members/13070-Djipi){:target="_blank" rel="noopener noreferrer"}  
+[Djipi's Super Mario 64 Cell shade V1.1](https://www.n64textures.com/downloads/jabo-texture-packs/#Djipi's: Super Mario 64 Cell shade V1.1){:target="_blank" rel="noopener noreferrer"}
 
 ### GlideN64 Format {#gliden64-format}  
 Designed for use with GlideN64. Available packs:
-- [Mario Kart 64 HD 4K](https://www.n64textures.com/downloads/#Mariokart64%20HD%204K){:target="_blank" rel="noopener noreferrer"} – >10GB HTS format
-- [Mario Kart 64 (Kerber2k)](https://www.n64textures.com/downloads/#Mario%20Kart%2064%20(Kerber2k)){:target="_blank" rel="noopener noreferrer"}
-- [Mario Kart 64 (Nes_player4life)](https://www.n64textures.com/downloads/#Mario%20Kart%2064%20(Nes_player4life)){:target="_blank" rel="noopener noreferrer"}
-- [Mario Kart 64 Player Maps (Pietschie)](https://www.n64textures.com/downloads/#Mario%20Kart%2064%20Player%20Maps){:target="_blank" rel="noopener noreferrer"}
 
-## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/197860-mario-kart-64/faqs/37859){:target="_blank" rel="noopener noreferrer"}
+- [Super Mario 64 (Nintemod)](https://www.n64textures.com/downloads/#Super%20Mario%2064%20(Nintemod)) by [elxuxi](http://www.emutalk.net/members/54184-elxuxi){:target="_blank" rel="noopener noreferrer"}
+- [Super Mario 64 (Mollymutt)](https://www.n64textures.com/downloads/#Super%20Mario%2064%20(Mollymutt)) by [Mollymutt](http://www.emutalk.net/members/23220-Mollymutt){:target="_blank" rel="noopener noreferrer"}
+- [Super Mario 64 Retro (RiSiO)](https://www.n64textures.com/downloads/#Super%20Mario%2064%20Retro%20(RiSiO)) by [RiSiO](http://www.emutalk.net/members/28524-Risio){:target="_blank" rel="noopener noreferrer"}
+- [Super Mario Sunshine 64 (Camden 1101)](https://www.n64textures.com/downloads/#Super%20Mario%20Sunshine%2064%20(Camden%201101)) by [Camden 1101](http://www.emutalk.net/members/83022-Camden1101){:target="_blank" rel="noopener noreferrer"}
 
-## 🎥 Video Playthrough by [ModernXP](https://www.youtube.com/channel/UCmf87a-abupkfS85ra19Hlw){:target="_blank" rel="noopener noreferrer"}  
-<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/acuR_mxectk" title="Mario Kart 64 – Complete 100% Longplay" frameborder="0" allowfullscreen></iframe>
+## 📚 [Game Guide / Walkthrough](https://gamefaqs.gamespot.com/n64/198848-super-mario-64/faqs/43950){:target="_blank" rel="noopener noreferrer"}
+
+## 🎥 Video Playthrough by [LongplayArchive](https://www.youtube.com/channel/UCM8XzXipyTsylZ_WsGKmdKQ){:target="_blank" rel="noopener noreferrer"}  
+<br />  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ED8iq7pvwo" title="Super Mario 64 – Longplay Full Walkthrough" frameborder="0" allowfullscreen></iframe>
 
 🕹️ Created by Gent & CP of n64gamespedia-dev 🕹️
 
-<!-- Vault Format: n64gamespedia-dev -->
+<!-- Vault Format: n64gamespedia-dev -->  
 <!-- Protocol Source: _vault-specs/format-protocol.md -->
