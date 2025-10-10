@@ -9,7 +9,7 @@ toc: false
 # Star Wars: Shadows of the Empire / Teikoku no Kage
 
 <b>
-<img src="https://images.launchbox-app.com/2eb3038e-b868-4715-98e7-da5da81429f5.jpg" alt="Shadows of the Empire (NTSC-USA Box Art)" width="320" height="240" />
+<img src="https://images.launchbox-app.com/c4d1e75f-873a-4ce5-81bb-98168dc77888.jpg" alt="Shadows of the Empire (NTSC-USA Box Art)" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
