@@ -34,70 +34,67 @@ Explore all N64 titles starting with the letter S, from *Saikyou Habu Shougi* to
 |---|---|
 [SimCity 2000](s/simcity-2000) | [Sin and Punishment – Successor of the Earth](s/sin-and-punishment) |
 
-| <a href="s/snowbo-kids"><img src="" width="320" height="240" alt="Snobow Kids"/></a> | <a href="s/snow-speeder"><img src="" width="320" height="240" alt="Snow Speeder"/></a> |
+| <a href="s/speed-racer"><img src="https://images.launchbox-app.com/8d12c771-5614-492a-a5c7-9cbbc083e84b.png" width="320" height="240" alt="Speed Racer (NTSC-USA Screenshot)"/></a> | <a href="s/snowbo-kids-snowboard-kids"><img src="https://images.launchbox-app.com/489aa684-e817-4b02-a57f-c959d81bccbf.jpg" width="320" height="240" alt="Snowboard Kids (NTSC-USA Box Art)"/></a> |
 |---|---|
-[Snobow Kids](s/snowbo-kids) | [Snow Speeder](s/snow-speeder) |
+[Speed Racer](s/speed-racer) | [Snowboard Kids](s/snowbo-kids-snowboard-kids) |
 
-| <a href="s/snowboard-kids"><img src="" width="320" height="240" alt="Snowboard Kids"/></a> | <a href="s/snowboard-kids-2"><img src="" width="320" height="240" alt="Snowboard Kids 2"/></a> |
+| <a href="s/snowboard-kids-2"><img src="" width="320" height="240" alt="Snowboard Kids 2"/></a> | <a href="s/south-park"><img src="" width="320" height="240" alt="South Park"/></a> |
 |---|---|
-[Snowboard Kids](s/snowboard-kids) | [Snowboard Kids 2](s/snowboard-kids-2) |
+[Snowboard Kids 2](s/snowboard-kids-2) | [South Park](s/south-park) |
 
-| <a href="s/south-park"><img src="" width="320" height="240" alt="South Park"/></a> | <a href="s/south-park-chefs-luv-shack"><img src="" width="320" height="240" alt="South Park – Chef’s Luv Shack"/></a> |
+| <a href="s/south-park-chefs-luv-shack"><img src="" width="320" height="240" alt="South Park – Chef’s Luv Shack"/></a> | <a href="s/south-park-rally"><img src="" width="320" height="240" alt="South Park Rally"/></a> |
 |---|---|
-[South Park](s/south-park) | [South Park – Chef’s Luv Shack](s/south-park-chefs-luv-shack) |
+[South Park – Chef’s Luv Shack](s/south-park-chefs-luv-shack) | [South Park Rally](s/south-park-rally) |
 
-| <a href="s/south-park-rally"><img src="" width="320" height="240" alt="South Park Rally"/></a> | <a href="s/space-dynamites"><img src="" width="320" height="240" alt="Space Dynamites"/></a> |
+| <a href="s/space-dynamites"><img src="" width="320" height="240" alt="Space Dynamites"/></a> | <a href="s/space-invaders"><img src="" width="320" height="240" alt="Space Invaders"/></a> |
 |---|---|
-[South Park Rally](s/south-park-rally) | [Space Dynamites](s/space-dynamites) |
+[Space Dynamites](s/space-dynamites) | [Space Invaders](s/space-invaders) |
 
-| <a href="s/space-invaders"><img src="" width="320" height="240" alt="Space Invaders"/></a> | <a href="s/space-station-silicon-valley"><img src="" width="320" height="240" alt="Space Station Silicon Valley"/></a> |
+| <a href="s/space-station-silicon-valley"><img src="" width="320" height="240" alt="Space Station Silicon Valley"/></a> | <a href="s/spider-man"><img src="" width="320" height="240" alt="Spider-Man"/></a> |
 |---|---|
-[Space Invaders](s/space-invaders) | [Space Station Silicon Valley](s/space-station-silicon-valley) |
+[Space Station Silicon Valley](s/space-station-silicon-valley) | [Spider-Man](s/spider-man) |
 
-| <a href="s/spider-man"><img src="" width="320" height="240" alt="Spider-Man"/></a> | <a href="s/star-fox-64"><img src="" width="320" height="240" alt="Star Fox 64"/></a> |
+| <a href="s/star-fox-64"><img src="" width="320" height="240" alt="Star Fox 64"/></a> | <a href="s/star-soldier-vanishing-earth"><img src="" width="320" height="240" alt="Star Soldier – Vanishing Earth"/></a> |
 |---|---|
-[Spider-Man](s/spider-man) | [Star Fox 64](s/star-fox-64) |
+[Star Fox 64](s/star-fox-64) | [Star Soldier – Vanishing Earth](s/star-soldier-vanishing-earth) |
 
-| <a href="s/star-soldier-vanishing-earth"><img src="" width="320" height="240" alt="Star Soldier – Vanishing Earth"/></a> | <a href="s/star-twins"><img src="" width="320" height="240" alt="Star Twins"/></a> |
+| <a href="s/star-twins"><img src="" width="320" height="240" alt="Star Twins"/></a> | <a href="s/star-wars-episode-i-battle-for-naboo"><img src="" width="320" height="240" alt="Star Wars Episode I – Battle for Naboo"/></a> |
 |---|---|
-[Star Soldier – Vanishing Earth](s/star-soldier-vanishing-earth) | [Star Twins](s/star-twins) |
+[Star Twins](s/star-twins) | [Star Wars Episode I – Battle for Naboo](s/star-wars-episode-i-battle-for-naboo) |
 
-| <a href="s/star-wars-episode-i-battle-for-naboo"><img src="" width="320" height="240" alt="Star Wars Episode I – Battle for Naboo"/></a> | <a href="s/star-wars-episode-i-racer"><img src="" width="320" height="240" alt="Star Wars Episode I – Racer"/></a> |
+| <a href="s/star-wars-episode-i-racer"><img src="" width="320" height="240" alt="Star Wars Episode I – Racer"/></a> | <a href="s/star-wars-rogue-squadron"><img src="" width="320" height="240" alt="Star Wars – Rogue Squadron"/></a> |
 |---|---|
-[Star Wars Episode I – Battle for Naboo](s/star-wars-episode-i-battle-for-naboo) | [Star Wars Episode I – Racer](s/star-wars-episode-i-racer) |
+[Star Wars Episode I – Racer](s/star-wars-episode-i-racer) | [Star Wars – Rogue Squadron](s/star-wars-rogue-squadron) |
 
-| <a href="s/star-wars-rogue-squadron"><img src="" width="320" height="240" alt="Star Wars – Rogue Squadron"/></a> | <a href="s/star-wars-shadows-of-the-empire"><img src="" width="320" height="240" alt="Star Wars – Shadows of the Empire"/></a> |
+| <a href="s/star-wars-shadows-of-the-empire"><img src="" width="320" height="240" alt="Star Wars – Shadows of the Empire"/></a> | <a href="s/star-wars-shutsugeki-rogue-chuutai"><img src="" width="320" height="240" alt="Star Wars – Shutsugeki! Rogue Chuutai"/></a> |
 |---|---|
-[Star Wars – Rogue Squadron](s/star-wars-rogue-squadron) | [Star Wars – Shadows of the Empire](s/star-wars-shadows-of-the-empire) |
+[Star Wars – Shadows of the Empire](s/star-wars-shadows-of-the-empire) | [Star Wars – Shutsugeki! Rogue Chuutai](s/star-wars-shutsugeki-rogue-chuutai) |
 
-| <a href="s/star-wars-shutsugeki-rogue-chuutai"><img src="" width="320" height="240" alt="Star Wars – Shutsugeki! Rogue Chuutai"/></a> | <a href="s/star-wars-teikoku-no-kage"><img src="" width="320" height="240" alt="Star Wars – Teikoku no Kage"/></a> |
+| <a href="s/star-wars-teikoku-no-kage"><img src="" width="320" height="240" alt="Star Wars – Teikoku no Kage"/></a> | <a href="s/starcraft-64"><img src="" width="320" height="240" alt="StarCraft 64"/></a> |
 |---|---|
-[Star Wars – Shutsugeki! Rogue Chuutai](s/star-wars-shutsugeki-rogue-chuutai) | [Star Wars – Teikoku no Kage](s/star-wars-teikoku-no-kage) |
+[Star Wars – Teikoku no Kage](s/star-wars-teikoku-no-kage) | [StarCraft 64](s/starcraft-64) |
 
-| <a href="s/starcraft-64"><img src="" width="320" height="240" alt="StarCraft 64"/></a> | <a href="s/starshot-space-circus-fever"><img src="" width="320" height="240" alt="Starshot – Space Circus Fever"/></a> |
+| <a href="s/starshot-space-circus-fever"><img src="" width="320" height="240" alt="Starshot – Space Circus Fever"/></a> | <a href="s/stunt-racer-64"><img src="" width="320" height="240" alt="Stunt Racer 64"/></a> |
 |---|---|
-[StarCraft 64](s/starcraft-64) | [Starshot – Space Circus Fever](s/starshot-space-circus-fever) |
+[Starshot – Space Circus Fever](s/starshot-space-circus-fever) | [Stunt Racer 64](s/stunt-racer-64) |
 
-| <a href="s/stunt-racer-64"><img src="" width="320" height="240" alt="Stunt Racer 64"/></a> | <a href="s/super-b-daman-battle-phoenix-64"><img src="" width="320" height="240" alt="Super B-Daman – Battle Phoenix 64"/></a> |
+| <a href="s/super-b-daman-battle-phoenix-64"><img src="" width="320" height="240" alt="Super B-Daman – Battle Phoenix 64"/></a> | <a href="s/super-bowling"><img src="" width="320" height="240" alt="Super Bowling"/></a> |
 |---|---|
-[Stunt Racer 64](s/stunt-racer-64) | [Super B-Daman – Battle Phoenix 64](s/super-b-daman-battle-phoenix-64) |
+[Super B-Daman – Battle Phoenix 64](s/super-b-daman-battle-phoenix-64) | [Super Bowling](s/super-bowling) |
 
-| <a href="s/super-bowling"><img src="" width="320" height="240" alt="Super Bowling"/></a> | <a href="s/super-mario-64"><img src="" width="320" height="240" alt="Super Mario 64"/></a> |
+| <a href="s/super-mario-64"><img src="" width="320" height="240" alt="Super Mario 64"/></a> | <a href="s/super-real-mahjong-vs"><img src="" width="320" height="240" alt="Super Real Mahjong VS [Aleck 64]"/></a> |
 |---|---|
-[Super Bowling](s/super-bowling) | [Super Mario 64](s/super-mario-64) |
+[Super Mario 64](s/super-mario-64) | [Super Real Mahjong VS [Aleck 64]](s/super-real-mahjong-vs) |
 
-| <a href="s/super-real-mahjong-vs"><img src="" width="320" height="240" alt="Super Real Mahjong VS [Aleck 64]"/></a> | <a href="s/super-robot-spirits"><img src="" width="320" height="240" alt="Super Robot Spirits"/></a> |
+| <a href="s/super-robot-spirits"><img src="" width="320" height="240" alt="Super Robot Spirits"/></a> | <a href="s/super-robot-taisen-64"><img src="" width="320" height="240" alt="Super Robot Taisen 64"/></a> |
 |---|---|
-[Super Real Mahjong VS [Aleck 64]](s/super-real-mahjong-vs) | [Super Robot Spirits](s/super-robot-spirits) |
+[Super Robot Spirits](s/super-robot-spirits) | [Super Robot Taisen 64](s/super-robot-taisen-64) |
 
-| <a href="s/super-robot-taisen-64"><img src="" width="320" height="240" alt="Super Robot Taisen 64"/></a> | <a href="s/supercross-2000"><img src="" width="320" height="240" alt="Supercross 2000"/></a> |
+| <a href="s/supercross-2000"><img src="" width="320" height="240" alt="Supercross 2000"/></a> | <a href="s/superman"><img src="" width="320" height="240" alt="Superman"/></a> |
 |---|---|
-[Super Robot Taisen 64](s/super-robot-taisen-64) | [Supercross 2000](s/supercross-2000) |
+[Supercross 2000](s/supercross-2000) | [Superman](s/superman) |
 
-| <a href="s/superman"><img src="" width="320" height="240" alt="Superman"/></a> | <a href="s/susume-taisen-puzzle-dama-toukon-marumata-chou"><img src="" width="320" height="240" alt="Susume! Taisen Puzzle Dama – Toukon! Marumata Chou"/></a> |
+| <a href="s/susume-taisen-puzzle-dama-toukon-marumata-chou"><img src="" width="320" height="240" alt="Susume! Taisen Puzzle Dama – Toukon! Marumata Chou"/></a> | <a href="s/sydney-2000"><img src="" width="320" height="240" alt="Sydney 2000"/></a> |
 |---|---|
-[Superman](s/superman) | [Susume! Taisen Puzzle Dama – Toukon! Marumata Chou](s/susume-taisen-puzzle-dama-toukon-marumata-chou) |
+[Susume! Taisen Puzzle Dama – Toukon! Marumata Chou](s/susume-taisen-puzzle-dama-toukon-marumata-chou) | [Sydney 2000](s/sydney-2000) |
 
-| <a href="s/sydney-2000"><img src="" width="320" height="240" alt="Sydney 2000"/></a> | 
-|---|---|
-[Sydney 2000](s/sydney-2000) |
