@@ -10,9 +10,6 @@ toc: false
 
 <b>
 <img src="https://images.launchbox-app.com/2e30d6ba-e921-4b8b-9e01-9bf519d28e84.jpg" alt="Super Mario 64 (NTSC-USA Box Art)" width="320" height="240" />
-</b>
-
-<b>
 <img src="https://images.launchbox-app.com/94edecd1-4d82-4bfd-a17c-dd51cda65f68.png" alt="Super Mario 64 (Secondary Box Art)" width="320" height="240" />
 </b>
 
