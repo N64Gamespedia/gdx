@@ -10,7 +10,7 @@ toc: false
 
 <b>
   <img src="https://images.launchbox-app.com/fd2fc9dd-77d8-47c4-a835-3f2ea4904c50.jpg" alt="Big Mountain 2000 Box Art" style="object-fit:cover;width:320px;height:224px"/>
-  <img src="https://www.n64gamespedia.com/wp-content/uploads/2024/01/ba05ebb7-f8e9-4add-ace8-dafd2e3d53b01-e1704207381117.png" alt="Big Mountain 2000 Screenshot" style="object-fit:cover;width:320px;height:224px"/>
+  <img src="https://images.launchbox-app.com//8d12c771-5614-492a-a5c7-9cbbc083e84b.png" alt="Speed Racer Screenshot" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 Platform: Nintendo 64  
