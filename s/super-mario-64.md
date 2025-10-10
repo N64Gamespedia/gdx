@@ -20,7 +20,8 @@ toc: false
 **Release Date (NTSC-JPN):** June 23, 1996  
 **Release Date (PAL-EUR):** March 1, 1997  
 **Release Date (PAL-CHN):** November 21, 2003 *(Shényóu Mǎlìōu – iQue)*  
-[**Nintendo Gateway System**](#gateway-system) 1993 *(1-player only)*  
+[**Nintendo Gateway System**](#gateway-system) 1993   
+*(1-player only)*  
 [**Language Patch Available:**](#translations-available)  
 🇬🇷 [Greek](#language-greek) / 🇮🇹 [Italian](#language-italian) / 🇵🇱 [Polish](#language-polish) / 🇧🇷 [Portuguese](#language-portuguese)  
 🇷🇴 [Romanian](#language-romanian) / 🇪🇸 [Spanish](#language-spanish) / 🇹🇷 [Turkish](#language-turkish) / 🇰🇷 [Korean](#language-korean)  
