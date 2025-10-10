@@ -16,13 +16,10 @@ toc: false
 **Developer:** [Midway Games](https://en.wikipedia.org/wiki/Midway_Games){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Midway Home Entertainment](https://en.wikipedia.org/wiki/Midway_Games#Publishing_and_distribution){:target="_blank" rel="noopener noreferrer"} (USA)  
 **Publisher:** [Midway Games](https://en.wikipedia.org/wiki/Midway_Games#Europe){:target="_blank" rel="noopener noreferrer"} (Europe)  
-
 **Release Date (NTSC-USA):** September 7, 2000  
 **Release Date (PAL-EUR):** November 17, 2000  
-
 [**Nintendo Gateway System:**](#gateway-system) 1993  
 (1-player only)  
-
 **Genre:** Racing / Automobile  
 **Players:** 1 - 4  
 **Force Feedback:** Yes  

@@ -15,10 +15,8 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Vivid Image](https://en.wikipedia.org/wiki/Vivid_Image){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Ubi Soft](https://en.wikipedia.org/wiki/Ubisoft){:target="_blank" rel="noopener noreferrer"} (USA / Europe)  
-
 **Release Date (NTSC-USA):** December 4, 1998  
 **Release Date (PAL-EUR):** January 1999  
-
 **Genre:** Racing / Battle  
 **Players:** 4  
 **Force Feedback:** Yes  

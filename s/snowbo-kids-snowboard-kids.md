@@ -16,12 +16,10 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Racjin](https://en.wikipedia.org/wiki/Racjin){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Atlus](https://en.wikipedia.org/wiki/Atlus){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-JPN):** December 12, 1997  
 (Snowbo Kids)  
 **Release Date (NTSC-USA):** March 15, 1998  
 **Release Date (PAL-EUR):** March 16, 1998  
-
 **Genre:** Sports / Snowboarding  
 **Players:** 1–4  
 **Force Feedback:** Yes

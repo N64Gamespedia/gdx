@@ -15,11 +15,9 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [TNS Co.](https://www.mobygames.com/company/tns-co-ltd){:target="_blank" rel="noopener noreferrer"} / [Infinite Ventures](https://en.wikipedia.org/wiki/ICOM_Simulations){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Kemco](https://en.wikipedia.org/wiki/Kemco){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-USA):** May 31, 1999  
 **Release Date (PAL-EUR):** July 1999  
 **Release Date (NTSC-JPN):** August 13, 1999  
-
 **Genre:** Adventure / Point-and-click  
 **Players:** 1  
 **Force Feedback:** No  

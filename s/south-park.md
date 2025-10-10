@@ -15,7 +15,6 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Iguana Entertainment](https://en.wikipedia.org/wiki/Acclaim_Studios_Austin){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Acclaim Entertainment](https://en.wikipedia.org/wiki/Acclaim_Entertainment){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-USA):** December 21, 1998  
 **Release Date (PAL-EUR):** May 3, 1999  
 **Genre:** Action / First-Person Shooter  

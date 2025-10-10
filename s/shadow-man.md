@@ -15,10 +15,8 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Acclaim Studios Teesside](https://en.wikipedia.org/wiki/List_of_Acclaim_Entertainment_subsidiaries#Acclaim_Studios_Teesside){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Acclaim Entertainment](https://en.wikipedia.org/wiki/Acclaim_Entertainment){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-USA):** August 31, 1999  
 **Release Date (PAL-EUR):** September 3, 1999  
-
 **Genre:** Action / Adventure  
 **Players:** 1  
 **Force Feedback:** Yes  

@@ -15,9 +15,7 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [SETA Corporation](https://en.wikipedia.org/wiki/SETA_Corporation){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [SETA Corporation](https://en.wikipedia.org/wiki/SETA_Corporation){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-JPN):** June 23, 1996  
-
 **Genre:** Board Game / Shogi  
 **Players:** 1  
 **Force Feedback:** No  

@@ -15,9 +15,7 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Genki](https://en.wikipedia.org/wiki/Genki_(company)){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Imagineer](https://en.wikipedia.org/wiki/Imagineer_(Japanese_company)){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-JPN):** January 30, 1998  
-
 **Genre:** Simulation / Management  
 **Players:** 1  
 **Force Feedback:** No  

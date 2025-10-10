@@ -16,10 +16,8 @@ toc: false
 **Developer:** [Midway Games](https://en.wikipedia.org/wiki/Midway_Games){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Midway Home Entertainment](https://en.wikipedia.org/wiki/Midway_Games#Publishing_and_distribution){:target="_blank" rel="noopener noreferrer"} (USA)  
 **Publisher:** [GT Interactive](https://en.wikipedia.org/wiki/Atari,_Inc._(Atari_SA_subsidiary)){:target="_blank" rel="noopener noreferrer"} (Europe)  
-
 **Release Date (NTSC-USA):** November 8, 1997  
 **Release Date (PAL-EUR):** December 1997  
-
 **Genre:** Racing / Automobile  
 **Players:** 1 - 2  
 **Force Feedback:** Yes  

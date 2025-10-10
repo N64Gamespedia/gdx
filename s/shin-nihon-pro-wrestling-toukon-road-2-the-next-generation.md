@@ -15,9 +15,7 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Yuke's](https://en.wikipedia.org/wiki/Yuke%27s){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Hudson Soft](https://en.wikipedia.org/wiki/Hudson_Soft){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-JPN):** December 26, 1998  
-
 **Genre:** Sports / Pro Wrestling  
 **Players:** 1–4  
 **Force Feedback:** No  

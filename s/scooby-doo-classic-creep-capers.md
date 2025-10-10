@@ -15,10 +15,8 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Terraglyph Interactive Studios](https://en.wikipedia.org/wiki/Terraglyph_Interactive_Studios){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [THQ](https://en.wikipedia.org/wiki/THQ){:target="_blank" rel="noopener noreferrer"} (USA / Europe)  
-
 **Release Date (NTSC-USA):** November 30, 2000  
 **Release Date (PAL-EUR):** March 30, 2001  
-
 **Genre:** Action / Adventure  
 **Players:** 1  
 **Force Feedback:** No  

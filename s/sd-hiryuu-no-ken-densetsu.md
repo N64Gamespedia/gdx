@@ -15,9 +15,7 @@ toc: false
 **Platform:** Nintendo 64  
 **Developer:** [Culture Brain](https://en.wikipedia.org/wiki/Culture_Brain){:target="_blank" rel="noopener noreferrer"}  
 **Publisher:** [Culture Brain](https://en.wikipedia.org/wiki/Culture_Brain){:target="_blank" rel="noopener noreferrer"}  
-
 **Release Date (NTSC-JPN):** January 29, 1999  
-
 **Genre:** Action / Fighting  
 **Players:** 1–2  
 **Force Feedback:** Yes  
