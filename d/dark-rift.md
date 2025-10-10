@@ -1,5 +1,5 @@
 ---
-title: "Dark Rift / Space Dynamites"
+title: "Dark Rift"
 nav_order: 3
 parent: "D-Titles"
 layout: default
