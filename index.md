@@ -12,12 +12,14 @@ nav_order: 1
 
 Welcome to the  N64Gamespedia Github version of the Online GDX (Game Database eXtra).
 
-Explore classic N64 titles using the sidebar. 🎮
+Explore classic N64 titles using the sidebar or the . 🎮
 
 <br>
 
 
 ---
+
+# N64Gamespedia Index
 
 ## 0–9
 - [007: The World Is Not Enough](numbered/007-the-world-is-not-enough)
@@ -307,17 +309,36 @@ Kuru Kuru Fever (Aleck64)
 - [Turok: Dinosaur Hunter]()
 
 ## U
+- [Utchan Nanchan no Hono no Challenger – Denryuu Ira Ira Bou](u/utchan-nanchan-no-hono-no-challenger-denryuu-ira-ira-bou)
 
 ## V
+- [Viewpoint2064 (Prototype)](v/viewpoint2064-prototype)
+- [Vigilante 8](v/vigilante-8)
+- [Vigilante 8 – 2nd Offence](v/vigilante-8-2nd-offence)
+- [Violence Killer – Turok New Generation](v/violence-killer-turok-new-generation)
+- [Virtual Chess 64](v/virtual-chess-64)
+- [Virtual Pool 64](v/virtual-pool-64)
+- [Virtual Pro Wrestling 64](v/virtual-pro-wrestling-64
+- [Virtual Pro Wrestling 2 – Oudou Keishou](v/virtual-pro-wrestling-2-oudou-keishou)
+- [V-Rally Edition 99](v/v-rally-edition-99)
+- [Vivid Dolls [Aleck64]](v/vivid-dolls)
 
 ## W
-- [Wave Race 64]()
-- [Wipeout 64]()
-- [WWF No Mercy]()
+- [Wild Choppers](wild-choppers)
+- [WinBack - Covert Operations](winback-covert-operations)
 
 ## X
+- [Xena Warrior Princess – The Talisman of Fate](x/xena-warrior-princess)
+- [Xeno Crisis](x/xeno-crisis)
 
 ## Y
-- [Yoshi's Story]()
+- [Yakouchuu II – Satsujin Kouru](y/yakouchuu-ii-satsujin-kouru)
+- [Yannick Noah All Star Tennis '99](y/yannick-noah-all-star-tennis-99)
+- [Yoshi's Story](y/yoshis-story)
+- [Yuke Yuke!! Trouble Makers](y/yuke-yuke-trouble-makers)
 
 ## Z
+- [Zelda no Densetsu – Mujura no Kamen](z/zelda-no-densetsu-mujura-no-kamen
+- [Zelda no Densetsu – Toki no Ocarina](z/zelda-no-densetsu-toki-no-ocarina)
+- [Zelda no Densetsu – Toki no Ocarina Ura](z/zelda-no-densetsu-toki-no-ocarina-ura
+- [Zool – Majou Tsukai Densetsu](z/zool-majou-tsukai-densetsu
