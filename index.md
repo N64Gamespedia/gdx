@@ -40,7 +40,7 @@ Explore classic N64 titles using the sidebar or the [N64Gamespedia Index](index#
 - [Aidyn Chronicles: The First Mage](a/aidyn-chronicles-the-first-mage)
 - [Air Boarder 64](a/air-boarder-64)
 - [Akumajou Dracula Mokushiroku](a/akumajou-dracula-mokushiroku)
-- [Akumajou Dracula Mokushiroku Gaiden](a/akumajou-dracula-mokushiroku-gaiden-legend-of-cornell)
+- [Akumajou Dracula Mokushiroku Gaiden](a/akumajou-dracula-gaiden)
 - [All Star Tennis ’99](a/all-star-tennis-99)
 - [All-Star Baseball 2000](a/all-star-baseball-2000)
 - [All-Star Baseball 2001](a/all-star-baseball-2001)
