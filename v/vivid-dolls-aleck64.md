@@ -9,7 +9,7 @@ toc: false
 # Vivid Dolls [Aleck64]
 
 <b>
-<img src="https://static.wikia.nocookie.net/nintendo/images/1/12/Vivid_Dolls_title_screen.png/revision/latest?cb=20201201141849&path-prefix=en" alt="Vivid Dolls [Aleck64] Title Screen" width="320" height="240" />
+<img src="https://www.video-games-museum.com/en/screenshots/Mame/1/64112-title-Vivid-Dolls.jpg" alt="Vivid Dolls [Aleck64] Title Screen" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
