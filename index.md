@@ -329,7 +329,7 @@ Kuru Kuru Fever (Aleck64)
 
 ## X
 - [Xena Warrior Princess – The Talisman of Fate](x/xena-warrior-princess)
-- [Xeno Crisis](x/xeno-crisis)
+- [Xeno Crisis](x/xeno-crisis-64)
 
 ## Y
 - [Yakouchuu II – Satsujin Kouru](y/yakouchuu-ii-satsujin-kouru)
@@ -338,7 +338,7 @@ Kuru Kuru Fever (Aleck64)
 - [Yuke Yuke!! Trouble Makers](y/yuke-yuke-trouble-makers)
 
 ## Z
-- [Zelda no Densetsu – Mujura no Kamen](z/zelda-no-densetsu-mujura-no-kamen
+- [Zelda no Densetsu – Mujura no Kamen](z/zelda-no-densetsu-mujura-no-kamen)
 - [Zelda no Densetsu – Toki no Ocarina](z/zelda-no-densetsu-toki-no-ocarina)
-- [Zelda no Densetsu – Toki no Ocarina Ura](z/zelda-no-densetsu-toki-no-ocarina-ura
-- [Zool – Majou Tsukai Densetsu](z/zool-majou-tsukai-densetsu
+- [Zelda no Densetsu – Toki no Ocarina Ura](z/zelda-no-densetsu-toki-no-ocarina-ura)
+- [Zool – Majou Tsukai Densetsu](z/zool-majou-tsukai-densetsu)
