@@ -12,7 +12,7 @@ nav_order: 1
 
 Welcome to the  N64Gamespedia Github version of the Online GDX (Game Database eXtra).
 
-Explore classic N64 titles using the sidebar or the . 🎮
+Explore classic N64 titles using the sidebar or the [N64Gamespedia Index](index#n64gamespedia-index) below. 🎮
 
 <br>
 
