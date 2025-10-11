@@ -48,4 +48,4 @@ Explore all N64 titles starting with the letter A, from *A Bug’s Life* to *Aut
 
 | <a href="a/automobili-lamborghini"><img src="https://images.launchbox-app.com//f81e4bcc-75f2-411b-81e4-a4c433873e8e.jpg" width="320" height="240" alt="Automobili Lamborghini"/></a> |
 |---|---|
-| [Automobili Lamborghini / Super Speed Race 64](a/automobili-lamborghini) |
+| [Automobili Lamborghini](a/automobili-lamborghini) |
