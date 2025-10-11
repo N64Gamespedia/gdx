@@ -8,7 +8,7 @@ toc: false
 
 # A Bug’s Life
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Bug's-Life,-A-(USA).png" alt="A Bug's Life" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/N64Gamespedia/gdx/refs/heads/main/media/usa/Bug's-Life,-A-(USA).png" alt="A Bug's Life" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Developer:** [Traveller's Tales](https://en.wikipedia.org/wiki/Traveller%27s_Tales){:target="_blank" rel="noopener noreferrer"}  

@@ -8,7 +8,7 @@ toc: false
 
 # Aero Fighters Assault / Sonic Wings Assault
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/AeroFighters-Assault-(USA).png" alt="Aero Fighters Assault" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/N64Gamespedia/gdx/refs/heads/main/media/usa/AeroFighters-Assault-(USA).png" alt="Aero Fighters Assault" style="object-fit:cover;width:320px;height:224px"/>
 <img src="https://images.launchbox-app.com/2da58ddb-1b50-4121-a286-206b4349537d.png" alt="Sonic Wings Assault" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 

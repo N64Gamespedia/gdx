@@ -9,7 +9,7 @@ toc: false
 # Asteroids Hyper 64
 
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Asteroids-Hyper-64-(USA).png" alt="Asteroids Hyper 64 Box Art (USA)" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/N64Gamespedia/gdx/refs/heads/main/media/usa/Asteroids-Hyper-64-(USA).png" alt="Asteroids Hyper 64 Box Art (USA)" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  

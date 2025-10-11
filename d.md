@@ -54,7 +54,7 @@ Explore all N64 titles starting with the letter D, from *Daffy Duck Starring Daf
 |---|---|
 | [Doraemon 3 – Nobita no Machi SOS!](d/doraemon-3-nobita-no-machi-sos) | [Doubutsu Banchou (Prototype)](d/doubutsu-banchou) |
 
-| <a href="d/dobutsu-no-mori"><img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/jp/dobutsu-no-mori.png" width="320" height="240" alt="Doubutsu no Mori"/></a> | <a href="d/dr-mario-64"><img src="https://images.launchbox-app.com//53eebbb8-bcab-4e48-ac70-2de2f330b290.jpg" width="320" height="240" alt="Dr. Mario 64"/></a> |
+| <a href="d/dobutsu-no-mori"><img src="https://raw.githubusercontent.com/N64Gamespedia/gdx/refs/heads/main/media/jp/dobutsu-no-mori.png" width="320" height="240" alt="Doubutsu no Mori"/></a> | <a href="d/dr-mario-64"><img src="https://images.launchbox-app.com//53eebbb8-bcab-4e48-ac70-2de2f330b290.jpg" width="320" height="240" alt="Dr. Mario 64"/></a> |
 |---|---|
 | [Doubutsu no Mori](d/dobutsu-no-mori) | [Dr. Mario 64](d/dr-mario-64) |
 

@@ -8,7 +8,7 @@ toc: false
 
 # Air Boarder 64
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/eur/Air-Boarder-64-(Europe).png" alt="Air Boarder 64 Box Art" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/N64Gamespedia/gdx/refs/heads/main/media/eur/Air-Boarder-64-(Europe).png" alt="Air Boarder 64 Box Art" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  

@@ -9,7 +9,7 @@ toc: false
 # Army Men: Air Combat
 
 <b>
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/Army-Men--Air-Combat-(USA).png" alt="Army Men: Air Combat Box Art (USA)" style="object-fit:cover;width:320px;height:224px"/>
+<img src="https://raw.githubusercontent.com/N64Gamespedia/gdx/refs/heads/main/media/usa/Army-Men--Air-Combat-(USA).png" alt="Army Men: Air Combat Box Art (USA)" style="object-fit:cover;width:320px;height:224px"/>
 </b>
 
 **Platform:** Nintendo 64  

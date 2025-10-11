@@ -8,7 +8,7 @@ toc: false
 
 # All-Star Baseball '99  
 <b>  
-<img src="https://raw.githubusercontent.com/TheGent/n64gamespedia/main/media/usa/All-Star-Baseball-'99-(USA).png" alt="" style="object-fit:cover;width:320px;height:224px"/>  
+<img src="https://raw.githubusercontent.com/N64Gamespedia/gdx/refs/heads/main/media/usa/All-Star-Baseball-'99-(USA).png" alt="" style="object-fit:cover;width:320px;height:224px"/>  
 </b>
 
 **Developer:** [Iguana Entertainment](https://en.wikipedia.org/wiki/Iguana_Entertainment){:target="_blank" rel="noopener noreferrer"}  
