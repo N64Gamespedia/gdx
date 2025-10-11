@@ -318,7 +318,7 @@ Kuru Kuru Fever (Aleck64)
 - [Violence Killer – Turok New Generation](v/violence-killer-turok-new-generation)
 - [Virtual Chess 64](v/virtual-chess-64)
 - [Virtual Pool 64](v/virtual-pool-64)
-- [Virtual Pro Wrestling 64](v/virtual-pro-wrestling-64
+- [Virtual Pro Wrestling 64](v/virtual-pro-wrestling-64)
 - [Virtual Pro Wrestling 2 – Oudou Keishou](v/virtual-pro-wrestling-2-oudou-keishou)
 - [V-Rally Edition 99](v/v-rally-edition-99)
 - [Vivid Dolls [Aleck64]](v/vivid-dolls)
