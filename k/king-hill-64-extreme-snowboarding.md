@@ -9,8 +9,8 @@ toc: false
 # King Hill 64 / Twisted Edge – Extreme Snowboarding
 
 <b>
-<img src="https://images.launchbox-app.com/a203ff72-ef82-4364-ab0a-9c34c187f7ac.jpg" alt="King Hill 64 / Twisted Edge – Extreme Snowboarding (USA)" width="320" height="240" />
-<img src="https://images.launchbox-app.com/e68d0e7f-3ebf-4229-bed6-c554047e102a.jpg" alt="Twisted Edge Snowboarding (JP)" width="320" height="240" />
+<img src="https://images.launchbox-app.com/a203ff72-ef82-4364-ab0a-9c34c187f7ac.jpg" alt="King Hill 64 (JPN)" width="320" height="240" />
+<img src="https://images.launchbox-app.com/e68d0e7f-3ebf-4229-bed6-c554047e102a.jpg" alt="Twisted Edge Snowboarding (USA)" width="320" height="240" />
 <img src="https://images.launchbox-app.com/56616f46-d22b-4356-9d0a-a28db7e9d849.png" alt="Twisted Edge Snowboarding (EUR)" width="320" height="240" />
 </b>
 
