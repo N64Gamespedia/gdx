@@ -12,7 +12,7 @@ Explore all N64 titles starting with the letter J, from *J.League Dynamite Socce
 
 | <a href="j/jleague-dynamite-soccer-64"><img src="https://images.launchbox-app.com/695c7639-d413-48e1-a474-cf8633c16970.png" width="320" height="240" alt=""/></a> | <a href="j/jleague-eleven-beat-1997"><img src="https://images.launchbox-app.com/0c7f0b1e-a751-43d3-98c0-a104fd38a3c5.png" width="320" height="240" alt=""/></a> |
 |---|---|
-[J.League Dynamite Soccer 64](j/jleague-dynamite-soccer-64) | [J.League Eleven Beat 1997](j/)jleague-eleven-beat-1997
+[J.League Dynamite Soccer 64](j/jleague-dynamite-soccer-64) | [J.League Eleven Beat 1997](j/jleague-eleven-beat-1997)
 
 | <a href="j/jleague-live-64"><img src="https://images.launchbox-app.com//84a24934-7e1a-40a0-b8e2-78524e80d081.png" width="320" height="240" alt=""/></a> | <a href="j/jleague-tactics-soccer"><img src="https://images.launchbox-app.com/b177ac06-d7d8-49f5-991c-d30d9e34fa36.png" width="320" height="240" alt=""/></a> |
 |---|---|
