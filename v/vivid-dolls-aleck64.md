@@ -9,7 +9,7 @@ toc: false
 # Vivid Dolls [Aleck64]
 
 <b>
-<img src="http://micro-64.com/database/aleck64/vividdolls1.png" alt="Vivid Dolls [Aleck64] Title Screen" width="320" height="240" />
+<img src="https://www.video-games-museum.com/en/screenshots/Mame/1/64112-title-Vivid-Dolls.jpg" alt="Vivid Dolls [Aleck64] Title Screen" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
