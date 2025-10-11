@@ -234,40 +234,40 @@ Explore classic N64 titles using the sidebar or the [N64Gamespedia Index](index#
 
 ## J
 
-J.League Dynamite Soccer 64
-J.League Eleven Beat 1997
-J.League Live 64
-J.League Tactics Soccer
-Jangou Simulation Mahjong Dou 64
-Jeopardy!
-Jeremy McGrath Supercross 2000
-Jet Force Gemini
-Jikkyou G1 Stable
-Jikkyou J.League 1999 – Perfect Striker 2
-Jikkyou J.League Perfect Striker
-Jikkyou Powerful Pro Yakyuu – Basic Ban 2001
-Jikkyou Powerful Pro Yakyuu 2000
-Jikkyou Powerful Pro Yakyuu 4
-Jikkyou Powerful Pro Yakyuu 5
-Jikkyou Powerful Pro Yakyuu 6
-Jikkyou World Soccer – World Cup France ’98
-Jikkyou World Soccer 3
-Jikuu Senshi Turok
-Jinsei Game 64
-John Romero’s Daikatana
+- [J.League Dynamite Soccer 64](j/jleague-dynamite-soccer-64)
+- [J.League Eleven Beat 1997](j/jleague-eleven-beat-1997)
+- [J.League Live 64](j/jleague-live-64)
+- [J.League Tactics Soccer](j/jleague-tactics-soccer)
+- [Jangou Simulation Mahjong Dou 64](j/jangou-simulation-mahjong-dou-64)
+- [Jeopardy!](j/jeopardy)
+- [Jeremy McGrath Supercross 2000](j/jeremy-mcgrath-supercross-2000)
+- [Jet Force Gemini](j/jet-force-gemini)
+- [Jikkyou G1 Stable](j/jikkyou-g1-stable)
+- [Jikkyou J.League 1999 – Perfect Striker 2](j/jikkyou-jleague-1999)
+- [Jikkyou J.League Perfect Striker](j/jikkyou-j-league-perfect-striker)
+- [Jikkyou Powerful Pro Yakyuu – Basic Ban 2001](j/jikkyou-powerful-pro-yakyuu-basic-hen-2001)
+- [Jikkyou Powerful Pro Yakyuu 2000](j/jikkyou-powerful-pro-yakyuu-2000)
+- [Jikkyou Powerful Pro Yakyuu 4](j/jikkyou-powerful-pro-yakyuu-4)
+- [Jikkyou Powerful Pro Yakyuu 5](j/jikkyou-powerful-pro-yakyuu-5)
+- [Jikkyou Powerful Pro Yakyuu 6](j/jikkyou-powerful-pro-yakyuu-6)
+- [Jikkyou World Soccer – World Cup France ’98](j/jikky-world-cup-98)
+- [Jikkyou World Soccer 3](j/jikkyou-world-soccer-3)
+- [Jikuu Senshi Turok](j/jikuu-senshi-turok)
+- [Jinsei Game 64](j/jinsei-game-64)
+- [John Romero’s Daikatana](j/john-romeros-daikatana)
 
 ## K
 
-Kakutou Denshou – F-Cup Maniax
-Ken Griffey Jr.’s Slugfest
-Killer Instinct Gold
-King Hill 64 – Extreme Snowboarding
-Kiratto Kaiketsu! 64 Tanteidan
-Kirby 64 – The Crystal Shards
-Knife Edge – Nose Gunner
-Knockout Kings 2000
-Kobe Bryant in NBA Courtside
-Kuru Kuru Fever (Aleck64)
+- [Kakutou Denshou – F-Cup Maniax](k/kakutou-denshou-f-cup-maniax)
+- [Ken Griffey Jr.’s Slugfest](k/ken-griffey-jrs-slugfest)
+- [Killer Instinct Gold](k/killer-instinct-gold)
+- [King Hill 64 – Extreme Snowboarding](k/king-hill-64-extreme-snowboarding)
+- [Kiratto Kaiketsu! 64 Tanteidan](k/kiratto-kaiketsu-64-tanteidan)
+- [Kirby 64 – The Crystal Shards](k/kirby-64-the-crystal-shards)
+- [Knife Edge – Nose Gunner](k/knife-edge-nose-gunner)
+- [Knockout Kings 2000](k/knockout-kings-2000)
+- [Kobe Bryant in NBA Courtside](k/kobe-bryant-in-nba-courtside)
+- [Kuru Kuru Fever (Aleck64)](k/kuru-kuru-fever-aleck64)
 
 ## L
 
