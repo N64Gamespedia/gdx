@@ -9,7 +9,7 @@ toc: false
 # Tommy Thunder
 
 <b>
-<img src="https://www.project64-legacy.com/data/uploads/RDX/Tommy_Thunder_Proto.png" alt="Tommy Thunder (NTSC Prototype Box Art)" width="320" height="240" />
+<img src="https://images.launchbox-app.com//7d914e29-63f2-4e1b-86bc-077d9579f380.png" alt="Tommy Thunder (NTSC Prototype Box Art)" width="320" height="240" />
 </b>
 
 **Platform:** Nintendo 64  
