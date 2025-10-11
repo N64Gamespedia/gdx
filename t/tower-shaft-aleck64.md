@@ -17,7 +17,7 @@ toc: false
 **Publisher:** [Aruze](https://en.wikipedia.org/wiki/Universal_Entertainment){:target="_blank" rel="noopener noreferrer"}  
 **Release Date (NTSC-JPN):** 2003  
 (*Aleck64 Arcade Platform*)  
-[**Language Patch Available:**](#translations-available)<br>  
+[**Language Patch Available:**](#translations-available)  
 🇺🇸 [English](#english-translation)  
 **Genre:** Puzzle  
 **Players:** 1  
