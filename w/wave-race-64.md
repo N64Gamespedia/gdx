@@ -26,8 +26,8 @@ toc: false
 [**Nintendo Gateway System:**](#gateway-system) 1993  
 (1-player only)  
 [**Language Patch Available:**](#translations-available)  
-🇺🇸 [English](#language-english) / 🇧🇷 [Portuguese](#language-portuguese)<br>  
-[**Texture Pack Available:**](#texture-packs-available)<br>  
+🇺🇸 [English](#language-english) / 🇧🇷 [Portuguese](#language-portuguese)  
+[**Texture Pack Available:**](#texture-packs-available)  
 [GlideN64 Format](#gliden64-format)  
 **Genre:** Racing  
 **Players:** 1–2  
