@@ -30,9 +30,9 @@ Explore all N64 titles starting with the letter G, from *G.A.S.P!! Fighters’ N
 |---|---|
 | [Gex 64 – Enter the Gecko](g/gex-64-enter-the-gecko) | [Glover](g/glover) |
 
-| <a href="g/glover-2-prototype"><img src="https://images.launchbox-app.com/4cb56eb5-9711-4bdf-8d11-ff39724060c5.png" width="320" height="240" alt=""/></a> | <a href="g/goemons-great-adventure-mystical-ninja-2"><img src="https://images.launchbox-app.com/6c62e38a-5381-4c95-a88d-11e534141769.jpg" width="320" height="240" alt=""/></a> |
+| <a href="g/glover-2-prototype"><img src="https://images.launchbox-app.com/4cb56eb5-9711-4bdf-8d11-ff39724060c5.png" width="320" height="240" alt=""/></a> | <a href="g/goemons-great-adventure"><img src="https://images.launchbox-app.com/6c62e38a-5381-4c95-a88d-11e534141769.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
-| [Glover 2 (Prototype)](g/glover-2-prototype) | [Goemon’s Great Adventure](g/goemons-great-adventure-mystical-ninja-2) |
+| [Glover 2 (Prototype)](g/glover-2-prototype) | [Goemon’s Great Adventure](g/goemons-great-adventure) |
 
 | <a href="g/goldeneye-007"><img src="https://images.launchbox-app.com/ea2a1d09-0720-4711-b8eb-2a12b69ab5d6.jpg" width="320" height="240" alt=""/></a> | <a href="g/golden-nugget-64"><img src="https://images.launchbox-app.com/fd44cd4d-fac0-45b9-a36f-dcf0e2279755.jpg" width="320" height="240" alt=""/></a> |
 |---|---|

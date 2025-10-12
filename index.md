@@ -191,7 +191,7 @@ Explore classic N64 titles using the sidebar or the [N64Gamespedia Index](index#
 - [Gex 64 – Enter the Gecko](g/gex-64-enter-the-gecko)
 - [Glover](g/glover)
 - [Glover 2 (Prototype)](g/glover-2-prototype)
-- [Goemon’s Great Adventure](g/goemons-great-adventure-mystical-ninja-2)
+- [Goemon’s Great Adventure](g/goemons-great-adventure)
 - [GoldenEye 007](g/goldeneye-007)
 - [Golden Nugget 64](g/golden-nugget-64)
 - [GT 64 – Championship Edition](g/gt-64-championship-edition)
