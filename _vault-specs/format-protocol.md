@@ -121,7 +121,7 @@ This keeps the formatting tight and consistent.
 ```
 <!--  Extra Language Patch Section if present -->
 ```markdown
-[**Language Patch Available:**](#translations-available)<br>
+[**Language Patch Available:**](#translations-available)  
 🇺🇸 [English](#english-translation)  
 ```
 <!--  If there are more than one Language then we do like this: -->
