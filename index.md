@@ -301,7 +301,7 @@ Explore classic N64 titles using the sidebar or the [N64Gamespedia Index](index#
 - [Mario Party 2](m/mario-party-2)
 - [Mario Party 3](m/mario-party-3)
 - [Mario Story](m/mario-story)
-- [Mario Tennis](m/mario-tennis-mario-tennis-64)
+- [Mario Tennis](m/mario-tennis)
 - [Mario no Photopie](m/mario-no-photopie)
 - [Mayjinsen 3 [Aleck64]](m/mayjinsen-3)
 - [Megaman 64](m/megaman-64)
