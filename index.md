@@ -544,8 +544,8 @@ Explore classic N64 titles using the sidebar or the [N64Gamespedia Index](index#
 - [Vivid Dolls [Aleck64]](v/vivid-dolls)
 
 ## W
-- [Wild Choppers](wild-choppers)
-- [WinBack - Covert Operations](winback-covert-operations)
+- [Wild Choppers](w/wild-choppers)
+- [WinBack - Covert Operations](w/winback-covert-operations)
 
 ## X
 - [Xena Warrior Princess – The Talisman of Fate](x/xena-warrior-princess)
