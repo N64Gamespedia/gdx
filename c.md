@@ -38,9 +38,9 @@ Explore all N64 titles starting with the letter C, from *California Speed* to *C
 |---|---|
 | [Chou Kuukan Night Pro Yakyuu King](c/chou-kuukan-night-pro-yakyuu-king) | [Chou Kuukan Night Pro Yakyuu King 2](c/chou-kuukan-night-pro-yakyuu-king-2) |
 
-| <a href="c/chou-snowbo-kids-snowboard-kids-2"><img src="https://images.launchbox-app.com/cdc46509-679b-422f-9651-1adb8f7c3c6a.jpg" width="320" height="240" alt="Chou Snowbo Kids (Snowboard Kids 2)"/></a> | <a href="c/city-tour-grandprix-gt-64-championship-edition"><img src="https://images.launchbox-app.com/9bfadfdb-5f16-4d1b-99e4-cc663efafdb7.png" width="320" height="240" alt="City Tour GrandPrix (GT 64 Championship Edition)"/></a> |
+| <a href="c/chou-snowbo-kids"><img src="https://images.launchbox-app.com/cdc46509-679b-422f-9651-1adb8f7c3c6a.jpg" width="320" height="240" alt="Chou Snowbo Kids (Snowboard Kids 2)"/></a> | <a href="c/city-tour-grandprix"><img src="https://images.launchbox-app.com/9bfadfdb-5f16-4d1b-99e4-cc663efafdb7.png" width="320" height="240" alt="City Tour GrandPrix (GT 64 Championship Edition)"/></a> |
 |---|---|
-| [Chou Snowbo Kids (Snowboard Kids 2)](c/chou-snowbo-kids-snowboard-kids-2) | [City Tour GrandPrix (GT 64 Championship Edition)](c/city-tour-grandprix-gt-64-championship-edition) |
+| [Chou Snowbo Kids](c/chou-snowbo-kids) | [City Tour GrandPrix](c/city-tour-grandprix) |
 
 | <a href="c/clayfighter-63-1-quarter"><img src="https://images.launchbox-app.com/a5c1b9e0-743c-4978-af49-987f38595ea9.jpg" width="320" height="240" alt="ClayFighter 63 1/4"/></a> | <a href="c/command-and-conquer"><img src="https://images.launchbox-app.com/d0a9ad67-5705-4b34-bbc8-a9cb7b2f7ac5.jpg" width="320" height="240" alt="Command & Conquer"/></a> |
 |---|---|
