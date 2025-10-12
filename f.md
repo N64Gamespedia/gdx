@@ -30,9 +30,9 @@ Explore all N64 titles starting with the letter F, from *F1 Pole Position 64* to
 |---|---|
 | [Famista 64](f/famista-64) | [Fighters Destiny / Fighting Cup](f/fighters-destiny-fighting-cup) |
 
-| <a href="f/fighter-destiny-2-kakutou-denshou-f-cup-maniax"><img src="https://images.launchbox-app.com/8309a488-01eb-4a8e-8376-65c0563f28e5.jpg" width="320" height="240" alt="Fighter Destiny 2"/></a> | <a href="f/fighting-force-64"><img src="https://images.launchbox-app.com/f5d24a7d-612b-485e-8c94-9cc0f83e12fa.png" width="320" height="240" alt="Fighting Force 64"/></a> |
+| <a href="f/fighter-destiny-2"><img src="https://images.launchbox-app.com/8309a488-01eb-4a8e-8376-65c0563f28e5.jpg" width="320" height="240" alt="Fighter Destiny 2"/></a> | <a href="f/fighting-force-64"><img src="https://images.launchbox-app.com/f5d24a7d-612b-485e-8c94-9cc0f83e12fa.png" width="320" height="240" alt="Fighting Force 64"/></a> |
 |---|---|
-| [Fighter Destiny 2](f/fighter-destiny-2-kakutou-denshou-f-cup-maniax) | [Fighting Force 64](f/fighting-force-64) |
+| [Fighter Destiny 2](f/fighter-destiny-2) | [Fighting Force 64](f/fighting-force-64) |
 
 | <a href="f/flying-dragon"><img src="https://images.launchbox-app.com/30249b73-4bf5-44fe-aba0-5c7abc9246ab.jpg" width="320" height="240" alt="Flying Dragon"/></a> | <a href="f/forsaken-64-forsaken"><img src="https://images.launchbox-app.com/23b97de3-4507-4e09-b741-288f7dc73bb1.jpg" width="320" height="240" alt="Forsaken 64 / Forsaken"/></a> |
 |---|---|

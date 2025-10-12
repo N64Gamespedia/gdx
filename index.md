@@ -169,7 +169,7 @@ Explore classic N64 titles using the sidebar or the [N64Gamespedia Index](index#
 - [FIFA Soccer 64 / FIFA 64](f/fifa-soccer-64-fifa-64)
 - [Famista 64](f/famista-64)
 - [Fighters Destiny / Fighting Cup](f/fighters-destiny-fighting-cup)
-- [Fighter Destiny 2](f/fighter-destiny-2-kakutou-denshou-f-cup-maniax)
+- [Fighter Destiny 2](f/fighter-destiny-2)
 - [Fighting Force 64](f/fighting-force-64)
 - [Flying Dragon](f/flying-dragon-hiry-no-ken-twin)
 - [Forsaken 64 / Forsaken](f/forsaken-64-forsaken)
