@@ -70,7 +70,7 @@ Explore classic N64 titles using the sidebar or the [N64Gamespedia Index](index#
 - [Beetle Adventure Racing](b/beetle-adventure-racing)
 - [Big Mountain 2000 / Snow Speeder](b/big-mountain-2000)
 - [Bio F.R.E.A.K.S.](b/bio-freaks)
-- [Biohazard 2](b/biohazard-2-resident-evil-2)
+- [Biohazard 2](b/biohazard-2)
 - [Blast Corps / Blast Dozer](b/blast-corps)
 - [Blues Brothers 2000](b/blues-brothers-2000)
 - [Body Harvest](b/body-harvest)

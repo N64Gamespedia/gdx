@@ -41,9 +41,9 @@ Explore all N64 titles starting with the letter B, from *Baku Bomberman* to *Bus
 |---|---|
 | [Beetle Adventure Racing](b/beetle-adventure-racing) | [Big Mountain 2000](b/big-mountain-2000) |
 
-| <a href="b/bio-freaks"><img src="https://images.launchbox-app.com//46efe7a4-1dcd-4554-88fc-eadae3eb4542.jpg" width="320" height="240" alt="Bio F.R.E.A.K.S."/></a> | <a href="b/biohazard-2-resident-evil-2"><img src="https://images.launchbox-app.com//d53cd74f-a252-4515-9441-bf677e45bcce.jpg" width="320" height="240" alt="Biohazard 2"/></a> |
+| <a href="b/bio-freaks"><img src="https://images.launchbox-app.com//46efe7a4-1dcd-4554-88fc-eadae3eb4542.jpg" width="320" height="240" alt="Bio F.R.E.A.K.S."/></a> | <a href="b/biohazard-2"><img src="https://images.launchbox-app.com//d53cd74f-a252-4515-9441-bf677e45bcce.jpg" width="320" height="240" alt="Biohazard 2"/></a> |
 |---|---|
-| [Bio F.R.E.A.K.S.](b/bio-freaks) | [Biohazard 2 / Resident Evil 2](b/biohazard-2-resident-evil-2) |
+| [Bio F.R.E.A.K.S.](b/bio-freaks) | [Biohazard 2 / Resident Evil 2](b/biohazard-2) |
 
 | <a href="b/blast-corps"><img src="https://images.launchbox-app.com//48eee44b-6bae-4db1-a1e5-2f42fff8a884.jpg" width="320" height="240" alt="Blast Corps"/></a> | <a href="b/blues-brothers-2000"><img src="https://images.launchbox-app.com//23b26c5c-35b5-40e7-953c-9e44e2549d43.jpg" width="320" height="240" alt="Blues Brothers 2000"/></a> |
 |---|---|
