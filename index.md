@@ -116,7 +116,7 @@ Explore classic N64 titles using the sidebar or the [N64Gamespedia Index](index#
 
 - [Daffy Duck Starring Daffy Duck](d/daffy-duck-duck-dodgers-starring-daffy-duck)
 - [Dance Dance Revolution: Disney Dancing Museum](d/dance-dance-revolution-disney-dancing-museum)
-- [Dark Rift / Space Dynamites](d/dark-rift)
+- [Dark Rift](d/dark-rift)
 - [Deadly Arts](d/deadly-arts)
 - [Defi au Tetris Magique](d/defi-au-tetris-magique)
 - [Densha de Go! 64](d/densha-de-go-64)
@@ -159,7 +159,7 @@ Explore classic N64 titles using the sidebar or the [N64Gamespedia Index](index#
 
 ## F
 
-- [F1 Pole Position 64](f/f1-pole-position-64-human-grand-prix-the-new-generation)
+- [F1 Pole Position 64](f/f1-pole-position)
 - [F-1 World Grand Prix](f/f-1-world-grand-prix)
 - [F-1 World Grand Prix II](f/f-1-world-grand-prix-2)
 - [F-Zero X](f/f-zero-x)

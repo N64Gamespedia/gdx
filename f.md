@@ -12,7 +12,7 @@ Explore all N64 titles starting with the letter F, from *F1 Pole Position 64* to
 
 | <a href="f/f1-pole-position-64-human-grand-prix-the-new-generation"><img src="https://images.launchbox-app.com/12caa115-35d5-422b-87cf-722be816fe62.png" width="320" height="240" alt="F1 Pole Position 64"/></a> | <a href="f/f-1-world-grand-prix"><img src="https://images.launchbox-app.com/a3448bef-fcc3-4d84-9873-3e3e81de3036.png" width="320" height="240" alt="F-1 World Grand Prix"/></a> |
 |---|---|
-| [F1 Pole Position 64](f/f1-pole-position-64-human-grand-prix-the-new-generation) | [F-1 World Grand Prix](f/f-1-world-grand-prix) |
+| [F1 Pole Position 64](f/f1-pole-position-64) | [F-1 World Grand Prix](f/f-1-world-grand-prix) |
 
 | <a href="f/f-1-world-grand-prix-2"><img src="https://images.launchbox-app.com/57b78a41-2b3f-45cb-a2a3-bda83aebcd37.jpg" width="320" height="240" alt="F-1 World Grand Prix II"/></a> | <a href="f/f-zero-x"><img src="https://images.launchbox-app.com/7210140e-e8d6-49c9-b6a9-350ec6bbd816.jpg" width="320" height="240" alt="F-Zero X"/></a> |
 |---|---|
