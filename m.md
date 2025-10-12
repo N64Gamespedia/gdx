@@ -42,9 +42,9 @@ Explore all N64 titles starting with the letter M, from *Mace – The Dark Age* 
 |---|---|
 [Mario Party 2](m/mario-party-2) | [Mario Party 3](m/mario-party-3) |
 
-| <a href="m/mario-story"><img src="https://images.launchbox-app.com//eb7eb36a-2a90-4100-aa6b-1c9736e38ae6.png" width="320" height="240" alt=""/></a> | <a href="m/mario-tennis-mario-tennis-64"><img src="https://images.launchbox-app.com//2862b94b-b334-4a42-9a2b-1b9676475c4a.jpg" width="320" height="240" alt=""/></a> |
+| <a href="m/mario-story"><img src="https://images.launchbox-app.com//eb7eb36a-2a90-4100-aa6b-1c9736e38ae6.png" width="320" height="240" alt=""/></a> | <a href="m/mario-tennis"><img src="https://images.launchbox-app.com//2862b94b-b334-4a42-9a2b-1b9676475c4a.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
-[Mario Story](m/mario-story) | [Mario Tennis](m/mario-tennis-mario-tennis-64) |
+[Mario Story](m/mario-story) | [Mario Tennis](m/mario-tennis) |
 
 | <a href="m/mario-no-photopie"><img src="https://images.launchbox-app.com//f8239728-8af4-4b1c-bae0-1aa22bed6b69.png" width="320" height="240" alt=""/></a> | <a href="m/mayjinsen-3"><img src="https://images.launchbox-app.com//ef5d9a14-0221-4c7e-b8a4-b1aba74d8bf5.jpg" width="320" height="240" alt=""/></a> |
 |---|---|
