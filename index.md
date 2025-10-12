@@ -117,7 +117,7 @@ Explore classic N64 titles using the sidebar or the [N64Gamespedia Index](index#
 - [Daffy Duck Starring Daffy Duck](d/daffy-duck-duck-dodgers-starring-daffy-duck)
 - [Dance Dance Revolution: Disney Dancing Museum](d/dance-dance-revolution-disney-dancing-museum)
 - [Dark Rift / Space Dynamites](d/dark-rift)
-- [Deadly Arts](d/deadly-arts-gasp-fighters-nextream)
+- [Deadly Arts](d/deadly-arts)
 - [Defi au Tetris Magique](d/defi-au-tetris-magique)
 - [Densha de Go! 64](d/densha-de-go-64)
 - [Derby Stallion 64](d/derby-stallion-64)

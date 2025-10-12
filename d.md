@@ -14,9 +14,9 @@ Explore all N64 titles starting with the letter D, from *Daffy Duck Starring Daf
 |---|---|
 | [Daffy Duck Starring Daffy Duck](d/daffy-duck-duck-dodgers-starring-daffy-duck) | [Dance Dance Revolution: Disney Dancing Museum](d/dance-dance-revolution-disney-dancing-museum) |
 
-| <a href="d/dark-rift"><img src="https://images.launchbox-app.com/95e032cf-c728-4018-8ba6-0ef7aa8bb896.jpg" width="320" height="240" alt="Dark Rift / Space Dynamites"/></a> | <a href="d/deadly-arts-gasp-fighters-nextream"><img src="https://images.launchbox-app.com//df7fd704-df80-4e5d-940a-2ffbae4fe59d.jpg" width="320" height="240" alt="Deadly Arts"/></a> |
+| <a href="d/dark-rift"><img src="https://images.launchbox-app.com/95e032cf-c728-4018-8ba6-0ef7aa8bb896.jpg" width="320" height="240" alt="Dark Rift / Space Dynamites"/></a> | <a href="d/deadly-arts"><img src="https://images.launchbox-app.com//df7fd704-df80-4e5d-940a-2ffbae4fe59d.jpg" width="320" height="240" alt="Deadly Arts"/></a> |
 |---|---|
-| [Dark Rift / Space Dynamites](d/dark-rift) | [Deadly Arts](d/deadly-arts-gasp-fighters-nextream) |
+| [Dark Rift / Space Dynamites](d/dark-rift) | [Deadly Arts](d/deadly-arts) |
 
 | <a href="d/defi-au-tetris-magique"><img src="https://www.n64gamespedia.com/wp-content/uploads/2025/04/e3bead57-edf0-4331-9f03-0d637f3ea0131.png" width="320" height="240" alt="Defi au Tetris Magique"/></a> | <a href="d/densha-de-go-64"><img src="https://images.launchbox-app.com/bd1c2dbf-fff6-4fc9-979e-4f7ea886e3f0.jpg" width="320" height="240" alt="Densha de Go! 64"/></a> |
 |---|---|
